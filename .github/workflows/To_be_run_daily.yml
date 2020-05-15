@@ -27,7 +27,7 @@ jobs:
         access_token_secret: ${{ secrets.access_token_secret }}
     - name: Donwloading libraries
       run: |
-          apt install build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev
+          sudo apt install build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev
     - name: Install dependencies
       run: | 
           Rscript -e 'install.packages(c("curl","httr","rtweet"))'
