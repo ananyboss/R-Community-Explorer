@@ -22,9 +22,7 @@ jobs:
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@v1
       with:
-        r-version: '3.6.3' # The R version to download (if necessary) and use.
-
-    # Runs a single command using the runners shell
+        r-version: '3.6.3' 
     - name: Run the script
       with:
         access_token: ${{ secrets.access_token }}
