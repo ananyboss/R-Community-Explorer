@@ -27,7 +27,7 @@ jobs:
         access_token_secret: ${{ secrets.access_token_secret }}
     - name: Install dependencies
       run: | 
-        Rscript -e 'install.packages(c("httr","rtweet"))' -e 'remotes::install_deps(dependencies = TRUE)'
+        Rscript -e 'install.packages(c("curl","httr","rtweet"))'
     - name: Run the script
       run: |
         Rscript To_be_run_daily.R $access_token $access_token_secret
