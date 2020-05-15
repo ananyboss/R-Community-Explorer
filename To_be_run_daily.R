@@ -1,4 +1,3 @@
-install.packages("rtweet")
 library(rtweet)
 args = commandArgs(trailingOnly=TRUE)
 
