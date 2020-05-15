@@ -29,9 +29,9 @@ jobs:
     - name: Donwloading libraries
       run: |
           sudo apt install build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev
-    - name: Install dependencies
-      run: | 
-          Rscript -e 'install.packages(c("curl","httr","rtweet"))'
+#     - name: Install dependencies
+#       run: | 
+#           Rscript -e 'install.packages(c("curl","httr","rtweet"))'
     - name: Run the script
       run: |
           Rscript To_be_run_daily.R ${{ secrets.access_token }} ${{ secrets.access_token_secret }}
@@ -42,7 +42,7 @@ jobs:
           git commit -m 'Added data for today'
           git push origin master
       uses: r-lib/actions/pr-push@master
-        with:
+      with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
   
 
