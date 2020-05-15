@@ -1,8 +1,8 @@
 library(rtweet)
 args = commandArgs(trailingOnly=TRUE)
 
-api_key <- "DKuqRXxAJ57CCqMCGwUTdm9Ct"
-api_secret_key <- "DYVz1VBbo2ZYcr6cw8664qVDY3dIzzxCdShP2E0TlZKopPEmEL"
+api_key <- "dkzw0ibNo2LxpsSPxdFiBZCMS"
+api_secret_key <- "YBwXoxL4lc57CeKGNXBVwSE57TQ3BvwoI8pszNcXeMfc061jsp"
 access_token <- args[1]
 access_token_secret <- args[2]
 
