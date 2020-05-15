@@ -24,8 +24,7 @@ jobs:
     - uses: r-lib/actions/setup-r@v1
       with:
         r-version: '3.6.3' 
-        access_token: ${{ secrets.access_token }}
-        access_token_secret: ${{ secrets.access_token_secret }}
+        
     - name: Donwloading libraries
       run: |
           sudo apt install build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev
@@ -35,8 +34,13 @@ jobs:
     - name: Run the script
       run: |
           Rscript To_be_run_daily.R ${{ secrets.access_token }} ${{ secrets.access_token_secret }}
+#       with: 
+#         access_token: ${{ secrets.access_token }}
+#         access_token_secret: ${{ secrets.access_token_secret }}
     - name: commit
       run: |
+          git config --global user.email "anany.7777777@gmail.com"
+          git config --global user.name "ananyboss"
           git pull origin master
           git add Tweet_data.csv
           git commit -m 'Added data for today'
