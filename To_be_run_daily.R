@@ -21,8 +21,10 @@ token <- create_token(
   access_secret = access_token_secret)
 
 
-
 data <- search_tweets(q="#rstats", since=Sys.Date()-1, until=Sys.Date(),retryonratelimit = TRUE,include_rts = FALSE)
 
-df<-data.frame(data$text,data$user_id,data$status_id,data$created_at,data$retweet_count)
-write.table(df, "Tweet_data.csv", sep = ",", col.names = !file.exists("Tweet_data.csv"), append = TRUE,row.names=FALSE)
+save_as_csv(data, "Temp_data.csv", prepend_ids = FALSE, na = "", fileEncoding = "UTF-8")
+df1<-read.csv("Temp_data.csv",head=T)
+df2<-read.csv("Tweet_data.csv",head=T)
+df<-rbind(df1,df2)
+write.csv(df,"Tweet_data.csv")
