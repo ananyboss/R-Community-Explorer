@@ -5,8 +5,10 @@ name: CI
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  schedule:
-    - cron: '0 0 * * *'
+#   schedule:
+#     - cron: '0 0 * * *'
+   push:
+     branches: master
    
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -34,7 +36,7 @@ jobs:
           git config --global user.email "anany.7777777@gmail.com"
           git config --global user.name "ananyboss"
           git pull origin master
-          git add Tweet_data.csv
+          git add *
           git commit -m 'Added data for today'
           git push origin master
 
