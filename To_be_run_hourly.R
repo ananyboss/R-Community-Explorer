@@ -22,6 +22,6 @@ token <- create_token(
 
 
 
-data <- search_tweets(q="#rstats", since=Sys.Date(), retryonratelimit = TRUE,include_rts = FALSE)
+data <- search_tweets(q="#rstats", since=Sys.Date(), retryonratelimit = TRUE,include_rts = TRUE)
 
 save_as_csv(data, "data_for_today.csv", prepend_ids = FALSE, na = "", fileEncoding = "UTF-8")
