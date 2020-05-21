@@ -1,4 +1,4 @@
-data <- read.csv(paste(toString(format(Sys.Date()-1, "%Y")),"/",toString(format(Sys.Date()-1, "%b")),"/Tweet_data_",toString(format(Sys.Date()-1, "%d")),".csv",sep=""))
+data <- read.csv(paste(toString(format(Sys.Date()-1, "%Y")),"/",toString(format(Sys.Date()-1, "%b")),"/",toString(format(Sys.Date()-1, "%Y")),"-",toString(format(Sys.Date()-1, "%b")),"-",toString(format(Sys.Date()-1, "%d")),".csv",sep=""))
 arr<-data$is_retweet
 cnt_tweet <- 0
 cnt_re <- 0
