@@ -20,7 +20,10 @@ token <- create_token(
   access_token = access_token,
   access_secret = access_token_secret)
 
+
 data <- search_tweets(q="#rstats", since=Sys.Date()-1, until=Sys.Date(),retryonratelimit = TRUE,include_rts = TRUE)
+dir.create(file.path(getwd(),'dailies'))
+setwd(file.path(getwd(),'dailies')
 dir1<-toString(format(Sys.Date()-1, "%Y"))
 dir.create(file.path(getwd(),dir1))
 setwd(file.path(getwd(),dir1))
@@ -28,6 +31,6 @@ dir2<-toString(format(Sys.Date()-1, "%b"))
 dir.create(file.path(getwd(),dir2))
 setwd(file.path(getwd(),dir2))
 file_pref <- toString(format(Sys.Date()-1, "%d"))
-dirf<-paste("Tweet_data_",file_pref,".csv",sep="")
+dirf<-paste(toString(format(Sys.Date()-1, "%Y")),"-",toString(format(Sys.Date()-1, "%b")),"-",file_pref,".csv",sep="")
 save_as_csv(data, dirf, prepend_ids = FALSE, na = "", fileEncoding = "UTF-8")
-setwd("../../")
+setwd("../../../")
