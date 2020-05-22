@@ -23,7 +23,7 @@ token <- create_token(
 
 data <- search_tweets(q="#rstats", since=Sys.Date()-1, until=Sys.Date(),retryonratelimit = TRUE,include_rts = TRUE)
 dir.create(file.path(getwd(),'dailies'))
-setwd(file.path(getwd(),'dailies')
+setwd(file.path(getwd(),'dailies'))
 dir1<-toString(format(Sys.Date()-1, "%Y"))
 dir.create(file.path(getwd(),dir1))
 setwd(file.path(getwd(),dir1))
