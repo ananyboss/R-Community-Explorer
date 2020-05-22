@@ -33,4 +33,4 @@ setwd(file.path(getwd(),dir2))
 file_pref <- toString(format(Sys.Date()-1, "%d"))
 dirf<-paste(toString(format(Sys.Date()-1, "%Y")),"-",toString(format(Sys.Date()-1, "%b")),"-",file_pref,".csv",sep="")
 save_as_csv(data, dirf, prepend_ids = FALSE, na = "", fileEncoding = "UTF-8")
-setwd("../../../")
+
