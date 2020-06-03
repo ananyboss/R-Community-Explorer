@@ -30,7 +30,6 @@ jobs:
     - name: Run the script
       run: |
           Rscript To_be_run_hourly.R ${{ secrets.access_token }} ${{ secrets.access_token_secret }}
-          Rscript count_tweets_hourly.R
     - name: commit
       run: |
           git config --global user.email "anany.7777777@gmail.com"
