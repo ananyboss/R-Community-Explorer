@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4990,
+      "total_tweets_today": 4984,
       "average_tweets_per_hour": 208,
-      "tweeters_today": 1243,
-      "total_likes_today": 3255
+      "tweeters_today": 1229,
+      "total_likes_today": 3332
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 150
+      "Freq": 149
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 99
+      "Freq": 97
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 95
+      "Freq": 96
     },
     {
       "Var1": "RStats",
@@ -33,10 +33,6 @@
       "Freq": 70
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 65
-    },
-    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 65
     },
@@ -49,36 +45,36 @@
       "Freq": 64
     },
     {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT",
-      "Freq": 62
+      "Var1": "Azure AI BigData Analytics DataScience MachineLearning",
+      "Freq": 63
     },
     {
-      "Var1": "Azure AI BigData Analytics DataScience MachineLearning",
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT",
+      "Freq": 63
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 61
     },
     {
-      "Var1": "Books MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 59
-    },
-    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 58
+      "Freq": 59
     },
     {
       "Var1": "programmers serverless rstats reactjs datascience vuejs css",
       "Freq": 56
     },
     {
-      "Var1": "ComputerVision TensorFlow BigData Analytics DataScience IoT IIoT Python RStats Java",
-      "Freq": 55
+      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience IoT RStats",
+      "Freq": 53
     },
     {
       "Var1": "IPython Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 53
+      "Freq": 52
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience IoT RStats",
-      "Freq": 53
+      "Var1": "ComputerVision TensorFlow BigData Analytics DataScience IoT IIoT Python RStats Java",
+      "Freq": 50
     },
     {
       "Var1": "MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS Linux Programming coding",
@@ -86,17 +82,21 @@
     },
     {
       "Var1": "Rstats",
-      "Freq": 47
+      "Freq": 42
+    },
+    {
+      "Var1": "Books MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
+      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 242
+      "Freq": 240
     },
     {
       "Var1": "codedailybot",
-      "Freq": 212
+      "Freq": 217
     },
     {
       "Var1": "ddcombot",
@@ -104,19 +104,19 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 166
-    },
-    {
-      "Var1": "redianbot",
       "Freq": 163
     },
     {
+      "Var1": "redianbot",
+      "Freq": 161
+    },
+    {
       "Var1": "xaelbot",
-      "Freq": 162
+      "Freq": 161
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 161
+      "Freq": 160
     },
     {
       "Var1": "Taieb_Bot",
@@ -124,26 +124,26 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 117
+      "Freq": 115
     },
     {
       "Var1": "chidambara09",
-      "Freq": 95
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 72
+      "Freq": 100
     },
     {
       "Var1": "learn__together",
+      "Freq": 77
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 76
+    },
+    {
+      "Var1": "ServerlessFan",
       "Freq": 70
     },
     {
       "Var1": "femtech_",
-      "Freq": 64
-    },
-    {
-      "Var1": "ServerlessFan",
       "Freq": 64
     },
     {
@@ -155,22 +155,22 @@
       "Freq": 62
     },
     {
-      "Var1": "ProjectLearn_io",
-      "Freq": 52
+      "Var1": "rstats4ds",
+      "Freq": 55
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 51
+      "Freq": 54
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 49
+      "Var1": "ProjectLearn_io",
+      "Freq": 52
     },
     {
       "Var1": "hubofml",
       "Freq": 48
     }
   ],
-  "top10_tweets_like": ["VS Code Cheat Sheet (2020)\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\n\nhttps://t.co/v6u9aCiHnp", "21 Data Manipulation Task For Beginners In R  {https://t.co/LsS3Yc06wn} #rstats #DataScience", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT", "Papers Released on Generative Adversarial Network (GAN) Architectures. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/82cej7Yl0W https://t.co/TpebzLFMDH", "Essential Cheat Sheets for MachineLearning&amp;DeepLearning\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/tS478q1oQj", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "List of R functions and packages for Machine Learning &amp; Statistical Learning: https://t.co/TZjfgFYqJ6 #rstats"],
-  "top10_tweets_retweet": ["VS Code Cheat Sheet (2020)\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\n\nhttps://t.co/v6u9aCiHnp", "21 Data Manipulation Task For Beginners In R  {https://t.co/LsS3Yc06wn} #rstats #DataScience", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT", "Papers Released on Generative Adversarial Network (GAN) Architectures. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/82cej7Yl0W https://t.co/TpebzLFMDH", "Essential Cheat Sheets for MachineLearning&amp;DeepLearning\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/tS478q1oQj", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "List of R functions and packages for Machine Learning &amp; Statistical Learning: https://t.co/TZjfgFYqJ6 #rstats"]
+  "top10_tweets_like": ["VS Code Cheat Sheet (2020)\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\n\nhttps://t.co/v6u9aCiHnp", "21 Data Manipulation Task For Beginners In R  {https://t.co/LsS3Yc06wn} #rstats #DataScience", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT", "Papers Released on Generative Adversarial Network (GAN) Architectures. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/82cej7Yl0W https://t.co/TpebzLFMDH", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "Essential Cheat Sheets for MachineLearning&amp;DeepLearning\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/tS478q1oQj", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "List of R functions and packages for Machine Learning &amp; Statistical Learning: https://t.co/TZjfgFYqJ6 #rstats"],
+  "top10_tweets_retweet": ["VS Code Cheat Sheet (2020)\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\n\nhttps://t.co/v6u9aCiHnp", "21 Data Manipulation Task For Beginners In R  {https://t.co/LsS3Yc06wn} #rstats #DataScience", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT", "Papers Released on Generative Adversarial Network (GAN) Architectures. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/82cej7Yl0W https://t.co/TpebzLFMDH", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "Essential Cheat Sheets for MachineLearning&amp;DeepLearning\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode https://t.co/tS478q1oQj", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "List of R functions and packages for Machine Learning &amp; Statistical Learning: https://t.co/TZjfgFYqJ6 #rstats"]
 }
