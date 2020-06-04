@@ -1,32 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5410,
-      "average_tweets_per_hour": 225,
-      "tweeters_today": 1520,
-      "total_likes_today": 4742
+      "total_tweets_today": 5458,
+      "average_tweets_per_hour": 227,
+      "tweeters_today": 1562,
+      "total_likes_today": 4967
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 129
+      "Freq": 131
     },
     {
       "Var1": "Python RStats Java JavaScript ReactJS CloudComputing HTML",
-      "Freq": 121
+      "Freq": 122
     },
     {
       "Var1": "Machinelearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 115
+      "Freq": 117
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
-      "Freq": 100
+      "Freq": 94
     },
     {
       "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 87
+      "Freq": 88
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -38,19 +38,19 @@
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
-      "Freq": 80
+      "Freq": 84
     },
     {
       "Var1": "Azure AI BigData Analytics DataScience MachineLearning",
-      "Freq": 78
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 77
+      "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
-      "Freq": 75
+      "Freq": 76
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 71
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning",
@@ -58,69 +58,69 @@
     },
     {
       "Var1": "MachineLearning Algorithms Coding Python BigData Analytics DataScience AI IoT",
-      "Freq": 61
+      "Freq": 66
     },
     {
       "Var1": "rstats rmarkdown",
-      "Freq": 60
+      "Freq": 64
     },
     {
       "Var1": "Python RStats Java JavaScript ReactJS CloudComputing HTML Serverless DataScientist",
-      "Freq": 54
+      "Freq": 57
     },
     {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 53
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 51
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT",
-      "Freq": 49
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT",
-      "Freq": 48
+      "Var1": "rstats DataScience",
+      "Freq": 56
     },
     {
       "Var1": "IPython Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 47
+      "Freq": 54
+    },
+    {
+      "Var1": "Python RStats Java JavaScript ReactJS CloudComputing HTML Serverless DataScientist Linux Coding",
+      "Freq": 52
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 52
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats JavaScript",
+      "Freq": 48
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 225
+      "Freq": 222
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 184
-    },
-    {
-      "Var1": "ddcombot",
-      "Freq": 183
+      "Freq": 185
     },
     {
       "Var1": "codedailybot",
-      "Freq": 177
+      "Freq": 181
+    },
+    {
+      "Var1": "ddcombot",
+      "Freq": 181
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 175
+      "Freq": 172
     },
     {
       "Var1": "redianbot",
-      "Freq": 162
+      "Freq": 159
     },
     {
       "Var1": "xaelbot",
-      "Freq": 160
+      "Freq": 159
     },
     {
       "Var1": "nlognbot",
-      "Freq": 156
+      "Freq": 158
     },
     {
       "Var1": "Taieb_Bot",
@@ -128,7 +128,7 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 92
+      "Freq": 94
     },
     {
       "Var1": "chidambara09",
@@ -136,15 +136,15 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 75
+      "Freq": 74
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 67
+      "Freq": 68
     },
     {
       "Var1": "anglehernandez",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "hubofml",
-      "Freq": 52
+      "Freq": 51
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 52
+      "Freq": 51
     },
     {
       "Var1": "_reactdev",
-      "Freq": 46
+      "Freq": 47
     }
   ],
-  "top10_tweets_like": ["Now on CRAN: ggtext. Improved text rendering support for ggplot2. #rstats\nhttps://t.co/WmbzVvzINY https://t.co/D45HAbR26j", "I am happy to annonce #rstats package {officedown} is now on CRAN. You can get officer features into #rmarkdown documents, like sections, real Word references, TOC, list of figures, list of tables and many other things. See https://t.co/Wf38itRcAv", "Documentation --&gt; Stackoverflow --&gt; My Code 🤣🤣⁣⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣ https://t.co/dln51kj3Q0", "A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "Linux Cheat Sheet for your use.\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #Linux https://t.co/2SDhR9IDx8", "This....😍⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣\n⁣⁣\n⁣ https://t.co/VzZzgNL2NT"],
-  "top10_tweets_retweet": ["Now on CRAN: ggtext. Improved text rendering support for ggplot2. #rstats\nhttps://t.co/WmbzVvzINY https://t.co/D45HAbR26j", "I am happy to annonce #rstats package {officedown} is now on CRAN. You can get officer features into #rmarkdown documents, like sections, real Word references, TOC, list of figures, list of tables and many other things. See https://t.co/Wf38itRcAv", "Documentation --&gt; Stackoverflow --&gt; My Code 🤣🤣⁣⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣ https://t.co/dln51kj3Q0", "A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "Linux Cheat Sheet for your use.\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #Linux https://t.co/2SDhR9IDx8", "This....😍⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣\n⁣⁣\n⁣ https://t.co/VzZzgNL2NT"]
+  "top10_tweets_like": ["Now on CRAN: ggtext. Improved text rendering support for ggplot2. #rstats\nhttps://t.co/WmbzVvzINY https://t.co/D45HAbR26j", "I am happy to annonce #rstats package {officedown} is now on CRAN. You can get officer features into #rmarkdown documents, like sections, real Word references, TOC, list of figures, list of tables and many other things. See https://t.co/Wf38itRcAv", "Documentation --&gt; Stackoverflow --&gt; My Code 🤣🤣⁣⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣ https://t.co/dln51kj3Q0", "A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "This....😍⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣\n⁣⁣\n⁣ https://t.co/VzZzgNL2NT", "Linux Cheat Sheet for your use.\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #Linux https://t.co/2SDhR9IDx8", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "New AI Technique Speeds up Language Models on Edge Devices. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/f9BQAm7H2g https://t.co/ogiUiKZ4mj"],
+  "top10_tweets_retweet": ["Now on CRAN: ggtext. Improved text rendering support for ggplot2. #rstats\nhttps://t.co/WmbzVvzINY https://t.co/D45HAbR26j", "I am happy to annonce #rstats package {officedown} is now on CRAN. You can get officer features into #rmarkdown documents, like sections, real Word references, TOC, list of figures, list of tables and many other things. See https://t.co/Wf38itRcAv", "Documentation --&gt; Stackoverflow --&gt; My Code 🤣🤣⁣⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣ https://t.co/dln51kj3Q0", "A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "This....😍⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣\n⁣⁣\n⁣ https://t.co/VzZzgNL2NT", "Linux Cheat Sheet for your use.\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #Linux https://t.co/2SDhR9IDx8", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "New AI Technique Speeds up Language Models on Edge Devices. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/f9BQAm7H2g https://t.co/ogiUiKZ4mj"]
 }
