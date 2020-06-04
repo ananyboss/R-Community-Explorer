@@ -1,154 +1,158 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5002,
-      "average_tweets_per_hour": 208,
-      "tweeters_today": 1237,
-      "total_likes_today": 3649
+      "total_tweets_today": 5115,
+      "average_tweets_per_hour": 213,
+      "tweeters_today": 1251,
+      "total_likes_today": 3683
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 144
-    },
-    {
-      "Var1": "Azure AI BigData Analytics DataScience MachineLearning",
-      "Freq": 82
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 82
-    },
-    {
-      "Var1": "PyTorch BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 81
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 79
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 78
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 76
+      "Freq": 140
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
-      "Freq": 75
+      "Freq": 92
+    },
+    {
+      "Var1": "Azure AI BigData Analytics DataScience MachineLearning",
+      "Freq": 91
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 88
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 85
+    },
+    {
+      "Var1": "PyTorch BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
+      "Freq": 83
     },
     {
       "Var1": "Python RStats Java JavaScript ReactJS CloudComputing HTML",
-      "Freq": 69
-    },
-    {
-      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 68
+      "Freq": 82
     },
     {
       "Var1": "Machinelearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 79
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 74
+    },
+    {
+      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 73
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
       "Freq": 66
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT",
-      "Freq": 66
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
       "Freq": 65
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning",
-      "Freq": 62
+      "Freq": 63
     },
     {
-      "Var1": "RStats",
-      "Freq": 62
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
+      "Freq": 63
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 60
+      "Freq": 61
     },
     {
       "Var1": "MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS Linux Programming coding",
-      "Freq": 57
+      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 55
+      "Freq": 57
     },
     {
-      "Var1": "DataScience",
+      "Var1": "BigData Analytics DataScience AI MachineLearning ReinforcementLearning IoT IIoT",
       "Freq": 51
     },
     {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT",
+      "Var1": "DataScience",
       "Freq": 50
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
+      "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 235
-    },
-    {
-      "Var1": "codedailybot",
       "Freq": 229
     },
     {
-      "Var1": "ddcombot",
+      "Var1": "codedailybot",
+      "Freq": 222
+    },
+    {
+      "Var1": "theInfernobot",
       "Freq": 187
     },
     {
+      "Var1": "ddcombot",
+      "Freq": 183
+    },
+    {
       "Var1": "redianbot",
-      "Freq": 165
+      "Freq": 159
     },
     {
       "Var1": "xaelbot",
-      "Freq": 165
+      "Freq": 159
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 154
+      "Freq": 148
     },
     {
       "Var1": "nlognbot",
-      "Freq": 153
+      "Freq": 144
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 126
+      "Freq": 125
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 107
+      "Freq": 103
     },
     {
       "Var1": "chidambara09",
-      "Freq": 92
+      "Freq": 87
     },
     {
       "Var1": "NodeBotJs2",
-      "Freq": 77
+      "Freq": 79
     },
     {
       "Var1": "learn__together",
-      "Freq": 76
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 70
-    },
-    {
-      "Var1": "ServerlessFan",
       "Freq": 69
     },
     {
+      "Var1": "ServerlessFan",
+      "Freq": 68
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 65
+    },
+    {
       "Var1": "femtech_",
-      "Freq": 66
+      "Freq": 61
     },
     {
       "Var1": "anglehernandez",
@@ -156,21 +160,17 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 52
+      "Freq": 54
     },
     {
       "Var1": "ProjectLearn_io",
-      "Freq": 50
-    },
-    {
-      "Var1": "cybersec_feeds",
-      "Freq": 43
+      "Freq": 51
     },
     {
       "Var1": "hubofml",
-      "Freq": 42
+      "Freq": 43
     }
   ],
-  "top10_tweets_like": ["New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT", "Papers Released on Generative Adversarial Network (GAN) Architectures. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/82cej7Yl0W https://t.co/TpebzLFMDH"],
-  "top10_tweets_retweet": ["New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT", "Papers Released on Generative Adversarial Network (GAN) Architectures. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/82cej7Yl0W https://t.co/TpebzLFMDH"]
+  "top10_tweets_like": ["A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Documentation --&gt; Stackoverflow --&gt; My Code 🤣🤣⁣⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣ https://t.co/dln51kj3Q0", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT"],
+  "top10_tweets_retweet": ["A Free Self-Paced Learning Path for #Machinelearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/XHTm8FZcKn", "New post: Extrapolating with B splines and GAMs\n\nIn which I do a practical deep dive into extrapolating with univariate smooths in a GAM, comparing different splines, and look at how to use B splines &amp; their penalties when extrapolating #rstats #mgcv\n\nhttps://t.co/j3AnNtaMGD", "f I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/DXQwMS7JLd https://t.co/Z1aNZkdzlx", "Best #Books for Data Science for Starters. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/7sLOlCcnKq https://t.co/LSZTxzabES", "Free eBook: A Developer’s Guide to Building #Azure #AI Applications. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/s5bV3pmq5Z", "Bayesian Instrumental Variables with @rlmcelreath's course. By using an instrument, we turn X into a collider that, once opened, allows us to statistically adjust by the confounder in the form of correlated errors of a multivariate model of (X,Y) #rstats\n\nhttps://t.co/6lfs1DrH4G https://t.co/rg7apWG3re", "Documentation --&gt; Stackoverflow --&gt; My Code 🤣🤣⁣⁣\n\n#Python #RStats #Java #JavaScript #ReactJS #CloudComputing #HTML #Serverless #DataScientist #Linux #Coding #Programming #cybersecurity #100DaysOfCode #coding_monkeys⁣ https://t.co/dln51kj3Q0", "Acme: A Research Framework for Distributed #ReinforcementLearning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats  #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/2kjqzdMMbj https://t.co/YIdYk5NK2u", "My first package on CRAN! #rstats https://t.co/bNxRRW6ov5", "Emergence1. Recent commission, but will definitely explore this system some more #generative #rstats\n\nhttps://t.co/FP1hFkE60x https://t.co/N1lkGglPnT"]
 }
