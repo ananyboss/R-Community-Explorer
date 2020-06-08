@@ -1,59 +1,63 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5478,
-      "average_tweets_per_hour": 228,
-      "tweeters_today": 1414,
-      "total_likes_today": 4642
+      "total_tweets_today": 5343,
+      "average_tweets_per_hour": 223,
+      "tweeters_today": 1419,
+      "total_likes_today": 4099
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "Python RStats Java JavaScript ReactJS CloudComputing HTML Serverless",
-      "Freq": 180
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 179
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 176
+      "Var1": "Python RStats Java JavaScript ReactJS CloudComputing HTML Serverless",
+      "Freq": 173
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 124
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 117
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 107
+      "Freq": 130
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats Java",
-      "Freq": 106
+      "Freq": 107
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 101
+    },
+    {
+      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 98
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats Java",
       "Freq": 92
     },
     {
-      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 91
-    },
-    {
       "Var1": "tidyverse rstats",
-      "Freq": 81
+      "Freq": 83
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 78
-    },
-    {
-      "Var1": "MachineLearning Jupyter BigData Analytics DataScience AI IoT Python",
-      "Freq": 66
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 82
     },
     {
       "Var1": "RStats",
+      "Freq": 77
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 75
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 69
+    },
+    {
+      "Var1": "MachineLearning Jupyter BigData Analytics DataScience AI IoT Python",
       "Freq": 66
     },
     {
@@ -61,116 +65,112 @@
       "Freq": 65
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
-      "Freq": 64
-    },
-    {
-      "Var1": "theinsaneapp ML",
-      "Freq": 64
-    },
-    {
       "Var1": "AWS BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 61
+      "Freq": 62
     },
     {
-      "Var1": "Books DataScience BigData Analytics IoT IIoT Python RStats",
-      "Freq": 61
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
+      "Freq": 60
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
-      "Freq": 61
+      "Var1": "CloudComputing Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 56
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python",
-      "Freq": 59
+      "Freq": 52
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 57
+      "Var1": "Lambada BigData Analytics Serverless CloudComputing DataScience AI MachineLearning IoT IIoT",
+      "Freq": 52
+    },
+    {
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Freq": 52
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 228
+      "Freq": 218
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 201
-    },
-    {
-      "Var1": "codedailybot",
       "Freq": 196
     },
     {
-      "Var1": "xaelbot",
-      "Freq": 178
+      "Var1": "codedailybot",
+      "Freq": 186
     },
     {
-      "Var1": "redianbot",
-      "Freq": 175
+      "Var1": "xaelbot",
+      "Freq": 172
     },
     {
       "Var1": "nlognbot",
-      "Freq": 173
+      "Freq": 169
+    },
+    {
+      "Var1": "redianbot",
+      "Freq": 169
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 159
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 141
+      "Freq": 162
     },
     {
       "Var1": "ddcombot",
-      "Freq": 140
+      "Freq": 136
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 134
     },
     {
       "Var1": "chidambara09",
-      "Freq": 112
+      "Freq": 115
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 84
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 71
+      "Freq": 80
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 63
+      "Freq": 65
     },
     {
       "Var1": "ProjectLearn_io",
-      "Freq": 62
+      "Freq": 63
     },
     {
       "Var1": "richard_owona",
       "Freq": 61
     },
     {
+      "Var1": "ServerlessFan",
+      "Freq": 60
+    },
+    {
       "Var1": "femtech_",
-      "Freq": 60
-    },
-    {
-      "Var1": "LearnWithHarry",
-      "Freq": 60
-    },
-    {
-      "Var1": "_reactdev",
       "Freq": 55
     },
     {
-      "Var1": "LinuxDreams",
-      "Freq": 53
+      "Var1": "LearnWithHarry",
+      "Freq": 55
     },
     {
-      "Var1": "rstats4ds",
+      "Var1": "_reactdev",
+      "Freq": 54
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 51
+    },
+    {
+      "Var1": "anglehernandez",
       "Freq": 50
     }
   ],
-  "top10_tweets_like": ["Got a new #rstats package brewing—who here likes molecules? 😁\n\n(this is caffeine)\n\n#rayrender https://t.co/pkdKqQJZi0", "If I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/MA2r2LEMFK https://t.co/ytNBGLlIQu", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/kXSBAwwiHp", "🚨🚨🚨 New Blogpost! 🚨🚨🚨\n\n\"A practical guide to geospatial interpolation with #RStats\"\n\nEver been left with some field data &amp; wanted to do some Kriging but found yourself locked out by expensive commercial software? Worry not, #rspatial got your back! https://t.co/B7otftQJJK", "Linear Regression Explained. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/khLpeicOaI https://t.co/juYwS6ftzF", "20 Best #DataScience #Books for Beginners &amp; Experts in 2020. #BigData #Analytics #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/VCcz1kUL71 https://t.co/5F7mkUc2aZ", "10 Free Must-Read Books for Machine Learning and Data Science\n\nhttps://t.co/QoFqTbk2PG @kdnuggets\n\n#ArtificialIntelligence #DataScience #MachineLearning #DeepLearning #BigData #Analytics #RStats #Developer #Programming #Python #NeuralNetworks #Books #Stats #AI https://t.co/x7vzRVWx9s", "If you are trying to wrap your head around the statistical consequences if fat tails by @nntaleb and if you like #RStats check out this blog 👇 https://t.co/H2yKBwfLZ5", "YOLOv4 — The most accurate real-time neural network on MS COCO Dataset\n\nCode: https://t.co/4Xvmffb7R8\n\n#theinsaneapp #ML #AI #github\n#RStats #JavaScript #ReactJS #CloudComputing #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #Coding #ArtificialIntelligence https://t.co/10REEpKliv", "And let it be known that, on this day of the 7th of June 2020 (aka The End Times), our brave #rstats hero finally smote the eldritch terror known as rJava. \n\nLet it slumber for all eternity (or until his next OS upgrade). https://t.co/yF7rjoHxbA"],
-  "top10_tweets_retweet": ["Got a new #rstats package brewing—who here likes molecules? 😁\n\n(this is caffeine)\n\n#rayrender https://t.co/pkdKqQJZi0", "If I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/MA2r2LEMFK https://t.co/ytNBGLlIQu", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/kXSBAwwiHp", "🚨🚨🚨 New Blogpost! 🚨🚨🚨\n\n\"A practical guide to geospatial interpolation with #RStats\"\n\nEver been left with some field data &amp; wanted to do some Kriging but found yourself locked out by expensive commercial software? Worry not, #rspatial got your back! https://t.co/B7otftQJJK", "Linear Regression Explained. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/khLpeicOaI https://t.co/juYwS6ftzF", "20 Best #DataScience #Books for Beginners &amp; Experts in 2020. #BigData #Analytics #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/VCcz1kUL71 https://t.co/5F7mkUc2aZ", "10 Free Must-Read Books for Machine Learning and Data Science\n\nhttps://t.co/QoFqTbk2PG @kdnuggets\n\n#ArtificialIntelligence #DataScience #MachineLearning #DeepLearning #BigData #Analytics #RStats #Developer #Programming #Python #NeuralNetworks #Books #Stats #AI https://t.co/x7vzRVWx9s", "If you are trying to wrap your head around the statistical consequences if fat tails by @nntaleb and if you like #RStats check out this blog 👇 https://t.co/H2yKBwfLZ5", "YOLOv4 — The most accurate real-time neural network on MS COCO Dataset\n\nCode: https://t.co/4Xvmffb7R8\n\n#theinsaneapp #ML #AI #github\n#RStats #JavaScript #ReactJS #CloudComputing #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #Coding #ArtificialIntelligence https://t.co/10REEpKliv", "And let it be known that, on this day of the 7th of June 2020 (aka The End Times), our brave #rstats hero finally smote the eldritch terror known as rJava. \n\nLet it slumber for all eternity (or until his next OS upgrade). https://t.co/yF7rjoHxbA"]
+  "top10_tweets_like": ["If I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/MA2r2LEMFK https://t.co/ytNBGLlIQu", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/kXSBAwwiHp", "Linear Regression Explained. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/khLpeicOaI https://t.co/juYwS6ftzF", "20 Best #DataScience #Books for Beginners &amp; Experts in 2020. #BigData #Analytics #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/VCcz1kUL71 https://t.co/5F7mkUc2aZ", "10 Free Must-Read Books for Machine Learning and Data Science\n\nhttps://t.co/QoFqTbk2PG @kdnuggets\n\n#ArtificialIntelligence #DataScience #MachineLearning #DeepLearning #BigData #Analytics #RStats #Developer #Programming #Python #NeuralNetworks #Books #Stats #AI https://t.co/x7vzRVWx9s", "If you are trying to wrap your head around the statistical consequences if fat tails by @nntaleb and if you like #RStats check out this blog 👇 https://t.co/H2yKBwfLZ5", "And let it be known that, on this day of the 7th of June 2020 (aka The End Times), our brave #rstats hero finally smote the eldritch terror known as rJava. \n\nLet it slumber for all eternity (or until his next OS upgrade). https://t.co/yF7rjoHxbA", "🔬 #MachineLearning Fundamentals in Interactive #Jupyter Notebooks. #BigData #Analytics #DataScience #AI #IoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/WxgmOXVLI6 https://t.co/ghwKo6ITUn", "🔬 Explainable AI: Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/RrYbhy1nA6 https://t.co/9yeD93tlql", "To those who have been patiently waiting for me to add the cyclic colour scales to scico, that wait is now over... #rstats https://t.co/8WYAXVVa7s"],
+  "top10_tweets_retweet": ["If I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/MA2r2LEMFK https://t.co/ytNBGLlIQu", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/kXSBAwwiHp", "Linear Regression Explained. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/khLpeicOaI https://t.co/juYwS6ftzF", "20 Best #DataScience #Books for Beginners &amp; Experts in 2020. #BigData #Analytics #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/VCcz1kUL71 https://t.co/5F7mkUc2aZ", "10 Free Must-Read Books for Machine Learning and Data Science\n\nhttps://t.co/QoFqTbk2PG @kdnuggets\n\n#ArtificialIntelligence #DataScience #MachineLearning #DeepLearning #BigData #Analytics #RStats #Developer #Programming #Python #NeuralNetworks #Books #Stats #AI https://t.co/x7vzRVWx9s", "If you are trying to wrap your head around the statistical consequences if fat tails by @nntaleb and if you like #RStats check out this blog 👇 https://t.co/H2yKBwfLZ5", "And let it be known that, on this day of the 7th of June 2020 (aka The End Times), our brave #rstats hero finally smote the eldritch terror known as rJava. \n\nLet it slumber for all eternity (or until his next OS upgrade). https://t.co/yF7rjoHxbA", "🔬 #MachineLearning Fundamentals in Interactive #Jupyter Notebooks. #BigData #Analytics #DataScience #AI #IoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/WxgmOXVLI6 https://t.co/ghwKo6ITUn", "🔬 Explainable AI: Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/RrYbhy1nA6 https://t.co/9yeD93tlql", "To those who have been patiently waiting for me to add the cyclic colour scales to scico, that wait is now over... #rstats https://t.co/8WYAXVVa7s"]
 }
