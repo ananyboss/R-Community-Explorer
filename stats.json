@@ -1,40 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6991,
-      "average_tweets_per_hour": 291,
-      "tweeters_today": 1618,
-      "total_likes_today": 4683
+      "total_tweets_today": 6837,
+      "average_tweets_per_hour": 285,
+      "tweeters_today": 1577,
+      "total_likes_today": 4449
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 281
+      "Freq": 291
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 167
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning",
-      "Freq": 154
+      "Freq": 168
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 138
+      "Freq": 146
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Freq": 141
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 137
+      "Freq": 135
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 129
+      "Freq": 128
     },
     {
       "Var1": "theinsaneapp Robotics ML AI MachineLearning BigData DataScience IoT RStats",
-      "Freq": 107
+      "Freq": 120
+    },
+    {
+      "Var1": "Programming BigData Analytics DataScience CPP IoT IIoT PyTorch",
+      "Freq": 98
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
@@ -45,36 +49,24 @@
       "Freq": 92
     },
     {
-      "Var1": "Programming BigData Analytics DataScience CPP IoT IIoT PyTorch",
-      "Freq": 92
-    },
-    {
       "Var1": "Mpgvip defstar5 makeyourownlane smm Marketing innovation",
       "Freq": 84
     },
     {
-      "Var1": "Statistics Stats Analytics Data DataScience DataScientist r",
-      "Freq": 82
-    },
-    {
       "Var1": "rstats DataScience",
-      "Freq": 81
+      "Freq": 71
     },
     {
-      "Var1": "MachineLearning DataScientist BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 79
-    },
-    {
-      "Var1": "theinsaneapp coding Java nodejs React RStats",
-      "Freq": 72
+      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 67
     },
     {
       "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 66
     },
     {
-      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 65
+      "Var1": "theinsaneapp coding Java nodejs React RStats",
+      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning ReinforcementLearning",
@@ -85,6 +77,14 @@
       "Freq": 58
     },
     {
+      "Var1": "MachineLearning DataScientist BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 55
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 45
+    },
+    {
       "Var1": "nodejs",
       "Freq": 45
     }
@@ -92,58 +92,62 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 530
+      "Freq": 524
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 280
+      "Freq": 278
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 249
+      "Freq": 230
     },
     {
       "Var1": "theInfernobot",
       "Freq": 224
     },
     {
+      "Var1": "nlognbot",
+      "Freq": 203
+    },
+    {
       "Var1": "xaelbot",
-      "Freq": 210
+      "Freq": 203
     },
     {
       "Var1": "redianbot",
-      "Freq": 206
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 201
+      "Freq": 200
     },
     {
       "Var1": "codedailybot",
-      "Freq": 164
+      "Freq": 162
     },
     {
       "Var1": "chidambara09",
-      "Freq": 145
+      "Freq": 148
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 143
+      "Freq": 147
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 142
+      "Freq": 144
     },
     {
       "Var1": "ddcombot",
-      "Freq": 141
+      "Freq": 139
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 94
+      "Freq": 93
     },
     {
       "Var1": "AdelAbdelmene11",
+      "Freq": 88
+    },
+    {
+      "Var1": "femtech_",
       "Freq": 88
     },
     {
@@ -151,26 +155,22 @@
       "Freq": 85
     },
     {
-      "Var1": "femtech_",
-      "Freq": 84
+      "Var1": "hubofml",
+      "Freq": 83
     },
     {
-      "Var1": "hubofml",
+      "Var1": "ServerlessFan",
       "Freq": 80
     },
     {
       "Var1": "LearnWithHarry",
-      "Freq": 76
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 75
+      "Freq": 69
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 63
+      "Freq": 60
     }
   ],
-  "top10_tweets_like": ["head() and tails() in R defaults to 6 rows because the original developer of the function feared there might be copyright issues with similar functions he was developing for a client, which defaulted to 5 rows. \n\n#RStats https://t.co/xGBg7UOZjB", "How the Robotic Hand Works\n\n#theinsaneapp #Robotics #ML #AI\n#MachineLearning #BigData #DataScience #IoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #WomenWhoCode #Linux #100DaysOfCode #DeepLearning #coding #ArtificialIntelligence #robot #technology\n\nCredits TheTimes https://t.co/oXuCDSqS0v", "Awesome #Mathematics - Including Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/Hu6LJcDeCy", "Let's stop using `iris`. I've been thoughtlessly plotting sepal and petal dimensions, but Fisher was a eugenicist and I am going to remove him from my code.\n\nIf you want to join me, I made a small #rstats utility to flag `iris` in your repos.\n\nhttps://t.co/xIkAIc6rD3", "Awesome Cheat Sheets for Popular #Programming Languages.. #BigData #Analytics #DataScience #CPP #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode\nhttps://t.co/SCb3ZrrfKx https://t.co/VrAdQXccoj", "I am happy to introduce a new feature in ggplot2tor. You can now see directly which visualization is created with which code. Check it out: https://t.co/oMqmcISVeh\n\nFeedback welcome\n\n#rstats #ggplot2 https://t.co/9aOKPeSmEH", "#MachineLearning Model with Keras and #Python for Image Segmentation. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/6uA9RDvKQV https://t.co/UqQW5Z1Kck", "Worldwide COVID-19 spread visualization with R  {https://t.co/ShJ8EO4kTa} #rstats #DataScience", "I can legitimately tweet this now #rstats https://t.co/WGTG7vvdvs", "A new version of {embed} package is on CRAN with feature hashing and additional discretization methods. #rstats\n\nhttps://t.co/CIG62p5PSG https://t.co/DWZKMBGzZn"],
-  "top10_tweets_retweet": ["head() and tails() in R defaults to 6 rows because the original developer of the function feared there might be copyright issues with similar functions he was developing for a client, which defaulted to 5 rows. \n\n#RStats https://t.co/xGBg7UOZjB", "How the Robotic Hand Works\n\n#theinsaneapp #Robotics #ML #AI\n#MachineLearning #BigData #DataScience #IoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #WomenWhoCode #Linux #100DaysOfCode #DeepLearning #coding #ArtificialIntelligence #robot #technology\n\nCredits TheTimes https://t.co/oXuCDSqS0v", "Awesome #Mathematics - Including Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/Hu6LJcDeCy", "Let's stop using `iris`. I've been thoughtlessly plotting sepal and petal dimensions, but Fisher was a eugenicist and I am going to remove him from my code.\n\nIf you want to join me, I made a small #rstats utility to flag `iris` in your repos.\n\nhttps://t.co/xIkAIc6rD3", "Awesome Cheat Sheets for Popular #Programming Languages.. #BigData #Analytics #DataScience #CPP #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode\nhttps://t.co/SCb3ZrrfKx https://t.co/VrAdQXccoj", "I am happy to introduce a new feature in ggplot2tor. You can now see directly which visualization is created with which code. Check it out: https://t.co/oMqmcISVeh\n\nFeedback welcome\n\n#rstats #ggplot2 https://t.co/9aOKPeSmEH", "#MachineLearning Model with Keras and #Python for Image Segmentation. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/6uA9RDvKQV https://t.co/UqQW5Z1Kck", "Worldwide COVID-19 spread visualization with R  {https://t.co/ShJ8EO4kTa} #rstats #DataScience", "I can legitimately tweet this now #rstats https://t.co/WGTG7vvdvs", "A new version of {embed} package is on CRAN with feature hashing and additional discretization methods. #rstats\n\nhttps://t.co/CIG62p5PSG https://t.co/DWZKMBGzZn"]
+  "top10_tweets_like": ["head() and tails() in R defaults to 6 rows because the original developer of the function feared there might be copyright issues with similar functions he was developing for a client, which defaulted to 5 rows. \n\n#RStats https://t.co/xGBg7UOZjB", "How the Robotic Hand Works\n\n#theinsaneapp #Robotics #ML #AI\n#MachineLearning #BigData #DataScience #IoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #WomenWhoCode #Linux #100DaysOfCode #DeepLearning #coding #ArtificialIntelligence #robot #technology\n\nCredits TheTimes https://t.co/oXuCDSqS0v", "Awesome #Mathematics - Including Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/Hu6LJcDeCy", "Awesome Cheat Sheets for Popular #Programming Languages.. #BigData #Analytics #DataScience #CPP #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode\nhttps://t.co/SCb3ZrrfKx https://t.co/VrAdQXccoj", "I am happy to introduce a new feature in ggplot2tor. You can now see directly which visualization is created with which code. Check it out: https://t.co/oMqmcISVeh\n\nFeedback welcome\n\n#rstats #ggplot2 https://t.co/9aOKPeSmEH", "#MachineLearning Model with Keras and #Python for Image Segmentation. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/6uA9RDvKQV https://t.co/UqQW5Z1Kck", "Worldwide COVID-19 spread visualization with R  {https://t.co/ShJ8EO4kTa} #rstats #DataScience", "I can legitimately tweet this now #rstats https://t.co/WGTG7vvdvs", "A new version of {embed} package is on CRAN with feature hashing and additional discretization methods. #rstats\n\nhttps://t.co/CIG62p5PSG https://t.co/DWZKMBGzZn", "Today's #rstats/#ggplot2 nugget, brought to you by furious googling today:\n\nMaking points that have NA values semi transparent so they show up but are de-emphasized \n\nThe secret is a conditional alpha argument in aes() combined with scale_alpha_manual (see next tweet w/ code) https://t.co/7ekJMsbNrI"],
+  "top10_tweets_retweet": ["head() and tails() in R defaults to 6 rows because the original developer of the function feared there might be copyright issues with similar functions he was developing for a client, which defaulted to 5 rows. \n\n#RStats https://t.co/xGBg7UOZjB", "How the Robotic Hand Works\n\n#theinsaneapp #Robotics #ML #AI\n#MachineLearning #BigData #DataScience #IoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #WomenWhoCode #Linux #100DaysOfCode #DeepLearning #coding #ArtificialIntelligence #robot #technology\n\nCredits TheTimes https://t.co/oXuCDSqS0v", "Awesome #Mathematics - Including Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/Hu6LJcDeCy", "Awesome Cheat Sheets for Popular #Programming Languages.. #BigData #Analytics #DataScience #CPP #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode\nhttps://t.co/SCb3ZrrfKx https://t.co/VrAdQXccoj", "I am happy to introduce a new feature in ggplot2tor. You can now see directly which visualization is created with which code. Check it out: https://t.co/oMqmcISVeh\n\nFeedback welcome\n\n#rstats #ggplot2 https://t.co/9aOKPeSmEH", "#MachineLearning Model with Keras and #Python for Image Segmentation. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/6uA9RDvKQV https://t.co/UqQW5Z1Kck", "Worldwide COVID-19 spread visualization with R  {https://t.co/ShJ8EO4kTa} #rstats #DataScience", "I can legitimately tweet this now #rstats https://t.co/WGTG7vvdvs", "A new version of {embed} package is on CRAN with feature hashing and additional discretization methods. #rstats\n\nhttps://t.co/CIG62p5PSG https://t.co/DWZKMBGzZn", "Today's #rstats/#ggplot2 nugget, brought to you by furious googling today:\n\nMaking points that have NA values semi transparent so they show up but are de-emphasized \n\nThe secret is a conditional alpha argument in aes() combined with scale_alpha_manual (see next tweet w/ code) https://t.co/7ekJMsbNrI"]
 }
