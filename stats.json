@@ -1,60 +1,52 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5992,
-      "average_tweets_per_hour": 250,
-      "tweeters_today": 1628,
-      "total_likes_today": 5522
+      "total_tweets_today": 5930,
+      "average_tweets_per_hour": 247,
+      "tweeters_today": 1632,
+      "total_likes_today": 5359
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 239
+      "Freq": 234
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript ReactJS",
-      "Freq": 203
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 150
+      "Freq": 188
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 124
+      "Freq": 154
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 143
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 108
+      "Freq": 133
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 105
     },
     {
-      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 91
+      "Var1": "rstats DataScience",
+      "Freq": 95
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 90
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 80
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 71
-    },
-    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats TensorFlow",
-      "Freq": 66
-    },
-    {
-      "Var1": "Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 65
+      "Freq": 68
     },
     {
       "Var1": "RaspberryPi Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
@@ -65,11 +57,11 @@
       "Freq": 58
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience IoT RStats",
+      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT",
       "Freq": 55
     },
     {
-      "Var1": "theinsaneapp Robotics ML AI MachineLearning BigData DataScience IoT RStats",
+      "Var1": "MachineLearning BigData Analytics DataScience AI Neo4J IoT IIoT PyTorch Python",
       "Freq": 54
     },
     {
@@ -77,100 +69,108 @@
       "Freq": 54
     },
     {
+      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience IoT RStats",
+      "Freq": 53
+    },
+    {
+      "Var1": "COVID19 datascience Jobs DeepLearning artificialintelligence ai bigdata machinelearning",
+      "Freq": 51
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python",
       "Freq": 50
     },
     {
-      "Var1": "COVID19 datascience Jobs DeepLearning artificialintelligence ai bigdata machinelearning",
-      "Freq": 50
+      "Var1": "theinsaneapp Robotics ML AI MachineLearning BigData DataScience IoT RStats",
+      "Freq": 46
     },
     {
-      "Var1": "Pandas Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 49
+      "Var1": "RStats",
+      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 490
+      "Freq": 479
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 246
+      "Freq": 238
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 185
+      "Freq": 180
     },
     {
       "Var1": "redianbot",
-      "Freq": 178
+      "Freq": 172
     },
     {
       "Var1": "xaelbot",
-      "Freq": 176
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 168
+      "Freq": 170
     },
     {
       "Var1": "codedailybot",
-      "Freq": 163
+      "Freq": 159
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 159
     },
     {
       "Var1": "chidambara09",
-      "Freq": 143
+      "Freq": 141
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 136
+      "Freq": 138
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 131
+      "Freq": 133
     },
     {
       "Var1": "ddcombot",
-      "Freq": 127
+      "Freq": 122
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 100
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 78
+      "Freq": 96
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 76
+      "Freq": 75
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 72
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 67
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 57
+      "Freq": 63
     },
     {
       "Var1": "hubofml",
-      "Freq": 56
+      "Freq": 58
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 55
     },
     {
       "Var1": "anglehernandez",
       "Freq": 54
     },
     {
-      "Var1": "HarryHSolo",
-      "Freq": 53
+      "Var1": "rstats4ds",
+      "Freq": 54
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 52
+      "Var1": "_reactdev",
+      "Freq": 40
     }
   ],
-  "top10_tweets_like": ["Happy to announce version 1.2.0 got on CRAN 🎉🎉\n\n- Added 5 packages (khroma, beyonce, suffrager, colorBlindness, and rtist) bringing the total to 56\n- 187 more palettes bringing the total to over 2000 🤯 with 2051!\n- Is now easier to install with regards to dependencies\n#rstats https://t.co/Wpn3stoF62", "precisely 0.1.0 is (finally) on CRAN! precisely is an #rstats 📦 for estimating sample size based on precision rather than power. Find out more: https://t.co/CIBSuIDFbG https://t.co/zZe9leO1xW", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Z8LAKDSgBS https://t.co/G6vrxstiph", "#MachineLearning Model with Keras and #Python for Image Segmentation. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/6uA9RDvKQV https://t.co/UqQW5Z1Kck", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/GMdhsmYAZu", "🌈 {paletteer} just keeps getting better and better! Thx, @Emil_Hvitfeldt! https://t.co/PR7OEapgeG #rstats https://t.co/hNp7IDAPqY", "Today I'm collecting datasets which can be used in #introstat courses to call attention to systemic racism. If you know any #opendata which could be useful for this please LMK! Would love data from one of those resume studies! #statistics #rstats #ShutDownSTEM #ShutDownAcademia", "Free eBook: #Python for Everybody. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/BIXyCdcw30 https://t.co/qN6yMYqCl8", "A Comprehensive Introduction to Handling Date &amp; Time in R  {https://t.co/XKdfIzviLT} #rstats #DataScience", "Object Detection and Segmentation with Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/8dgDjMOYI9 https://t.co/BgqfKSPkyz"],
-  "top10_tweets_retweet": ["Happy to announce version 1.2.0 got on CRAN 🎉🎉\n\n- Added 5 packages (khroma, beyonce, suffrager, colorBlindness, and rtist) bringing the total to 56\n- 187 more palettes bringing the total to over 2000 🤯 with 2051!\n- Is now easier to install with regards to dependencies\n#rstats https://t.co/Wpn3stoF62", "precisely 0.1.0 is (finally) on CRAN! precisely is an #rstats 📦 for estimating sample size based on precision rather than power. Find out more: https://t.co/CIBSuIDFbG https://t.co/zZe9leO1xW", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Z8LAKDSgBS https://t.co/G6vrxstiph", "#MachineLearning Model with Keras and #Python for Image Segmentation. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/6uA9RDvKQV https://t.co/UqQW5Z1Kck", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/GMdhsmYAZu", "🌈 {paletteer} just keeps getting better and better! Thx, @Emil_Hvitfeldt! https://t.co/PR7OEapgeG #rstats https://t.co/hNp7IDAPqY", "Today I'm collecting datasets which can be used in #introstat courses to call attention to systemic racism. If you know any #opendata which could be useful for this please LMK! Would love data from one of those resume studies! #statistics #rstats #ShutDownSTEM #ShutDownAcademia", "Free eBook: #Python for Everybody. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/BIXyCdcw30 https://t.co/qN6yMYqCl8", "A Comprehensive Introduction to Handling Date &amp; Time in R  {https://t.co/XKdfIzviLT} #rstats #DataScience", "Object Detection and Segmentation with Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/8dgDjMOYI9 https://t.co/BgqfKSPkyz"]
+  "top10_tweets_like": ["Happy to announce version 1.2.0 got on CRAN 🎉🎉\n\n- Added 5 packages (khroma, beyonce, suffrager, colorBlindness, and rtist) bringing the total to 56\n- 187 more palettes bringing the total to over 2000 🤯 with 2051!\n- Is now easier to install with regards to dependencies\n#rstats https://t.co/Wpn3stoF62", "precisely 0.1.0 is (finally) on CRAN! precisely is an #rstats 📦 for estimating sample size based on precision rather than power. Find out more: https://t.co/CIBSuIDFbG https://t.co/zZe9leO1xW", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Z8LAKDSgBS https://t.co/G6vrxstiph", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/GMdhsmYAZu", "🌈 {paletteer} just keeps getting better and better! Thx, @Emil_Hvitfeldt! https://t.co/PR7OEapgeG #rstats https://t.co/hNp7IDAPqY", "Today I'm collecting datasets which can be used in #introstat courses to call attention to systemic racism. If you know any #opendata which could be useful for this please LMK! Would love data from one of those resume studies! #statistics #rstats #ShutDownSTEM #ShutDownAcademia", "I was today years old when I realised that by using four hashes at the start and at the end of the line you can create code sections. Forever gone are the days of frantic scrolling #rstats https://t.co/mIXCMRZgXj", "Free eBook: #Python for Everybody. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/BIXyCdcw30 https://t.co/qN6yMYqCl8", "A Comprehensive Introduction to Handling Date &amp; Time in R  {https://t.co/XKdfIzviLT} #rstats #DataScience", "Object Detection and Segmentation with Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/8dgDjMOYI9 https://t.co/BgqfKSPkyz"],
+  "top10_tweets_retweet": ["Happy to announce version 1.2.0 got on CRAN 🎉🎉\n\n- Added 5 packages (khroma, beyonce, suffrager, colorBlindness, and rtist) bringing the total to 56\n- 187 more palettes bringing the total to over 2000 🤯 with 2051!\n- Is now easier to install with regards to dependencies\n#rstats https://t.co/Wpn3stoF62", "precisely 0.1.0 is (finally) on CRAN! precisely is an #rstats 📦 for estimating sample size based on precision rather than power. Find out more: https://t.co/CIBSuIDFbG https://t.co/zZe9leO1xW", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Z8LAKDSgBS https://t.co/G6vrxstiph", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/GMdhsmYAZu", "🌈 {paletteer} just keeps getting better and better! Thx, @Emil_Hvitfeldt! https://t.co/PR7OEapgeG #rstats https://t.co/hNp7IDAPqY", "Today I'm collecting datasets which can be used in #introstat courses to call attention to systemic racism. If you know any #opendata which could be useful for this please LMK! Would love data from one of those resume studies! #statistics #rstats #ShutDownSTEM #ShutDownAcademia", "I was today years old when I realised that by using four hashes at the start and at the end of the line you can create code sections. Forever gone are the days of frantic scrolling #rstats https://t.co/mIXCMRZgXj", "Free eBook: #Python for Everybody. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/BIXyCdcw30 https://t.co/qN6yMYqCl8", "A Comprehensive Introduction to Handling Date &amp; Time in R  {https://t.co/XKdfIzviLT} #rstats #DataScience", "Object Detection and Segmentation with Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/8dgDjMOYI9 https://t.co/BgqfKSPkyz"]
 }
