@@ -1,43 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6387,
-      "average_tweets_per_hour": 266,
-      "tweeters_today": 1562,
-      "total_likes_today": 4494
+      "total_tweets_today": 6425,
+      "average_tweets_per_hour": 268,
+      "tweeters_today": 1549,
+      "total_likes_today": 4538
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 174
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 159
+      "Freq": 158
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 149
+      "Freq": 157
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 148
+      "Var1": "tidyverse rstats",
+      "Freq": 155
     },
     {
       "Var1": "education",
-      "Freq": 147
+      "Freq": 153
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 137
     },
     {
       "Var1": "Bigdata Digital AI IoT DataScience Infographics cloud tech startups DataScientist",
       "Freq": 117
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Var1": "Calculus BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java JavaScript",
       "Freq": 100
     },
     {
-      "Var1": "Calculus BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java JavaScript",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 97
     },
     {
@@ -45,15 +45,15 @@
       "Freq": 86
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 79
-    },
-    {
       "Var1": "Python DataScience BigData Analytics IoT IIoT PyTorch RStats TensorFlow Java",
       "Freq": 70
     },
     {
-      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript ReactJS",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 69
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
       "Freq": 68
     },
     {
@@ -61,12 +61,12 @@
       "Freq": 67
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
-      "Freq": 62
+      "Var1": "Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 63
     },
     {
-      "Var1": "Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 61
+      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript ReactJS",
+      "Freq": 62
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -78,68 +78,72 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 52
+      "Freq": 50
+    },
+    {
+      "Var1": "MachineLearning QuantumComputing BigData Analytics DataScience AI IoT",
+      "Freq": 50
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 49
-    },
-    {
-      "Var1": "DataMining BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 48
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 459
+      "Freq": 453
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 258
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 212
+      "Freq": 256
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 212
+      "Freq": 218
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 215
     },
     {
       "Var1": "xaelbot",
-      "Freq": 204
+      "Freq": 203
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 200
+      "Freq": 198
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 169
+      "Freq": 170
     },
     {
       "Var1": "codedailybot",
-      "Freq": 159
+      "Freq": 161
     },
     {
       "Var1": "chidambara09",
-      "Freq": 151
+      "Freq": 157
     },
     {
       "Var1": "developersbot",
-      "Freq": 125
+      "Freq": 131
     },
     {
       "Var1": "hubofml",
-      "Freq": 99
-    },
-    {
-      "Var1": "anglehernandez",
       "Freq": 97
     },
     {
+      "Var1": "anglehernandez",
+      "Freq": 96
+    },
+    {
       "Var1": "ServerlessFan",
+      "Freq": 89
+    },
+    {
+      "Var1": "TheDeveloperBot",
       "Freq": 84
     },
     {
@@ -147,28 +151,24 @@
       "Freq": 78
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 76
+      "Var1": "femtech_",
+      "Freq": 75
     },
     {
       "Var1": "learn__together",
-      "Freq": 74
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 72
+      "Freq": 70
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 66
+      "Freq": 69
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 62
+      "Freq": 56
     },
     {
       "Var1": "WebSecurityIT",
-      "Freq": 53
+      "Freq": 54
     }
   ],
   "top10_tweets_like": ["Young MALES 👨‍🎓 with university degree (left)\n\nYoung FEMALES 👩‍🎓 with university degree (right)\n\n#education #HigherEducation #europe #dataviz #maps #rstats https://t.co/0GWfUFyHrt", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/baX5TATtzQ", "Best Golang Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/LRCgLX8DbY https://t.co/xSUVeC2p1L", "Practical Introduction to Web Scraping in R  {https://t.co/kjHAnJlQsd} #rstats #DataScience", "[FREE e-Book] Learn Classification &amp; Regression in a Weekend: https://t.co/I4CTsFMoRe\n—————\n#BigData #MachineLearning #Algorithms #DataScience #Statistics #DataMining #AI #PredictiveAnalytics #Rstats #DataScientists #abdsc\n——\nThen go deeper with this book: https://t.co/GDqthRKQ9o https://t.co/iJtVAlvTn8", "Cheat Sheets: #Python, #DataScience, R, and More. #BigData #Analytics #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YmEY5LtU49 https://t.co/LOsx22nPVL", "Java To #Python And Back, AI That Translates #Programming Languages\n\nRead More:\nhttps://t.co/6V3z1w2jdy\n\n#theinsaneapp #ML #AI\n#MachineLearning #BigData #DataScience #IoT #RStats #JavaScript #ReactJS #Serverless #WomenWhoCode #Linux #100DaysOfCode #coding  #ArtificialIntelligence https://t.co/elHMpQKneN", "Another potential use case for logic programming in R: build a role-based access control system with {logician}, e.g. for your shiny app. https://t.co/YjT1KOfGTA #rstats https://t.co/0uk9d1X6Kp", "Types of #MachineLearning  #Algorithms. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/9XrcHJouLk https://t.co/4mwJl6nXw4", "New Research Suggests Artificial Brains Could Benefit From Sleep. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ibKTwQtZwv https://t.co/DukNTDfNoY"],
