@@ -1,27 +1,31 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6220,
-      "average_tweets_per_hour": 259,
-      "tweeters_today": 1577,
-      "total_likes_today": 4173
+      "total_tweets_today": 6381,
+      "average_tweets_per_hour": 266,
+      "tweeters_today": 1569,
+      "total_likes_today": 4395
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 181
+      "Var1": "ML AI MachineLearning BigData DataScience IoT RStats JavaScript ReactJS",
+      "Freq": 189
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 181
+      "Freq": 184
     },
     {
-      "Var1": "ML AI MachineLearning BigData DataScience IoT RStats JavaScript ReactJS",
-      "Freq": 177
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 183
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning",
+      "Freq": 146
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 144
     },
     {
@@ -29,28 +33,24 @@
       "Freq": 123
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 112
-    },
-    {
       "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
       "Freq": 110
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 103
-    },
-    {
       "Var1": "Azure MSSQLServer BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 97
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 92
+      "Freq": 107
     },
     {
       "Var1": "Database DeepLearning Analytics DataScience AI",
+      "Freq": 96
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 87
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 84
     },
     {
       "Var1": "Mpgvip defstar5 makeyourownlane smm Marketing innovation",
@@ -58,11 +58,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT",
-      "Freq": 77
-    },
-    {
-      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 72
+      "Freq": 78
     },
     {
       "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
@@ -70,7 +66,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
-      "Freq": 55
+      "Freq": 56
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -78,11 +74,15 @@
     },
     {
       "Var1": "Programming BigData Analytics DataScience AI",
-      "Freq": 49
+      "Freq": 53
     },
     {
-      "Var1": "DeepLearning DataScience dataviz DataScientist Python rstats 100DaysOfCode ML",
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
       "Freq": 48
+    },
+    {
+      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 47
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
@@ -92,79 +92,79 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 368
+      "Freq": 388
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 193
+    },
+    {
+      "Var1": "codedailybot",
+      "Freq": 188
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 187
     },
     {
       "Var1": "theInfernobot",
       "Freq": 186
     },
     {
-      "Var1": "codedailybot",
-      "Freq": 184
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 184
-    },
-    {
       "Var1": "nlognbot",
-      "Freq": 175
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 161
+      "Freq": 174
     },
     {
       "Var1": "redianbot",
-      "Freq": 158
+      "Freq": 164
     },
     {
       "Var1": "xaelbot",
-      "Freq": 158
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 137
+      "Freq": 162
     },
     {
       "Var1": "developersbot",
-      "Freq": 134
+      "Freq": 138
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 138
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 79
+      "Freq": 88
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 72
-    },
-    {
-      "Var1": "ProjectLearn_io",
-      "Freq": 69
+      "Freq": 80
     },
     {
       "Var1": "learn__together",
-      "Freq": 64
+      "Freq": 76
+    },
+    {
+      "Var1": "ProjectLearn_io",
+      "Freq": 71
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 65
     },
     {
       "Var1": "chidambara09",
       "Freq": 63
     },
     {
-      "Var1": "femtech_",
-      "Freq": 63
-    },
-    {
       "Var1": "cybersec_feeds",
-      "Freq": 59
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 54
+      "Freq": 57
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 53
+      "Freq": 57
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 55
     },
     {
       "Var1": "rstats4ds",
