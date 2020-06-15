@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6054,
-      "average_tweets_per_hour": 252,
-      "tweeters_today": 1589,
-      "total_likes_today": 4281
+      "total_tweets_today": 5968,
+      "average_tweets_per_hour": 249,
+      "tweeters_today": 1616,
+      "total_likes_today": 4125
     }
   ],
   "top20_hashtags": [
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 210
+    },
+    {
       "Var1": "ML AI MachineLearning BigData DataScience IoT RStats JavaScript ReactJS",
-      "Freq": 189
+      "Freq": 184
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 169
+      "Freq": 168
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 158
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 157
+      "Freq": 150
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning",
@@ -30,11 +30,7 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 120
-    },
-    {
-      "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
-      "Freq": 110
+      "Freq": 123
     },
     {
       "Var1": "Database DeepLearning Analytics DataScience AI",
@@ -42,31 +38,35 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 85
+      "Freq": 89
+    },
+    {
+      "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
+      "Freq": 83
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT",
-      "Freq": 80
+      "Freq": 81
     },
     {
       "Var1": "Azure MSSQLServer BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 77
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 75
-    },
-    {
-      "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
-      "Freq": 61
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
-      "Freq": 56
+      "Freq": 71
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 55
+      "Freq": 64
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 64
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
+      "Freq": 63
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI Cloud",
+      "Freq": 58
     },
     {
       "Var1": "Programming BigData Analytics DataScience AI",
@@ -74,103 +74,103 @@
     },
     {
       "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
-      "Freq": 49
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 47
-    },
-    {
-      "Var1": "AI ArtificialIntelligence MachineLearning DeepLearning",
-      "Freq": 44
+      "Freq": 51
     },
     {
       "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 43
+    },
+    {
+      "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
+      "Freq": 43
+    },
+    {
+      "Var1": "AI ArtificialIntelligence MachineLearning DeepLearning",
+      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 376
+      "Freq": 369
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 186
-    },
-    {
-      "Var1": "codedailybot",
-      "Freq": 177
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 173
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 167
+      "Freq": 180
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 161
+      "Freq": 178
+    },
+    {
+      "Var1": "codedailybot",
+      "Freq": 166
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 166
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 160
     },
     {
       "Var1": "redianbot",
-      "Freq": 155
+      "Freq": 149
     },
     {
       "Var1": "xaelbot",
-      "Freq": 153
-    },
-    {
-      "Var1": "developersbot",
-      "Freq": 129
+      "Freq": 145
     },
     {
       "Var1": "Taieb_Bot",
       "Freq": 127
     },
     {
+      "Var1": "developersbot",
+      "Freq": 122
+    },
+    {
       "Var1": "ServerlessFan",
-      "Freq": 81
+      "Freq": 82
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 73
+      "Freq": 67
     },
     {
       "Var1": "learn__together",
-      "Freq": 66
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 63
+      "Freq": 65
     },
     {
       "Var1": "ProjectLearn_io",
-      "Freq": 63
+      "Freq": 60
     },
     {
       "Var1": "TheCuriousLuke",
+      "Freq": 58
+    },
+    {
+      "Var1": "femtech_",
       "Freq": 56
     },
     {
-      "Var1": "cybersec_feeds",
-      "Freq": 53
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 53
-    },
-    {
       "Var1": "_reactdev",
-      "Freq": 52
+      "Freq": 53
     },
     {
       "Var1": "tidyversetweets",
+      "Freq": 49
+    },
+    {
+      "Var1": "LinuxDreams",
       "Freq": 48
+    },
+    {
+      "Var1": "cybersec_feeds",
+      "Freq": 46
     }
   ],
-  "top10_tweets_like": ["15 Free Online Classes You Can Take at Harvard Right Now. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/uTXibgtPh7 https://t.co/Rb2vYwOVWi", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/QzqPLwzpg4", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/Zkdrv3uS47", "infer v0.5.2 is now on CRAN!🎉 A grammar for statistical inference that aligns with tidy principles—in this release, new test statistics and vignettes, improved warnings/errors, and more.🙂 #rstats https://t.co/CPBpC94lQD https://t.co/gcHpznuOph", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/n21CXJ1Gsw", "Why TikTok made its user so Obsessive? The AI Algorithm that got you hooked \n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #IoT #RStats #JavaScript #ReactJS #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #Coding  #ArtificialIntelligence #unity #gamedev #TikTok https://t.co/rKrt52PFPW", "The Google Cloud Developer's Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/PfsaYmZqcR https://t.co/KXQ69nBcEM", "✍️ 🤖 \"Classifying: Introduction to Machine Learning in the Tidyverse\"\n\n👤 Alison Presmanes Hill @apreshill; Garrett Grolemund @StatGarrett\n\nhttps://t.co/8Rs48HMvQ0\n#rstats", "✍️🔤🧹 \"PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes | Julia Silge\"\n\n👤 Julia Silge @juliasilge \n\nhttps://t.co/W35AUxExXI\n#rstats https://t.co/0aZvwYLo1B", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Cg9dGLxBWY"],
-  "top10_tweets_retweet": ["15 Free Online Classes You Can Take at Harvard Right Now. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/uTXibgtPh7 https://t.co/Rb2vYwOVWi", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/QzqPLwzpg4", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/Zkdrv3uS47", "infer v0.5.2 is now on CRAN!🎉 A grammar for statistical inference that aligns with tidy principles—in this release, new test statistics and vignettes, improved warnings/errors, and more.🙂 #rstats https://t.co/CPBpC94lQD https://t.co/gcHpznuOph", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/n21CXJ1Gsw", "Why TikTok made its user so Obsessive? The AI Algorithm that got you hooked \n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #IoT #RStats #JavaScript #ReactJS #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #Coding  #ArtificialIntelligence #unity #gamedev #TikTok https://t.co/rKrt52PFPW", "The Google Cloud Developer's Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/PfsaYmZqcR https://t.co/KXQ69nBcEM", "✍️ 🤖 \"Classifying: Introduction to Machine Learning in the Tidyverse\"\n\n👤 Alison Presmanes Hill @apreshill; Garrett Grolemund @StatGarrett\n\nhttps://t.co/8Rs48HMvQ0\n#rstats", "✍️🔤🧹 \"PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes | Julia Silge\"\n\n👤 Julia Silge @juliasilge \n\nhttps://t.co/W35AUxExXI\n#rstats https://t.co/0aZvwYLo1B", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Cg9dGLxBWY"]
+  "top10_tweets_like": ["15 Free Online Classes You Can Take at Harvard Right Now. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/uTXibgtPh7 https://t.co/Rb2vYwOVWi", "infer v0.5.2 is now on CRAN!🎉 A grammar for statistical inference that aligns with tidy principles—in this release, new test statistics and vignettes, improved warnings/errors, and more.🙂 #rstats https://t.co/CPBpC94lQD https://t.co/gcHpznuOph", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/Zkdrv3uS47", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/n21CXJ1Gsw", "Why TikTok made its user so Obsessive? The AI Algorithm that got you hooked \n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #IoT #RStats #JavaScript #ReactJS #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #Coding  #ArtificialIntelligence #unity #gamedev #TikTok https://t.co/rKrt52PFPW", "The Google Cloud Developer's Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/PfsaYmZqcR https://t.co/KXQ69nBcEM", "✍️ 🤖 \"Classifying: Introduction to Machine Learning in the Tidyverse\"\n\n👤 Alison Presmanes Hill @apreshill; Garrett Grolemund @StatGarrett\n\nhttps://t.co/8Rs48HMvQ0\n#rstats", "✍️🔤🧹 \"PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes | Julia Silge\"\n\n👤 Julia Silge @juliasilge \n\nhttps://t.co/W35AUxExXI\n#rstats https://t.co/0aZvwYLo1B", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Cg9dGLxBWY", "TransCoder: Facebook’s Unsupervised #Programming Language Translator. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode \nhttps://t.co/lpYgKYaozI https://t.co/OlLOQ7ODTe"],
+  "top10_tweets_retweet": ["15 Free Online Classes You Can Take at Harvard Right Now. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/uTXibgtPh7 https://t.co/Rb2vYwOVWi", "infer v0.5.2 is now on CRAN!🎉 A grammar for statistical inference that aligns with tidy principles—in this release, new test statistics and vignettes, improved warnings/errors, and more.🙂 #rstats https://t.co/CPBpC94lQD https://t.co/gcHpznuOph", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/Zkdrv3uS47", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/n21CXJ1Gsw", "Why TikTok made its user so Obsessive? The AI Algorithm that got you hooked \n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #IoT #RStats #JavaScript #ReactJS #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #Coding  #ArtificialIntelligence #unity #gamedev #TikTok https://t.co/rKrt52PFPW", "The Google Cloud Developer's Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/PfsaYmZqcR https://t.co/KXQ69nBcEM", "✍️ 🤖 \"Classifying: Introduction to Machine Learning in the Tidyverse\"\n\n👤 Alison Presmanes Hill @apreshill; Garrett Grolemund @StatGarrett\n\nhttps://t.co/8Rs48HMvQ0\n#rstats", "✍️🔤🧹 \"PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes | Julia Silge\"\n\n👤 Julia Silge @juliasilge \n\nhttps://t.co/W35AUxExXI\n#rstats https://t.co/0aZvwYLo1B", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Cg9dGLxBWY", "TransCoder: Facebook’s Unsupervised #Programming Language Translator. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode \nhttps://t.co/lpYgKYaozI https://t.co/OlLOQ7ODTe"]
 }
