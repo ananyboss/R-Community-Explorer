@@ -1,47 +1,47 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6908,
-      "average_tweets_per_hour": 288,
-      "tweeters_today": 2075,
-      "total_likes_today": 6173
+      "total_tweets_today": 6926,
+      "average_tweets_per_hour": 289,
+      "tweeters_today": 2036,
+      "total_likes_today": 6089
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 245
+      "Freq": 249
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 154
+      "Freq": 134
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 144
-    },
-    {
-      "Var1": "Python rstats java javascript 100DaysOfCode ReactJS AWS",
-      "Freq": 116
+      "Freq": 128
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 113
+      "Freq": 117
     },
     {
-      "Var1": "Rstats",
-      "Freq": 107
+      "Var1": "Python rstats java javascript 100DaysOfCode ReactJS AWS",
+      "Freq": 117
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 104
+      "Freq": 108
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 96
+      "Var1": "Rstats",
+      "Freq": 103
     },
     {
       "Var1": "CoronaWarnApp rstats",
+      "Freq": 94
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 92
     },
     {
@@ -50,7 +50,7 @@
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 77
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -61,16 +61,16 @@
       "Freq": 69
     },
     {
+      "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
+      "Freq": 68
+    },
+    {
       "Var1": "MachineLearning theinsaneapp ML AI BigData DataScience",
       "Freq": 68
     },
     {
-      "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
-      "Freq": 65
-    },
-    {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 62
+      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -85,92 +85,92 @@
       "Freq": 55
     },
     {
-      "Var1": "IPython Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 55
+      "Var1": "AI BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 533
+      "Freq": 543
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 240
+      "Freq": 252
     },
     {
       "Var1": "codedailybot",
-      "Freq": 205
+      "Freq": 203
     },
     {
       "Var1": "xaelbot",
-      "Freq": 184
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 179
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 175
+      "Freq": 185
     },
     {
       "Var1": "chidambara09",
-      "Freq": 165
+      "Freq": 184
     },
     {
-      "Var1": "developersbot",
-      "Freq": 159
+      "Var1": "nlognbot",
+      "Freq": 178
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 176
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 151
+      "Freq": 171
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 163
     },
     {
       "Var1": "ndroid_techk",
-      "Freq": 150
+      "Freq": 158
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 133
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 112
+      "Freq": 137
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 106
+      "Freq": 109
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 107
     },
     {
       "Var1": "learn__together",
-      "Freq": 84
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 79
+      "Freq": 85
     },
     {
       "Var1": "femtech_",
-      "Freq": 71
+      "Freq": 79
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 71
+      "Var1": "rstats4ds",
+      "Freq": 77
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 67
+      "Freq": 72
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 68
     },
     {
       "Var1": "ProjectLearn_io",
-      "Freq": 62
+      "Freq": 63
     },
     {
       "Var1": "_reactdev",
-      "Freq": 55
+      "Freq": 60
     }
   ],
-  "top10_tweets_like": ["I realize I'm probably the last horse crossing the finish line here but... can we talk about with() and pipe-unfriendly functions???\n\nmtcars %&gt;%\n    with(lm(mpg ~ hp)) %&gt;%\n    summary()\n\nSoooo satisfying! 🤩\n\n#rstats", "Nice - the German #CoronaWarnApp not only provides open source code for the app itself, but also open #rstats code for the analyses and assumptions: https://t.co/2RYTh7YLrm\n\n+1 for #transparency and #openscience 👏 https://t.co/C0MlWff9s9", "Software Engineer : Movies v/s real life⁣\n😆😅⁣\n\n#Python #rstats #java #javascript #100DaysOfCode #ReactJS #AWS #CloudComputing #HTML #Serverless #cybersecurity #DataScientist #Linux #Coding #Programming https://t.co/crBaFra7oC", "Oh my GOSH! 😮\n\nI just discovered how to easily calculate and visualize ALL potential study combinations in a meta-analysis!\n\nIn my new blogpost I walk through how to do this in #Rstats via a Graphical display Of Study Heterogeneity (GOSH) plot https://t.co/Dskh8QFwzx", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/3zJHpfOfjq", "Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "Esse é um mapa animado que criei com a evolução da covid para o Interior do estado de Minas Gerais. Os dados são do https://t.co/IMdwcgEBNR (@turicas). \n\nO tutorial para reproduzir o mapa em R você pode acessar aqui https://t.co/X5JtYap0Kf\n#maps #rstats #covid #ggplot https://t.co/rCq9qcphDb", "There are several analytical decisions to be made in the course of performing a meta-analysis, which influence outcomes and conclusions. \n\nOne such decision is which studies to include. \n\nHere's how to calculate and visualize ALL possible study combinations in #Rstats [THREAD] https://t.co/qkf6EBQEeA", "‼️rayshader update v0.17.1! The `render_points()` &amp; `render_path()` functions now work w/ data that have lat/long info but no altitude (e.g. animal tracks, biking/running data). Just pass the lat/long and #rayshader will auto project the data onto the surface. #rstats #rayrender https://t.co/X7wYtF8w5e", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o"],
-  "top10_tweets_retweet": ["I realize I'm probably the last horse crossing the finish line here but... can we talk about with() and pipe-unfriendly functions???\n\nmtcars %&gt;%\n    with(lm(mpg ~ hp)) %&gt;%\n    summary()\n\nSoooo satisfying! 🤩\n\n#rstats", "Nice - the German #CoronaWarnApp not only provides open source code for the app itself, but also open #rstats code for the analyses and assumptions: https://t.co/2RYTh7YLrm\n\n+1 for #transparency and #openscience 👏 https://t.co/C0MlWff9s9", "Software Engineer : Movies v/s real life⁣\n😆😅⁣\n\n#Python #rstats #java #javascript #100DaysOfCode #ReactJS #AWS #CloudComputing #HTML #Serverless #cybersecurity #DataScientist #Linux #Coding #Programming https://t.co/crBaFra7oC", "Oh my GOSH! 😮\n\nI just discovered how to easily calculate and visualize ALL potential study combinations in a meta-analysis!\n\nIn my new blogpost I walk through how to do this in #Rstats via a Graphical display Of Study Heterogeneity (GOSH) plot https://t.co/Dskh8QFwzx", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/3zJHpfOfjq", "Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "Esse é um mapa animado que criei com a evolução da covid para o Interior do estado de Minas Gerais. Os dados são do https://t.co/IMdwcgEBNR (@turicas). \n\nO tutorial para reproduzir o mapa em R você pode acessar aqui https://t.co/X5JtYap0Kf\n#maps #rstats #covid #ggplot https://t.co/rCq9qcphDb", "There are several analytical decisions to be made in the course of performing a meta-analysis, which influence outcomes and conclusions. \n\nOne such decision is which studies to include. \n\nHere's how to calculate and visualize ALL possible study combinations in #Rstats [THREAD] https://t.co/qkf6EBQEeA", "‼️rayshader update v0.17.1! The `render_points()` &amp; `render_path()` functions now work w/ data that have lat/long info but no altitude (e.g. animal tracks, biking/running data). Just pass the lat/long and #rayshader will auto project the data onto the surface. #rstats #rayrender https://t.co/X7wYtF8w5e", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o"]
+  "top10_tweets_like": ["I realize I'm probably the last horse crossing the finish line here but... can we talk about with() and pipe-unfriendly functions???\n\nmtcars %&gt;%\n    with(lm(mpg ~ hp)) %&gt;%\n    summary()\n\nSoooo satisfying! 🤩\n\n#rstats", "Nice - the German #CoronaWarnApp not only provides open source code for the app itself, but also open #rstats code for the analyses and assumptions: https://t.co/2RYTh7YLrm\n\n+1 for #transparency and #openscience 👏 https://t.co/C0MlWff9s9", "Oh my GOSH! 😮\n\nI just discovered how to easily calculate and visualize ALL potential study combinations in a meta-analysis!\n\nIn my new blogpost I walk through how to do this in #Rstats via a Graphical display Of Study Heterogeneity (GOSH) plot https://t.co/Dskh8QFwzx", "Software Engineer : Movies v/s real life⁣\n😆😅⁣\n\n#Python #rstats #java #javascript #100DaysOfCode #ReactJS #AWS #CloudComputing #HTML #Serverless #cybersecurity #DataScientist #Linux #Coding #Programming https://t.co/crBaFra7oC", "Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/3zJHpfOfjq", "Esse é um mapa animado que criei com a evolução da covid para o Interior do estado de Minas Gerais. Os dados são do https://t.co/IMdwcgEBNR (@turicas). \n\nO tutorial para reproduzir o mapa em R você pode acessar aqui https://t.co/X5JtYap0Kf\n#maps #rstats #covid #ggplot https://t.co/rCq9qcphDb", "‼️rayshader update v0.17.1! The `render_points()` &amp; `render_path()` functions now work w/ data that have lat/long info but no altitude (e.g. animal tracks, biking/running data). Just pass the lat/long and #rayshader will auto project the data onto the surface. #rstats #rayrender https://t.co/X7wYtF8w5e", "I just saved a data frame with 1M+ rows to CSV with data.table's fwrite() function and it was so fast that I didn't even perceive a pause. fread() also super quick - and does a lot more than import! #rstats #rdatatable \nhttps://t.co/sC7FkPaEEw https://t.co/PNV4aLzwec", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o"],
+  "top10_tweets_retweet": ["I realize I'm probably the last horse crossing the finish line here but... can we talk about with() and pipe-unfriendly functions???\n\nmtcars %&gt;%\n    with(lm(mpg ~ hp)) %&gt;%\n    summary()\n\nSoooo satisfying! 🤩\n\n#rstats", "Nice - the German #CoronaWarnApp not only provides open source code for the app itself, but also open #rstats code for the analyses and assumptions: https://t.co/2RYTh7YLrm\n\n+1 for #transparency and #openscience 👏 https://t.co/C0MlWff9s9", "Oh my GOSH! 😮\n\nI just discovered how to easily calculate and visualize ALL potential study combinations in a meta-analysis!\n\nIn my new blogpost I walk through how to do this in #Rstats via a Graphical display Of Study Heterogeneity (GOSH) plot https://t.co/Dskh8QFwzx", "Software Engineer : Movies v/s real life⁣\n😆😅⁣\n\n#Python #rstats #java #javascript #100DaysOfCode #ReactJS #AWS #CloudComputing #HTML #Serverless #cybersecurity #DataScientist #Linux #Coding #Programming https://t.co/crBaFra7oC", "Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/3zJHpfOfjq", "Esse é um mapa animado que criei com a evolução da covid para o Interior do estado de Minas Gerais. Os dados são do https://t.co/IMdwcgEBNR (@turicas). \n\nO tutorial para reproduzir o mapa em R você pode acessar aqui https://t.co/X5JtYap0Kf\n#maps #rstats #covid #ggplot https://t.co/rCq9qcphDb", "‼️rayshader update v0.17.1! The `render_points()` &amp; `render_path()` functions now work w/ data that have lat/long info but no altitude (e.g. animal tracks, biking/running data). Just pass the lat/long and #rayshader will auto project the data onto the surface. #rstats #rayrender https://t.co/X7wYtF8w5e", "I just saved a data frame with 1M+ rows to CSV with data.table's fwrite() function and it was so fast that I didn't even perceive a pause. fread() also super quick - and does a lot more than import! #rstats #rdatatable \nhttps://t.co/sC7FkPaEEw https://t.co/PNV4aLzwec", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o"]
 }
