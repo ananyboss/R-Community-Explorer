@@ -1,47 +1,51 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6399,
-      "average_tweets_per_hour": 267,
-      "tweeters_today": 1483,
-      "total_likes_today": 3941
+      "total_tweets_today": 6368,
+      "average_tweets_per_hour": 265,
+      "tweeters_today": 1442,
+      "total_likes_today": 3977
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 246
+      "Freq": 250
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 240
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 129
+      "Freq": 237
     },
     {
       "Var1": "MachineLearning Azure BigData Analytics DataScience AI IoT IIoT PyTorch",
       "Freq": 118
     },
     {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 107
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 93
+      "Freq": 106
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 92
+      "Freq": 91
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT",
-      "Freq": 78
+      "Freq": 80
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 75
+    },
+    {
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
+      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 63
-    },
-    {
-      "Var1": "DataScience",
       "Freq": 63
     },
     {
@@ -49,20 +53,20 @@
       "Freq": 61
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 60
-    },
-    {
       "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
-      "Freq": 59
-    },
-    {
-      "Var1": "js4shiny rstats",
-      "Freq": 57
+      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 51
+      "Freq": 53
+    },
+    {
+      "Var1": "js4shiny rstats",
+      "Freq": 52
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 50
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
@@ -73,104 +77,100 @@
       "Freq": 48
     },
     {
-      "Var1": "RStats",
-      "Freq": 48
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 48
-    },
-    {
       "Var1": "OpenSource GeoSpatial Python Books BigData Analytics DataScience IoT IIoT RStats",
       "Freq": 45
     },
     {
-      "Var1": "CoronaWarnApp rstats",
-      "Freq": 43
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch",
+      "Freq": 45
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python",
+      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 577
+      "Freq": 581
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 262
-    },
-    {
-      "Var1": "redianbot",
-      "Freq": 198
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 198
+      "Freq": 268
     },
     {
       "Var1": "ndroid_techk",
-      "Freq": 193
+      "Freq": 192
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 192
+    },
+    {
+      "Var1": "redianbot",
+      "Freq": 191
     },
     {
       "Var1": "nlognbot",
-      "Freq": 190
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 190
-    },
-    {
-      "Var1": "codedailybot",
       "Freq": 188
     },
     {
-      "Var1": "developersbot",
-      "Freq": 172
+      "Var1": "codedailybot",
+      "Freq": 186
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 182
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 164
+      "Freq": 176
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 169
     },
     {
       "Var1": "chidambara09",
-      "Freq": 158
+      "Freq": 166
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 144
+      "Freq": 143
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 114
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 85
+      "Freq": 116
     },
     {
       "Var1": "learn__together",
-      "Freq": 82
+      "Freq": 84
     },
     {
-      "Var1": "ProjectLearn_io",
-      "Freq": 77
+      "Var1": "rstats4ds",
+      "Freq": 80
     },
     {
       "Var1": "femtech_",
-      "Freq": 73
+      "Freq": 79
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 70
+      "Freq": 77
+    },
+    {
+      "Var1": "ProjectLearn_io",
+      "Freq": 75
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 67
+      "Freq": 65
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 58
+      "Freq": 59
     }
   ],
-  "top10_tweets_like": ["Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "Help us out #rstats: If you see quality R content on here from someone from an under-represented group, be sure to give them a signal boost by bringing it to the attention of @rweekly_org. \n\nNote we have a quote of the week section so that qualifies R related memes and quips.", "Classifying Shakespeare Plays with Networks. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/a5yf2fh6Uo https://t.co/ey25cgWeeQ", "Just ran final exam for 160 @unimelb Research Methods students who’d never used #Rstats before. Maths/Stats colleagues said it’ll never work. Online pivot in Week 3 to keep it interesting. Today all but 2 students submitted their glorious final exams in R Markdown! #YesTheyCanR", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/pKzOqmzkTP", "If I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/MA2r2LEMFK https://t.co/iLmPmdNlpy", "Applying Anomaly Detection with Autoencoders to Fraud Detection. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/ftNtWqh0Ff https://t.co/TZpmubDgkP"],
-  "top10_tweets_retweet": ["Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "Help us out #rstats: If you see quality R content on here from someone from an under-represented group, be sure to give them a signal boost by bringing it to the attention of @rweekly_org. \n\nNote we have a quote of the week section so that qualifies R related memes and quips.", "Classifying Shakespeare Plays with Networks. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/a5yf2fh6Uo https://t.co/ey25cgWeeQ", "Just ran final exam for 160 @unimelb Research Methods students who’d never used #Rstats before. Maths/Stats colleagues said it’ll never work. Online pivot in Week 3 to keep it interesting. Today all but 2 students submitted their glorious final exams in R Markdown! #YesTheyCanR", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/pKzOqmzkTP", "If I Had to Start #DataScience Again, How Would I Do It? #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/MA2r2LEMFK https://t.co/iLmPmdNlpy", "Applying Anomaly Detection with Autoencoders to Fraud Detection. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/ftNtWqh0Ff https://t.co/TZpmubDgkP"]
+  "top10_tweets_like": ["Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/pKzOqmzkTP", "Classifying Shakespeare Plays with Networks. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/a5yf2fh6Uo https://t.co/ey25cgWeeQ", "Help us out #rstats: If you see quality R content on here from someone from an under-represented group, be sure to give them a signal boost by bringing it to the attention of @rweekly_org. \n\nNote we have a quote of the week section so that qualifies R related memes and quips.", "Just ran final exam for 160 @unimelb Research Methods students who’d never used #Rstats before. Maths/Stats colleagues said it’ll never work. Online pivot in Week 3 to keep it interesting. Today all but 2 students submitted their glorious final exams in R Markdown! #YesTheyCanR", "Started to learn @GoogleEarth Engine and did this website comparing #airpollution #satellite values in 2019 &amp; 2020. Still lots to learn but so much fun! 🛰️🌍🏭\n\n👉 https://t.co/vu8pTfQBqW\n\n#geospatial #rstats #earthobservations @davidmeza1 @Steven_Ramage @Data4SDGs @SpaceApps https://t.co/SdGg073VOJ", "Time Series in 5-Minutes, Part 2: Autocorrelation and Cross Correlation  {https://t.co/qrN3rj1IKP} #rstats #DataScience"],
+  "top10_tweets_retweet": ["Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/pKzOqmzkTP", "Classifying Shakespeare Plays with Networks. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/a5yf2fh6Uo https://t.co/ey25cgWeeQ", "Help us out #rstats: If you see quality R content on here from someone from an under-represented group, be sure to give them a signal boost by bringing it to the attention of @rweekly_org. \n\nNote we have a quote of the week section so that qualifies R related memes and quips.", "Just ran final exam for 160 @unimelb Research Methods students who’d never used #Rstats before. Maths/Stats colleagues said it’ll never work. Online pivot in Week 3 to keep it interesting. Today all but 2 students submitted their glorious final exams in R Markdown! #YesTheyCanR", "Started to learn @GoogleEarth Engine and did this website comparing #airpollution #satellite values in 2019 &amp; 2020. Still lots to learn but so much fun! 🛰️🌍🏭\n\n👉 https://t.co/vu8pTfQBqW\n\n#geospatial #rstats #earthobservations @davidmeza1 @Steven_Ramage @Data4SDGs @SpaceApps https://t.co/SdGg073VOJ", "Time Series in 5-Minutes, Part 2: Autocorrelation and Cross Correlation  {https://t.co/qrN3rj1IKP} #rstats #DataScience"]
 }
