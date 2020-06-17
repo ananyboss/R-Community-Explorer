@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6654,
-      "average_tweets_per_hour": 277,
-      "tweeters_today": 1658,
-      "total_likes_today": 4852
+      "total_tweets_today": 6454,
+      "average_tweets_per_hour": 269,
+      "tweeters_today": 1601,
+      "total_likes_today": 4668
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 283
+      "Freq": 273
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 268
+      "Freq": 253
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -25,48 +25,40 @@
       "Freq": 101
     },
     {
+      "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
+      "Freq": 100
+    },
+    {
       "Var1": "rstats DataScience",
-      "Freq": 95
+      "Freq": 97
     },
     {
       "Var1": "MachineLearning Azure BigData Analytics DataScience AI IoT IIoT PyTorch",
       "Freq": 94
     },
     {
-      "Var1": "DataScience Libraries Books BigData Analytics IoT IIoT PyTorch Python RStats",
-      "Freq": 92
-    },
-    {
       "Var1": "AI BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 81
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 74
-    },
-    {
-      "Var1": "CoronaWarnApp rstats",
-      "Freq": 71
-    },
-    {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT",
-      "Freq": 69
+      "Freq": 73
     },
     {
       "Var1": "js4shiny rstats",
-      "Freq": 65
+      "Freq": 69
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 60
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 66
+    },
+    {
+      "Var1": "CoronaWarnApp rstats",
+      "Freq": 59
     },
     {
       "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
       "Freq": 59
-    },
-    {
-      "Var1": "Rstats",
-      "Freq": 56
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -75,6 +67,14 @@
     {
       "Var1": "Python rstats java javascript 100DaysOfCode ReactJS AWS",
       "Freq": 54
+    },
+    {
+      "Var1": "Rstats",
+      "Freq": 54
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 53
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IIoT RStats TensorFlow",
@@ -92,85 +92,85 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 621
+      "Freq": 588
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 281
+      "Freq": 273
     },
     {
       "Var1": "ndroid_techk",
-      "Freq": 247
+      "Freq": 246
     },
     {
       "Var1": "codedailybot",
-      "Freq": 207
+      "Freq": 197
     },
     {
       "Var1": "xaelbot",
-      "Freq": 199
+      "Freq": 195
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 196
+      "Freq": 191
     },
     {
       "Var1": "nlognbot",
-      "Freq": 189
+      "Freq": 184
     },
     {
       "Var1": "chidambara09",
-      "Freq": 178
-    },
-    {
-      "Var1": "CodeGnuts",
       "Freq": 175
     },
     {
+      "Var1": "CodeGnuts",
+      "Freq": 170
+    },
+    {
       "Var1": "developersbot",
-      "Freq": 172
+      "Freq": 170
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 147
+      "Freq": 146
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 128
+      "Freq": 123
     },
     {
       "Var1": "learn__together",
-      "Freq": 97
+      "Freq": 90
     },
     {
       "Var1": "femtech_",
-      "Freq": 87
+      "Freq": 86
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 80
+      "Freq": 79
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 76
+      "Freq": 78
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 73
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 62
+      "Freq": 71
     },
     {
       "Var1": "_reactdev",
-      "Freq": 61
+      "Freq": 59
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 58
     },
     {
       "Var1": "ProjectLearn_io",
       "Freq": 56
     }
   ],
-  "top10_tweets_like": ["Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "I just saved a data frame with 1M+ rows to CSV with data.table's fwrite() function and it was so fast that I didn't even perceive a pause. fread() also super quick - and does a lot more than import! #rstats #rdatatable \nhttps://t.co/sC7FkPaEEw https://t.co/PNV4aLzwec", "‼️rayshader update v0.17.1! The `render_points()` &amp; `render_path()` functions now work w/ data that have lat/long info but no altitude (e.g. animal tracks, biking/running data). Just pass the lat/long and #rayshader will auto project the data onto the surface. #rstats #rayrender https://t.co/X7wYtF8w5e", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o", "ggplot2 Text Customization with ggtext | Data Visualization in R  {https://t.co/2SpWsW8jgH} #rstats #DataScience", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "🔹New🔹 Tutorial on how to use #d3js in an #rstats workflow. Starting with public @StatsBomb data I show step-by-step how to produce dynamic passing &amp; carry transition heatmaps for Lionel Messi.\n\nhttps://t.co/Qq2v6fNS6Z"],
-  "top10_tweets_retweet": ["Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "I just saved a data frame with 1M+ rows to CSV with data.table's fwrite() function and it was so fast that I didn't even perceive a pause. fread() also super quick - and does a lot more than import! #rstats #rdatatable \nhttps://t.co/sC7FkPaEEw https://t.co/PNV4aLzwec", "‼️rayshader update v0.17.1! The `render_points()` &amp; `render_path()` functions now work w/ data that have lat/long info but no altitude (e.g. animal tracks, biking/running data). Just pass the lat/long and #rayshader will auto project the data onto the surface. #rstats #rayrender https://t.co/X7wYtF8w5e", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o", "ggplot2 Text Customization with ggtext | Data Visualization in R  {https://t.co/2SpWsW8jgH} #rstats #DataScience", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "🔹New🔹 Tutorial on how to use #d3js in an #rstats workflow. Starting with public @StatsBomb data I show step-by-step how to produce dynamic passing &amp; carry transition heatmaps for Lionel Messi.\n\nhttps://t.co/Qq2v6fNS6Z"]
+  "top10_tweets_like": ["Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "I just saved a data frame with 1M+ rows to CSV with data.table's fwrite() function and it was so fast that I didn't even perceive a pause. fread() also super quick - and does a lot more than import! #rstats #rdatatable \nhttps://t.co/sC7FkPaEEw https://t.co/PNV4aLzwec", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o", "ggplot2 Text Customization with ggtext | Data Visualization in R  {https://t.co/2SpWsW8jgH} #rstats #DataScience", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "🔹New🔹 Tutorial on how to use #d3js in an #rstats workflow. Starting with public @StatsBomb data I show step-by-step how to produce dynamic passing &amp; carry transition heatmaps for Lionel Messi.\n\nhttps://t.co/Qq2v6fNS6Z", "#AI Landscape — Great Articles and Research Papers. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/XhqfPImBZW https://t.co/t68Uh7RbKl"],
+  "top10_tweets_retweet": ["Thanks to #js4shiny I FINALLY fully wrapped my head around making my own proper #rstats shiny input binding! 🎉 You can even specify colors! 💅 Feel free to test it out here: https://t.co/9EtqBjdOvN https://t.co/bvwfkHMSmP", "I just saved a data frame with 1M+ rows to CSV with data.table's fwrite() function and it was so fast that I didn't even perceive a pause. fread() also super quick - and does a lot more than import! #rstats #rdatatable \nhttps://t.co/sC7FkPaEEw https://t.co/PNV4aLzwec", "A Curated List of #DataScience Frameworks, #Libraries, and #Books. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/dgGXuVGJv6 https://t.co/C3n94XE24o", "ggplot2 Text Customization with ggtext | Data Visualization in R  {https://t.co/2SpWsW8jgH} #rstats #DataScience", "Introduction to dplyr  {https://t.co/SD7Nsp5var} #rstats #DataScience", "Where U.S. coronavirus cases are on the rise. geo_facet() everywhere I turn #rstats https://t.co/c7CJaQvxHM https://t.co/TapDF6ysN5", "Analytics improves the quality of your questions. Statistics improves the quality of your answers.\n\nLearn more: https://t.co/BdgLtEM8i7\n\n#analytics #statistics #rstats #DataScience\n\nhttps://t.co/iabSolmG3D", "Hi #Rstats,#ggplot2 #rspatial  twitter. Want to quickly get colors for your plots and maps? I use palette_explorer() by Martijn Tennekes. With this function you call an awesome shiny app that lets you choose colors for different cases and provides the corresponding code. Outtake: https://t.co/9RkdI8CKb7", "🔹New🔹 Tutorial on how to use #d3js in an #rstats workflow. Starting with public @StatsBomb data I show step-by-step how to produce dynamic passing &amp; carry transition heatmaps for Lionel Messi.\n\nhttps://t.co/Qq2v6fNS6Z", "#AI Landscape — Great Articles and Research Papers. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/XhqfPImBZW https://t.co/t68Uh7RbKl"]
 }
