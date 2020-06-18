@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6883,
-      "average_tweets_per_hour": 287,
-      "tweeters_today": 1606,
-      "total_likes_today": 5460
+      "total_tweets_today": 6822,
+      "average_tweets_per_hour": 284,
+      "tweeters_today": 1616,
+      "total_likes_today": 5521
     }
   ],
   "top20_hashtags": [
@@ -14,42 +14,46 @@
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch",
-      "Freq": 172
+      "Freq": 156
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 121
     },
     {
       "Var1": "ML AI MachineLearning RStats JavaScript ReactJS CloudComputing Serverless WomenWhoCode Linux 100DaysOfCode",
       "Freq": 120
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 118
-    },
-    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 114
-    },
-    {
-      "Var1": "Rstats",
-      "Freq": 99
+      "Freq": 117
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 95
+      "Freq": 104
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 77
+      "Var1": "Rstats",
+      "Freq": 97
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats Java",
+      "Freq": 79
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript ReactJS",
-      "Freq": 77
+      "Freq": 78
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats TensorFlow JavaScript",
-      "Freq": 72
+      "Freq": 73
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats",
+      "Freq": 66
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 65
     },
     {
@@ -57,8 +61,12 @@
       "Freq": 65
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats Java",
-      "Freq": 61
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 58
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 56
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -69,58 +77,46 @@
       "Freq": 54
     },
     {
+      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats TensorFlow JavaScript ReactJS",
+      "Freq": 54
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 53
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 53
-    },
-    {
-      "Var1": "ECU Autonomous Algorithms emobility Futures SelfDrivingCars BigData Analytics",
-      "Freq": 52
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats TensorFlow JavaScript ReactJS",
-      "Freq": 52
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode",
       "Freq": 51
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 575
+      "Freq": 549
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 311
+      "Freq": 298
     },
     {
       "Var1": "nlognbot",
-      "Freq": 213
-    },
-    {
-      "Var1": "xaelbot",
       "Freq": 207
     },
     {
-      "Var1": "theInfernobot",
-      "Freq": 200
+      "Var1": "CodeGnuts",
+      "Freq": 205
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 203
     },
     {
       "Var1": "codedailybot",
-      "Freq": 199
+      "Freq": 202
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 188
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 171
+      "Var1": "theInfernobot",
+      "Freq": 192
     },
     {
       "Var1": "developersbot",
@@ -128,27 +124,31 @@
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 161
+      "Freq": 158
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 154
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 155
+      "Freq": 151
     },
     {
       "Var1": "AltBot4",
-      "Freq": 127
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 92
+      "Freq": 120
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 91
+      "Freq": 93
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 90
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 88
+      "Freq": 83
     },
     {
       "Var1": "learn__together",
@@ -156,7 +156,7 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 79
+      "Freq": 76
     },
     {
       "Var1": "ProjectLearn_io",
@@ -171,6 +171,6 @@
       "Freq": 69
     }
   ],
-  "top10_tweets_like": ["The ISO country code for Namibia is NA, which has been a hilariously frustrating discovery I made while coding today #rstats", "Cuando el código te da ánimos! 😁\n#RstatsEs #RStats https://t.co/7flGIczAcS", "Hey y'all!\n\nI'm very happy to introduce `hordes`, a module that makes R available from NodeJS!\n\nRepo: https://t.co/0lJgeV6w2D\n\nBlogpost: https://t.co/qfiLgXj0s3\n\n#RStats #NodeJS #RinProd https://t.co/sZNb3BFXBa", "When I need to practice a new #rstats function (in this case, pivot_longer/pivot_wider) I use it in a few Stack Overflow answers\n\nLike #tidytuesday, SO is good at providing a stream of novel challenges https://t.co/e1QrxHTIDO", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/7MwkXC6ZBH", "A very short introduction to Tidyverse  {https://t.co/cKP0fs8FjH} #rstats #DataScience", "me looking for the person responsible for the trouble in my code #RStats https://t.co/sAoJWJLgJl https://t.co/PGNNVZxznh", "{unglue} 0.1 is on CRAN!\nIntuitive text extraction inspired by glue's convenient syntax, like glue in reverse.\nWelcome new `unglue_sub()` function to replace different substrings in different ways (might remind you of gsubfn).\n+ minor bug fixes and improvements\n#rstats https://t.co/wsEyL14Tcn", "New #rstats blog post on creating a Bayesian prior for children's books ratings from 1-5 stars! 📚\n\nIncredibly hard to pack so much into one post, but the animation showing shrinkage is verrrrry satisfying 👇\n\nhttps://t.co/ttP90oV331 https://t.co/QPxVFX1tU9"],
-  "top10_tweets_retweet": ["The ISO country code for Namibia is NA, which has been a hilariously frustrating discovery I made while coding today #rstats", "Cuando el código te da ánimos! 😁\n#RstatsEs #RStats https://t.co/7flGIczAcS", "Hey y'all!\n\nI'm very happy to introduce `hordes`, a module that makes R available from NodeJS!\n\nRepo: https://t.co/0lJgeV6w2D\n\nBlogpost: https://t.co/qfiLgXj0s3\n\n#RStats #NodeJS #RinProd https://t.co/sZNb3BFXBa", "When I need to practice a new #rstats function (in this case, pivot_longer/pivot_wider) I use it in a few Stack Overflow answers\n\nLike #tidytuesday, SO is good at providing a stream of novel challenges https://t.co/e1QrxHTIDO", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/7MwkXC6ZBH", "A very short introduction to Tidyverse  {https://t.co/cKP0fs8FjH} #rstats #DataScience", "me looking for the person responsible for the trouble in my code #RStats https://t.co/sAoJWJLgJl https://t.co/PGNNVZxznh", "{unglue} 0.1 is on CRAN!\nIntuitive text extraction inspired by glue's convenient syntax, like glue in reverse.\nWelcome new `unglue_sub()` function to replace different substrings in different ways (might remind you of gsubfn).\n+ minor bug fixes and improvements\n#rstats https://t.co/wsEyL14Tcn", "New #rstats blog post on creating a Bayesian prior for children's books ratings from 1-5 stars! 📚\n\nIncredibly hard to pack so much into one post, but the animation showing shrinkage is verrrrry satisfying 👇\n\nhttps://t.co/ttP90oV331 https://t.co/QPxVFX1tU9"]
+  "top10_tweets_like": ["The ISO country code for Namibia is NA, which has been a hilariously frustrating discovery I made while coding today #rstats", "Cuando el código te da ánimos! 😁\n#RstatsEs #RStats https://t.co/7flGIczAcS", "Hey y'all!\n\nI'm very happy to introduce `hordes`, a module that makes R available from NodeJS!\n\nRepo: https://t.co/0lJgeV6w2D\n\nBlogpost: https://t.co/qfiLgXj0s3\n\n#RStats #NodeJS #RinProd https://t.co/sZNb3BFXBa", "When I need to practice a new #rstats function (in this case, pivot_longer/pivot_wider) I use it in a few Stack Overflow answers\n\nLike #tidytuesday, SO is good at providing a stream of novel challenges https://t.co/e1QrxHTIDO", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/7MwkXC6ZBH", "A very short introduction to Tidyverse  {https://t.co/cKP0fs8FjH} #rstats #DataScience", "me looking for the person responsible for the trouble in my code #RStats https://t.co/sAoJWJLgJl https://t.co/PGNNVZxznh", "New #rstats blog post on creating a Bayesian prior for children's books ratings from 1-5 stars! 📚\n\nIncredibly hard to pack so much into one post, but the animation showing shrinkage is verrrrry satisfying 👇\n\nhttps://t.co/ttP90oV331 https://t.co/QPxVFX1tU9", "Free eBook: #Python . #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/1m3VVH0A2R https://t.co/M40toAZR6I"],
+  "top10_tweets_retweet": ["The ISO country code for Namibia is NA, which has been a hilariously frustrating discovery I made while coding today #rstats", "Cuando el código te da ánimos! 😁\n#RstatsEs #RStats https://t.co/7flGIczAcS", "Hey y'all!\n\nI'm very happy to introduce `hordes`, a module that makes R available from NodeJS!\n\nRepo: https://t.co/0lJgeV6w2D\n\nBlogpost: https://t.co/qfiLgXj0s3\n\n#RStats #NodeJS #RinProd https://t.co/sZNb3BFXBa", "When I need to practice a new #rstats function (in this case, pivot_longer/pivot_wider) I use it in a few Stack Overflow answers\n\nLike #tidytuesday, SO is good at providing a stream of novel challenges https://t.co/e1QrxHTIDO", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/7MwkXC6ZBH", "A very short introduction to Tidyverse  {https://t.co/cKP0fs8FjH} #rstats #DataScience", "me looking for the person responsible for the trouble in my code #RStats https://t.co/sAoJWJLgJl https://t.co/PGNNVZxznh", "New #rstats blog post on creating a Bayesian prior for children's books ratings from 1-5 stars! 📚\n\nIncredibly hard to pack so much into one post, but the animation showing shrinkage is verrrrry satisfying 👇\n\nhttps://t.co/ttP90oV331 https://t.co/QPxVFX1tU9", "Free eBook: #Python . #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/1m3VVH0A2R https://t.co/M40toAZR6I"]
 }
