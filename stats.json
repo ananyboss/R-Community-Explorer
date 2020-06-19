@@ -1,52 +1,48 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7028,
-      "average_tweets_per_hour": 293,
-      "tweeters_today": 1846,
-      "total_likes_today": 5751
+      "total_tweets_today": 6866,
+      "average_tweets_per_hour": 286,
+      "tweeters_today": 1854,
+      "total_likes_today": 5901
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 240
+      "Freq": 230
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 202
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 200
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 184
-    },
-    {
       "Var1": "Rstats",
-      "Freq": 155
-    },
-    {
-      "Var1": "ML AI MachineLearning RStats JavaScript ReactJS CloudComputing Serverless WomenWhoCode Linux 100DaysOfCode",
-      "Freq": 125
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch",
-      "Freq": 104
+      "Freq": 157
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats Java",
       "Freq": 96
     },
     {
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch",
+      "Freq": 90
+    },
+    {
       "Var1": "BigData Analytics DataScience",
       "Freq": 88
     },
     {
-      "Var1": "Books Jupyter BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
       "Freq": 85
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 83
+      "Var1": "Books Jupyter BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 85
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -54,7 +50,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 65
+      "Freq": 66
+    },
+    {
+      "Var1": "ML AI MachineLearning RStats JavaScript ReactJS CloudComputing Serverless WomenWhoCode Linux 100DaysOfCode",
+      "Freq": 66
     },
     {
       "Var1": "rstats ecology",
@@ -73,104 +73,104 @@
       "Freq": 60
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 56
-    },
-    {
       "Var1": "Python Data DeepLearning",
       "Freq": 52
+    },
+    {
+      "Var1": "MachineLearning ReinforcementLearning BigData Analytics DataScience AI IoT",
+      "Freq": 50
     },
     {
       "Var1": "Regression Udemy Linux IoT programming",
       "Freq": 50
     },
     {
-      "Var1": "MachineLearning ReinforcementLearning BigData Analytics DataScience AI IoT",
-      "Freq": 49
+      "Var1": "rstats DataScience",
+      "Freq": 50
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 582
+      "Freq": 571
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 308
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 216
+      "Freq": 288
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 210
+      "Freq": 208
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 208
     },
     {
       "Var1": "nlognbot",
-      "Freq": 201
+      "Freq": 193
     },
     {
       "Var1": "codedailybot",
-      "Freq": 182
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 178
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 178
+      "Freq": 184
     },
     {
       "Var1": "chidambara09",
-      "Freq": 165
+      "Freq": 181
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 175
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 165
+      "Freq": 162
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 155
     },
     {
       "Var1": "developersbot",
-      "Freq": 145
+      "Freq": 140
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 103
+      "Freq": 115
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 103
-    },
-    {
-      "Var1": "learn__together",
-      "Freq": 81
+      "Freq": 99
     },
     {
       "Var1": "femtech_",
-      "Freq": 79
+      "Freq": 82
     },
     {
-      "Var1": "ServerlessFan",
+      "Var1": "learn__together",
       "Freq": 77
     },
     {
+      "Var1": "ServerlessFan",
+      "Freq": 76
+    },
+    {
       "Var1": "TheDeveloperBot",
+      "Freq": 71
+    },
+    {
+      "Var1": "LinuxDreams",
       "Freq": 68
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 66
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 66
+      "Freq": 67
     },
     {
       "Var1": "ProjectLearn_io",
-      "Freq": 66
+      "Freq": 64
     }
   ],
-  "top10_tweets_like": ["Wait for the end. Harsh Reality. 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming https://t.co/P6b9AV2wsT", "Fixing bugs in your #Rstats script https://t.co/VTUENg3kpH", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "modelscript: a (very) little @rstudio addin that will create a new R script for you, with a template for modelling tasks. Made it for myself while following along to @juliasilge 's excellent tidymodels tutorials, so thought I'd share. #rstats https://t.co/C4jB2184JR https://t.co/OGVRb6GMuK", "Interested in learning how to analyse complex multivariate data using #rstats &amp; the vegan 📦 ?\n\nSign up for this free webinar on July 9th, 2020 to learn about\n\n* fitting RDAs, CCAs, …\n* restricted permutation tests, &amp;\n* analysing experimental data\n\nhttps://t.co/BkSsLVGDbW", "👀 Slides from my talk at #eRum2020 about testing Shiny are available at https://t.co/ZXZhwpf3wo 👀\n\n#RStats #RinProd", "Trans-Atlantic slave trade for this #TidyTuesday \n\ncode: https://t.co/FSZ9PCuMnj\n\n#dataviz #RStats https://t.co/wJEJlUEdHx", "🎉🎉🎉 #rstats 📦 {treeheatr} has landed on CRAN. 🚀\n\nI have learned so much throughout this process and am excited to learn more!\n\nhttps://t.co/AkVtUpaxYX\n\nHT @moorejh \n\n#dataviz #machinelearning #visualization #heatmap #decisiontrees #treeheatr", "Want to get started using the #rstats vegan 📦 for community #ecology &amp; multivariate data analysis?\n\nSign up for this free webinar on July 7th, 2020\n\nhttps://t.co/i1zLe20xOi", "4 #Books with #Jupyter Notebooks for Machine Learning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/vuUCFaYMoC https://t.co/GkEcwOGCsS"],
-  "top10_tweets_retweet": ["Wait for the end. Harsh Reality. 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming https://t.co/P6b9AV2wsT", "Fixing bugs in your #Rstats script https://t.co/VTUENg3kpH", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "modelscript: a (very) little @rstudio addin that will create a new R script for you, with a template for modelling tasks. Made it for myself while following along to @juliasilge 's excellent tidymodels tutorials, so thought I'd share. #rstats https://t.co/C4jB2184JR https://t.co/OGVRb6GMuK", "Interested in learning how to analyse complex multivariate data using #rstats &amp; the vegan 📦 ?\n\nSign up for this free webinar on July 9th, 2020 to learn about\n\n* fitting RDAs, CCAs, …\n* restricted permutation tests, &amp;\n* analysing experimental data\n\nhttps://t.co/BkSsLVGDbW", "👀 Slides from my talk at #eRum2020 about testing Shiny are available at https://t.co/ZXZhwpf3wo 👀\n\n#RStats #RinProd", "Trans-Atlantic slave trade for this #TidyTuesday \n\ncode: https://t.co/FSZ9PCuMnj\n\n#dataviz #RStats https://t.co/wJEJlUEdHx", "🎉🎉🎉 #rstats 📦 {treeheatr} has landed on CRAN. 🚀\n\nI have learned so much throughout this process and am excited to learn more!\n\nhttps://t.co/AkVtUpaxYX\n\nHT @moorejh \n\n#dataviz #machinelearning #visualization #heatmap #decisiontrees #treeheatr", "Want to get started using the #rstats vegan 📦 for community #ecology &amp; multivariate data analysis?\n\nSign up for this free webinar on July 7th, 2020\n\nhttps://t.co/i1zLe20xOi", "4 #Books with #Jupyter Notebooks for Machine Learning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/vuUCFaYMoC https://t.co/GkEcwOGCsS"]
+  "top10_tweets_like": ["Wait for the end. Harsh Reality. 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming https://t.co/P6b9AV2wsT", "Fixing bugs in your #Rstats script https://t.co/VTUENg3kpH", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "modelscript: a (very) little @rstudio addin that will create a new R script for you, with a template for modelling tasks. Made it for myself while following along to @juliasilge 's excellent tidymodels tutorials, so thought I'd share. #rstats https://t.co/C4jB2184JR https://t.co/OGVRb6GMuK", "I am pleased to announce {tidybayes} AND {ggdist} 2.1.1: I have split the {tidybayes} #rstats package in two! {tidybayes} will focus on bayes stuff, and {ggdist} on uncertainty vis\n\nRead more on this (and other) changes here: https://t.co/8xaJ3txfXa\n\nor in this thread... https://t.co/Zyiksercun", "🎉🎉🎉 #rstats 📦 {treeheatr} has landed on CRAN. 🚀\n\nI have learned so much throughout this process and am excited to learn more!\n\nhttps://t.co/AkVtUpaxYX\n\nHT @moorejh \n\n#dataviz #machinelearning #visualization #heatmap #decisiontrees #treeheatr", "Interested in learning how to analyse complex multivariate data using #rstats &amp; the vegan 📦 ?\n\nSign up for this free webinar on July 9th, 2020 to learn about\n\n* fitting RDAs, CCAs, …\n* restricted permutation tests, &amp;\n* analysing experimental data\n\nhttps://t.co/BkSsLVGDbW", "Trans-Atlantic slave trade for this #TidyTuesday \n\ncode: https://t.co/FSZ9PCuMnj\n\n#dataviz #RStats https://t.co/wJEJlUEdHx", "👀 Slides from my talk at #eRum2020 about testing Shiny are available at https://t.co/ZXZhwpf3wo 👀\n\n#RStats #RinProd", "Want to get started using the #rstats vegan 📦 for community #ecology &amp; multivariate data analysis?\n\nSign up for this free webinar on July 7th, 2020\n\nhttps://t.co/i1zLe20xOi"],
+  "top10_tweets_retweet": ["Wait for the end. Harsh Reality. 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming https://t.co/P6b9AV2wsT", "Fixing bugs in your #Rstats script https://t.co/VTUENg3kpH", "PROTIP: If you want to cite the #Rstats packages that you use in your analysis, and you should because developers put a lot of work into these things, just use the \"citation()\" function.\n\nFor example, to find the citation for the {pwr} package, you would write this ⤵️ https://t.co/0lH0rCcyCv", "modelscript: a (very) little @rstudio addin that will create a new R script for you, with a template for modelling tasks. Made it for myself while following along to @juliasilge 's excellent tidymodels tutorials, so thought I'd share. #rstats https://t.co/C4jB2184JR https://t.co/OGVRb6GMuK", "I am pleased to announce {tidybayes} AND {ggdist} 2.1.1: I have split the {tidybayes} #rstats package in two! {tidybayes} will focus on bayes stuff, and {ggdist} on uncertainty vis\n\nRead more on this (and other) changes here: https://t.co/8xaJ3txfXa\n\nor in this thread... https://t.co/Zyiksercun", "🎉🎉🎉 #rstats 📦 {treeheatr} has landed on CRAN. 🚀\n\nI have learned so much throughout this process and am excited to learn more!\n\nhttps://t.co/AkVtUpaxYX\n\nHT @moorejh \n\n#dataviz #machinelearning #visualization #heatmap #decisiontrees #treeheatr", "Interested in learning how to analyse complex multivariate data using #rstats &amp; the vegan 📦 ?\n\nSign up for this free webinar on July 9th, 2020 to learn about\n\n* fitting RDAs, CCAs, …\n* restricted permutation tests, &amp;\n* analysing experimental data\n\nhttps://t.co/BkSsLVGDbW", "Trans-Atlantic slave trade for this #TidyTuesday \n\ncode: https://t.co/FSZ9PCuMnj\n\n#dataviz #RStats https://t.co/wJEJlUEdHx", "👀 Slides from my talk at #eRum2020 about testing Shiny are available at https://t.co/ZXZhwpf3wo 👀\n\n#RStats #RinProd", "Want to get started using the #rstats vegan 📦 for community #ecology &amp; multivariate data analysis?\n\nSign up for this free webinar on July 7th, 2020\n\nhttps://t.co/i1zLe20xOi"]
 }
