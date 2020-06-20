@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6166,
-      "average_tweets_per_hour": 257,
-      "tweeters_today": 1401,
-      "total_likes_today": 4490
+      "total_tweets_today": 6110,
+      "average_tweets_per_hour": 255,
+      "tweeters_today": 1382,
+      "total_likes_today": 4485
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 272
+      "Freq": 280
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -18,11 +18,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 137
+      "Freq": 130
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 135
+      "Freq": 127
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript ReactJS",
@@ -33,16 +33,24 @@
       "Freq": 115
     },
     {
+      "Var1": "Python Mathematics BigData Analytics DataScience AI MachineLearning",
+      "Freq": 100
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 104
+      "Freq": 97
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats",
-      "Freq": 103
+      "Freq": 79
     },
     {
-      "Var1": "Python Mathematics BigData Analytics DataScience AI MachineLearning",
-      "Freq": 100
+      "Var1": "Mpgvip defstar5 makeyourownlane smm Marketing innovation",
+      "Freq": 76
+    },
+    {
+      "Var1": "Python Data DeepLearning",
+      "Freq": 76
     },
     {
       "Var1": "Azure BigData Analytics DataScience IoT IIoT NLProc",
@@ -53,74 +61,66 @@
       "Freq": 70
     },
     {
-      "Var1": "Python Data DeepLearning",
-      "Freq": 69
-    },
-    {
-      "Var1": "Mpgvip defstar5 makeyourownlane smm Marketing innovation",
-      "Freq": 67
-    },
-    {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 65
-    },
-    {
-      "Var1": "WebDev BigData MachineLearning masterclass Data Analytics",
-      "Freq": 63
+      "Freq": 66
     },
     {
       "Var1": "bigdata dataScientist dataScience Linux FRENCHtech",
-      "Freq": 61
+      "Freq": 62
+    },
+    {
+      "Var1": "WebDev BigData MachineLearning masterclass Data Analytics",
+      "Freq": 62
     },
     {
       "Var1": "MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS Linux Programming",
       "Freq": 61
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 56
-    },
-    {
       "Var1": "MachineLearning PySpark BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 50
+      "Freq": 53
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT",
-      "Freq": 50
+      "Freq": 52
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 51
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 371
+      "Freq": 363
     },
     {
       "Var1": "codedailybot",
-      "Freq": 220
+      "Freq": 221
     },
     {
       "Var1": "LlnuxBot",
       "Freq": 215
     },
     {
+      "Var1": "theInfernobot",
+      "Freq": 202
+    },
+    {
       "Var1": "mayuri_gurjar",
       "Freq": 201
     },
     {
-      "Var1": "theInfernobot",
-      "Freq": 200
-    },
-    {
       "Var1": "nlognbot",
-      "Freq": 189
+      "Freq": 190
     },
     {
       "Var1": "xaelbot",
-      "Freq": 180
+      "Freq": 186
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 177
+      "Freq": 172
     },
     {
       "Var1": "chidambara09",
@@ -128,11 +128,11 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 135
+      "Freq": 136
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 119
+      "Freq": 117
     },
     {
       "Var1": "ServerlessFan",
@@ -140,19 +140,19 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 71
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 67
+      "Freq": 70
     },
     {
       "Var1": "ProjectLearn_io",
+      "Freq": 68
+    },
+    {
+      "Var1": "TheDeveloperBot",
       "Freq": 66
     },
     {
       "Var1": "femtech_",
-      "Freq": 62
+      "Freq": 64
     },
     {
       "Var1": "nodeQuotesBot",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 54
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 52
+      "Freq": 55
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 51
+      "Freq": 53
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 52
     }
   ],
-  "top10_tweets_like": ["Say you have a list of studies that you'd like to cite in a paper. It's important to check that none of these studies have been retracted, but manually going through a long list can take time. \n\nHere's how to check for retractions with a few lines of #Rstats code\n\n[MINI-THREAD] https://t.co/felqVHIuni", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/CHMTTnMnhV", "Neural Networks from Scratch with #Python Code and #Mathematics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Tk6dNJ0iar https://t.co/ypRGjX92Hh", "Use anglr 📦 to orient and plot your spatial data anyway you like in an interactive scene, raster, vector, terrains, image textures, in real world coordinates and any map projection\nExamples on gh wiki linked here\n#rstats #rgl https://t.co/F7x9XUjbnl", "At one point in every #rstats developer's life, they learn so much about a single topic that they could fill a book with their expertise. \n\nSadly, this is my book. https://t.co/k1ZNTrRctp", "Need a 3rd dimension in your #ggplot output?\n\nVideo attached of work-in-progress on {devoutrgl}. This is why I wanted {zstdlite}.\n\nggplot(mtcars) + geom_point3d(aes(mpg, wt, z = disp, size = disp, colour = as.factor(cyl))) \n\n#RStats https://t.co/OBkjrkSDyg", "I am quite happy to know this fact.\n\n+ quite happy with the new pkgdown site for the palmerpenguins #rstats data!\n\nhttps://t.co/KDdqomzpzE\n\n+ quite happy with the new hex designed by @allison_horst \n\n(download @allison_horst's palmerpenguins art here: https://t.co/lqP1Ux287q) https://t.co/QzOwXH61vw https://t.co/QCI3olwpM6", "Visualizing Change in Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/u5ArkvZwCv https://t.co/2d1YyQj0Vf", "Free eBook: A Developer’s Guide to Building #Azure AI Applications. #BigData #Analytics #DataScience #IoT #IIoT #NLProc #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/sIu7rXFtqC", "Projecting stochastic maps for a multi-state discrete character using transparency in #phytools #rstats: https://t.co/aaDsE05eDI. https://t.co/WN2OKdqID9"],
-  "top10_tweets_retweet": ["Say you have a list of studies that you'd like to cite in a paper. It's important to check that none of these studies have been retracted, but manually going through a long list can take time. \n\nHere's how to check for retractions with a few lines of #Rstats code\n\n[MINI-THREAD] https://t.co/felqVHIuni", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/CHMTTnMnhV", "Neural Networks from Scratch with #Python Code and #Mathematics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Tk6dNJ0iar https://t.co/ypRGjX92Hh", "Use anglr 📦 to orient and plot your spatial data anyway you like in an interactive scene, raster, vector, terrains, image textures, in real world coordinates and any map projection\nExamples on gh wiki linked here\n#rstats #rgl https://t.co/F7x9XUjbnl", "At one point in every #rstats developer's life, they learn so much about a single topic that they could fill a book with their expertise. \n\nSadly, this is my book. https://t.co/k1ZNTrRctp", "Need a 3rd dimension in your #ggplot output?\n\nVideo attached of work-in-progress on {devoutrgl}. This is why I wanted {zstdlite}.\n\nggplot(mtcars) + geom_point3d(aes(mpg, wt, z = disp, size = disp, colour = as.factor(cyl))) \n\n#RStats https://t.co/OBkjrkSDyg", "I am quite happy to know this fact.\n\n+ quite happy with the new pkgdown site for the palmerpenguins #rstats data!\n\nhttps://t.co/KDdqomzpzE\n\n+ quite happy with the new hex designed by @allison_horst \n\n(download @allison_horst's palmerpenguins art here: https://t.co/lqP1Ux287q) https://t.co/QzOwXH61vw https://t.co/QCI3olwpM6", "Visualizing Change in Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/u5ArkvZwCv https://t.co/2d1YyQj0Vf", "Free eBook: A Developer’s Guide to Building #Azure AI Applications. #BigData #Analytics #DataScience #IoT #IIoT #NLProc #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/sIu7rXFtqC", "Projecting stochastic maps for a multi-state discrete character using transparency in #phytools #rstats: https://t.co/aaDsE05eDI. https://t.co/WN2OKdqID9"]
+  "top10_tweets_like": ["Say you have a list of studies that you'd like to cite in a paper. It's important to check that none of these studies have been retracted, but manually going through a long list can take time. \n\nHere's how to check for retractions with a few lines of #Rstats code\n\n[MINI-THREAD] https://t.co/felqVHIuni", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/CHMTTnMnhV", "Neural Networks from Scratch with #Python Code and #Mathematics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Tk6dNJ0iar https://t.co/ypRGjX92Hh", "Use anglr 📦 to orient and plot your spatial data anyway you like in an interactive scene, raster, vector, terrains, image textures, in real world coordinates and any map projection\nExamples on gh wiki linked here\n#rstats #rgl https://t.co/F7x9XUjbnl", "Need a 3rd dimension in your #ggplot output?\n\nVideo attached of work-in-progress on {devoutrgl}. This is why I wanted {zstdlite}.\n\nggplot(mtcars) + geom_point3d(aes(mpg, wt, z = disp, size = disp, colour = as.factor(cyl))) \n\n#RStats https://t.co/OBkjrkSDyg", "At one point in every #rstats developer's life, they learn so much about a single topic that they could fill a book with their expertise. \n\nSadly, this is my book. https://t.co/k1ZNTrRctp", "I am quite happy to know this fact.\n\n+ quite happy with the new pkgdown site for the palmerpenguins #rstats data!\n\nhttps://t.co/KDdqomzpzE\n\n+ quite happy with the new hex designed by @allison_horst \n\n(download @allison_horst's palmerpenguins art here: https://t.co/lqP1Ux287q) https://t.co/QzOwXH61vw https://t.co/QCI3olwpM6", "Visualizing Change in Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/u5ArkvZwCv https://t.co/2d1YyQj0Vf", "Free eBook: A Developer’s Guide to Building #Azure AI Applications. #BigData #Analytics #DataScience #IoT #IIoT #NLProc #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/sIu7rXFtqC", "Projecting stochastic maps for a multi-state discrete character using transparency in #phytools #rstats: https://t.co/aaDsE05eDI. https://t.co/WN2OKdqID9"],
+  "top10_tweets_retweet": ["Say you have a list of studies that you'd like to cite in a paper. It's important to check that none of these studies have been retracted, but manually going through a long list can take time. \n\nHere's how to check for retractions with a few lines of #Rstats code\n\n[MINI-THREAD] https://t.co/felqVHIuni", "Springer has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/CHMTTnMnhV", "Neural Networks from Scratch with #Python Code and #Mathematics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Tk6dNJ0iar https://t.co/ypRGjX92Hh", "Use anglr 📦 to orient and plot your spatial data anyway you like in an interactive scene, raster, vector, terrains, image textures, in real world coordinates and any map projection\nExamples on gh wiki linked here\n#rstats #rgl https://t.co/F7x9XUjbnl", "Need a 3rd dimension in your #ggplot output?\n\nVideo attached of work-in-progress on {devoutrgl}. This is why I wanted {zstdlite}.\n\nggplot(mtcars) + geom_point3d(aes(mpg, wt, z = disp, size = disp, colour = as.factor(cyl))) \n\n#RStats https://t.co/OBkjrkSDyg", "At one point in every #rstats developer's life, they learn so much about a single topic that they could fill a book with their expertise. \n\nSadly, this is my book. https://t.co/k1ZNTrRctp", "I am quite happy to know this fact.\n\n+ quite happy with the new pkgdown site for the palmerpenguins #rstats data!\n\nhttps://t.co/KDdqomzpzE\n\n+ quite happy with the new hex designed by @allison_horst \n\n(download @allison_horst's palmerpenguins art here: https://t.co/lqP1Ux287q) https://t.co/QzOwXH61vw https://t.co/QCI3olwpM6", "Visualizing Change in Neural Networks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/u5ArkvZwCv https://t.co/2d1YyQj0Vf", "Free eBook: A Developer’s Guide to Building #Azure AI Applications. #BigData #Analytics #DataScience #IoT #IIoT #NLProc #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/2AlIOOxq8M https://t.co/sIu7rXFtqC", "Projecting stochastic maps for a multi-state discrete character using transparency in #phytools #rstats: https://t.co/aaDsE05eDI. https://t.co/WN2OKdqID9"]
 }
