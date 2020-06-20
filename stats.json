@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7547,
-      "average_tweets_per_hour": 314,
-      "tweeters_today": 2012,
-      "total_likes_today": 7631
+      "total_tweets_today": 7447,
+      "average_tweets_per_hour": 310,
+      "tweeters_today": 2017,
+      "total_likes_today": 6260
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "",
-      "Freq": 509
+      "Freq": 473
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 224
+      "Freq": 210
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 155
+      "Freq": 152
     },
     {
       "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
@@ -34,10 +34,18 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 88
+      "Freq": 89
+    },
+    {
+      "Var1": "FB BigData Analytics",
+      "Freq": 74
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 73
+    },
+    {
+      "Var1": "Rstats",
       "Freq": 73
     },
     {
@@ -45,15 +53,11 @@
       "Freq": 71
     },
     {
-      "Var1": "Rstats",
-      "Freq": 71
-    },
-    {
       "Var1": "ApacheSpark BigData Analytics Hadoop IoT IIoT Python RStats",
       "Freq": 70
     },
     {
-      "Var1": "FB BigData Analytics",
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 70
     },
     {
@@ -61,28 +65,24 @@
       "Freq": 69
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 68
-    },
-    {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 62
     },
     {
       "Var1": "erum2020 rstats",
+      "Freq": 60
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI CyberSecurity",
       "Freq": 59
     },
     {
       "Var1": "MachineLearning TensorFlow BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 55
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI CyberSecurity",
-      "Freq": 54
+      "Freq": 56
     },
     {
       "Var1": "Python Data DeepLearning Analytics",
-      "Freq": 54
+      "Freq": 55
     },
     {
       "Var1": "RStats",
@@ -92,85 +92,85 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 582
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 276
+      "Freq": 572
     },
     {
       "Var1": "mayuri_gurjar",
       "Freq": 270
     },
     {
+      "Var1": "LlnuxBot",
+      "Freq": 265
+    },
+    {
       "Var1": "theInfernobot",
-      "Freq": 225
+      "Freq": 218
     },
     {
       "Var1": "xaelbot",
-      "Freq": 208
+      "Freq": 199
     },
     {
       "Var1": "nlognbot",
-      "Freq": 191
-    },
-    {
-      "Var1": "codedailybot",
       "Freq": 185
     },
     {
-      "Var1": "Taieb_Bot",
-      "Freq": 167
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 162
-    },
-    {
-      "Var1": "developersbot",
-      "Freq": 161
+      "Var1": "codedailybot",
+      "Freq": 179
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 159
+      "Freq": 164
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 160
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 158
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 151
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 143
+      "Freq": 139
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 89
+      "Freq": 85
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 80
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 79
+      "Freq": 83
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 75
-    },
-    {
-      "Var1": "TheDeveloperBot",
       "Freq": 74
     },
     {
-      "Var1": "learn__together",
-      "Freq": 71
+      "Var1": "femtech_",
+      "Freq": 72
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 69
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 67
+      "Freq": 68
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 66
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 59
+      "Freq": 57
     }
   ],
-  "top10_tweets_like": ["Wait for the end. Harsh Reality. 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming https://t.co/P6b9AV2wsT", "I am pleased to announce {tidybayes} AND {ggdist} 2.1.1: I have split the {tidybayes} #rstats package in two! {tidybayes} will focus on bayes stuff, and {ggdist} on uncertainty vis\n\nRead more on this (and other) changes here: https://t.co/8xaJ3txfXa\n\nor in this thread... https://t.co/Zyiksercun", "ggplot2 3.3.2 is now on CRAN. This is a patch release aimed at fixing regressions and issues in 3.3.0. It includes improvements to the bidirectional geom detection, moving of geom_density to the new contouring algorithm, and more. Thanks to the whole team for their work! #rstats", "Slides for my #erum2020 talk are at https://t.co/EnH7jMc4ZJ\n#rstats https://t.co/6RDRrHrYhb", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/0VPZBtAtoE", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/cPrF33wqhZ", "Successfully printed \"hello world\" 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣⁣ https://t.co/ExKANoLuHB", "✍️ \"How to Make Beautiful Tables in R\"\n\n👤 David Keyes @dgkeyes \n\nhttps://t.co/28JMAuJcZf\n#rstats https://t.co/7U95n9FPjm", "Outstanding work from #FB on reconstructing humans in 3D from single 2D images / video frames.\n\n#BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Coding #100DaysOfCode #HTML #AI #ML #4IR #Robot https://t.co/B88W74fmAY", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/6F62zvTG6I"],
-  "top10_tweets_retweet": ["Wait for the end. Harsh Reality. 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming https://t.co/P6b9AV2wsT", "I am pleased to announce {tidybayes} AND {ggdist} 2.1.1: I have split the {tidybayes} #rstats package in two! {tidybayes} will focus on bayes stuff, and {ggdist} on uncertainty vis\n\nRead more on this (and other) changes here: https://t.co/8xaJ3txfXa\n\nor in this thread... https://t.co/Zyiksercun", "ggplot2 3.3.2 is now on CRAN. This is a patch release aimed at fixing regressions and issues in 3.3.0. It includes improvements to the bidirectional geom detection, moving of geom_density to the new contouring algorithm, and more. Thanks to the whole team for their work! #rstats", "Slides for my #erum2020 talk are at https://t.co/EnH7jMc4ZJ\n#rstats https://t.co/6RDRrHrYhb", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/0VPZBtAtoE", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/cPrF33wqhZ", "Successfully printed \"hello world\" 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣⁣ https://t.co/ExKANoLuHB", "✍️ \"How to Make Beautiful Tables in R\"\n\n👤 David Keyes @dgkeyes \n\nhttps://t.co/28JMAuJcZf\n#rstats https://t.co/7U95n9FPjm", "Outstanding work from #FB on reconstructing humans in 3D from single 2D images / video frames.\n\n#BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Coding #100DaysOfCode #HTML #AI #ML #4IR #Robot https://t.co/B88W74fmAY", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/6F62zvTG6I"]
+  "top10_tweets_like": ["I am pleased to announce {tidybayes} AND {ggdist} 2.1.1: I have split the {tidybayes} #rstats package in two! {tidybayes} will focus on bayes stuff, and {ggdist} on uncertainty vis\n\nRead more on this (and other) changes here: https://t.co/8xaJ3txfXa\n\nor in this thread... https://t.co/Zyiksercun", "ggplot2 3.3.2 is now on CRAN. This is a patch release aimed at fixing regressions and issues in 3.3.0. It includes improvements to the bidirectional geom detection, moving of geom_density to the new contouring algorithm, and more. Thanks to the whole team for their work! #rstats", "Slides for my #erum2020 talk are at https://t.co/EnH7jMc4ZJ\n#rstats https://t.co/6RDRrHrYhb", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/0VPZBtAtoE", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/cPrF33wqhZ", "Successfully printed \"hello world\" 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣⁣ https://t.co/ExKANoLuHB", "✍️ \"How to Make Beautiful Tables in R\"\n\n👤 David Keyes @dgkeyes \n\nhttps://t.co/28JMAuJcZf\n#rstats https://t.co/7U95n9FPjm", "Outstanding work from #FB on reconstructing humans in 3D from single 2D images / video frames.\n\n#BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Coding #100DaysOfCode #HTML #AI #ML #4IR #Robot https://t.co/B88W74fmAY", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/6F62zvTG6I", "My #dplyr talk at #erum2020 later today will feature 🐧🐧🐧 from @allison_horst palmerpenguins #rstats 📦 https://t.co/znlqDNYNeh"],
+  "top10_tweets_retweet": ["I am pleased to announce {tidybayes} AND {ggdist} 2.1.1: I have split the {tidybayes} #rstats package in two! {tidybayes} will focus on bayes stuff, and {ggdist} on uncertainty vis\n\nRead more on this (and other) changes here: https://t.co/8xaJ3txfXa\n\nor in this thread... https://t.co/Zyiksercun", "ggplot2 3.3.2 is now on CRAN. This is a patch release aimed at fixing regressions and issues in 3.3.0. It includes improvements to the bidirectional geom detection, moving of geom_density to the new contouring algorithm, and more. Thanks to the whole team for their work! #rstats", "Slides for my #erum2020 talk are at https://t.co/EnH7jMc4ZJ\n#rstats https://t.co/6RDRrHrYhb", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/0VPZBtAtoE", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/cPrF33wqhZ", "Successfully printed \"hello world\" 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣⁣ https://t.co/ExKANoLuHB", "✍️ \"How to Make Beautiful Tables in R\"\n\n👤 David Keyes @dgkeyes \n\nhttps://t.co/28JMAuJcZf\n#rstats https://t.co/7U95n9FPjm", "Outstanding work from #FB on reconstructing humans in 3D from single 2D images / video frames.\n\n#BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Coding #100DaysOfCode #HTML #AI #ML #4IR #Robot https://t.co/B88W74fmAY", "Statistics for Beginners Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/l1eucYhezS https://t.co/6F62zvTG6I", "My #dplyr talk at #erum2020 later today will feature 🐧🐧🐧 from @allison_horst palmerpenguins #rstats 📦 https://t.co/znlqDNYNeh"]
 }
