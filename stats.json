@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6604,
-      "average_tweets_per_hour": 275,
-      "tweeters_today": 1599,
-      "total_likes_today": 5088
+      "total_tweets_today": 6519,
+      "average_tweets_per_hour": 272,
+      "tweeters_today": 1609,
+      "total_likes_today": 5042
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 201
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 208
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 188
+      "Var1": "tidyverse rstats",
+      "Freq": 207
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -26,11 +26,7 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 105
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 98
+      "Freq": 109
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -45,16 +41,20 @@
       "Freq": 76
     },
     {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 74
+    },
+    {
       "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 73
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 72
-    },
-    {
       "Var1": "BigData Analytics DataScience",
       "Freq": 71
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 66
     },
     {
       "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT PyTorch RStats",
@@ -73,30 +73,30 @@
       "Freq": 48
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 47
-    },
-    {
       "Var1": "Tableau Udemy Linux IoT programming ArtificialIntelligence",
       "Freq": 46
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
-      "Freq": 45
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 44
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
-      "Freq": 45
+      "Var1": "theinsaneapp CodeNewbie RStats javascript reactjs Serverless",
+      "Freq": 40
+    },
+    {
+      "Var1": "Udemy python R Linux IoT programming",
+      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 626
+      "Freq": 612
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 301
+      "Freq": 297
     },
     {
       "Var1": "theInfernobot",
@@ -104,27 +104,27 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 209
+      "Freq": 206
     },
     {
       "Var1": "nlognbot",
-      "Freq": 196
+      "Freq": 195
     },
     {
       "Var1": "codedailybot",
-      "Freq": 190
+      "Freq": 174
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 177
+      "Freq": 162
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 160
+      "Freq": 158
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 157
+      "Freq": 155
     },
     {
       "Var1": "chidambara09",
@@ -132,35 +132,35 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 109
+      "Freq": 111
     },
     {
       "Var1": "hubofml",
-      "Freq": 106
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 93
+      "Freq": 101
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 93
+      "Freq": 98
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 90
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 81
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 74
+      "Freq": 78
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 71
+      "Freq": 76
     },
     {
       "Var1": "AdelAbdelmene11",
       "Freq": 70
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 69
     },
     {
       "Var1": "AAbdelmenem4",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "CRANberriesFeed",
-      "Freq": 60
+      "Freq": 62
     }
   ],
-  "top10_tweets_like": ["Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1", "Why teach people in your company #rstats? So many reasons! R is:\n- Free\n- Reproducible\n- Data manipulation is easier thanks to tidyverse\n- Lots of online resources\n+ more\n- @astroeringrand https://t.co/CLbqGLCkLD", "Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "It’s easy to re-analyze *most* meta-analyses because the data you need is typically reported in forest plots. \n\nIn my new blogpost, I demonstrate how to use this data to calculate the power of each individual effect, using just a few lines of #Rstats code https://t.co/uzaL9JqMnn", "Generatives #MachineLearning, Arriving on July 9th. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/ilcdmCfpO3 https://t.co/Rsw4bSfh7u", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/2RBobYUv7m", "Link to my slides for those interested! #rstats \nhttps://t.co/DAUPAZcar8 https://t.co/P9EiYLZ00Z", "Why balancing your data set is important?  {https://t.co/NjGIdKgmZt} #rstats #DataScience"],
-  "top10_tweets_retweet": ["Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1", "Why teach people in your company #rstats? So many reasons! R is:\n- Free\n- Reproducible\n- Data manipulation is easier thanks to tidyverse\n- Lots of online resources\n+ more\n- @astroeringrand https://t.co/CLbqGLCkLD", "Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "It’s easy to re-analyze *most* meta-analyses because the data you need is typically reported in forest plots. \n\nIn my new blogpost, I demonstrate how to use this data to calculate the power of each individual effect, using just a few lines of #Rstats code https://t.co/uzaL9JqMnn", "Generatives #MachineLearning, Arriving on July 9th. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/ilcdmCfpO3 https://t.co/Rsw4bSfh7u", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/2RBobYUv7m", "Link to my slides for those interested! #rstats \nhttps://t.co/DAUPAZcar8 https://t.co/P9EiYLZ00Z", "Why balancing your data set is important?  {https://t.co/NjGIdKgmZt} #rstats #DataScience"]
+  "top10_tweets_like": ["Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1", "Why teach people in your company #rstats? So many reasons! R is:\n- Free\n- Reproducible\n- Data manipulation is easier thanks to tidyverse\n- Lots of online resources\n+ more\n- @astroeringrand https://t.co/CLbqGLCkLD", "Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "It’s easy to re-analyze *most* meta-analyses because the data you need is typically reported in forest plots. \n\nIn my new blogpost, I demonstrate how to use this data to calculate the power of each individual effect, using just a few lines of #Rstats code https://t.co/uzaL9JqMnn", "Generatives #MachineLearning, Arriving on July 9th. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/ilcdmCfpO3 https://t.co/Rsw4bSfh7u", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/2RBobYUv7m", "I have done a little exploration on comparing running linear models in #rstats, compared to t-tests, ANOVA's and ANCOVA's. \nI got some new experiences here, and hope other's find it interesting!\n\nhttps://t.co/auA0E20uDs\n\n#stats #statstwitter", "Why balancing your data set is important?  {https://t.co/NjGIdKgmZt} #rstats #DataScience"],
+  "top10_tweets_retweet": ["Spatial plotting just improved a lot in the development version of ggplot2. In a nutshell, you can now mix and match regular geoms with `geom_sf()` and `coord_sf()`. If you're doing any geospatial plotting, please test this out. 1/n\n#rstats #ggplot2 https://t.co/GBcjb6MUh1", "Why teach people in your company #rstats? So many reasons! R is:\n- Free\n- Reproducible\n- Data manipulation is easier thanks to tidyverse\n- Lots of online resources\n+ more\n- @astroeringrand https://t.co/CLbqGLCkLD", "Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "It’s easy to re-analyze *most* meta-analyses because the data you need is typically reported in forest plots. \n\nIn my new blogpost, I demonstrate how to use this data to calculate the power of each individual effect, using just a few lines of #Rstats code https://t.co/uzaL9JqMnn", "Generatives #MachineLearning, Arriving on July 9th. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/ilcdmCfpO3 https://t.co/Rsw4bSfh7u", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/2RBobYUv7m", "I have done a little exploration on comparing running linear models in #rstats, compared to t-tests, ANOVA's and ANCOVA's. \nI got some new experiences here, and hope other's find it interesting!\n\nhttps://t.co/auA0E20uDs\n\n#stats #statstwitter", "Why balancing your data set is important?  {https://t.co/NjGIdKgmZt} #rstats #DataScience"]
 }
