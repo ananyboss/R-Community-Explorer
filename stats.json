@@ -1,40 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6278,
-      "average_tweets_per_hour": 262,
-      "tweeters_today": 1503,
-      "total_likes_today": 4272
+      "total_tweets_today": 6427,
+      "average_tweets_per_hour": 268,
+      "tweeters_today": 1510,
+      "total_likes_today": 4482
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 298
+      "Freq": 321
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 237
+      "Freq": 244
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 96
-    },
-    {
-      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 96
+      "Freq": 97
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 95
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 90
+      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 93
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 88
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 83
+    },
+    {
+      "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT Python RStats TensorFlow",
+      "Freq": 70
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -50,7 +54,7 @@
     },
     {
       "Var1": "Books Jupyter BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 53
+      "Freq": 54
     },
     {
       "Var1": "ApacheSpark BigData Analytics DataScience Hadoop IoT IIoT Python",
@@ -83,64 +87,64 @@
     {
       "Var1": "theinsaneapp CodeNewbie RStats javascript reactjs Serverless",
       "Freq": 41
-    },
-    {
-      "Var1": "Udemy python R Linux IoT programming",
-      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 642
+      "Freq": 656
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 304
+      "Freq": 310
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 234
+      "Freq": 238
     },
     {
       "Var1": "xaelbot",
-      "Freq": 216
+      "Freq": 221
     },
     {
       "Var1": "nlognbot",
-      "Freq": 204
+      "Freq": 213
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 174
+      "Freq": 175
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 167
+      "Freq": 171
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 160
+      "Freq": 157
     },
     {
       "Var1": "chidambara09",
-      "Freq": 133
+      "Freq": 153
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 115
+      "Freq": 119
     },
     {
       "Var1": "codedailybot",
-      "Freq": 103
+      "Freq": 110
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 90
+      "Freq": 93
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 87
     },
     {
       "Var1": "hubofml",
-      "Freq": 86
+      "Freq": 85
     },
     {
       "Var1": "rstats4ds",
@@ -148,29 +152,25 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 75
+      "Freq": 78
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 75
+      "Var1": "femtech_",
+      "Freq": 76
     },
     {
       "Var1": "AdelAbdelmene11",
       "Freq": 70
     },
     {
+      "Var1": "LinuxDreams",
+      "Freq": 69
+    },
+    {
       "Var1": "AAbdelmenem4",
       "Freq": 67
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 67
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 66
     }
   ],
-  "top10_tweets_like": ["Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "I have done a little exploration on comparing running linear models in #rstats, compared to t-tests, ANOVA's and ANCOVA's. \nI got some new experiences here, and hope other's find it interesting!\n\nhttps://t.co/auA0E20uDs\n\n#stats #statstwitter", "Thanks to prodding from @dsquintana, I added `include_tweet()` to {tweetrmd}. Automatically embed the HTML tweet in HTML #rstats R Markdown docs or a screenshot in other formats, like PDF.\nhttps://t.co/DIyuQgGmvz https://t.co/v4JNipxXBr", "Statistical Learning Theory Part 1. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Wr1beSKzJU https://t.co/yrCcn2JUZh", "STACKOVERFLOW ... 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/YQ8sCn1pVx", "So, math notation and visual representation builds of basic statistics!  They coevolve speaking to different learning styles. Plus DRY principles for coders and a walk through of calc w num vals, for numerophiles! #ggplot2 #xaringan #flipbookr #rstats  https://t.co/JgWLxo94Ms https://t.co/ol08lMGdtD", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/7QxVLQcTiA", "Last #PhD paper out! \n\nInterested in exploring #reef #fish and #fisheries #productivity but unsure on how to? We delineate principles + 5 simple steps + provide the #rstats package #rfishprod\n\nRead the paper\nhttps://t.co/gkngTkiWH3\n\nDownload the package\nhttps://t.co/8CovHRJjJu https://t.co/57p6UUNy6C"],
-  "top10_tweets_retweet": ["Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "I have done a little exploration on comparing running linear models in #rstats, compared to t-tests, ANOVA's and ANCOVA's. \nI got some new experiences here, and hope other's find it interesting!\n\nhttps://t.co/auA0E20uDs\n\n#stats #statstwitter", "Thanks to prodding from @dsquintana, I added `include_tweet()` to {tweetrmd}. Automatically embed the HTML tweet in HTML #rstats R Markdown docs or a screenshot in other formats, like PDF.\nhttps://t.co/DIyuQgGmvz https://t.co/v4JNipxXBr", "Statistical Learning Theory Part 1. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Wr1beSKzJU https://t.co/yrCcn2JUZh", "STACKOVERFLOW ... 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/YQ8sCn1pVx", "So, math notation and visual representation builds of basic statistics!  They coevolve speaking to different learning styles. Plus DRY principles for coders and a walk through of calc w num vals, for numerophiles! #ggplot2 #xaringan #flipbookr #rstats  https://t.co/JgWLxo94Ms https://t.co/ol08lMGdtD", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/7QxVLQcTiA", "Last #PhD paper out! \n\nInterested in exploring #reef #fish and #fisheries #productivity but unsure on how to? We delineate principles + 5 simple steps + provide the #rstats package #rfishprod\n\nRead the paper\nhttps://t.co/gkngTkiWH3\n\nDownload the package\nhttps://t.co/8CovHRJjJu https://t.co/57p6UUNy6C"]
+  "top10_tweets_like": ["A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "How Much Math Do I Need in #DataScience? #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/zjdp16p1Ng https://t.co/qWcB4uO48m", "I have done a little exploration on comparing running linear models in #rstats, compared to t-tests, ANOVA's and ANCOVA's. \nI got some new experiences here, and hope other's find it interesting!\n\nhttps://t.co/auA0E20uDs\n\n#stats #statstwitter", "Thanks to prodding from @dsquintana, I added `include_tweet()` to {tweetrmd}. Automatically embed the HTML tweet in HTML #rstats R Markdown docs or a screenshot in other formats, like PDF.\nhttps://t.co/DIyuQgGmvz https://t.co/v4JNipxXBr", "Statistical Learning Theory Part 1. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Wr1beSKzJU https://t.co/yrCcn2JUZh", "STACKOVERFLOW ... 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/YQ8sCn1pVx", "So, math notation and visual representation builds of basic statistics!  They coevolve speaking to different learning styles. Plus DRY principles for coders and a walk through of calc w num vals, for numerophiles! #ggplot2 #xaringan #flipbookr #rstats  https://t.co/JgWLxo94Ms https://t.co/ol08lMGdtD", "Last #PhD paper out! \n\nInterested in exploring #reef #fish and #fisheries #productivity but unsure on how to? We delineate principles + 5 simple steps + provide the #rstats package #rfishprod\n\nRead the paper\nhttps://t.co/gkngTkiWH3\n\nDownload the package\nhttps://t.co/8CovHRJjJu https://t.co/57p6UUNy6C"],
+  "top10_tweets_retweet": ["A new version of {recipes} is on CRAN!\n\n Read about the changes at: https://t.co/Qs3ROhqvJk\n\n#rstats https://t.co/EL434bsdLx", "Introduction to Gradient Decent. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/iGiB21O4so https://t.co/1xAwDrXRYp", "Finally uploaded my Intro to {tidymodels} w/ @nflscrapR / @nflfastR play-by-play presentation from #HANIC!\n\nhttps://t.co/qF0IqD2IcM\n\nReally appreciate @StatsbyLopez for the invite\n\n@AlisonL &amp; @MeghanChayka for hosting us!\n\nSlides/code: https://t.co/qXBhGgM0jD\n\n#rstats #tidyverse", "How Much Math Do I Need in #DataScience? #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/zjdp16p1Ng https://t.co/qWcB4uO48m", "I have done a little exploration on comparing running linear models in #rstats, compared to t-tests, ANOVA's and ANCOVA's. \nI got some new experiences here, and hope other's find it interesting!\n\nhttps://t.co/auA0E20uDs\n\n#stats #statstwitter", "Thanks to prodding from @dsquintana, I added `include_tweet()` to {tweetrmd}. Automatically embed the HTML tweet in HTML #rstats R Markdown docs or a screenshot in other formats, like PDF.\nhttps://t.co/DIyuQgGmvz https://t.co/v4JNipxXBr", "Statistical Learning Theory Part 1. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Wr1beSKzJU https://t.co/yrCcn2JUZh", "STACKOVERFLOW ... 😎⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/YQ8sCn1pVx", "So, math notation and visual representation builds of basic statistics!  They coevolve speaking to different learning styles. Plus DRY principles for coders and a walk through of calc w num vals, for numerophiles! #ggplot2 #xaringan #flipbookr #rstats  https://t.co/JgWLxo94Ms https://t.co/ol08lMGdtD", "Last #PhD paper out! \n\nInterested in exploring #reef #fish and #fisheries #productivity but unsure on how to? We delineate principles + 5 simple steps + provide the #rstats package #rfishprod\n\nRead the paper\nhttps://t.co/gkngTkiWH3\n\nDownload the package\nhttps://t.co/8CovHRJjJu https://t.co/57p6UUNy6C"]
 }
