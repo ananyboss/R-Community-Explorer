@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5431,
-      "average_tweets_per_hour": 226,
-      "tweeters_today": 1447,
-      "total_likes_today": 4854
+      "total_tweets_today": 5290,
+      "average_tweets_per_hour": 220,
+      "tweeters_today": 1436,
+      "total_likes_today": 4505
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 236
+      "Var1": "tidyverse rstats",
+      "Freq": 235
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 230
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 191
     },
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT Python RStats TensorFlow",
@@ -22,27 +22,23 @@
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats TensorFlow",
-      "Freq": 103
+      "Freq": 107
     },
     {
       "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 96
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats Java",
-      "Freq": 93
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 89
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 83
+      "Freq": 78
     },
     {
       "Var1": "RStats",
       "Freq": 78
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 72
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 58
     },
     {
       "Var1": "theinsaneapp programmers RStats javascript reactjs Serverless WomenWhoCode Linux",
@@ -57,12 +53,16 @@
       "Freq": 54
     },
     {
-      "Var1": "PhD reef fish fisheries productivity",
-      "Freq": 54
+      "Var1": "rstats DataScience",
+      "Freq": 53
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 52
+      "Var1": "PhD reef fish fisheries productivity",
+      "Freq": 51
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats Java",
+      "Freq": 49
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI",
@@ -71,10 +71,6 @@
     {
       "Var1": "theinsaneapp ML AI MachineLearning RStats javascript",
       "Freq": 46
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 45
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT DevOps Python",
@@ -87,90 +83,94 @@
     {
       "Var1": "Tests Udemy AI IoT ReactJS Python BigData",
       "Freq": 40
+    },
+    {
+      "Var1": "MachineLearning AI COVID19 BigData Analytics DataScience IoT IIoT",
+      "Freq": 39
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 571
+      "Freq": 565
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 205
+      "Freq": 191
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 176
+      "Freq": 167
     },
     {
       "Var1": "xaelbot",
-      "Freq": 156
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 144
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 138
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 137
+      "Freq": 147
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 135
+      "Freq": 141
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 140
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 137
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 131
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 134
+      "Freq": 121
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 120
+      "Freq": 117
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 98
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 79
+      "Freq": 99
     },
     {
       "Var1": "femtech_",
       "Freq": 76
     },
     {
-      "Var1": "anglehernandez",
-      "Freq": 74
+      "Var1": "TheDeveloperBot",
+      "Freq": 76
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 64
+      "Var1": "anglehernandez",
+      "Freq": 68
     },
     {
       "Var1": "codedailybot",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 60
+      "Freq": 62
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 57
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 50
+      "Freq": 48
     },
     {
-      "Var1": "_codenewbiebot",
+      "Var1": "learn__together",
       "Freq": 45
     },
     {
-      "Var1": "CRANberriesFeed",
-      "Freq": 43
+      "Var1": "_codenewbiebot",
+      "Freq": 44
     }
   ],
-  "top10_tweets_like": ["🚨New #rstats package for network enthusiasts!\nPlot your networks with a handrawn-like appearance. \nScientifically not very useful, but fun! 😜\nhttps://t.co/O62txLxmrf https://t.co/sJNlsqAd5M", "Last #PhD paper out! \n\nInterested in exploring #reef #fish and #fisheries #productivity but unsure on how to? We delineate principles + 5 simple steps + provide the #rstats package #rfishprod\n\nRead the paper\nhttps://t.co/gkngTkiWH3\n\nDownload the package\nhttps://t.co/8CovHRJjJu https://t.co/57p6UUNy6C", "How Much Math Do I Need in #DataScience? #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/zjdp16p1Ng https://t.co/qWcB4uO48m", "Springer Has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/mJD1cEnPTL", "Do you still run into folks who claim that you can't run R in production apps? Well the State of California just made their COVID-19 data available to the public in a Shiny app with interactive visualizations.\n\nhttps://t.co/YoUHf361Nn\n\n#SeriousDataScience #rstats", "😁 Programmers can do anything\n\n#theinsaneapp #programmers #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #Coding #freeCodeCamp #Instagram\n\nCc: @CuriousCheck https://t.co/FxDhCCVHMU", "If you enjoy my work and is intrigued about using R for art you should check out the work and writings of @djnavarro, @W_R_Chase, and @aschinchon #rstats https://t.co/QDBvNOwksM", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/7QxVLQcTiA", "By far, I found out the material format from the rmdformats package is the most popular one when I deliver the #rstats reports, especially if you integrate it with .tabset to create multiple tabs on the same page and avoid long scrolling pages.  \n\nhttps://t.co/nusBAY3dKt https://t.co/lIDGX1ETaP", "Quick thread for the #RStats folks, especially @hadleywickham @dataandme and @thomasp85. So I sorta wanted to use R in making the documentary. And the results were pretty good. This is done primarily with #gganimate 1/ https://t.co/gNEIqR9mCV"],
-  "top10_tweets_retweet": ["🚨New #rstats package for network enthusiasts!\nPlot your networks with a handrawn-like appearance. \nScientifically not very useful, but fun! 😜\nhttps://t.co/O62txLxmrf https://t.co/sJNlsqAd5M", "Last #PhD paper out! \n\nInterested in exploring #reef #fish and #fisheries #productivity but unsure on how to? We delineate principles + 5 simple steps + provide the #rstats package #rfishprod\n\nRead the paper\nhttps://t.co/gkngTkiWH3\n\nDownload the package\nhttps://t.co/8CovHRJjJu https://t.co/57p6UUNy6C", "How Much Math Do I Need in #DataScience? #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/zjdp16p1Ng https://t.co/qWcB4uO48m", "Springer Has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/mJD1cEnPTL", "Do you still run into folks who claim that you can't run R in production apps? Well the State of California just made their COVID-19 data available to the public in a Shiny app with interactive visualizations.\n\nhttps://t.co/YoUHf361Nn\n\n#SeriousDataScience #rstats", "😁 Programmers can do anything\n\n#theinsaneapp #programmers #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #Coding #freeCodeCamp #Instagram\n\nCc: @CuriousCheck https://t.co/FxDhCCVHMU", "If you enjoy my work and is intrigued about using R for art you should check out the work and writings of @djnavarro, @W_R_Chase, and @aschinchon #rstats https://t.co/QDBvNOwksM", "Free Book – Guide to Competitive #Programming. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Coding #100DaysofCode \nhttps://t.co/ApDhsN5tEj https://t.co/7QxVLQcTiA", "By far, I found out the material format from the rmdformats package is the most popular one when I deliver the #rstats reports, especially if you integrate it with .tabset to create multiple tabs on the same page and avoid long scrolling pages.  \n\nhttps://t.co/nusBAY3dKt https://t.co/lIDGX1ETaP", "Quick thread for the #RStats folks, especially @hadleywickham @dataandme and @thomasp85. So I sorta wanted to use R in making the documentary. And the results were pretty good. This is done primarily with #gganimate 1/ https://t.co/gNEIqR9mCV"]
+  "top10_tweets_like": ["🚨New #rstats package for network enthusiasts!\nPlot your networks with a handrawn-like appearance. \nScientifically not very useful, but fun! 😜\nhttps://t.co/O62txLxmrf https://t.co/sJNlsqAd5M", "How Much Math Do I Need in #DataScience? #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/zjdp16p1Ng https://t.co/qWcB4uO48m", "Do you still run into folks who claim that you can't run R in production apps? Well the State of California just made their COVID-19 data available to the public in a Shiny app with interactive visualizations.\n\nhttps://t.co/YoUHf361Nn\n\n#SeriousDataScience #rstats", "Springer Has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/mJD1cEnPTL", "😁 Programmers can do anything\n\n#theinsaneapp #programmers #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #Coding #freeCodeCamp #Instagram\n\nCc: @CuriousCheck https://t.co/FxDhCCVHMU", "If you enjoy my work and is intrigued about using R for art you should check out the work and writings of @djnavarro, @W_R_Chase, and @aschinchon #rstats https://t.co/QDBvNOwksM", "By far, I found out the material format from the rmdformats package is the most popular one when I deliver the #rstats reports, especially if you integrate it with .tabset to create multiple tabs on the same page and avoid long scrolling pages.  \n\nhttps://t.co/nusBAY3dKt https://t.co/lIDGX1ETaP", "Plotting traitgrams for a set of phylogenetic trees (e.g., a Bayesian posterior distribution) using #phytools #rstats: https://t.co/2bIwHPZ8hz. https://t.co/QtWAJaLIkp", "Quick thread for the #RStats folks, especially @hadleywickham @dataandme and @thomasp85. So I sorta wanted to use R in making the documentary. And the results were pretty good. This is done primarily with #gganimate 1/ https://t.co/gNEIqR9mCV", "Today I compiled the list of YouTube videos I used throughout last quarter in my graduate level regression course. Hopefully this might help others thinking about moving their courses online. #statistics #linearregression #gradstats #rstats #psychstats https://t.co/Opvu9FWBz7"],
+  "top10_tweets_retweet": ["🚨New #rstats package for network enthusiasts!\nPlot your networks with a handrawn-like appearance. \nScientifically not very useful, but fun! 😜\nhttps://t.co/O62txLxmrf https://t.co/sJNlsqAd5M", "How Much Math Do I Need in #DataScience? #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/zjdp16p1Ng https://t.co/qWcB4uO48m", "Do you still run into folks who claim that you can't run R in production apps? Well the State of California just made their COVID-19 data available to the public in a Shiny app with interactive visualizations.\n\nhttps://t.co/YoUHf361Nn\n\n#SeriousDataScience #rstats", "Springer Has Released 65 #DataScience #Books for Free. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ywbtnftvrF https://t.co/mJD1cEnPTL", "😁 Programmers can do anything\n\n#theinsaneapp #programmers #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #Coding #freeCodeCamp #Instagram\n\nCc: @CuriousCheck https://t.co/FxDhCCVHMU", "If you enjoy my work and is intrigued about using R for art you should check out the work and writings of @djnavarro, @W_R_Chase, and @aschinchon #rstats https://t.co/QDBvNOwksM", "By far, I found out the material format from the rmdformats package is the most popular one when I deliver the #rstats reports, especially if you integrate it with .tabset to create multiple tabs on the same page and avoid long scrolling pages.  \n\nhttps://t.co/nusBAY3dKt https://t.co/lIDGX1ETaP", "Plotting traitgrams for a set of phylogenetic trees (e.g., a Bayesian posterior distribution) using #phytools #rstats: https://t.co/2bIwHPZ8hz. https://t.co/QtWAJaLIkp", "Quick thread for the #RStats folks, especially @hadleywickham @dataandme and @thomasp85. So I sorta wanted to use R in making the documentary. And the results were pretty good. This is done primarily with #gganimate 1/ https://t.co/gNEIqR9mCV", "Today I compiled the list of YouTube videos I used throughout last quarter in my graduate level regression course. Hopefully this might help others thinking about moving their courses online. #statistics #linearregression #gradstats #rstats #psychstats https://t.co/Opvu9FWBz7"]
 }
