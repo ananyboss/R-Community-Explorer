@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4791,
-      "average_tweets_per_hour": 200,
-      "tweeters_today": 1175,
-      "total_likes_today": 3326
+      "total_tweets_today": 4828,
+      "average_tweets_per_hour": 201,
+      "tweeters_today": 1186,
+      "total_likes_today": 3533
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 124
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 105
+      "Freq": 115
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 98
+      "Freq": 114
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 110
     },
     {
       "Var1": "tidyverse rstats",
@@ -26,18 +26,26 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 69
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 67
     },
     {
+      "Var1": "RStats",
+      "Freq": 60
+    },
+    {
       "Var1": "Jupyter BigData Analytics DataScience IoT IIoT Python RStats TensorFlow JavaScript ReactJS",
-      "Freq": 57
+      "Freq": 58
     },
     {
       "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 56
     },
     {
-      "Var1": "RStats",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
       "Freq": 56
     },
     {
@@ -45,15 +53,19 @@
       "Freq": 54
     },
     {
+      "Var1": "4dayscountdown 100DaysOfCode NodeJS android privacy",
+      "Freq": 52
+    },
+    {
       "Var1": "javascript MachineLearning BigData DataScience AI IoT Python RStats ReactJS Linux",
       "Freq": 49
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 46
+      "Var1": "theinsaneapp YouTube Python theinsaneapp",
+      "Freq": 47
     },
     {
-      "Var1": "4dayscountdown 100DaysOfCode NodeJS android privacy",
+      "Var1": "programmer coder developer technology",
       "Freq": 44
     },
     {
@@ -61,38 +73,26 @@
       "Freq": 43
     },
     {
-      "Var1": "programmer coder developer technology",
-      "Freq": 43
+      "Var1": "MachineLearning",
+      "Freq": 42
+    },
+    {
+      "Var1": "MachineLearning SoftwareEngineering BigData Analytics DataScience AI",
+      "Freq": 41
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 42
+      "Freq": 40
     },
     {
       "Var1": "BigData Analytics",
       "Freq": 39
-    },
-    {
-      "Var1": "theinsaneapp YouTube Python theinsaneapp",
-      "Freq": 39
-    },
-    {
-      "Var1": "AI BigData Analytics DataScience MachineLearning IoT IIoT Python",
-      "Freq": 38
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats Java",
-      "Freq": 38
-    },
-    {
-      "Var1": "Books Jupyter BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 38
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 387
+      "Freq": 384
     },
     {
       "Var1": "LlnuxBot",
@@ -100,23 +100,23 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 179
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 170
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 162
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 158
+      "Freq": 178
     },
     {
       "Var1": "nlognbot",
+      "Freq": 165
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 162
+    },
+    {
+      "Var1": "chidambara09",
       "Freq": 157
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 150
     },
     {
       "Var1": "nodeQuotesBot",
@@ -128,7 +128,7 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 108
+      "Freq": 104
     },
     {
       "Var1": "TheSecretJunio1",
@@ -136,11 +136,11 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 87
+      "Freq": 84
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 74
+      "Freq": 76
     },
     {
       "Var1": "_codenewbiebot",
@@ -148,11 +148,11 @@
     },
     {
       "Var1": "_reactdev",
-      "Freq": 50
+      "Freq": 52
     },
     {
       "Var1": "CoderNotesBot",
-      "Freq": 50
+      "Freq": 47
     },
     {
       "Var1": "TheDeveloperBot",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 43
+      "Freq": 44
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 39
     },
     {
       "Var1": "anglehernandez",
       "Freq": 38
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 38
     }
   ],
-  "top10_tweets_like": ["Who here likes contours?😊 #rstats #rayshader https://t.co/UubvOZV92c", "18 Best PyTorch Books of All Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/QR7w4tmOiT https://t.co/GQC29YOzyI", "MathDL: Mathematical Machine Learning for Grand Challenge. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode  \nhttps://t.co/qJoHcnnjf7 https://t.co/zlvqn206J5", "Used {reactable} for the first time and I'm in love with how gorgeous and interactive you can make the tables 🤩 thank you @thomas_mock for your helpful blog posts about them!\n\n#rstats #reactable #100DaysOfCode Days 38-39 https://t.co/j5YOpKuIeT", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "Many attendees asked if the #eRum2020 talks will be uploaded on our YouTube channel. The answer is: YES, we're working on it! Just give us some time to review and upload all recordings - it is a lot of material and you can imagine how this can take some time. Stay tuned! #RStats", "Bivariate choropleth map developed in @observablehq and included in an #rstats Shiny app with robservable. \n\nMap is zoomable and updatable with animated transitions.\n\nhttps://t.co/UPaIilNfCd https://t.co/WimTpvdwcA", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ"],
-  "top10_tweets_retweet": ["Who here likes contours?😊 #rstats #rayshader https://t.co/UubvOZV92c", "18 Best PyTorch Books of All Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/QR7w4tmOiT https://t.co/GQC29YOzyI", "MathDL: Mathematical Machine Learning for Grand Challenge. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode  \nhttps://t.co/qJoHcnnjf7 https://t.co/zlvqn206J5", "Used {reactable} for the first time and I'm in love with how gorgeous and interactive you can make the tables 🤩 thank you @thomas_mock for your helpful blog posts about them!\n\n#rstats #reactable #100DaysOfCode Days 38-39 https://t.co/j5YOpKuIeT", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "Many attendees asked if the #eRum2020 talks will be uploaded on our YouTube channel. The answer is: YES, we're working on it! Just give us some time to review and upload all recordings - it is a lot of material and you can imagine how this can take some time. Stay tuned! #RStats", "Bivariate choropleth map developed in @observablehq and included in an #rstats Shiny app with robservable. \n\nMap is zoomable and updatable with animated transitions.\n\nhttps://t.co/UPaIilNfCd https://t.co/WimTpvdwcA", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ"]
+  "top10_tweets_like": ["A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "Who here likes contours?😊 #rstats #rayshader https://t.co/UubvOZV92c", "Used {reactable} for the first time and I'm in love with how gorgeous and interactive you can make the tables 🤩 thank you @thomas_mock for your helpful blog posts about them!\n\n#rstats #reactable #100DaysOfCode Days 38-39 https://t.co/j5YOpKuIeT", "18 Best PyTorch Books of All Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/QR7w4tmOiT https://t.co/GQC29YOzyI", "MathDL: Mathematical Machine Learning for Grand Challenge. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode  \nhttps://t.co/qJoHcnnjf7 https://t.co/zlvqn206J5", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "Many attendees asked if the #eRum2020 talks will be uploaded on our YouTube channel. The answer is: YES, we're working on it! Just give us some time to review and upload all recordings - it is a lot of material and you can imagine how this can take some time. Stay tuned! #RStats", "Bivariate choropleth map developed in @observablehq and included in an #rstats Shiny app with robservable. \n\nMap is zoomable and updatable with animated transitions.\n\nhttps://t.co/UPaIilNfCd https://t.co/WimTpvdwcA", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ"],
+  "top10_tweets_retweet": ["A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "Who here likes contours?😊 #rstats #rayshader https://t.co/UubvOZV92c", "Used {reactable} for the first time and I'm in love with how gorgeous and interactive you can make the tables 🤩 thank you @thomas_mock for your helpful blog posts about them!\n\n#rstats #reactable #100DaysOfCode Days 38-39 https://t.co/j5YOpKuIeT", "18 Best PyTorch Books of All Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/QR7w4tmOiT https://t.co/GQC29YOzyI", "MathDL: Mathematical Machine Learning for Grand Challenge. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode  \nhttps://t.co/qJoHcnnjf7 https://t.co/zlvqn206J5", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "Many attendees asked if the #eRum2020 talks will be uploaded on our YouTube channel. The answer is: YES, we're working on it! Just give us some time to review and upload all recordings - it is a lot of material and you can imagine how this can take some time. Stay tuned! #RStats", "Bivariate choropleth map developed in @observablehq and included in an #rstats Shiny app with robservable. \n\nMap is zoomable and updatable with animated transitions.\n\nhttps://t.co/UPaIilNfCd https://t.co/WimTpvdwcA", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ"]
 }
