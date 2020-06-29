@@ -1,40 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5001,
-      "average_tweets_per_hour": 208,
-      "tweeters_today": 1498,
-      "total_likes_today": 4855
+      "total_tweets_today": 5100,
+      "average_tweets_per_hour": 212,
+      "tweeters_today": 1523,
+      "total_likes_today": 5013
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "GeospatialSundays rgee",
-      "Freq": 164
+      "Freq": 170
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 135
+      "Freq": 148
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning",
-      "Freq": 106
+      "Freq": 113
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 104
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
       "Freq": 103
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 101
+      "Var1": "rstats ggplot2 geography dataviz",
+      "Freq": 90
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 93
+      "Freq": 88
     },
     {
-      "Var1": "rstats ggplot2 geography dataviz",
-      "Freq": 84
+      "Var1": "useR2020 rstats",
+      "Freq": 82
     },
     {
       "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -42,10 +46,6 @@
     },
     {
       "Var1": "Mathematics MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 75
-    },
-    {
-      "Var1": "useR2020 rstats",
       "Freq": 75
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 69
+      "Freq": 67
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -66,7 +66,7 @@
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 63
+      "Freq": 60
     },
     {
       "Var1": "ApacheSpark BigData Analytics Hadoop DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -74,7 +74,11 @@
     },
     {
       "Var1": "Blockchain BigData Analytics DataScience AI MachineLearning IoT IIoT FinTech Statistics Python",
-      "Freq": 50
+      "Freq": 52
+    },
+    {
+      "Var1": "ArtificialIntelligence",
+      "Freq": 49
     },
     {
       "Var1": "BigData Analytics",
@@ -82,53 +86,49 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 48
-    },
-    {
-      "Var1": "ArtificialIntelligence",
-      "Freq": 47
+      "Freq": 46
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 375
+      "Freq": 383
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 189
+      "Freq": 201
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 172
+      "Freq": 167
     },
     {
       "Var1": "nlognbot",
-      "Freq": 152
+      "Freq": 155
     },
     {
       "Var1": "xaelbot",
-      "Freq": 143
+      "Freq": 140
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 131
+      "Freq": 135
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 124
+      "Freq": 122
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 117
+      "Freq": 119
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 106
+      "Freq": 104
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 99
+      "Freq": 102
     },
     {
       "Var1": "chidambara09",
@@ -136,41 +136,41 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 66
+      "Freq": 68
     },
     {
       "Var1": "richard_owona",
       "Freq": 66
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 63
+    },
+    {
       "Var1": "LinuxDreams",
       "Freq": 56
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 56
-    },
-    {
       "Var1": "learn__together",
-      "Freq": 51
+      "Freq": 53
     },
     {
       "Var1": "_reactdev",
-      "Freq": 50
+      "Freq": 49
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 46
+      "Freq": 49
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 43
+      "Freq": 42
     },
     {
       "Var1": "TheCuriousLuke",
       "Freq": 41
     }
   ],
-  "top10_tweets_like": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "River flow direction in Europe \n#rstats #ggplot2 #geography #dataviz https://t.co/Z1ZXUyfoZy", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLWhYN https://t.co/4Y3WG5GU5t", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats", "\"Now I am become death, destroyer of good data visualization practices\"\n\nRendered in #rstats w/ #rayrender 🙃\n\nCode for this animation:\nhttps://t.co/SWDiD4nDzG\n\nThanks to @AlliTorban who supplied the dataviz themed wallpaper I used for this animation (check out her tweet thread) https://t.co/RL4ikD4QZc", "The #useR2020 conference agenda is now available! 🤩\n\nTell all your #rstats friends! All events are free and online.\n\nhttps://t.co/P6mqHNVupn https://t.co/U6ENZRV8zK", "Companion Github to the Book \" #Mathematics For #MachineLearning.\" #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/svsAePdqkS https://t.co/w02Kb0okfY", "Time Series, #ComputerScience, and #DataScience Wizardry. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Matheamtics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/KbqFB78adF https://t.co/GTZX0zFFmz", "#rstats {tsibbletalk} \n\n to generate linking views and dance \n\n in time for tsibble. https://t.co/hPOLzqk2Q0…\nNew stuff I learned from this proj:\n1. shiny module\n2. double dispatch of s3\n3. plotlyProxyInvoke() sending data from R to server w/o redrawing\n4. recursive (again) https://t.co/V08TqZ1dL5"],
-  "top10_tweets_retweet": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "River flow direction in Europe \n#rstats #ggplot2 #geography #dataviz https://t.co/Z1ZXUyfoZy", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLWhYN https://t.co/4Y3WG5GU5t", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats", "\"Now I am become death, destroyer of good data visualization practices\"\n\nRendered in #rstats w/ #rayrender 🙃\n\nCode for this animation:\nhttps://t.co/SWDiD4nDzG\n\nThanks to @AlliTorban who supplied the dataviz themed wallpaper I used for this animation (check out her tweet thread) https://t.co/RL4ikD4QZc", "The #useR2020 conference agenda is now available! 🤩\n\nTell all your #rstats friends! All events are free and online.\n\nhttps://t.co/P6mqHNVupn https://t.co/U6ENZRV8zK", "Companion Github to the Book \" #Mathematics For #MachineLearning.\" #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/svsAePdqkS https://t.co/w02Kb0okfY", "Time Series, #ComputerScience, and #DataScience Wizardry. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Matheamtics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/KbqFB78adF https://t.co/GTZX0zFFmz", "#rstats {tsibbletalk} \n\n to generate linking views and dance \n\n in time for tsibble. https://t.co/hPOLzqk2Q0…\nNew stuff I learned from this proj:\n1. shiny module\n2. double dispatch of s3\n3. plotlyProxyInvoke() sending data from R to server w/o redrawing\n4. recursive (again) https://t.co/V08TqZ1dL5"]
+  "top10_tweets_like": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "River flow direction in Europe \n#rstats #ggplot2 #geography #dataviz https://t.co/Z1ZXUyfoZy", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLWhYN https://t.co/4Y3WG5GU5t", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats", "The #useR2020 conference agenda is now available! 🤩\n\nTell all your #rstats friends! All events are free and online.\n\nhttps://t.co/P6mqHNVupn https://t.co/U6ENZRV8zK", "#rstats {tsibbletalk} \n\n to generate linking views and dance \n\n in time for tsibble. https://t.co/hPOLzqk2Q0…\nNew stuff I learned from this proj:\n1. shiny module\n2. double dispatch of s3\n3. plotlyProxyInvoke() sending data from R to server w/o redrawing\n4. recursive (again) https://t.co/V08TqZ1dL5", "\"Now I am become death, destroyer of good data visualization practices\"\n\nRendered in #rstats w/ #rayrender 🙃\n\nCode for this animation:\nhttps://t.co/SWDiD4nDzG\n\nThanks to @AlliTorban who supplied the dataviz themed wallpaper I used for this animation (check out her tweet thread) https://t.co/RL4ikD4QZc", "Companion Github to the Book \" #Mathematics For #MachineLearning.\" #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/svsAePdqkS https://t.co/w02Kb0okfY", ".@rundel &amp; I will be giving 4 workshops on teaching stats &amp; data science online w/ #rstats + @rstudio cloud + @github:\n\n🗓 3 July: Teaching R online with RStudio Cloud\n🗓 10 July: Building interactive tutorials in R\n🗓 17 July: Teaching computing with Git &amp; GitHub\n\nsign up 👇 https://t.co/R3yLbtwbxw"],
+  "top10_tweets_retweet": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "River flow direction in Europe \n#rstats #ggplot2 #geography #dataviz https://t.co/Z1ZXUyfoZy", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLWhYN https://t.co/4Y3WG5GU5t", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats", "The #useR2020 conference agenda is now available! 🤩\n\nTell all your #rstats friends! All events are free and online.\n\nhttps://t.co/P6mqHNVupn https://t.co/U6ENZRV8zK", "#rstats {tsibbletalk} \n\n to generate linking views and dance \n\n in time for tsibble. https://t.co/hPOLzqk2Q0…\nNew stuff I learned from this proj:\n1. shiny module\n2. double dispatch of s3\n3. plotlyProxyInvoke() sending data from R to server w/o redrawing\n4. recursive (again) https://t.co/V08TqZ1dL5", "\"Now I am become death, destroyer of good data visualization practices\"\n\nRendered in #rstats w/ #rayrender 🙃\n\nCode for this animation:\nhttps://t.co/SWDiD4nDzG\n\nThanks to @AlliTorban who supplied the dataviz themed wallpaper I used for this animation (check out her tweet thread) https://t.co/RL4ikD4QZc", "Companion Github to the Book \" #Mathematics For #MachineLearning.\" #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/svsAePdqkS https://t.co/w02Kb0okfY", ".@rundel &amp; I will be giving 4 workshops on teaching stats &amp; data science online w/ #rstats + @rstudio cloud + @github:\n\n🗓 3 July: Teaching R online with RStudio Cloud\n🗓 10 July: Building interactive tutorials in R\n🗓 17 July: Teaching computing with Git &amp; GitHub\n\nsign up 👇 https://t.co/R3yLbtwbxw"]
 }
