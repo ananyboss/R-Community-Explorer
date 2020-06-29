@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4567,
+      "total_tweets_today": 4558,
       "average_tweets_per_hour": 190,
-      "tweeters_today": 1316,
-      "total_likes_today": 4391
+      "tweeters_today": 1306,
+      "total_likes_today": 4289
     }
   ],
   "top20_hashtags": [
@@ -14,7 +14,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 117
+      "Freq": 118
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -22,23 +22,27 @@
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 86
+      "Freq": 93
     },
     {
       "Var1": "tidyverse rstats",
       "Freq": 86
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
       "Freq": 84
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 81
+      "Var1": "GeospatialSundays rgee",
+      "Freq": 82
     },
     {
-      "Var1": "GeospatialSundays rgee",
-      "Freq": 79
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 80
+    },
+    {
+      "Var1": "ComputerScience DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 65
     },
     {
       "Var1": "Jupyter BigData Analytics DataScience IoT IIoT Python RStats TensorFlow JavaScript ReactJS",
@@ -57,50 +61,46 @@
       "Freq": 60
     },
     {
-      "Var1": "ComputerScience DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 60
-    },
-    {
-      "Var1": "javascript MachineLearning BigData DataScience AI IoT Python RStats ReactJS Linux",
-      "Freq": 53
+      "Var1": "MachineLearning SoftwareEngineering BigData Analytics DataScience AI",
+      "Freq": 56
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats TensorFlow",
-      "Freq": 52
-    },
-    {
-      "Var1": "MachineLearning SoftwareEngineering BigData Analytics DataScience AI",
-      "Freq": 50
+      "Freq": 55
     },
     {
       "Var1": "Mathematics MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 48
+      "Freq": 51
     },
     {
       "Var1": "RStats",
-      "Freq": 47
-    },
-    {
-      "Var1": "BigData DataMining DataOps DeepLearning",
       "Freq": 44
     },
     {
       "Var1": "ArtificialIntelligence",
-      "Freq": 38
+      "Freq": 40
+    },
+    {
+      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 39
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 343
+      "Freq": 349
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 180
+      "Freq": 181
     },
     {
       "Var1": "xaelbot",
-      "Freq": 171
+      "Freq": 167
     },
     {
       "Var1": "nlognbot",
@@ -108,51 +108,51 @@
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 141
+      "Freq": 139
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 133
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 120
+      "Freq": 126
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 116
+      "Freq": 120
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 118
     },
     {
       "Var1": "chidambara09",
-      "Freq": 96
+      "Freq": 92
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 85
+      "Freq": 86
     },
     {
       "Var1": "femtech_",
-      "Freq": 81
+      "Freq": 82
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 71
+      "Freq": 67
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 62
+      "Freq": 63
     },
     {
       "Var1": "_reactdev",
-      "Freq": 52
-    },
-    {
-      "Var1": "_codenewbiebot",
-      "Freq": 43
+      "Freq": 49
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 43
+      "Freq": 44
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 42
     },
     {
       "Var1": "CoderNotesBot",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 38
-    },
-    {
-      "Var1": "WebSecurityIT",
-      "Freq": 35
+      "Freq": 39
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 32
+      "Freq": 33
+    },
+    {
+      "Var1": "WebSecurityIT",
+      "Freq": 33
     }
   ],
-  "top10_tweets_like": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Used {reactable} for the first time and I'm in love with how gorgeous and interactive you can make the tables 🤩 thank you @thomas_mock for your helpful blog posts about them!\n\n#rstats #reactable #100DaysOfCode Days 38-39 https://t.co/j5YOpKuIeT", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "✍️🖥 \"Making A Website With RStudio • The Blogdown Package • https://t.co/16Spjeq8mA\"\n\n👤 samia @samiasab90 \n\nhttps://t.co/Ol7lAM00py\n#rstats https://t.co/ipPhXIurGr", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "I'm sooo happy about this #mutate_at + #case_when use! How to change the levels of multiple columns in your data frame.\nWhen I found out how easy it was, I almost cried... from joy #rstats #tidyverse https://t.co/ez8UgUIQuG", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats"],
-  "top10_tweets_retweet": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Used {reactable} for the first time and I'm in love with how gorgeous and interactive you can make the tables 🤩 thank you @thomas_mock for your helpful blog posts about them!\n\n#rstats #reactable #100DaysOfCode Days 38-39 https://t.co/j5YOpKuIeT", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "✍️🖥 \"Making A Website With RStudio • The Blogdown Package • https://t.co/16Spjeq8mA\"\n\n👤 samia @samiasab90 \n\nhttps://t.co/Ol7lAM00py\n#rstats https://t.co/ipPhXIurGr", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "I'm sooo happy about this #mutate_at + #case_when use! How to change the levels of multiple columns in your data frame.\nWhen I found out how easy it was, I almost cried... from joy #rstats #tidyverse https://t.co/ez8UgUIQuG", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats"]
+  "top10_tweets_like": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "✍️🖥 \"Making A Website With RStudio • The Blogdown Package • https://t.co/16Spjeq8mA\"\n\n👤 samia @samiasab90 \n\nhttps://t.co/Ol7lAM00py\n#rstats https://t.co/ipPhXIurGr", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "I'm sooo happy about this #mutate_at + #case_when use! How to change the levels of multiple columns in your data frame.\nWhen I found out how easy it was, I almost cried... from joy #rstats #tidyverse https://t.co/ez8UgUIQuG", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats", "Time Series, #ComputerScience, and #DataScience Wizardry. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Matheamtics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/KbqFB78adF https://t.co/GTZX0zFFmz"],
+  "top10_tweets_retweet": ["Hi, friends! Today's #GeospatialSundays post is about Google Earth Engine! You can use the package #rgee to use GEE in the R interface! Here's the code I used to visualize a Landsat 8 image scene and its NDWI. More documentation at https://t.co/iRk9qrinB6. #rspatial #gis #rstats https://t.co/PyML2uF0Lk", "A Free Self-Paced Learning Path for Machine learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/M4ArFXWi81 https://t.co/rXigRya7za", "Building #MachineLearning Intuition with Some Help from Alan Turing. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Vh8RogHZMp https://t.co/DGfH3TrscY", "Building A YouTube Downloader With Python\n\nRead: https://t.co/5plDLSYROV\n\n#theinsaneapp #YouTube #Python #theinsaneapp #ML #AI\n#100DaysOfCode #RStats #javascript #reactjs #Serverless #WomenWhoCode #Linux #Python #programming #coding #freeCodeCamp #CodeNewbie https://t.co/orlv0mr70d", "✍️🖥 \"Making A Website With RStudio • The Blogdown Package • https://t.co/16Spjeq8mA\"\n\n👤 samia @samiasab90 \n\nhttps://t.co/Ol7lAM00py\n#rstats https://t.co/ipPhXIurGr", "One guy on every group project 😅🔥🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣\n⁣ https://t.co/ubNWWZXOBZ", "Learning #Jupyter. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/7VruA5pCqx https://t.co/AAXJPkkFJB", "I'm sooo happy about this #mutate_at + #case_when use! How to change the levels of multiple columns in your data frame.\nWhen I found out how easy it was, I almost cried... from joy #rstats #tidyverse https://t.co/ez8UgUIQuG", "1/10 \n\nUpdated {#espnscrapeR} !\n\nCore functions for NFL/College QBR, but added more functions for many other NFL stats!\n\nThread of all functions below!\n\nPackage Site: https://t.co/POGYZv25yp\n\nInstall:\nremotes::install_github(\"jthomasmock/espnscrapeR\")\n\n#sportsanalytics #RStats", "Time Series, #ComputerScience, and #DataScience Wizardry. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Matheamtics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/KbqFB78adF https://t.co/GTZX0zFFmz"]
 }
