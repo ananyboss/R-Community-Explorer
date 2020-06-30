@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5058,
+      "total_tweets_today": 5064,
       "average_tweets_per_hour": 211,
-      "tweeters_today": 1585,
-      "total_likes_today": 4249
+      "tweeters_today": 1580,
+      "total_likes_today": 4374
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 238
+      "Freq": 247
     },
     {
       "Var1": "Cloud CloudComputing makeyourownlane defstar5",
@@ -18,42 +18,46 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 99
+      "Freq": 98
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 77
+      "Freq": 85
     },
     {
       "Var1": "DataScientists",
-      "Freq": 76
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 68
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats Java",
-      "Freq": 66
+      "Freq": 69
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 62
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience IoT RStats javascript",
+      "Freq": 59
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 58
     },
     {
-      "Var1": "useR2020",
-      "Freq": 56
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience IoT RStats javascript",
-      "Freq": 55
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 53
+      "Var1": "rstats datascience",
+      "Freq": 52
     },
     {
       "Var1": "BigData Analytics",
+      "Freq": 51
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 51
+    },
+    {
+      "Var1": "useR2020",
       "Freq": 51
     },
     {
@@ -61,11 +65,7 @@
       "Freq": 46
     },
     {
-      "Var1": "rstats datascience",
-      "Freq": 46
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 45
     },
     {
@@ -85,22 +85,22 @@
       "Freq": 42
     },
     {
-      "Var1": "BigData",
-      "Freq": 39
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 549
+      "Freq": 558
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 222
+      "Freq": 223
     },
     {
       "Var1": "nlognbot",
-      "Freq": 159
+      "Freq": 157
     },
     {
       "Var1": "nodeQuotesBot",
@@ -108,11 +108,11 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 123
+      "Freq": 125
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 117
+      "Freq": 120
     },
     {
       "Var1": "chidambara09",
@@ -120,39 +120,39 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 100
+      "Freq": 104
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 98
+      "Freq": 103
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 76
+      "Freq": 82
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 76
+      "Freq": 75
     },
     {
       "Var1": "femtech_",
-      "Freq": 70
+      "Freq": 71
     },
     {
       "Var1": "learn__together",
-      "Freq": 62
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 59
+      "Freq": 60
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 58
+      "Freq": 57
+    },
+    {
+      "Var1": "anglehernandez",
+      "Freq": 56
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 47
+      "Freq": 45
     },
     {
       "Var1": "CRANberriesFeed",
@@ -163,14 +163,14 @@
       "Freq": 36
     },
     {
-      "Var1": "TheCuriousLuke",
-      "Freq": 36
+      "Var1": "CoderNotesBot",
+      "Freq": 34
     },
     {
-      "Var1": "CoderNotesBot",
+      "Var1": "TheCuriousLuke",
       "Freq": 34
     }
   ],
-  "top10_tweets_like": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "📦📊🖥 \"easyalluvial • Generate Alluvial Plots with a Single Line of Code\"\n\n👤 Bjoern Koneswarakantha\n@koneswarakantha\n\nhttps://t.co/JezECQSstO\n#rstats https://t.co/2AVJRDRqkB", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "Behind every #Rstats package that’s easy to use is a developer that worked their arse off to make it that way", "One of my favourite t-shirts is one that my lab made for me a few years ago. 💖 😂 🤓 #rstats #nerdthreads #uoft\n\n“I think, therefore I R” https://t.co/SrhxF0ANzH", "✍️🧹🤖 \"The tidyverse for Machine Learning\"\n\n👤 Bruna Wundervald @bwundervald\n\nhttps://t.co/nlOraKHp9K\n#rstats https://t.co/qI1Qigup6W", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/Yy2iCtNIkU", "I guess I should update LinkedIn from time to time... what section do I put this in? #rstats https://t.co/Vl5Sf7G4qv", "Unsupervised machine learning... isn't.\n\n1) It isn't unsupervised.\n2) It (usually) isn't machine learning.\n\nSee video for explanation.\n\n#AI #DataScience #rstats #statistics #analytics #MachineLearning\n\nhttps://t.co/6O2VoXUOf2", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience"],
-  "top10_tweets_retweet": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "📦📊🖥 \"easyalluvial • Generate Alluvial Plots with a Single Line of Code\"\n\n👤 Bjoern Koneswarakantha\n@koneswarakantha\n\nhttps://t.co/JezECQSstO\n#rstats https://t.co/2AVJRDRqkB", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "Behind every #Rstats package that’s easy to use is a developer that worked their arse off to make it that way", "One of my favourite t-shirts is one that my lab made for me a few years ago. 💖 😂 🤓 #rstats #nerdthreads #uoft\n\n“I think, therefore I R” https://t.co/SrhxF0ANzH", "✍️🧹🤖 \"The tidyverse for Machine Learning\"\n\n👤 Bruna Wundervald @bwundervald\n\nhttps://t.co/nlOraKHp9K\n#rstats https://t.co/qI1Qigup6W", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/Yy2iCtNIkU", "I guess I should update LinkedIn from time to time... what section do I put this in? #rstats https://t.co/Vl5Sf7G4qv", "Unsupervised machine learning... isn't.\n\n1) It isn't unsupervised.\n2) It (usually) isn't machine learning.\n\nSee video for explanation.\n\n#AI #DataScience #rstats #statistics #analytics #MachineLearning\n\nhttps://t.co/6O2VoXUOf2", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience"]
+  "top10_tweets_like": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "📦📊🖥 \"easyalluvial • Generate Alluvial Plots with a Single Line of Code\"\n\n👤 Bjoern Koneswarakantha\n@koneswarakantha\n\nhttps://t.co/JezECQSstO\n#rstats https://t.co/2AVJRDRqkB", "Behind every #Rstats package that’s easy to use is a developer that worked their arse off to make it that way", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "One of my favourite t-shirts is one that my lab made for me a few years ago. 💖 😂 🤓 #rstats #nerdthreads #uoft\n\n“I think, therefore I R” https://t.co/SrhxF0ANzH", "✍️🧹🤖 \"The tidyverse for Machine Learning\"\n\n👤 Bruna Wundervald @bwundervald\n\nhttps://t.co/nlOraKHp9K\n#rstats https://t.co/qI1Qigup6W", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/Yy2iCtNIkU", "I guess I should update LinkedIn from time to time... what section do I put this in? #rstats https://t.co/Vl5Sf7G4qv", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience", "Unsupervised machine learning... isn't.\n\n1) It isn't unsupervised.\n2) It (usually) isn't machine learning.\n\nSee video for explanation.\n\n#AI #DataScience #rstats #statistics #analytics #MachineLearning\n\nhttps://t.co/6O2VoXUOf2"],
+  "top10_tweets_retweet": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "📦📊🖥 \"easyalluvial • Generate Alluvial Plots with a Single Line of Code\"\n\n👤 Bjoern Koneswarakantha\n@koneswarakantha\n\nhttps://t.co/JezECQSstO\n#rstats https://t.co/2AVJRDRqkB", "Behind every #Rstats package that’s easy to use is a developer that worked their arse off to make it that way", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "One of my favourite t-shirts is one that my lab made for me a few years ago. 💖 😂 🤓 #rstats #nerdthreads #uoft\n\n“I think, therefore I R” https://t.co/SrhxF0ANzH", "✍️🧹🤖 \"The tidyverse for Machine Learning\"\n\n👤 Bruna Wundervald @bwundervald\n\nhttps://t.co/nlOraKHp9K\n#rstats https://t.co/qI1Qigup6W", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/Yy2iCtNIkU", "I guess I should update LinkedIn from time to time... what section do I put this in? #rstats https://t.co/Vl5Sf7G4qv", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience", "Unsupervised machine learning... isn't.\n\n1) It isn't unsupervised.\n2) It (usually) isn't machine learning.\n\nSee video for explanation.\n\n#AI #DataScience #rstats #statistics #analytics #MachineLearning\n\nhttps://t.co/6O2VoXUOf2"]
 }
