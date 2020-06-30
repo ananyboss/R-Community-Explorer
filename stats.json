@@ -1,24 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5860,
-      "average_tweets_per_hour": 244,
-      "tweeters_today": 1892,
-      "total_likes_today": 6049
+      "total_tweets_today": 5819,
+      "average_tweets_per_hour": 242,
+      "tweeters_today": 1882,
+      "total_likes_today": 5761
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 235
+      "Freq": 236
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 202
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 115
     },
     {
       "Var1": "Cloud CloudComputing makeyourownlane defstar5",
@@ -26,31 +22,35 @@
     },
     {
       "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 104
+      "Freq": 105
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 93
+      "Freq": 103
     },
     {
       "Var1": "useR2020",
-      "Freq": 91
+      "Freq": 96
     },
     {
-      "Var1": "useR2020 rstats",
-      "Freq": 78
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 92
     },
     {
       "Var1": "DataScientists",
-      "Freq": 71
+      "Freq": 77
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 70
+      "Var1": "useR2020 rstats",
+      "Freq": 69
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 69
+      "Freq": 66
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -62,77 +62,73 @@
     },
     {
       "Var1": "rstats datascience",
-      "Freq": 54
+      "Freq": 56
     },
     {
       "Var1": "BigData Analytics",
       "Freq": 51
     },
     {
+      "Var1": "MachineLearning Scikit Keras TensorFlow BigData Analytics DataScience",
+      "Freq": 48
+    },
+    {
       "Var1": "MachineLearning Statistics BigData DataScience",
-      "Freq": 49
+      "Freq": 48
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 46
     },
     {
       "Var1": "Cloud CloudComputing makeyourownlane defstar5 DeepLearning IoT IaaS MachineLearning",
       "Freq": 45
     },
     {
-      "Var1": "RStats",
-      "Freq": 44
-    },
-    {
       "Var1": "OOP MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS Linux",
       "Freq": 42
-    },
-    {
-      "Var1": "coding DataScience AI MachineLearning 100DaysOfMLCode",
-      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 587
+      "Freq": 592
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 251
+      "Freq": 245
     },
     {
       "Var1": "nlognbot",
-      "Freq": 171
+      "Freq": 169
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 157
+      "Freq": 160
     },
     {
       "Var1": "chidambara09",
-      "Freq": 145
+      "Freq": 147
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 141
+      "Freq": 146
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 116
+      "Freq": 115
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 103
+      "Freq": 101
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 90
+      "Freq": 91
     },
     {
       "Var1": "femtech_",
-      "Freq": 83
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 83
+      "Freq": 82
     },
     {
       "Var1": "anglehernandez",
@@ -143,23 +139,27 @@
       "Freq": 80
     },
     {
-      "Var1": "learn__together",
-      "Freq": 75
+      "Var1": "ServerlessFan",
+      "Freq": 77
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 72
+      "Freq": 70
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 68
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 51
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 43
+      "Freq": 50
     },
     {
       "Var1": "CRANberriesFeed",
+      "Freq": 43
+    },
+    {
+      "Var1": "TheCuriousLuke",
       "Freq": 42
     },
     {
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "WebSecurityIT",
-      "Freq": 35
+      "Freq": 34
     }
   ],
-  "top10_tweets_like": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/OPW3e0JLg7", "Introducing Modeltime: Tidy Time Series Forecasting using Tidymodels  {https://t.co/tUQ4rwXjLP} #rstats #DataScience", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/o68CLkx9x7", "Our plan for #useR2020 is now live on our website! A reminder - we've partnered with @useR2020muc to offer a virtual experience for the #rstats community. Talks will be posted on YouTube and keynotes will be live streamed!\n\nDetails here -  https://t.co/4CXcs4sAnp https://t.co/mc4Ou9rjuM", "#MachineLearning From Scratch: Gradient Descent. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/8euOf5XIQO https://t.co/gL6bLJbKGF", "I'm beyond EXCITED 😃 to announce a 🎉 NEW R 📦 🎉  for #Forecasting that integrates Tidymodels: #modeltime. Benefits:\n\n1. Streamlined Time Seriesworkflow\n\n2. Integration w/ #tidymodels \n\n3. New hybrid Prophet Boost &amp; ARIMA Boost\n\nhttps://t.co/22CYauaqUp\n\n#rstats @topepos", "I've got a new website! \n\n🔗 https://t.co/ysMIdAD7xR \n\nOh, and I'm hunting for a new job! 🕵️‍♀️ \n\nI'm looking for a job:\n- in DC\n- in fed gov't or non-profit space\n- using #DataScience &amp; #rstats for social good\n- doing #dataviz\n- using my #scicomm skills\n\nCV: https://t.co/taN7zgbT6c", "Next month, July 15-16 2020, I will teach a two day online course about Making beautiful and effective maps in R 🗺️. You can find more details about it at https://t.co/Dl3BDpRiC2. Feel free to email me if you have any questions! #rstats #rspatial #gis #tmap https://t.co/2hZpe4hYPz", "Awesome #Mathematics - Includes Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/0qreEHaNP7", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/BSsgc0zDJb"],
-  "top10_tweets_retweet": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/OPW3e0JLg7", "Introducing Modeltime: Tidy Time Series Forecasting using Tidymodels  {https://t.co/tUQ4rwXjLP} #rstats #DataScience", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/o68CLkx9x7", "Our plan for #useR2020 is now live on our website! A reminder - we've partnered with @useR2020muc to offer a virtual experience for the #rstats community. Talks will be posted on YouTube and keynotes will be live streamed!\n\nDetails here -  https://t.co/4CXcs4sAnp https://t.co/mc4Ou9rjuM", "#MachineLearning From Scratch: Gradient Descent. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/8euOf5XIQO https://t.co/gL6bLJbKGF", "I'm beyond EXCITED 😃 to announce a 🎉 NEW R 📦 🎉  for #Forecasting that integrates Tidymodels: #modeltime. Benefits:\n\n1. Streamlined Time Seriesworkflow\n\n2. Integration w/ #tidymodels \n\n3. New hybrid Prophet Boost &amp; ARIMA Boost\n\nhttps://t.co/22CYauaqUp\n\n#rstats @topepos", "I've got a new website! \n\n🔗 https://t.co/ysMIdAD7xR \n\nOh, and I'm hunting for a new job! 🕵️‍♀️ \n\nI'm looking for a job:\n- in DC\n- in fed gov't or non-profit space\n- using #DataScience &amp; #rstats for social good\n- doing #dataviz\n- using my #scicomm skills\n\nCV: https://t.co/taN7zgbT6c", "Next month, July 15-16 2020, I will teach a two day online course about Making beautiful and effective maps in R 🗺️. You can find more details about it at https://t.co/Dl3BDpRiC2. Feel free to email me if you have any questions! #rstats #rspatial #gis #tmap https://t.co/2hZpe4hYPz", "Awesome #Mathematics - Includes Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/0qreEHaNP7", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/BSsgc0zDJb"]
+  "top10_tweets_like": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/OPW3e0JLg7", "Introducing Modeltime: Tidy Time Series Forecasting using Tidymodels  {https://t.co/tUQ4rwXjLP} #rstats #DataScience", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/o68CLkx9x7", "Our plan for #useR2020 is now live on our website! A reminder - we've partnered with @useR2020muc to offer a virtual experience for the #rstats community. Talks will be posted on YouTube and keynotes will be live streamed!\n\nDetails here -  https://t.co/4CXcs4sAnp https://t.co/mc4Ou9rjuM", "I'm beyond EXCITED 😃 to announce a 🎉 NEW R 📦 🎉  for #Forecasting that integrates Tidymodels: #modeltime. Benefits:\n\n1. Streamlined Time Seriesworkflow\n\n2. Integration w/ #tidymodels \n\n3. New hybrid Prophet Boost &amp; ARIMA Boost\n\nhttps://t.co/22CYauaqUp\n\n#rstats @topepos", "I've got a new website! \n\n🔗 https://t.co/ysMIdAD7xR \n\nOh, and I'm hunting for a new job! 🕵️‍♀️ \n\nI'm looking for a job:\n- in DC\n- in fed gov't or non-profit space\n- using #DataScience &amp; #rstats for social good\n- doing #dataviz\n- using my #scicomm skills\n\nCV: https://t.co/taN7zgbT6c", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/BSsgc0zDJb", "Awesome #Mathematics - Includes Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/0qreEHaNP7", "A basic understanding of #coding is extremely helpful in #DataScience!\n\n#AI #MachineLearning #100DaysOfMLCode #100DaysOfCode #Rstats https://t.co/3XngEFkRPl", "📦📊🖥 \"easyalluvial • Generate Alluvial Plots with a Single Line of Code\"\n\n👤 Bjoern Koneswarakantha\n@koneswarakantha\n\nhttps://t.co/JezECQSstO\n#rstats https://t.co/2AVJRDRqkB"],
+  "top10_tweets_retweet": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/OPW3e0JLg7", "Introducing Modeltime: Tidy Time Series Forecasting using Tidymodels  {https://t.co/tUQ4rwXjLP} #rstats #DataScience", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/o68CLkx9x7", "Our plan for #useR2020 is now live on our website! A reminder - we've partnered with @useR2020muc to offer a virtual experience for the #rstats community. Talks will be posted on YouTube and keynotes will be live streamed!\n\nDetails here -  https://t.co/4CXcs4sAnp https://t.co/mc4Ou9rjuM", "I'm beyond EXCITED 😃 to announce a 🎉 NEW R 📦 🎉  for #Forecasting that integrates Tidymodels: #modeltime. Benefits:\n\n1. Streamlined Time Seriesworkflow\n\n2. Integration w/ #tidymodels \n\n3. New hybrid Prophet Boost &amp; ARIMA Boost\n\nhttps://t.co/22CYauaqUp\n\n#rstats @topepos", "I've got a new website! \n\n🔗 https://t.co/ysMIdAD7xR \n\nOh, and I'm hunting for a new job! 🕵️‍♀️ \n\nI'm looking for a job:\n- in DC\n- in fed gov't or non-profit space\n- using #DataScience &amp; #rstats for social good\n- doing #dataviz\n- using my #scicomm skills\n\nCV: https://t.co/taN7zgbT6c", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/BSsgc0zDJb", "Awesome #Mathematics - Includes Multivariate #Calculus. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DqXQzkfl9e https://t.co/0qreEHaNP7", "A basic understanding of #coding is extremely helpful in #DataScience!\n\n#AI #MachineLearning #100DaysOfMLCode #100DaysOfCode #Rstats https://t.co/3XngEFkRPl", "📦📊🖥 \"easyalluvial • Generate Alluvial Plots with a Single Line of Code\"\n\n👤 Bjoern Koneswarakantha\n@koneswarakantha\n\nhttps://t.co/JezECQSstO\n#rstats https://t.co/2AVJRDRqkB"]
 }
