@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4756,
+      "total_tweets_today": 4755,
       "average_tweets_per_hour": 198,
-      "tweeters_today": 1360,
-      "total_likes_today": 4145
+      "tweeters_today": 1356,
+      "total_likes_today": 4163
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 242
+      "Freq": 244
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 170
+      "Freq": 184
     },
     {
       "Var1": "Infographics SoftwareEngineer",
@@ -22,23 +22,15 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 67
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats Java",
       "Freq": 63
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 56
+      "Freq": 55
     },
     {
       "Var1": "BigData",
       "Freq": 49
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 48
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
@@ -46,6 +38,14 @@
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 47
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 46
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats Java",
       "Freq": 45
     },
     {
@@ -53,8 +53,8 @@
       "Freq": 44
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 44
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 43
     },
     {
       "Var1": "Infographics SoftwareEngineer Developer makeyourownlane defstar5 DeepLearning",
@@ -74,103 +74,103 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience IoT IIoT",
-      "Freq": 37
-    },
-    {
-      "Var1": "MachineLearning Scikit Keras TensorFlow BigData Analytics DataScience",
-      "Freq": 37
-    },
-    {
-      "Var1": "RStats",
       "Freq": 36
     },
     {
       "Var1": "MachineLearning BigData Analytics",
       "Freq": 33
+    },
+    {
+      "Var1": "MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS Linux",
+      "Freq": 32
+    },
+    {
+      "Var1": "theinsaneapp programmer RStats",
+      "Freq": 32
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 564
+      "Freq": 559
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 187
+      "Freq": 183
     },
     {
       "Var1": "nlognbot",
-      "Freq": 126
+      "Freq": 121
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 117
+      "Freq": 121
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 113
     },
     {
       "Var1": "Taieb_Bot",
       "Freq": 109
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 109
-    },
-    {
       "Var1": "CodeGnuts",
-      "Freq": 102
+      "Freq": 103
     },
     {
       "Var1": "chidambara09",
-      "Freq": 91
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 91
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 84
+      "Freq": 97
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 84
+      "Freq": 90
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 89
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 85
     },
     {
       "Var1": "xaelbot",
-      "Freq": 72
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 62
+      "Freq": 79
     },
     {
       "Var1": "femtech_",
-      "Freq": 57
+      "Freq": 60
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 58
     },
     {
       "Var1": "anglehernandez",
       "Freq": 52
     },
     {
-      "Var1": "learn__together",
-      "Freq": 50
-    },
-    {
       "Var1": "LinuxDreams",
       "Freq": 50
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 46
+      "Var1": "TheDeveloperBot",
+      "Freq": 48
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 46
+      "Var1": "learn__together",
+      "Freq": 47
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 45
     },
     {
       "Var1": "CRANberriesFeed",
-      "Freq": 41
+      "Freq": 42
     }
   ],
-  "top10_tweets_like": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience", "ok listen....... i finally took a few hours to learn some CSS basics and big time recommend to any and all #rstats people who have always felt absolutely clueless looking up CSS stuff on stack overflow", "📦📊 \"ganttrify • Create beautiful Gantt charts with ggplot2\"\n\n👤 Giorgio Comai @giocomai\n\nhttps://t.co/zQoa3EgcY9\n#rstats https://t.co/DGA20xu0Xy", "Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience"],
-  "top10_tweets_retweet": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience", "ok listen....... i finally took a few hours to learn some CSS basics and big time recommend to any and all #rstats people who have always felt absolutely clueless looking up CSS stuff on stack overflow", "📦📊 \"ganttrify • Create beautiful Gantt charts with ggplot2\"\n\n👤 Giorgio Comai @giocomai\n\nhttps://t.co/zQoa3EgcY9\n#rstats https://t.co/DGA20xu0Xy", "Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience"]
+  "top10_tweets_like": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience", "ok listen....... i finally took a few hours to learn some CSS basics and big time recommend to any and all #rstats people who have always felt absolutely clueless looking up CSS stuff on stack overflow", "Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "📦📊 \"ganttrify • Create beautiful Gantt charts with ggplot2\"\n\n👤 Giorgio Comai @giocomai\n\nhttps://t.co/zQoa3EgcY9\n#rstats https://t.co/DGA20xu0Xy", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience"],
+  "top10_tweets_retweet": ["R packages for making print-quality tables https://t.co/XiOyLtNVsr #rstats", "Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "The virus doesn't care whether you made that graph with #rstats or #python. Either way, we're all gonna die.\n\n#datascience #pydata", "R Markdown Tips, Tricks, and Shortcuts  {https://t.co/v84vRvk62c} #rstats #DataScience", "ok listen....... i finally took a few hours to learn some CSS basics and big time recommend to any and all #rstats people who have always felt absolutely clueless looking up CSS stuff on stack overflow", "Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "📦📊 \"ganttrify • Create beautiful Gantt charts with ggplot2\"\n\n👤 Giorgio Comai @giocomai\n\nhttps://t.co/zQoa3EgcY9\n#rstats https://t.co/DGA20xu0Xy", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience"]
 }
