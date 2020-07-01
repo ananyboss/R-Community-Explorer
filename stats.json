@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5212,
-      "average_tweets_per_hour": 217,
-      "tweeters_today": 1379,
-      "total_likes_today": 4462
+      "total_tweets_today": 5286,
+      "average_tweets_per_hour": 220,
+      "tweeters_today": 1398,
+      "total_likes_today": 4686
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 232
+      "Freq": 239
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 197
+      "Freq": 202
     },
     {
       "Var1": "Infographics SoftwareEngineer",
@@ -22,7 +22,15 @@
     },
     {
       "Var1": "CloudComputing MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS",
-      "Freq": 64
+      "Freq": 76
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 69
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 63
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
@@ -30,10 +38,6 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 59
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 59
     },
     {
@@ -45,12 +49,12 @@
       "Freq": 52
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 47
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats JavaScript",
+      "Freq": 50
     },
     {
       "Var1": "RStats",
-      "Freq": 45
+      "Freq": 48
     },
     {
       "Var1": "TidyTuesday",
@@ -66,10 +70,6 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 38
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats JavaScript",
       "Freq": 38
     },
     {
@@ -92,11 +92,11 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 627
+      "Freq": 639
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 187
+      "Freq": 183
     },
     {
       "Var1": "theInfernobot",
@@ -112,39 +112,39 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 121
+      "Freq": 122
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 115
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 103
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 103
+      "Freq": 117
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 103
+      "Freq": 107
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 104
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 102
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 89
+      "Freq": 90
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 80
     },
     {
       "Var1": "TheDeveloperBot",
       "Freq": 75
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 75
-    },
-    {
       "Var1": "femtech_",
-      "Freq": 70
+      "Freq": 68
     },
     {
       "Var1": "LinuxDreams",
@@ -159,18 +159,18 @@
       "Freq": 61
     },
     {
-      "Var1": "anglehernandez",
-      "Freq": 55
-    },
-    {
       "Var1": "learn__together",
-      "Freq": 54
+      "Freq": 53
     },
     {
-      "Var1": "CoderNotesBot",
-      "Freq": 42
+      "Var1": "anglehernandez",
+      "Freq": 52
+    },
+    {
+      "Var1": "_reactdev",
+      "Freq": 43
     }
   ],
-  "top10_tweets_like": ["Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP", "Just posted a @StackOverflow answer you might find useful: how to use `sf::st_filter()` to do spatial overlay within an #rstats/#rspatial pipeline.  Example here is extracting Census tracts within a given US metro area https://t.co/G3pKmAFfZP https://t.co/H5hH31wXHg"],
-  "top10_tweets_retweet": ["Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP", "Just posted a @StackOverflow answer you might find useful: how to use `sf::st_filter()` to do spatial overlay within an #rstats/#rspatial pipeline.  Example here is extracting Census tracts within a given US metro area https://t.co/G3pKmAFfZP https://t.co/H5hH31wXHg"]
+  "top10_tweets_like": ["Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Just posted a @StackOverflow answer you might find useful: how to use `sf::st_filter()` to do spatial overlay within an #rstats/#rspatial pipeline.  Example here is extracting Census tracts within a given US metro area https://t.co/G3pKmAFfZP https://t.co/H5hH31wXHg", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP"],
+  "top10_tweets_retweet": ["Am I the only one who still cannot plot even a simple graph using ggplot2 without Googling how? I have been using it for years...  #rstats", "Tutorial: Web Scraping in R with rvest  {https://t.co/cjCpBaLzRt} #rstats #DataScience", "#TidyTuesday Week 2020/27 🦸🦸‍♀️ X-Men via the @ClaremontRun Project and package by @malco_barrett\n\nI quickly settled on a stream graph trying {ggstream} by  @davsjob - and even though it is a dev #ggplot2 📦 it works without any trouble 🔥 \n\n#rstats #tidyverse #r4ds #dataviz #xmen https://t.co/fHromq0L06", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "#rstats sparkline lovers I am excited to announce dataui built on top of data-ui/vx(@hshoff).  Hope you enjoy.\n\nthanks @KenSteif for support, @alandipert for help with reactR, and all the open source JS developers\n\nhttps://t.co/Vu8MWf8KNK\nhttps://t.co/yxgdyQ2dNo https://t.co/4ij8At0WuO", "23 RStudio Tips, Tricks, and Shortcuts  {https://t.co/M7Vkg1E4Yn} #rstats #DataScience", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Just posted a @StackOverflow answer you might find useful: how to use `sf::st_filter()` to do spatial overlay within an #rstats/#rspatial pipeline.  Example here is extracting Census tracts within a given US metro area https://t.co/G3pKmAFfZP https://t.co/H5hH31wXHg", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP"]
 }
