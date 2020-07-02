@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6488,
-      "average_tweets_per_hour": 270,
-      "tweeters_today": 2007,
-      "total_likes_today": 7597
+      "total_tweets_today": 6555,
+      "average_tweets_per_hour": 273,
+      "tweeters_today": 2047,
+      "total_likes_today": 7846
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 231
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 199
+      "Freq": 228
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 190
+      "Freq": 206
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 198
     },
     {
       "Var1": "CloudComputing MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS",
@@ -26,51 +26,55 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 97
+      "Freq": 98
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "DataScience Statistics BigData Analytics MachineLearning AI IoT IIoT",
-      "Freq": 73
+      "Freq": 74
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats JavaScript",
-      "Freq": 62
+      "Freq": 65
     },
     {
       "Var1": "theinsaneapp ML AI",
       "Freq": 58
     },
     {
-      "Var1": "RStats",
-      "Freq": 57
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 55
+      "Var1": "AI BigData Analytics DataScience MachineLearning",
+      "Freq": 53
     },
     {
       "Var1": "BigData Analytics",
       "Freq": 53
     },
     {
-      "Var1": "AI BigData Analytics DataScience MachineLearning",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
       "Freq": 51
     },
     {
-      "Var1": "BigData",
+      "Var1": "RStats",
       "Freq": 50
     },
     {
+      "Var1": "BigData",
+      "Freq": 49
+    },
+    {
       "Var1": "Statistics DataScientists Python",
-      "Freq": 46
+      "Freq": 47
     },
     {
       "Var1": "Jupyter Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 44
+    },
+    {
+      "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats JavaScript",
+      "Freq": 42
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
@@ -83,56 +87,52 @@
     {
       "Var1": "Tensorflow BigData Analytics DataScience AI MachineLearning NLProc IoT",
       "Freq": 42
-    },
-    {
-      "Var1": "TidyTuesday",
-      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 693
+      "Freq": 686
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 195
+      "Freq": 199
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 159
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 143
+      "Freq": 168
     },
     {
       "Var1": "chidambara09",
-      "Freq": 141
+      "Freq": 149
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 147
     },
     {
       "Var1": "nlognbot",
-      "Freq": 140
+      "Freq": 139
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 124
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 117
+      "Freq": 116
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 106
+      "Freq": 110
     },
     {
       "Var1": "CodeGnuts",
+      "Freq": 108
+    },
+    {
+      "Var1": "TheSecretJunio1",
       "Freq": 104
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 104
+      "Freq": 102
     },
     {
       "Var1": "rstats4ds",
@@ -140,37 +140,37 @@
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 86
+      "Freq": 89
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 84
+      "Freq": 81
     },
     {
       "Var1": "femtech_",
+      "Freq": 71
+    },
+    {
+      "Var1": "learn__together",
       "Freq": 67
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 61
+      "Freq": 62
     },
     {
-      "Var1": "learn__together",
-      "Freq": 60
+      "Var1": "_codenewbiebot",
+      "Freq": 55
     },
     {
       "Var1": "_reactdev",
       "Freq": 51
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 50
-    },
-    {
       "Var1": "anglehernandez",
       "Freq": 43
     }
   ],
-  "top10_tweets_like": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "2 Books to Deepen Your Command of Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/Z2k8AhGD87"],
-  "top10_tweets_retweet": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "2 Books to Deepen Your Command of Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/Z2k8AhGD87"]
+  "top10_tweets_like": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "2 Books to Deepen Your Command of Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/Z2k8AhGD87"],
+  "top10_tweets_retweet": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "My first package on CRAN. I can't wait to see what cool #rstats packages people will build using CGAL headers #rspatial https://t.co/tfpXSyZxpi", "🗣️ Hi #rstats. During @erum2020_conf , I was asked if my bookdown project about \"Advanced Interfaces for Shiny\" would be officially published. Today, I am please to announce that it will be published in CRC Press (R series), next year. Big thanks to @crcgrubbsd 🙏 https://t.co/hfIw40Bdsg", "Announcing the launch of my #rstats pelotonR package!! \n\nThe package offers simple access to #peloton data through R.  Including joined metadata, paged data &amp; more!  Check out the tutorial below for \"how to's\", sample code and #dataviz examples!\n\nhttps://t.co/6laPqujOq0 https://t.co/lZuOqQ4mYt", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "Practical #Statistics for #DataScientists — 50+ Essential Concepts Using R and #Python: https://t.co/on8kZXtr8Z by @petercbruce et al.\n——————\n#BigData #DataScience #AI #MachineLearning #Mathematics #StatisticalLiteracy #Coding #Rstats https://t.co/AzuHZMyOMP", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "2 Books to Deepen Your Command of Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/Z2k8AhGD87"]
 }
