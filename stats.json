@@ -1,64 +1,56 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7092,
-      "average_tweets_per_hour": 296,
-      "tweeters_today": 2411,
-      "total_likes_today": 9293
+      "total_tweets_today": 7002,
+      "average_tweets_per_hour": 292,
+      "tweeters_today": 2483,
+      "total_likes_today": 9529
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 255
+      "Freq": 243
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 216
+      "Freq": 219
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 215
+      "Freq": 213
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 111
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 109
-    },
-    {
-      "Var1": "CloudComputing MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS",
-      "Freq": 106
+      "Freq": 113
     },
     {
       "Var1": "DataScience Statistics BigData Analytics MachineLearning AI IoT IIoT",
-      "Freq": 92
+      "Freq": 96
     },
     {
-      "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats JavaScript",
-      "Freq": 67
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 61
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 81
     },
     {
       "Var1": "AI BigData Analytics DataScience MachineLearning",
-      "Freq": 60
+      "Freq": 68
+    },
+    {
+      "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats JavaScript",
+      "Freq": 68
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 59
+      "Freq": 60
     },
     {
       "Var1": "theinsaneapp ML AI",
       "Freq": 58
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats JavaScript",
-      "Freq": 54
     },
     {
       "Var1": "Tensorflow BigData Analytics DataScience AI MachineLearning NLProc IoT",
@@ -77,11 +69,19 @@
       "Freq": 50
     },
     {
+      "Var1": "CloudComputing MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS",
+      "Freq": 49
+    },
+    {
       "Var1": "RStats",
-      "Freq": 50
+      "Freq": 48
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 47
+    },
+    {
+      "Var1": "programmers developers programming languages ai",
       "Freq": 47
     },
     {
@@ -92,47 +92,47 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 661
+      "Freq": 658
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 191
+      "Freq": 188
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 165
+      "Freq": 159
     },
     {
       "Var1": "xaelbot",
-      "Freq": 154
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 141
+      "Freq": 140
     },
     {
       "Var1": "nlognbot",
-      "Freq": 135
+      "Freq": 128
     },
     {
       "Var1": "chidambara09",
-      "Freq": 126
+      "Freq": 123
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 122
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 107
+      "Freq": 104
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 106
-    },
-    {
-      "Var1": "CodeGnuts",
       "Freq": 102
     },
     {
+      "Var1": "CodeGnuts",
+      "Freq": 101
+    },
+    {
       "Var1": "TheSecretJunio1",
-      "Freq": 96
+      "Freq": 89
     },
     {
       "Var1": "rstats4ds",
@@ -140,37 +140,37 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 78
+      "Freq": 74
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 77
+      "Freq": 72
     },
     {
       "Var1": "learn__together",
-      "Freq": 66
+      "Freq": 70
     },
     {
       "Var1": "femtech_",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "hubofml",
-      "Freq": 60
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 59
+      "Freq": 62
     },
     {
       "Var1": "LinuxDreams",
+      "Freq": 51
+    },
+    {
+      "Var1": "anglehernandez",
       "Freq": 50
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 47
+      "Freq": 44
     }
   ],
-  "top10_tweets_like": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "2 Books to Deepen Your Command of Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/Z2k8AhGD87", "Free eBook: The AI Ladder: Accelerate Your Journey to AI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/C9gmTPGKSR https://t.co/MVz897wVer", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV"],
-  "top10_tweets_retweet": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "2 Books to Deepen Your Command of Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/Z2k8AhGD87", "Free eBook: The AI Ladder: Accelerate Your Journey to AI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/C9gmTPGKSR https://t.co/MVz897wVer", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV"]
+  "top10_tweets_like": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "sometimes you just need the comforting warm embrace of rstudio #rstats https://t.co/8bygY4vAYI", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "Free eBook: The AI Ladder: Accelerate Your Journey to AI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/C9gmTPGKSR https://t.co/MVz897wVer", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV"],
+  "top10_tweets_retweet": ["A short thread of #rstats resources I have made freely available online! First off, an introductory textbook on statistics with R pitched at beginners focusing on base R rather than tidyverse tools. \n\nhttps://t.co/gQPX26lRrB", "This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "Reminder: there are hundreds of great, FREE learning resources for #rstats out there. \n\nThere's no need to sign up to take courses with a disgusting, ethically bankrupt company with sniveling, feckless leadership.", "In case you coincidentally happen to be looking for alternative ways to learn #rstats and tidyverse because your current learning platform is busy ... *checks notes * ... suing your interactive development environment, may I suggest this series of 73 YouTube lecture videos: https://t.co/j0Xsv77b5q", "sometimes you just need the comforting warm embrace of rstudio #rstats https://t.co/8bygY4vAYI", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "Free eBook: The AI Ladder: Accelerate Your Journey to AI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/C9gmTPGKSR https://t.co/MVz897wVer", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV"]
 }
