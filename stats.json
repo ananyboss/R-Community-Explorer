@@ -1,40 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6611,
+      "total_tweets_today": 6609,
       "average_tweets_per_hour": 275,
-      "tweeters_today": 2318,
-      "total_likes_today": 6913
+      "tweeters_today": 2313,
+      "total_likes_today": 7245
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 263
+      "Freq": 249
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 181
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 108
+      "Freq": 200
     },
     {
       "Var1": "programmers developers programming languages ai",
-      "Freq": 99
+      "Freq": 108
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 105
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 86
     },
     {
       "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats JavaScript",
       "Freq": 85
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 81
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 75
+      "Freq": 76
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats Java",
@@ -42,7 +42,7 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 69
+      "Freq": 72
     },
     {
       "Var1": "Books Jupyter BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -54,23 +54,23 @@
     },
     {
       "Var1": "Cybersecurity Books BigData Analytics DataScience MachineLearning AI IoT IIoT",
-      "Freq": 64
+      "Freq": 67
+    },
+    {
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Freq": 65
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 62
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
-      "Freq": 60
-    },
-    {
       "Var1": "rstats rspatial",
-      "Freq": 59
+      "Freq": 61
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning",
-      "Freq": 54
+      "Freq": 58
     },
     {
       "Var1": "100DaysOfCode NodeJS android PHP privacy Opensource Python Javascript AWS",
@@ -81,62 +81,62 @@
       "Freq": 48
     },
     {
-      "Var1": "AI BigData Analytics DataScience MachineLearning",
-      "Freq": 42
+      "Var1": "AI MachineLearning",
+      "Freq": 44
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Var1": "AI BigData Analytics DataScience MachineLearning",
       "Freq": 42
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 580
+      "Freq": 571
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 218
+      "Freq": 220
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 177
+      "Freq": 172
     },
     {
       "Var1": "nodeQuotesBot",
       "Freq": 163
     },
     {
-      "Var1": "xaelbot",
-      "Freq": 154
+      "Var1": "nlognbot",
+      "Freq": 158
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 153
+      "Var1": "xaelbot",
+      "Freq": 144
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 131
+      "Freq": 137
     },
     {
       "Var1": "chidambara09",
-      "Freq": 124
+      "Freq": 130
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 120
+      "Freq": 117
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 111
+      "Freq": 114
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 104
+      "Freq": 97
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 90
+      "Freq": 87
     },
     {
       "Var1": "ServerlessFan",
@@ -147,30 +147,30 @@
       "Freq": 74
     },
     {
-      "Var1": "learn__together",
-      "Freq": 71
+      "Var1": "femtech_",
+      "Freq": 69
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 68
+      "Freq": 69
     },
     {
-      "Var1": "femtech_",
-      "Freq": 65
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 61
+      "Var1": "learn__together",
+      "Freq": 66
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 60
+      "Freq": 64
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 62
     },
     {
       "Var1": "hubofml",
-      "Freq": 51
+      "Freq": 50
     }
   ],
-  "top10_tweets_like": ["For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "From 1965 to 2019, the most popular programming languages \n\n#programmers #developers #programming #languages #ai #machinelearning #datascience #rstats #java #javascript #python #100daysofcode #coding\n\n https://t.co/lzrT10pvTw", "Some #rstats news:\n\nIt turns out that R is for skateboard use only, and is not designed for other activities.*\n\n* per source†\n\n † that source is my shoes https://t.co/vjKoRmwOSU", "This is great. California has open-sourced the data processing and modeling code used in their nowcast, forecast, and scenario dashboards. #rstats https://t.co/qg3147udTy https://t.co/srvv4I3x1U", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/qYb01CCwIv", "Super proud to announce that @d_hammers and my first #rstats package is on CRAN! 🥳 overviewR is a small but neat tool for everyone who wants to get a quick glance at their data set 👩‍💻 You can take a look at the package here: https://t.co/05sKwfq9ID #rladies #DataScience"],
-  "top10_tweets_retweet": ["For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "From 1965 to 2019, the most popular programming languages \n\n#programmers #developers #programming #languages #ai #machinelearning #datascience #rstats #java #javascript #python #100daysofcode #coding\n\n https://t.co/lzrT10pvTw", "Some #rstats news:\n\nIt turns out that R is for skateboard use only, and is not designed for other activities.*\n\n* per source†\n\n † that source is my shoes https://t.co/vjKoRmwOSU", "This is great. California has open-sourced the data processing and modeling code used in their nowcast, forecast, and scenario dashboards. #rstats https://t.co/qg3147udTy https://t.co/srvv4I3x1U", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/qYb01CCwIv", "Super proud to announce that @d_hammers and my first #rstats package is on CRAN! 🥳 overviewR is a small but neat tool for everyone who wants to get a quick glance at their data set 👩‍💻 You can take a look at the package here: https://t.co/05sKwfq9ID #rladies #DataScience"]
+  "top10_tweets_like": ["In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "📈This chart is my only response everytime I see someone claiming \"no one\" uses R\n\n#rstats #DataScience https://t.co/jzvsNxvByj", "From 1965 to 2019, the most popular programming languages \n\n#programmers #developers #programming #languages #ai #machinelearning #datascience #rstats #java #javascript #python #100daysofcode #coding\n\n https://t.co/lzrT10pvTw", "Some #rstats news:\n\nIt turns out that R is for skateboard use only, and is not designed for other activities.*\n\n* per source†\n\n † that source is my shoes https://t.co/vjKoRmwOSU", "This is great. California has open-sourced the data processing and modeling code used in their nowcast, forecast, and scenario dashboards. #rstats https://t.co/qg3147udTy https://t.co/srvv4I3x1U", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/qYb01CCwIv"],
+  "top10_tweets_retweet": ["In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "📈This chart is my only response everytime I see someone claiming \"no one\" uses R\n\n#rstats #DataScience https://t.co/jzvsNxvByj", "From 1965 to 2019, the most popular programming languages \n\n#programmers #developers #programming #languages #ai #machinelearning #datascience #rstats #java #javascript #python #100daysofcode #coding\n\n https://t.co/lzrT10pvTw", "Some #rstats news:\n\nIt turns out that R is for skateboard use only, and is not designed for other activities.*\n\n* per source†\n\n † that source is my shoes https://t.co/vjKoRmwOSU", "This is great. California has open-sourced the data processing and modeling code used in their nowcast, forecast, and scenario dashboards. #rstats https://t.co/qg3147udTy https://t.co/srvv4I3x1U", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/qYb01CCwIv"]
 }
