@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7164,
-      "average_tweets_per_hour": 298,
-      "tweeters_today": 2607,
-      "total_likes_today": 8405
+      "total_tweets_today": 7059,
+      "average_tweets_per_hour": 294,
+      "tweeters_today": 2581,
+      "total_likes_today": 7255
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 280
+      "Freq": 282
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 239
+      "Freq": 235
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 187
+      "Freq": 168
     },
     {
       "Var1": "DataScience Statistics BigData Analytics MachineLearning AI IoT IIoT",
@@ -29,15 +29,19 @@
       "Freq": 81
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 72
+      "Var1": "programmers developers programming languages ai",
+      "Freq": 74
     },
     {
-      "Var1": "programmers developers programming languages ai",
-      "Freq": 69
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 73
     },
     {
       "Var1": "100DaysOfCode NodeJS android PHP privacy Opensource Python Javascript AWS",
+      "Freq": 68
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 68
     },
     {
@@ -49,20 +53,12 @@
       "Freq": 62
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 62
-    },
-    {
-      "Var1": "theinsaneapp ML AI",
-      "Freq": 58
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 55
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 57
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 55
+      "Freq": 54
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats Java",
@@ -70,61 +66,65 @@
     },
     {
       "Var1": "rstats rspatial",
-      "Freq": 50
+      "Freq": 51
     },
     {
       "Var1": "Books Jupyter BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 47
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 46
+      "Var1": "CloudComputing API DigitalTransformation Infographic Cloud",
+      "Freq": 42
     },
     {
       "Var1": "AI BigData Analytics DataScience MachineLearning",
-      "Freq": 42
+      "Freq": 40
     },
     {
-      "Var1": "CloudComputing API DigitalTransformation Infographic Cloud",
-      "Freq": 42
+      "Var1": "DataScience Statistics BigData",
+      "Freq": 40
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 653
+      "Freq": 645
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 199
+      "Freq": 198
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 168
+      "Freq": 165
     },
     {
       "Var1": "xaelbot",
-      "Freq": 148
+      "Freq": 146
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 140
+      "Freq": 141
     },
     {
       "Var1": "nlognbot",
-      "Freq": 139
+      "Freq": 135
     },
     {
       "Var1": "chidambara09",
-      "Freq": 115
+      "Freq": 117
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 111
+      "Freq": 112
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 109
+      "Freq": 110
     },
     {
       "Var1": "Taieb_Bot",
@@ -132,23 +132,23 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 94
+      "Freq": 90
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 81
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 78
+      "Freq": 80
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 77
+      "Freq": 79
+    },
+    {
+      "Var1": "anglehernandez",
+      "Freq": 76
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 75
+      "Freq": 71
     },
     {
       "Var1": "learn__together",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "hubofml",
-      "Freq": 61
+      "Freq": 59
     },
     {
       "Var1": "femtech_",
-      "Freq": 60
+      "Freq": 58
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 50
+      "Freq": 49
     }
   ],
-  "top10_tweets_like": ["This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "sometimes you just need the comforting warm embrace of rstudio #rstats https://t.co/8bygY4vAYI", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV"],
-  "top10_tweets_retweet": ["This is your periodic reminder of free #rstats learning content that we’ve produced largely in response to the DataCamp incident. \n\nI want my students to feel valued and safe. \n\nFirst off: The R-Bootcamp. No install required, just browser: https://t.co/Ao1MeyqErv", "sometimes you just need the comforting warm embrace of rstudio #rstats https://t.co/8bygY4vAYI", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "It says a lot about the #rstats community that, despite yet more badness involving DataCamp (*massive eyeroll*), they continue to generate and share free resources for learning R:", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV"]
+  "top10_tweets_like": ["sometimes you just need the comforting warm embrace of rstudio #rstats https://t.co/8bygY4vAYI", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "From 1965 to 2019, the most popular programming languages \n\n#programmers #developers #programming #languages #ai #machinelearning #datascience #rstats #java #javascript #python #100daysofcode #coding\n\n https://t.co/lzrT10pvTw", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV", "Some #rstats news:\n\nIt turns out that R is for skateboard use only, and is not designed for other activities.*\n\n* per source†\n\n † that source is my shoes https://t.co/vjKoRmwOSU"],
+  "top10_tweets_retweet": ["sometimes you just need the comforting warm embrace of rstudio #rstats https://t.co/8bygY4vAYI", "I've compiled some of my favorite resources for learning #rstats (for free!) and highlighted reasons why each may be a good fit for your needs!\n\nhttps://t.co/8lX3NMP90D\n\n(🙏thank you for inspiration @jessicalavs,  @djnavarro, @kbodwin, @Jonthegeek, @tylermorganwall, &amp; @rctatman)", "For those that are new to the DataCamp controversy:  I have been following it from the beginning, and I'm here to share a bit so you know why this is big news and why the #rstats community is so fired up:", "In addition to '+' I'm contemplating a new '|' operator for #rstats #rspatial 📦 {mapview} to allow for a slider between two maps as in the example below (taken from ?leaflet.extras2::addSideBySide):\n\nmapview(franconia) | mapview(breweries)\n\nWould this be of interest/useful? https://t.co/10ozt7eLwv", "Can we please stop doing this! 💔\nImagine coming from a non-CS background, worked hard learning #rstats the whole semester, today you actually feel pretty good because you managed to put together a legit ✨dashboard✨, and then you find this on LinkedIn. 😞 https://t.co/8wqshvLSdL", "Hi fam! If you want learn some #sem #rstats #lavaan for free(!) I have my entire course on YouTube. Even better, the great @Savvylewis15 has helped me reorganize my YouTube excel sheet so the website will include a watching order list again soon. \n\nhttps://t.co/ngqxXn81G2", "Really enjoying diving into the guts of testthat — it's been awhile minute since I seriously worked on it and I'm getting excited about all the features coming in testthat 3.0.0 😀 #rstats", "From 1965 to 2019, the most popular programming languages \n\n#programmers #developers #programming #languages #ai #machinelearning #datascience #rstats #java #javascript #python #100daysofcode #coding\n\n https://t.co/lzrT10pvTw", "Quick #rstats script to illustrate normality of data versus residuals:\n\nn &lt;- 1000\nd &lt;- data.frame(\n  grp = rep(0:1, each = n),\n  dv = c(rnorm(n), rnorm(n, 5))\n)\n\n# data are bimodal\nhist(d$dv)\n\n# model\nm &lt;- lm(dv ~ grp, d)\nd$res &lt;- residuals(m)\n\n# residuals are normal\nhist(d$res) https://t.co/PDUQYCt9hV", "Some #rstats news:\n\nIt turns out that R is for skateboard use only, and is not designed for other activities.*\n\n* per source†\n\n † that source is my shoes https://t.co/vjKoRmwOSU"]
 }
