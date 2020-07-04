@@ -1,31 +1,35 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6573,
-      "average_tweets_per_hour": 274,
-      "tweeters_today": 2313,
-      "total_likes_today": 7088
+      "total_tweets_today": 6544,
+      "average_tweets_per_hour": 273,
+      "tweeters_today": 2304,
+      "total_likes_today": 7089
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "ggplot2",
-      "Freq": 297
+      "Freq": 306
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 196
+      "Freq": 192
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 167
+      "Freq": 165
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 139
+      "Freq": 142
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 82
+    },
+    {
+      "Var1": "programmers developers programming languages ai",
       "Freq": 82
     },
     {
@@ -33,28 +37,28 @@
       "Freq": 80
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
-      "Freq": 80
-    },
-    {
-      "Var1": "programmers developers programming languages ai",
-      "Freq": 79
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 72
     },
     {
       "Var1": "migration Europe",
-      "Freq": 67
+      "Freq": 68
     },
     {
       "Var1": "Statistics BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
       "Freq": 65
     },
     {
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Freq": 64
+    },
+    {
       "Var1": "theinsaneapp ML AI MachineLearning",
       "Freq": 61
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 57
     },
     {
       "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
@@ -65,7 +69,7 @@
       "Freq": 48
     },
     {
-      "Var1": "Cybersecurity Books BigData Analytics DataScience MachineLearning AI IoT IIoT",
+      "Var1": "Python Programming BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 48
     },
     {
@@ -73,94 +77,90 @@
       "Freq": 48
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 47
-    },
-    {
-      "Var1": "MachineLearning",
+      "Var1": "Cybersecurity Books BigData Analytics DataScience MachineLearning AI IoT IIoT",
       "Freq": 44
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 42
+      "Var1": "MachineLearning",
+      "Freq": 43
     },
     {
-      "Var1": "internet Coding programming 100DaysOfCode womenintech GirlsWhoCode CodeNewbies",
-      "Freq": 42
+      "Var1": "Udemy guide MachineLearning 100DaysOfCode DeepLearning",
+      "Freq": 43
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 537
+      "Freq": 536
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 225
+      "Freq": 227
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 186
+      "Freq": 183
     },
     {
       "Var1": "nlognbot",
-      "Freq": 162
+      "Freq": 157
     },
     {
       "Var1": "xaelbot",
-      "Freq": 159
+      "Freq": 152
     },
     {
       "Var1": "chidambara09",
-      "Freq": 144
+      "Freq": 146
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 136
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 128
+      "Freq": 138
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 127
+      "Freq": 133
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 124
+      "Freq": 129
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 127
     },
     {
       "Var1": "femtech_",
-      "Freq": 90
+      "Freq": 91
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 85
+      "Freq": 88
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 84
+      "Freq": 83
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 76
+      "Freq": 74
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 75
+      "Freq": 71
     },
     {
       "Var1": "learn__together",
-      "Freq": 59
+      "Freq": 61
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 57
+      "Freq": 58
     },
     {
       "Var1": "hubofml",
-      "Freq": 54
+      "Freq": 53
     },
     {
       "Var1": "_codenewbiebot",
@@ -171,6 +171,6 @@
       "Freq": 44
     }
   ],
-  "top10_tweets_like": ["If you want to get up to speed with #ggplot2 and its extended universe of packages I've released free recordings of my \"Plotting Anything with ggplot2\" workshop. Have fun! #rstats \n\nhttps://t.co/LxwwSsESQM\n\nhttps://t.co/uZda0KRAgp\n\n~4.5h of video so find a comfy chair🙂", "Really excited that https://t.co/VV8S7GkE9H is now publicly available — among other things it provides Linux binaries for CRAN packages, which makes install so so much faster. Learn more at https://t.co/zId043OT7x #rstats", "I was getting lost in all my bookmarks of all the amazing #rstats resources being shared as blog posts, Twitter threads, and GitHub repos. So I made a simple website to compile all the free resources that I am aware of. Check out https://t.co/hnqhBOZneG", "Our recent work w/ @pat_nikos, mapping the largest internal #migration flows across 38 countries in #Europe using @Mapbox in #rstats. Link to reproducible #code &amp; #data https://t.co/Qcpn3XUFTO &amp; our @cpos_journal paper which explains the observed patterns https://t.co/Icy03Ob0U0 https://t.co/6R7LXY90DF", "Harvard Is Offering Free Online Courses for Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/7LhfBuD43v", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/qYb01CCwIv", "Tidylog has just caught up with dplyr 1.0.0 and supports all new functions, such as relocate(), rename_with(), and slice(). Tidylog provides feedback for these commands and many more!\n\nGet it on CRAN, or read more here: https://t.co/g60caLv5LC\n\n#rstats @dataandme @hadleywickham https://t.co/RJ5yQEaYXa", "The first \"Teaching statistics and data science online\" workshop is today, starting in a little over an hour!\n\n☁️ Today we're focusing on teaching with RStudio Cloud\n📚 All materials for the workshop series will be posted at https://t.co/0AVDWzdFht \n\n#rstats https://t.co/iWzQdrax9k", "If you're attending #RStatsNYC from home, your baby could tag along in style. \n\nGet your R Baby Onesie at https://t.co/Irox1lhx5O.\n\n#rstats https://t.co/KpH8HtJfiy", "A *really big moment* for #Rcpp:  \n - 2000 reverse dependecies\n - One in eight packages on CRAN \n\nA *big and heartfelt Thank You!* to everbody who has contributed on that journey with code, suggestions, bug reports, documentation and tips!\n\n#rstats https://t.co/4g4L15dZnT"],
-  "top10_tweets_retweet": ["If you want to get up to speed with #ggplot2 and its extended universe of packages I've released free recordings of my \"Plotting Anything with ggplot2\" workshop. Have fun! #rstats \n\nhttps://t.co/LxwwSsESQM\n\nhttps://t.co/uZda0KRAgp\n\n~4.5h of video so find a comfy chair🙂", "Really excited that https://t.co/VV8S7GkE9H is now publicly available — among other things it provides Linux binaries for CRAN packages, which makes install so so much faster. Learn more at https://t.co/zId043OT7x #rstats", "I was getting lost in all my bookmarks of all the amazing #rstats resources being shared as blog posts, Twitter threads, and GitHub repos. So I made a simple website to compile all the free resources that I am aware of. Check out https://t.co/hnqhBOZneG", "Our recent work w/ @pat_nikos, mapping the largest internal #migration flows across 38 countries in #Europe using @Mapbox in #rstats. Link to reproducible #code &amp; #data https://t.co/Qcpn3XUFTO &amp; our @cpos_journal paper which explains the observed patterns https://t.co/Icy03Ob0U0 https://t.co/6R7LXY90DF", "Harvard Is Offering Free Online Courses for Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/7LhfBuD43v", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/qYb01CCwIv", "Tidylog has just caught up with dplyr 1.0.0 and supports all new functions, such as relocate(), rename_with(), and slice(). Tidylog provides feedback for these commands and many more!\n\nGet it on CRAN, or read more here: https://t.co/g60caLv5LC\n\n#rstats @dataandme @hadleywickham https://t.co/RJ5yQEaYXa", "The first \"Teaching statistics and data science online\" workshop is today, starting in a little over an hour!\n\n☁️ Today we're focusing on teaching with RStudio Cloud\n📚 All materials for the workshop series will be posted at https://t.co/0AVDWzdFht \n\n#rstats https://t.co/iWzQdrax9k", "If you're attending #RStatsNYC from home, your baby could tag along in style. \n\nGet your R Baby Onesie at https://t.co/Irox1lhx5O.\n\n#rstats https://t.co/KpH8HtJfiy", "A *really big moment* for #Rcpp:  \n - 2000 reverse dependecies\n - One in eight packages on CRAN \n\nA *big and heartfelt Thank You!* to everbody who has contributed on that journey with code, suggestions, bug reports, documentation and tips!\n\n#rstats https://t.co/4g4L15dZnT"]
+  "top10_tweets_like": ["If you want to get up to speed with #ggplot2 and its extended universe of packages I've released free recordings of my \"Plotting Anything with ggplot2\" workshop. Have fun! #rstats \n\nhttps://t.co/LxwwSsESQM\n\nhttps://t.co/uZda0KRAgp\n\n~4.5h of video so find a comfy chair🙂", "Really excited that https://t.co/VV8S7GkE9H is now publicly available — among other things it provides Linux binaries for CRAN packages, which makes install so so much faster. Learn more at https://t.co/zId043OT7x #rstats", "I was getting lost in all my bookmarks of all the amazing #rstats resources being shared as blog posts, Twitter threads, and GitHub repos. So I made a simple website to compile all the free resources that I am aware of. Check out https://t.co/hnqhBOZneG", "Our recent work w/ @pat_nikos, mapping the largest internal #migration flows across 38 countries in #Europe using @Mapbox in #rstats. Link to reproducible #code &amp; #data https://t.co/Qcpn3XUFTO &amp; our @cpos_journal paper which explains the observed patterns https://t.co/Icy03Ob0U0 https://t.co/6R7LXY90DF", "Harvard Is Offering Free Online Courses for Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/7LhfBuD43v", "Tidylog has just caught up with dplyr 1.0.0 and supports all new functions, such as relocate(), rename_with(), and slice(). Tidylog provides feedback for these commands and many more!\n\nGet it on CRAN, or read more here: https://t.co/g60caLv5LC\n\n#rstats @dataandme @hadleywickham https://t.co/RJ5yQEaYXa", "The first \"Teaching statistics and data science online\" workshop is today, starting in a little over an hour!\n\n☁️ Today we're focusing on teaching with RStudio Cloud\n📚 All materials for the workshop series will be posted at https://t.co/0AVDWzdFht \n\n#rstats https://t.co/iWzQdrax9k", "If you're attending #RStatsNYC from home, your baby could tag along in style. \n\nGet your R Baby Onesie at https://t.co/Irox1lhx5O.\n\n#rstats https://t.co/KpH8HtJfiy", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMu7fF6 https://t.co/KdRt48kNr9", "A *really big moment* for #Rcpp:  \n - 2000 reverse dependecies\n - One in eight packages on CRAN \n\nA *big and heartfelt Thank You!* to everbody who has contributed on that journey with code, suggestions, bug reports, documentation and tips!\n\n#rstats https://t.co/4g4L15dZnT"],
+  "top10_tweets_retweet": ["If you want to get up to speed with #ggplot2 and its extended universe of packages I've released free recordings of my \"Plotting Anything with ggplot2\" workshop. Have fun! #rstats \n\nhttps://t.co/LxwwSsESQM\n\nhttps://t.co/uZda0KRAgp\n\n~4.5h of video so find a comfy chair🙂", "Really excited that https://t.co/VV8S7GkE9H is now publicly available — among other things it provides Linux binaries for CRAN packages, which makes install so so much faster. Learn more at https://t.co/zId043OT7x #rstats", "I was getting lost in all my bookmarks of all the amazing #rstats resources being shared as blog posts, Twitter threads, and GitHub repos. So I made a simple website to compile all the free resources that I am aware of. Check out https://t.co/hnqhBOZneG", "Our recent work w/ @pat_nikos, mapping the largest internal #migration flows across 38 countries in #Europe using @Mapbox in #rstats. Link to reproducible #code &amp; #data https://t.co/Qcpn3XUFTO &amp; our @cpos_journal paper which explains the observed patterns https://t.co/Icy03Ob0U0 https://t.co/6R7LXY90DF", "Harvard Is Offering Free Online Courses for Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/7LhfBuD43v", "Tidylog has just caught up with dplyr 1.0.0 and supports all new functions, such as relocate(), rename_with(), and slice(). Tidylog provides feedback for these commands and many more!\n\nGet it on CRAN, or read more here: https://t.co/g60caLv5LC\n\n#rstats @dataandme @hadleywickham https://t.co/RJ5yQEaYXa", "The first \"Teaching statistics and data science online\" workshop is today, starting in a little over an hour!\n\n☁️ Today we're focusing on teaching with RStudio Cloud\n📚 All materials for the workshop series will be posted at https://t.co/0AVDWzdFht \n\n#rstats https://t.co/iWzQdrax9k", "If you're attending #RStatsNYC from home, your baby could tag along in style. \n\nGet your R Baby Onesie at https://t.co/Irox1lhx5O.\n\n#rstats https://t.co/KpH8HtJfiy", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMu7fF6 https://t.co/KdRt48kNr9", "A *really big moment* for #Rcpp:  \n - 2000 reverse dependecies\n - One in eight packages on CRAN \n\nA *big and heartfelt Thank You!* to everbody who has contributed on that journey with code, suggestions, bug reports, documentation and tips!\n\n#rstats https://t.co/4g4L15dZnT"]
 }
