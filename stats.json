@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5128,
-      "average_tweets_per_hour": 214,
-      "tweeters_today": 1316,
-      "total_likes_today": 3774
+      "total_tweets_today": 5082,
+      "average_tweets_per_hour": 212,
+      "tweeters_today": 1306,
+      "total_likes_today": 3665
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 164
-    },
-    {
       "Var1": "AI BigData Analytics DataScience MachineLearning",
-      "Freq": 117
+      "Freq": 123
     },
     {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats JavaScript",
-      "Freq": 116
+      "Freq": 121
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 117
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -26,23 +26,23 @@
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 97
+      "Freq": 101
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 93
+      "Freq": 95
+    },
+    {
+      "Var1": "GenZ GenX GenY Blockchain bigdata analytics datascience cybersecurity deeplearning",
+      "Freq": 67
+    },
+    {
+      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
+      "Freq": 58
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience RStats javascript reactjs Serverless",
       "Freq": 56
-    },
-    {
-      "Var1": "GenZ GenX GenY Blockchain bigdata analytics datascience cybersecurity deeplearning",
-      "Freq": 54
-    },
-    {
-      "Var1": "ggplot2",
-      "Freq": 54
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow Java",
@@ -50,19 +50,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI Cloud",
-      "Freq": 53
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 53
-    },
-    {
-      "Var1": "rstats DataScience",
       "Freq": 52
     },
     {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 52
+    },
+    {
+      "Var1": "ggplot2",
+      "Freq": 51
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 49
+      "Freq": 48
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -74,7 +74,11 @@
     },
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 46
+      "Freq": 47
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 47
     },
     {
       "Var1": "DataScience MachineLearning",
@@ -83,32 +87,28 @@
     {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
       "Freq": 42
-    },
-    {
-      "Var1": "DataMining BusinessAnalytics BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 325
+      "Freq": 320
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 217
+      "Freq": 213
     },
     {
       "Var1": "nlognbot",
-      "Freq": 168
+      "Freq": 171
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 168
+      "Freq": 171
     },
     {
       "Var1": "xaelbot",
-      "Freq": 156
+      "Freq": 155
     },
     {
       "Var1": "nodeQuotesBot",
@@ -116,27 +116,27 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 141
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 136
+      "Freq": 134
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 130
+      "Freq": 131
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 129
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 107
+      "Freq": 101
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 85
+      "Freq": 82
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 82
+      "Freq": 79
     },
     {
       "Var1": "LinuxDreams",
@@ -144,7 +144,7 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 68
+      "Freq": 66
     },
     {
       "Var1": "hubofml",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 60
+      "Freq": 53
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 50
+      "Freq": 51
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 50
-    },
-    {
-      "Var1": "CoderNotesBot",
-      "Freq": 47
+      "Freq": 49
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 45
+      "Freq": 44
+    },
+    {
+      "Var1": "CoderNotesBot",
+      "Freq": 41
     }
   ],
-  "top10_tweets_like": ["I have no plans to get into generative art.\n\nBut if I did, I'd do it in ginormous spreadsheets, written with #rstats, just to upset people 🖇👩‍🎨 https://t.co/JTHxuSkfk0", "A Colossal Collection of Cheat Sheets for #AI, NumPy, Neural Networks, #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/LgNmSvzOjk", "10 Free Must-read #DataScience and #MachineLearning eBooks. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nsBEPxNNWZ https://t.co/Mn9lVByp39", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/fNsFYjaVYy", "Python &amp; #rstats, something we can agree on! 🤣\nhttps://t.co/nuUohsXLvX https://t.co/nJFFpXwKda", "📦 openintro 2.0 is on CRAN! We consolidated data from various @OpenIntroOrg projects in one place, i.e. data used in all books &amp; labs (e.g. https://t.co/1KvWDYqQSh) can be accessed with library(openintro). And we have a spiffy new pkg website at https://t.co/AQgydKhQXW!\n\n#rstats", "Yesterday, I added an R markdown article template for journal @Bioinformatics_ to #rstats rticles package, install from https://t.co/HMecbnBqLj with remotes::install_github(\"ShixiangWang/rticles\") to take a try. https://t.co/99LRAcKtZo", "Okay, hands up who didn't know you could write \n\nlibrary(knitr)\noptions(digits = 2)\n\nIn an RMarkdown document to round all the numbers in it to 2 decimal places?\n\n#rstats\n\n🙋‍♂️", ".\nDo genetic factors make certain individuals more susceptible developing to pneumonia?\n\nGenomes from 24,000+ cases bring some intriguing answers...\n\nhttps://t.co/R13O0x4WVf #iot #snrtg #bigdata #rstats #datascience #openscience #immunology #genomics https://t.co/XYBMtHiotL", "Rcpp now used by 2000 (and 1 in 8) CRAN packages\nSeamless R and C++ integration\nhttps://t.co/H6fiH1HeBM\n#rcpp #rstats https://t.co/EO1vkQCMz0"],
-  "top10_tweets_retweet": ["I have no plans to get into generative art.\n\nBut if I did, I'd do it in ginormous spreadsheets, written with #rstats, just to upset people 🖇👩‍🎨 https://t.co/JTHxuSkfk0", "A Colossal Collection of Cheat Sheets for #AI, NumPy, Neural Networks, #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/LgNmSvzOjk", "10 Free Must-read #DataScience and #MachineLearning eBooks. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nsBEPxNNWZ https://t.co/Mn9lVByp39", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/fNsFYjaVYy", "Python &amp; #rstats, something we can agree on! 🤣\nhttps://t.co/nuUohsXLvX https://t.co/nJFFpXwKda", "📦 openintro 2.0 is on CRAN! We consolidated data from various @OpenIntroOrg projects in one place, i.e. data used in all books &amp; labs (e.g. https://t.co/1KvWDYqQSh) can be accessed with library(openintro). And we have a spiffy new pkg website at https://t.co/AQgydKhQXW!\n\n#rstats", "Yesterday, I added an R markdown article template for journal @Bioinformatics_ to #rstats rticles package, install from https://t.co/HMecbnBqLj with remotes::install_github(\"ShixiangWang/rticles\") to take a try. https://t.co/99LRAcKtZo", "Okay, hands up who didn't know you could write \n\nlibrary(knitr)\noptions(digits = 2)\n\nIn an RMarkdown document to round all the numbers in it to 2 decimal places?\n\n#rstats\n\n🙋‍♂️", ".\nDo genetic factors make certain individuals more susceptible developing to pneumonia?\n\nGenomes from 24,000+ cases bring some intriguing answers...\n\nhttps://t.co/R13O0x4WVf #iot #snrtg #bigdata #rstats #datascience #openscience #immunology #genomics https://t.co/XYBMtHiotL", "Rcpp now used by 2000 (and 1 in 8) CRAN packages\nSeamless R and C++ integration\nhttps://t.co/H6fiH1HeBM\n#rcpp #rstats https://t.co/EO1vkQCMz0"]
+  "top10_tweets_like": ["A Colossal Collection of Cheat Sheets for #AI, NumPy, Neural Networks, #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/LgNmSvzOjk", "10 Free Must-read #DataScience and #MachineLearning eBooks. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nsBEPxNNWZ https://t.co/Mn9lVByp39", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/fNsFYjaVYy", "Python &amp; #rstats, something we can agree on! 🤣\nhttps://t.co/nuUohsXLvX https://t.co/nJFFpXwKda", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/S8UCKIoBgk", "Yesterday, I added an R markdown article template for journal @Bioinformatics_ to #rstats rticles package, install from https://t.co/HMecbnBqLj with remotes::install_github(\"ShixiangWang/rticles\") to take a try. https://t.co/99LRAcKtZo", "📦 openintro 2.0 is on CRAN! We consolidated data from various @OpenIntroOrg projects in one place, i.e. data used in all books &amp; labs (e.g. https://t.co/1KvWDYqQSh) can be accessed with library(openintro). And we have a spiffy new pkg website at https://t.co/AQgydKhQXW!\n\n#rstats", "Okay, hands up who didn't know you could write \n\nlibrary(knitr)\noptions(digits = 2)\n\nIn an RMarkdown document to round all the numbers in it to 2 decimal places?\n\n#rstats\n\n🙋‍♂️", "✍️📊 \"Visualizing covariance, variance, standard deviation, correlation\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/fEPyOf7xfV\n#rstats https://t.co/y8shlTFuvO", ".\nDo genetic factors make certain individuals more susceptible developing to pneumonia?\n\nGenomes from 24,000+ cases bring some intriguing answers...\n\nhttps://t.co/R13O0x4WVf #iot #snrtg #bigdata #rstats #datascience #openscience #immunology #genomics https://t.co/XYBMtHiotL"],
+  "top10_tweets_retweet": ["A Colossal Collection of Cheat Sheets for #AI, NumPy, Neural Networks, #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/LgNmSvzOjk", "10 Free Must-read #DataScience and #MachineLearning eBooks. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nsBEPxNNWZ https://t.co/Mn9lVByp39", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/fNsFYjaVYy", "Python &amp; #rstats, something we can agree on! 🤣\nhttps://t.co/nuUohsXLvX https://t.co/nJFFpXwKda", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/S8UCKIoBgk", "Yesterday, I added an R markdown article template for journal @Bioinformatics_ to #rstats rticles package, install from https://t.co/HMecbnBqLj with remotes::install_github(\"ShixiangWang/rticles\") to take a try. https://t.co/99LRAcKtZo", "📦 openintro 2.0 is on CRAN! We consolidated data from various @OpenIntroOrg projects in one place, i.e. data used in all books &amp; labs (e.g. https://t.co/1KvWDYqQSh) can be accessed with library(openintro). And we have a spiffy new pkg website at https://t.co/AQgydKhQXW!\n\n#rstats", "Okay, hands up who didn't know you could write \n\nlibrary(knitr)\noptions(digits = 2)\n\nIn an RMarkdown document to round all the numbers in it to 2 decimal places?\n\n#rstats\n\n🙋‍♂️", "✍️📊 \"Visualizing covariance, variance, standard deviation, correlation\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/fEPyOf7xfV\n#rstats https://t.co/y8shlTFuvO", ".\nDo genetic factors make certain individuals more susceptible developing to pneumonia?\n\nGenomes from 24,000+ cases bring some intriguing answers...\n\nhttps://t.co/R13O0x4WVf #iot #snrtg #bigdata #rstats #datascience #openscience #immunology #genomics https://t.co/XYBMtHiotL"]
 }
