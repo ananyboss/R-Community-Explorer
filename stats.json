@@ -1,63 +1,67 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5497,
+      "total_tweets_today": 5503,
       "average_tweets_per_hour": 229,
-      "tweeters_today": 1598,
-      "total_likes_today": 4622
+      "tweeters_today": 1602,
+      "total_likes_today": 4691
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 158
+      "Freq": 160
     },
     {
       "Var1": "DataScience RStats Python IoT",
+      "Freq": 152
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 149
+    },
+    {
+      "Var1": "tidyverse rstats",
       "Freq": 149
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 143
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 140
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 139
+      "Freq": 141
     },
     {
       "Var1": "AI BigData Analytics DataScience MachineLearning",
-      "Freq": 135
+      "Freq": 132
     },
     {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
-      "Freq": 129
+      "Freq": 109
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 83
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 78
     },
     {
-      "Var1": "RStats",
-      "Freq": 78
+      "Var1": "COVID19 BigData DataScience AI",
+      "Freq": 76
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
       "Freq": 75
     },
     {
-      "Var1": "COVID19 BigData DataScience AI",
-      "Freq": 73
-    },
-    {
       "Var1": "Python rstats java javascript 100DaysOfCode",
-      "Freq": 61
+      "Freq": 57
     },
     {
       "Var1": "DataScience MachineLearning TensorFlow",
+      "Freq": 56
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 56
     },
     {
@@ -65,8 +69,12 @@
       "Freq": 55
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 55
+      "Var1": "rstats DataScience",
+      "Freq": 52
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
+      "Freq": 51
     },
     {
       "Var1": "Data DeepLearning Analytics DataScience AI",
@@ -77,97 +85,89 @@
       "Freq": 49
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
-      "Freq": 48
-    },
-    {
       "Var1": "Rstats",
-      "Freq": 48
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 48
+      "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 382
+      "Freq": 393
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 189
+      "Freq": 188
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 183
     },
     {
       "Var1": "theInfernobot",
       "Freq": 182
     },
     {
-      "Var1": "LlnuxBot",
-      "Freq": 180
-    },
-    {
       "Var1": "xaelbot",
-      "Freq": 163
+      "Freq": 164
     },
     {
       "Var1": "nlognbot",
-      "Freq": 159
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 145
+      "Freq": 156
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 142
+      "Freq": 150
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 149
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 123
+      "Freq": 118
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 95
+      "Freq": 97
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 89
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 80
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 73
+      "Freq": 90
     },
     {
       "Var1": "chidambara09",
-      "Freq": 72
+      "Freq": 78
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 78
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 74
     },
     {
       "Var1": "hubofml",
-      "Freq": 60
+      "Freq": 57
     },
     {
       "Var1": "learn__together",
-      "Freq": 52
-    },
-    {
-      "Var1": "ML_Tweet_Bot",
-      "Freq": 52
+      "Freq": 51
     },
     {
       "Var1": "femtech_",
-      "Freq": 49
+      "Freq": 50
+    },
+    {
+      "Var1": "ML_Tweet_Bot",
+      "Freq": 50
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 44
+      "Freq": 47
     },
     {
-      "Var1": "richard_owona",
+      "Var1": "_reactdev",
       "Freq": 42
     }
   ],
