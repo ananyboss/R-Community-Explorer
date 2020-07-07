@@ -1,60 +1,60 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6168,
-      "average_tweets_per_hour": 257,
-      "tweeters_today": 1404,
-      "total_likes_today": 4743
+      "total_tweets_today": 6065,
+      "average_tweets_per_hour": 253,
+      "tweeters_today": 1391,
+      "total_likes_today": 4819
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 210
+      "Freq": 185
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 180
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 163
+      "Freq": 178
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
       "Freq": 130
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Var1": "BigData Analytics DataScience AI",
       "Freq": 128
     },
     {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 96
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 126
     },
     {
-      "Var1": "RStats",
+      "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 94
     },
     {
+      "Var1": "RStats",
+      "Freq": 86
+    },
+    {
       "Var1": "Statistics BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 78
+      "Freq": 77
     },
     {
       "Var1": "DeepLearning Analytics",
-      "Freq": 68
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 67
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
       "Freq": 65
     },
     {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 65
+    },
+    {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 61
+      "Freq": 60
     },
     {
       "Var1": "BigData Analytics DataScience MachineLearning IoT IIoT",
@@ -69,20 +69,20 @@
       "Freq": 57
     },
     {
-      "Var1": "AWS ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 56
-    },
-    {
-      "Var1": "AI BigData Analytics DataScience MachineLearning",
-      "Freq": 47
-    },
-    {
       "Var1": "BigData Analytics",
-      "Freq": 47
+      "Freq": 54
+    },
+    {
+      "Var1": "movementecology",
+      "Freq": 51
     },
     {
       "Var1": "TidyTuesday",
-      "Freq": 47
+      "Freq": 49
+    },
+    {
+      "Var1": "AI BigData Analytics DataScience MachineLearning",
+      "Freq": 46
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning MachineLearning IoT Python",
@@ -92,19 +92,19 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 576
+      "Freq": 584
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 413
+      "Freq": 415
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 250
+      "Freq": 243
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 209
+      "Freq": 206
     },
     {
       "Var1": "xaelbot",
@@ -112,23 +112,23 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 183
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 154
+      "Freq": 176
     },
     {
       "Var1": "chidambara09",
-      "Freq": 149
+      "Freq": 148
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 136
+      "Var1": "Taieb_Bot",
+      "Freq": 146
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 130
+      "Freq": 139
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 132
     },
     {
       "Var1": "ServerlessFan",
@@ -136,11 +136,11 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 105
+      "Freq": 109
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 94
+      "Freq": 92
     },
     {
       "Var1": "TheDeveloperBot",
@@ -148,27 +148,27 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 82
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 76
+      "Freq": 81
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 75
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 70
+      "Freq": 76
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 69
+      "Freq": 76
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 74
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 64
     },
     {
       "Var1": "_reactdev",
-      "Freq": 54
+      "Freq": 52
     }
   ],
   "top10_tweets_like": ["I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "Describe your favourite #rstats package in the most boring way possible", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "New @rOpenSci #rstats {drake} documentation: example Bayesian data analysis pipeline with {rstan}, + tips and tricks.\nThe use case fits because MCMC is expensive and you don't want to repeat yourself.\nManual chapter: https://t.co/Q85mHn5iPE\nExample code: https://t.co/95qnzUDxnl", "Hey #movementecology community, check our new paper https://t.co/5qGKlIRiBS reviewing the last decade in the field, based on text analysis in #RStats of &gt; 8000 papers. Some highlights of our paper in this thread. *OK 1/2 of the paper in this thread (1/n) https://t.co/08EOBMF8wn", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "✍️📊🖥 \"Data, Code and Visualization • valueBoxes and Sparklines\"\n\n👤 Joshua Kunst @jbkunst \n\nhttps://t.co/CriFtciH9v\n#rstats https://t.co/aj5WK6CmTV"],
