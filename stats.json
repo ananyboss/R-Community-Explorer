@@ -1,52 +1,52 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5501,
-      "average_tweets_per_hour": 229,
-      "tweeters_today": 1459,
-      "total_likes_today": 4376
+      "total_tweets_today": 5642,
+      "average_tweets_per_hour": 235,
+      "tweeters_today": 1449,
+      "total_likes_today": 4338
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 198
+      "Freq": 199
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 192
+      "Freq": 196
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 156
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 115
+      "Freq": 163
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 109
+      "Freq": 127
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 116
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 96
+      "Freq": 95
     },
     {
       "Var1": "RStats",
-      "Freq": 96
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 66
+      "Freq": 95
     },
     {
       "Var1": "Statistics BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 66
+      "Freq": 68
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 67
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 59
+      "Freq": 61
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
@@ -61,10 +61,6 @@
       "Freq": 56
     },
     {
-      "Var1": "DataScience RStats Python IoT",
-      "Freq": 56
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 55
     },
@@ -74,103 +70,107 @@
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 52
+      "Freq": 53
+    },
+    {
+      "Var1": "DataScience RStats Python IoT",
+      "Freq": 50
     },
     {
       "Var1": "DataScience BigData Analytics AI",
       "Freq": 49
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
-      "Freq": 49
-    },
-    {
       "Var1": "DeepLearning Analytics",
       "Freq": 48
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
+      "Freq": 46
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 546
+      "Freq": 540
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 318
+      "Freq": 316
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 207
+      "Freq": 215
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 176
+      "Freq": 181
     },
     {
       "Var1": "xaelbot",
-      "Freq": 163
+      "Freq": 167
     },
     {
       "Var1": "nlognbot",
-      "Freq": 150
+      "Freq": 155
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 129
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 129
     },
     {
       "Var1": "Taieb_Bot",
       "Freq": 126
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 121
+      "Var1": "ServerlessFan",
+      "Freq": 103
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 107
+      "Var1": "chidambara09",
+      "Freq": 99
     },
     {
       "Var1": "TheSecretJunio1",
       "Freq": 99
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 97
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 89
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 83
-    },
-    {
-      "Var1": "learn__together",
-      "Freq": 70
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 68
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 60
+      "Freq": 91
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 60
+      "Freq": 80
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 73
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 67
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 63
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 56
     },
     {
       "Var1": "LinuxDreams",
       "Freq": 54
     },
     {
-      "Var1": "femtech_",
-      "Freq": 53
-    },
-    {
       "Var1": "DeepSingularity",
       "Freq": 50
     }
   ],
-  "top10_tweets_like": ["Describe your favourite #rstats package in the most boring way possible", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Slides now available from Friday's M&amp;Ms by @JackEdTaylor, a masterclass on estimating distributional parameters in #brms #rstats (and on model visualization)! https://t.co/kCD5E2AZ6h https://t.co/G7A4lPf63e", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "New @rOpenSci #rstats {drake} documentation: example Bayesian data analysis pipeline with {rstan}, + tips and tricks.\nThe use case fits because MCMC is expensive and you don't want to repeat yourself.\nManual chapter: https://t.co/Q85mHn5iPE\nExample code: https://t.co/95qnzUDxnl", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Recording of the Teaching #rstats online with RStudio Cloud workshop is now posted! 👇\n\nUpcoming workshops:\n🗓 July 10 - Building interactive tutorials in R\n🗓 July 17 - Teaching computing with Git and GitHub \n\nSign up at https://t.co/25G9Eva3tg! https://t.co/FCh3FGVuob"],
-  "top10_tweets_retweet": ["Describe your favourite #rstats package in the most boring way possible", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Slides now available from Friday's M&amp;Ms by @JackEdTaylor, a masterclass on estimating distributional parameters in #brms #rstats (and on model visualization)! https://t.co/kCD5E2AZ6h https://t.co/G7A4lPf63e", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "New @rOpenSci #rstats {drake} documentation: example Bayesian data analysis pipeline with {rstan}, + tips and tricks.\nThe use case fits because MCMC is expensive and you don't want to repeat yourself.\nManual chapter: https://t.co/Q85mHn5iPE\nExample code: https://t.co/95qnzUDxnl", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Recording of the Teaching #rstats online with RStudio Cloud workshop is now posted! 👇\n\nUpcoming workshops:\n🗓 July 10 - Building interactive tutorials in R\n🗓 July 17 - Teaching computing with Git and GitHub \n\nSign up at https://t.co/25G9Eva3tg! https://t.co/FCh3FGVuob"]
+  "top10_tweets_like": ["Describe your favourite #rstats package in the most boring way possible", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "New @rOpenSci #rstats {drake} documentation: example Bayesian data analysis pipeline with {rstan}, + tips and tricks.\nThe use case fits because MCMC is expensive and you don't want to repeat yourself.\nManual chapter: https://t.co/Q85mHn5iPE\nExample code: https://t.co/95qnzUDxnl", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Recording of the Teaching #rstats online with RStudio Cloud workshop is now posted! 👇\n\nUpcoming workshops:\n🗓 July 10 - Building interactive tutorials in R\n🗓 July 17 - Teaching computing with Git and GitHub \n\nSign up at https://t.co/25G9Eva3tg! https://t.co/FCh3FGVuob", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx"],
+  "top10_tweets_retweet": ["Describe your favourite #rstats package in the most boring way possible", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "New @rOpenSci #rstats {drake} documentation: example Bayesian data analysis pipeline with {rstan}, + tips and tricks.\nThe use case fits because MCMC is expensive and you don't want to repeat yourself.\nManual chapter: https://t.co/Q85mHn5iPE\nExample code: https://t.co/95qnzUDxnl", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Recording of the Teaching #rstats online with RStudio Cloud workshop is now posted! 👇\n\nUpcoming workshops:\n🗓 July 10 - Building interactive tutorials in R\n🗓 July 17 - Teaching computing with Git and GitHub \n\nSign up at https://t.co/25G9Eva3tg! https://t.co/FCh3FGVuob", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx"]
 }
