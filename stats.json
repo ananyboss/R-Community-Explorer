@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5733,
-      "average_tweets_per_hour": 239,
-      "tweeters_today": 1620,
-      "total_likes_today": 4289
+      "total_tweets_today": 5656,
+      "average_tweets_per_hour": 236,
+      "tweeters_today": 1583,
+      "total_likes_today": 4107
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 181
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 171
+      "Freq": 183
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 162
+      "Freq": 161
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 145
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
@@ -26,51 +26,47 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 103
+      "Freq": 102
     },
     {
       "Var1": "RStats",
-      "Freq": 85
+      "Freq": 87
     },
     {
       "Var1": "DataScience RStats Python IoT",
-      "Freq": 82
-    },
-    {
-      "Var1": "Python rstats java javascript 100DaysOfCode",
-      "Freq": 71
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 69
+      "Freq": 81
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
       "Freq": 69
     },
     {
+      "Var1": "Python rstats java javascript 100DaysOfCode",
+      "Freq": 65
+    },
+    {
       "Var1": "DataScience BigData Analytics AI",
       "Freq": 64
     },
     {
-      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
-      "Freq": 63
-    },
-    {
-      "Var1": "AI BigData Analytics DataScience MachineLearning",
+      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
       "Freq": 62
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 57
-    },
-    {
       "Var1": "rstats DataScience",
-      "Freq": 54
+      "Freq": 60
     },
     {
-      "Var1": "DeepLearning Analytics",
-      "Freq": 48
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 59
+    },
+    {
+      "Var1": "AI BigData Analytics DataScience MachineLearning",
+      "Freq": 56
+    },
+    {
+      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
+      "Freq": 56
     },
     {
       "Var1": "AWS ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -85,6 +81,10 @@
       "Freq": 45
     },
     {
+      "Var1": "DeepLearning Analytics",
+      "Freq": 44
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
       "Freq": 42
     }
@@ -92,15 +92,15 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 509
+      "Freq": 511
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 281
+      "Freq": 276
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 204
+      "Freq": 206
     },
     {
       "Var1": "theInfernobot",
@@ -111,20 +111,20 @@
       "Freq": 159
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 155
+      "Var1": "nlognbot",
+      "Freq": 152
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 154
+      "Var1": "nodeQuotesBot",
+      "Freq": 150
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 133
+      "Freq": 132
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 126
+      "Freq": 124
     },
     {
       "Var1": "chidambara09",
@@ -132,31 +132,31 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 104
+      "Freq": 103
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 94
+      "Freq": 96
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 91
+      "Freq": 89
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 85
+      "Freq": 86
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 66
-    },
-    {
-      "Var1": "learn__together",
-      "Freq": 62
+      "Freq": 67
     },
     {
       "Var1": "femtech_",
-      "Freq": 60
+      "Freq": 62
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 61
     },
     {
       "Var1": "hubofml",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 53
+      "Freq": 55
     },
     {
       "Var1": "DeepSingularity",
-      "Freq": 45
+      "Freq": 44
     }
   ],
-  "top10_tweets_like": ["I'm 42. I'm a cognitive scientist, an #rstats developer &amp; Associate Professor at @UNSW. I'm a parent, &amp; today I'm juggling work obligations with school holidays. When I get free time I make art. I'm tired of being caught in the middle of a culture war. #TransPeopleAreRealPeople https://t.co/i0biFVIbbM", "📦 \"ladata • A collection of datasets on Latin America\"\n\n👤 Juan Fernando Tellez @juanftellez14 \n\nhttps://t.co/mr6QlmLiDL\n#rstats https://t.co/m52jDbzHMz", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/RAPLQ2pPEP", "Is programming really hard? Share your opinion.\n.\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/SWkF3gYxP4", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "Slides now available from Friday's M&amp;Ms by @JackEdTaylor, a masterclass on estimating distributional parameters in #brms #rstats (and on model visualization)! https://t.co/kCD5E2AZ6h https://t.co/G7A4lPf63e", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "ok. tried to write as comprehensive a timeline as possible of the #DataCamp #MeToo saga including recent absurd @rstudio lawsuit\n\n#RStats #pydata #statstwitter\n\nhttps://t.co/0FWzUP7eoA https://t.co/JAgteTEoh2"],
-  "top10_tweets_retweet": ["I'm 42. I'm a cognitive scientist, an #rstats developer &amp; Associate Professor at @UNSW. I'm a parent, &amp; today I'm juggling work obligations with school holidays. When I get free time I make art. I'm tired of being caught in the middle of a culture war. #TransPeopleAreRealPeople https://t.co/i0biFVIbbM", "📦 \"ladata • A collection of datasets on Latin America\"\n\n👤 Juan Fernando Tellez @juanftellez14 \n\nhttps://t.co/mr6QlmLiDL\n#rstats https://t.co/m52jDbzHMz", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/RAPLQ2pPEP", "Is programming really hard? Share your opinion.\n.\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/SWkF3gYxP4", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "Slides now available from Friday's M&amp;Ms by @JackEdTaylor, a masterclass on estimating distributional parameters in #brms #rstats (and on model visualization)! https://t.co/kCD5E2AZ6h https://t.co/G7A4lPf63e", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "ok. tried to write as comprehensive a timeline as possible of the #DataCamp #MeToo saga including recent absurd @rstudio lawsuit\n\n#RStats #pydata #statstwitter\n\nhttps://t.co/0FWzUP7eoA https://t.co/JAgteTEoh2"]
+  "top10_tweets_like": ["📦 \"ladata • A collection of datasets on Latin America\"\n\n👤 Juan Fernando Tellez @juanftellez14 \n\nhttps://t.co/mr6QlmLiDL\n#rstats https://t.co/m52jDbzHMz", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/RAPLQ2pPEP", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "Is programming really hard? Share your opinion.\n.\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/SWkF3gYxP4", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "Slides now available from Friday's M&amp;Ms by @JackEdTaylor, a masterclass on estimating distributional parameters in #brms #rstats (and on model visualization)! https://t.co/kCD5E2AZ6h https://t.co/G7A4lPf63e", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Describe your favourite #rstats package in the most boring way possible", "ok. tried to write as comprehensive a timeline as possible of the #DataCamp #MeToo saga including recent absurd @rstudio lawsuit\n\n#RStats #pydata #statstwitter\n\nhttps://t.co/0FWzUP7eoA https://t.co/JAgteTEoh2"],
+  "top10_tweets_retweet": ["📦 \"ladata • A collection of datasets on Latin America\"\n\n👤 Juan Fernando Tellez @juanftellez14 \n\nhttps://t.co/mr6QlmLiDL\n#rstats https://t.co/m52jDbzHMz", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/RAPLQ2pPEP", "Yeah, well you should see what the .net folks are like... I’ll show you “unhealthy” ... don’t get me started on Java. #rstats https://t.co/AsIGIGgHKZ", "Is programming really hard? Share your opinion.\n.\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/SWkF3gYxP4", "Best Practices for Code Review: R Edition  {https://t.co/II3lXQk9K9} #rstats #DataScience", "Slides now available from Friday's M&amp;Ms by @JackEdTaylor, a masterclass on estimating distributional parameters in #brms #rstats (and on model visualization)! https://t.co/kCD5E2AZ6h https://t.co/G7A4lPf63e", "The @R4DScommunity welcomes you to week 28 of #TidyTuesday!  We're exploring coffee!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/2jQWXytaA6\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/3U6mx499VH", "Took me longer than it should have to realize it’s not talking about #rstats https://t.co/bId5QPTUEK", "Describe your favourite #rstats package in the most boring way possible", "ok. tried to write as comprehensive a timeline as possible of the #DataCamp #MeToo saga including recent absurd @rstudio lawsuit\n\n#RStats #pydata #statstwitter\n\nhttps://t.co/0FWzUP7eoA https://t.co/JAgteTEoh2"]
 }
