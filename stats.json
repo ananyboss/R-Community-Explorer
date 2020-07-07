@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6454,
-      "average_tweets_per_hour": 269,
-      "tweeters_today": 1522,
-      "total_likes_today": 5330
+      "total_tweets_today": 6441,
+      "average_tweets_per_hour": 268,
+      "tweeters_today": 1538,
+      "total_likes_today": 5070
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 222
+      "Freq": 225
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 195
+      "Freq": 200
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 152
+      "Freq": 118
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 129
+      "Freq": 115
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
@@ -30,7 +30,7 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 93
+      "Freq": 94
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
@@ -38,19 +38,15 @@
     },
     {
       "Var1": "Statistics BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 73
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 72
+      "Freq": 75
     },
     {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
-      "Freq": 71
+      "Freq": 74
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 70
+      "Freq": 69
     },
     {
       "Var1": "BigData Analytics",
@@ -58,11 +54,11 @@
     },
     {
       "Var1": "movementecology",
-      "Freq": 64
+      "Freq": 66
     },
     {
       "Var1": "PyTorch BigData Analytics DataScience AI MachineLearning IoT IIoT NLProc Python",
-      "Freq": 59
+      "Freq": 62
     },
     {
       "Var1": "BigData Analytics DataScience MachineLearning IoT IIoT",
@@ -77,50 +73,54 @@
       "Freq": 55
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 53
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 53
+    },
+    {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 51
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 50
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 47
+      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 608
+      "Freq": 616
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 403
+      "Freq": 408
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 258
+      "Freq": 263
     },
     {
       "Var1": "xaelbot",
-      "Freq": 209
+      "Freq": 210
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 200
+      "Freq": 201
     },
     {
       "Var1": "nlognbot",
-      "Freq": 190
+      "Freq": 195
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 184
+      "Freq": 178
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 170
+      "Freq": 175
     },
     {
       "Var1": "chidambara09",
@@ -128,49 +128,49 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 142
+      "Freq": 143
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 104
     },
     {
       "Var1": "ServerlessFan",
       "Freq": 99
     },
     {
-      "Var1": "learn__together",
-      "Freq": 98
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 88
+      "Freq": 89
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 87
+      "Freq": 84
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 80
+      "Freq": 81
     },
     {
       "Var1": "femtech_",
-      "Freq": 77
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 72
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 72
+      "Freq": 78
     },
     {
       "Var1": "hubofml",
-      "Freq": 67
+      "Freq": 72
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 68
     },
     {
       "Var1": "Spain_EU_Dubai",
       "Freq": 63
+    },
+    {
+      "Var1": "_reactdev",
+      "Freq": 55
     }
   ],
-  "top10_tweets_like": ["I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "Hey #movementecology community, check our new paper https://t.co/5qGKlIRiBS reviewing the last decade in the field, based on text analysis in #RStats of &gt; 8000 papers. Some highlights of our paper in this thread. *OK 1/2 of the paper in this thread (1/n) https://t.co/08EOBMF8wn", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "#Fullstackoverflow developers unite!\n\n#Fullstack #stackoverflow #100DaysOfCode #Machinelearning #javascript #Nodejs #womenwhocode #RStats #CodeNewbie #Python #coding https://t.co/NjJVEzgG7X", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo"],
-  "top10_tweets_retweet": ["I wrote some poor {dplyr}/{purrr} code that took 3 hours to run. Converted it to SQL and it ran in 20 minutes. Then rewrote it with good {dplyr} code and it ran in three minutes. Then changed again to {data.table} and it took two minutes. Rcpp next? #rstats", "Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "Ultimate Step by Step Guide to Machine Learning Using #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/ZZIZbW0J2v https://t.co/XzQ8bBxx4f", "Hey #movementecology community, check our new paper https://t.co/5qGKlIRiBS reviewing the last decade in the field, based on text analysis in #RStats of &gt; 8000 papers. Some highlights of our paper in this thread. *OK 1/2 of the paper in this thread (1/n) https://t.co/08EOBMF8wn", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "#Fullstackoverflow developers unite!\n\n#Fullstack #stackoverflow #100DaysOfCode #Machinelearning #javascript #Nodejs #womenwhocode #RStats #CodeNewbie #Python #coding https://t.co/NjJVEzgG7X", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo"]
+  "top10_tweets_like": ["Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "Hey #movementecology community, check our new paper https://t.co/5qGKlIRiBS reviewing the last decade in the field, based on text analysis in #RStats of &gt; 8000 papers. Some highlights of our paper in this thread. *OK 1/2 of the paper in this thread (1/n) https://t.co/08EOBMF8wn", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "#Fullstackoverflow developers unite!\n\n#Fullstack #stackoverflow #100DaysOfCode #Machinelearning #javascript #Nodejs #womenwhocode #RStats #CodeNewbie #Python #coding https://t.co/NjJVEzgG7X", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "✍️📊🖥 \"Data, Code and Visualization • valueBoxes and Sparklines\"\n\n👤 Joshua Kunst @jbkunst \n\nhttps://t.co/CriFtciH9v\n#rstats https://t.co/aj5WK6CmTV"],
+  "top10_tweets_retweet": ["Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "Hey #movementecology community, check our new paper https://t.co/5qGKlIRiBS reviewing the last decade in the field, based on text analysis in #RStats of &gt; 8000 papers. Some highlights of our paper in this thread. *OK 1/2 of the paper in this thread (1/n) https://t.co/08EOBMF8wn", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "#Fullstackoverflow developers unite!\n\n#Fullstack #stackoverflow #100DaysOfCode #Machinelearning #javascript #Nodejs #womenwhocode #RStats #CodeNewbie #Python #coding https://t.co/NjJVEzgG7X", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "✍️📊🖥 \"Data, Code and Visualization • valueBoxes and Sparklines\"\n\n👤 Joshua Kunst @jbkunst \n\nhttps://t.co/CriFtciH9v\n#rstats https://t.co/aj5WK6CmTV"]
 }
