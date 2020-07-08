@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6600,
-      "average_tweets_per_hour": 275,
-      "tweeters_today": 1588,
-      "total_likes_today": 5278
+      "total_tweets_today": 6565,
+      "average_tweets_per_hour": 274,
+      "tweeters_today": 1599,
+      "total_likes_today": 5250
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 227
+      "Freq": 228
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 202
+      "Freq": 197
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -22,43 +22,35 @@
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 110
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 98
+      "Freq": 107
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
       "Freq": 97
     },
     {
+      "Var1": "RStats",
+      "Freq": 96
+    },
+    {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
       "Freq": 76
-    },
-    {
-      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 76
-    },
-    {
-      "Var1": "Statistics BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 75
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 70
     },
     {
       "Var1": "BigData Analytics",
       "Freq": 67
     },
     {
+      "Var1": "rstats DataScience",
+      "Freq": 67
+    },
+    {
       "Var1": "PyTorch BigData Analytics DataScience AI MachineLearning IoT IIoT NLProc Python",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "movementecology",
-      "Freq": 63
+      "Freq": 61
     },
     {
       "Var1": "BigData Analytics DataScience MachineLearning IoT IIoT",
@@ -77,6 +69,10 @@
       "Freq": 55
     },
     {
+      "Var1": "Statistics Stats Analytics Data DataScience DataScientist r",
+      "Freq": 55
+    },
+    {
       "Var1": "theinsaneapp ML AI MachineLearning BigData",
       "Freq": 55
     },
@@ -87,40 +83,44 @@
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 51
+    },
+    {
+      "Var1": "BigData Analytics DataScience MachineLearning IIoT",
+      "Freq": 48
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 639
+      "Freq": 629
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 413
+      "Freq": 395
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 270
+      "Freq": 266
     },
     {
       "Var1": "xaelbot",
-      "Freq": 216
+      "Freq": 212
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 210
+      "Freq": 208
     },
     {
       "Var1": "nlognbot",
-      "Freq": 199
+      "Freq": 196
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 186
+      "Freq": 184
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 173
+      "Freq": 172
     },
     {
       "Var1": "chidambara09",
@@ -128,39 +128,39 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 148
-    },
-    {
-      "Var1": "learn__together",
-      "Freq": 103
+      "Freq": 144
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 100
+      "Freq": 103
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 102
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 92
+      "Freq": 91
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 89
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 85
+      "Freq": 87
     },
     {
       "Var1": "femtech_",
-      "Freq": 82
+      "Freq": 86
     },
     {
-      "Var1": "hubofml",
-      "Freq": 69
+      "Var1": "TheDeveloperBot",
+      "Freq": 86
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 68
+      "Freq": 69
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 66
     },
     {
       "Var1": "Spain_EU_Dubai",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "_reactdev",
-      "Freq": 58
+      "Freq": 56
     }
   ],
-  "top10_tweets_like": ["Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "I hit a new level of #rstats expertise today when I finally witnessed the special case error:\n\n&gt; Error in c[1] : object of type 'builtin' is not subsettable\n\nTake that type 'closure'! You're not the only one that's not subsettable.", "#Fullstackoverflow developers unite!\n\n#Fullstack #stackoverflow #100DaysOfCode #Machinelearning #javascript #Nodejs #womenwhocode #RStats #CodeNewbie #Python #coding https://t.co/NjJVEzgG7X"],
-  "top10_tweets_retweet": ["Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Math vs. #Statistics in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/G1qDMuoQwE https://t.co/tNQO8xSQEx", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "I hit a new level of #rstats expertise today when I finally witnessed the special case error:\n\n&gt; Error in c[1] : object of type 'builtin' is not subsettable\n\nTake that type 'closure'! You're not the only one that's not subsettable.", "#Fullstackoverflow developers unite!\n\n#Fullstack #stackoverflow #100DaysOfCode #Machinelearning #javascript #Nodejs #womenwhocode #RStats #CodeNewbie #Python #coding https://t.co/NjJVEzgG7X"]
+  "top10_tweets_like": ["Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "I hit a new level of #rstats expertise today when I finally witnessed the special case error:\n\n&gt; Error in c[1] : object of type 'builtin' is not subsettable\n\nTake that type 'closure'! You're not the only one that's not subsettable.", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/cIEm7ho6bc", "As promised, gonna try a (short!) live stream video of my preferred setup for reproducible #rstats projects. I'll focus on renv and the new RStudio Package Manager. \n\nHere's a demo repo I'll be using. https://t.co/pmYcwmTVzL\n\nShould be recorded, but starting in about 20 minutes."],
+  "top10_tweets_retweet": ["Can you believe this coin was rendered entirely in #rstats? In under 10 lines of code? And you can install the package that rendered this (#rayrender) in a single line of code, without worrying about complex build processes or installing requirements manually? https://t.co/JRlxTbRykO", "This brilliant new book on #Rstats for #Political #DataScience from @FranciscoUrdin and @arcruz0 is in production and will publish later this year from @CRC_MathStats . https://t.co/CcdH2HzDvV #politicalscience #statistics https://t.co/G4kPfgXoCX", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/RwS4eLEdU0", "Interested in the work of R core?\n\nTomorrow is your chance to learn about it in the R core keynotes and panel discussion.\n\n#rstats #useR2020\n\nhttps://t.co/ISTxC3A6Bg", "Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "I hit a new level of #rstats expertise today when I finally witnessed the special case error:\n\n&gt; Error in c[1] : object of type 'builtin' is not subsettable\n\nTake that type 'closure'! You're not the only one that's not subsettable.", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/cIEm7ho6bc", "As promised, gonna try a (short!) live stream video of my preferred setup for reproducible #rstats projects. I'll focus on renv and the new RStudio Package Manager. \n\nHere's a demo repo I'll be using. https://t.co/pmYcwmTVzL\n\nShould be recorded, but starting in about 20 minutes."]
 }
