@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6388,
-      "average_tweets_per_hour": 266,
-      "tweeters_today": 1672,
-      "total_likes_today": 5324
+      "total_tweets_today": 6492,
+      "average_tweets_per_hour": 270,
+      "tweeters_today": 1689,
+      "total_likes_today": 5329
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 179
+      "Freq": 176
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 120
+      "Freq": 127
     },
     {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
@@ -22,26 +22,26 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 102
+      "Freq": 98
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 91
+      "Freq": 94
     },
     {
       "Var1": "PyTorch BigData Analytics DataScience AI MachineLearning IoT IIoT NLProc Python",
       "Freq": 87
     },
     {
-      "Var1": "RStats",
-      "Freq": 68
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 62
-    },
-    {
       "Var1": "limnology hydrology ecology rstats EarthEngine python",
+      "Freq": 71
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 70
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
       "Freq": 61
     },
     {
@@ -53,24 +53,16 @@
       "Freq": 55
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 53
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 52
     },
     {
-      "Var1": "BigData Analytics DataScience",
+      "Var1": "BigData Analytics DataScience AI",
       "Freq": 51
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 45
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 45
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 45
+      "Freq": 48
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
@@ -81,78 +73,86 @@
       "Freq": 44
     },
     {
-      "Var1": "Developer Tester BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 43
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 42
+    },
+    {
+      "Var1": "useR2020",
       "Freq": 41
     },
     {
-      "Var1": "rstats datascience",
+      "Var1": "DeepLearning Analytics DataScience",
       "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 630
+      "Freq": 618
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 368
+      "Freq": 414
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 263
+      "Freq": 268
     },
     {
       "Var1": "xaelbot",
-      "Freq": 200
+      "Freq": 204
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 194
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 185
+      "Freq": 203
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 180
+      "Freq": 191
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 176
+      "Freq": 184
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 183
     },
     {
       "Var1": "chidambara09",
-      "Freq": 161
+      "Freq": 153
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 139
+      "Freq": 142
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 104
+      "Freq": 103
     },
     {
       "Var1": "femtech_",
-      "Freq": 97
+      "Freq": 98
     },
     {
       "Var1": "learn__together",
-      "Freq": 86
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 75
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 72
+      "Freq": 87
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 68
+      "Freq": 80
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 79
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 74
     },
     {
       "Var1": "Spain_EU_Dubai",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 60
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 56
+      "Freq": 61
     },
     {
       "Var1": "ServerlessFan",
+      "Freq": 58
+    },
+    {
+      "Var1": "hubofml",
       "Freq": 56
     }
   ],
-  "top10_tweets_like": ["Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/nVteYyhNE4", "The new #rstats #json parser by @knapply_  is a beast\n\nhttps://t.co/UwCz4Vpfjb https://t.co/9OQosFsXul", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/cIEm7ho6bc", "This is the official announcement for the new '|' operator in the dev version of #rstats #rspatial 📦 {mapview} .\nFor raster support we will need to wait for the next release of the {leaflet} 📦. @flatgeobuf rendering should be supported soon. {leafgl} not yet supported... https://t.co/YPuIlKRVWQ https://t.co/JsO1QPUcqS", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "The admixr 📦 is finally on CRAN! It provides an interface for writing reproducible ADMIXTOOLS popgen analyses entirely in #rstats: no shell scripting, no par/pop/log files. It has convenient genotype filtering, easy grouping of populations and more! https://t.co/Lsvnkt4a1V (1/5)", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "Writing Functions to Automate Repetitive Plotting Tasks in ggplot2  {https://t.co/hFt2hh5Sv9} #rstats #DataScience", "As promised, gonna try a (short!) live stream video of my preferred setup for reproducible #rstats projects. I'll focus on renv and the new RStudio Package Manager. \n\nHere's a demo repo I'll be using. https://t.co/pmYcwmTVzL\n\nShould be recorded, but starting in about 20 minutes."],
-  "top10_tweets_retweet": ["Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/nVteYyhNE4", "The new #rstats #json parser by @knapply_  is a beast\n\nhttps://t.co/UwCz4Vpfjb https://t.co/9OQosFsXul", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/cIEm7ho6bc", "This is the official announcement for the new '|' operator in the dev version of #rstats #rspatial 📦 {mapview} .\nFor raster support we will need to wait for the next release of the {leaflet} 📦. @flatgeobuf rendering should be supported soon. {leafgl} not yet supported... https://t.co/YPuIlKRVWQ https://t.co/JsO1QPUcqS", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "The admixr 📦 is finally on CRAN! It provides an interface for writing reproducible ADMIXTOOLS popgen analyses entirely in #rstats: no shell scripting, no par/pop/log files. It has convenient genotype filtering, easy grouping of populations and more! https://t.co/Lsvnkt4a1V (1/5)", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "Writing Functions to Automate Repetitive Plotting Tasks in ggplot2  {https://t.co/hFt2hh5Sv9} #rstats #DataScience", "As promised, gonna try a (short!) live stream video of my preferred setup for reproducible #rstats projects. I'll focus on renv and the new RStudio Package Manager. \n\nHere's a demo repo I'll be using. https://t.co/pmYcwmTVzL\n\nShould be recorded, but starting in about 20 minutes."]
+  "top10_tweets_like": ["Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/nVteYyhNE4", "The new #rstats #json parser by @knapply_  is a beast\n\nhttps://t.co/UwCz4Vpfjb https://t.co/9OQosFsXul", "This is the official announcement for the new '|' operator in the dev version of #rstats #rspatial 📦 {mapview} .\nFor raster support we will need to wait for the next release of the {leaflet} 📦. @flatgeobuf rendering should be supported soon. {leafgl} not yet supported... https://t.co/YPuIlKRVWQ https://t.co/JsO1QPUcqS", "Writing Functions to Automate Repetitive Plotting Tasks in ggplot2  {https://t.co/hFt2hh5Sv9} #rstats #DataScience", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/cIEm7ho6bc", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "As promised, gonna try a (short!) live stream video of my preferred setup for reproducible #rstats projects. I'll focus on renv and the new RStudio Package Manager. \n\nHere's a demo repo I'll be using. https://t.co/pmYcwmTVzL\n\nShould be recorded, but starting in about 20 minutes.", "Text Classification with #PyTorch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #NLProc #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/g3fnTEpWSv https://t.co/mUMbLGKoQW"],
+  "top10_tweets_retweet": ["Interesting in calculating diversity values through Hill numbers? Check out the latest version of `hillR` #rstats package. The phylogenetic diversity calculations are much faster in this version. https://t.co/JgbpWLp4PW https://t.co/RJi9q3Kt5P", "Best Machine Learning and Data Science #Books 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/5EuUw1yGAp https://t.co/nVteYyhNE4", "The new #rstats #json parser by @knapply_  is a beast\n\nhttps://t.co/UwCz4Vpfjb https://t.co/9OQosFsXul", "This is the official announcement for the new '|' operator in the dev version of #rstats #rspatial 📦 {mapview} .\nFor raster support we will need to wait for the next release of the {leaflet} 📦. @flatgeobuf rendering should be supported soon. {leafgl} not yet supported... https://t.co/YPuIlKRVWQ https://t.co/JsO1QPUcqS", "Writing Functions to Automate Repetitive Plotting Tasks in ggplot2  {https://t.co/hFt2hh5Sv9} #rstats #DataScience", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/cIEm7ho6bc", "Missing summer conferences? Interested in #limnology #hydrology #ecology #rstats #EarthEngine #python? Register for “Virtual Summit: Incorporating #DataScience &amp; #OpenScience in #AquaticResearch” Its free &amp; will run 23-24 July 13:00-16:00 EDT 1/n https://t.co/99wCxVri29 https://t.co/U7oLANIdXx", "Data Analysis with R Statistical Software #RStats -highly recommended by house martins. To order one (a guidebook, not a house martin), visit our webpage! https://t.co/Wb9GSZWPg5 https://t.co/wUJWO46Jlo", "As promised, gonna try a (short!) live stream video of my preferred setup for reproducible #rstats projects. I'll focus on renv and the new RStudio Package Manager. \n\nHere's a demo repo I'll be using. https://t.co/pmYcwmTVzL\n\nShould be recorded, but starting in about 20 minutes.", "Text Classification with #PyTorch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #NLProc #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/g3fnTEpWSv https://t.co/mUMbLGKoQW"]
 }
