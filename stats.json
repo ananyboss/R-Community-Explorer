@@ -1,32 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6529,
-      "average_tweets_per_hour": 272,
-      "tweeters_today": 1702,
-      "total_likes_today": 6037
+      "total_tweets_today": 6723,
+      "average_tweets_per_hour": 280,
+      "tweeters_today": 1724,
+      "total_likes_today": 6020
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 239
+      "Freq": 247
     },
     {
       "Var1": "useR2020 rstats",
-      "Freq": 144
+      "Freq": 146
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 118
+      "Freq": 116
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 86
+      "Freq": 88
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 82
+      "Freq": 84
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning BigData",
@@ -34,19 +34,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 70
+      "Freq": 72
     },
     {
-      "Var1": "rstats useR2020",
-      "Freq": 70
+      "Var1": "Machinelearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 71
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 69
     },
     {
-      "Var1": "Machinelearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 68
+      "Var1": "rstats useR2020",
+      "Freq": 69
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats TensorFlow Java",
@@ -61,90 +61,98 @@
       "Freq": 61
     },
     {
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics AI MachineLearning",
+      "Freq": 61
+    },
+    {
       "Var1": "Udemy Linux tableau DataScientist JavaScript",
       "Freq": 57
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics AI MachineLearning",
+      "Var1": "BigData",
       "Freq": 56
     },
     {
-      "Var1": "useR2020",
-      "Freq": 55
-    },
-    {
-      "Var1": "BigData",
-      "Freq": 50
-    },
-    {
       "Var1": "Books Jupyter MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 50
+      "Freq": 52
+    },
+    {
+      "Var1": "theinsaneapp AI",
+      "Freq": 52
     },
     {
       "Var1": "Rstats",
-      "Freq": 48
+      "Freq": 50
     },
     {
-      "Var1": "AI BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 41
+      "Var1": "useR2020",
+      "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 684
+      "Freq": 683
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 281
+      "Freq": 294
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 249
+      "Freq": 236
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 199
+      "Freq": 201
     },
     {
       "Var1": "xaelbot",
-      "Freq": 179
+      "Freq": 171
     },
     {
       "Var1": "nlognbot",
-      "Freq": 170
+      "Freq": 167
     },
     {
       "Var1": "chidambara09",
-      "Freq": 156
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 135
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 129
+      "Freq": 150
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 125
+      "Freq": 143
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 143
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 124
+      "Freq": 141
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 134
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 98
+      "Freq": 102
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 95
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 90
     },
     {
       "Var1": "femtech_",
-      "Freq": 84
+      "Freq": 86
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 83
+      "Freq": 82
     },
     {
       "Var1": "anglehernandez",
@@ -152,25 +160,17 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 70
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 70
+      "Freq": 75
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 69
+      "Freq": 71
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 69
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 53
+      "Var1": "_reactdev",
+      "Freq": 55
     }
   ],
-  "top10_tweets_like": ["I'm happy to share with you and #useR2020 a little #rstats package I've been working on called {xaringanExtra}. It's full of extensions and add-ons to make your xaringan slides extra fun!\n\nhttps://t.co/cflHqoUija", "Use vacant ggplot2 facets for advertising with {ggbillboard}\n\np &lt;- ggplot(blah, blah)\nimg &lt;- grid::rasterGrob(readPNG(\"whatever.png\"), \n               interpolate=TRUE)\nbillboard(p, img)\n\nhttps://t.co/MNwiHZ7vt6 #rstats https://t.co/46EaPhkgXj", "What language is this? 😅\n\n#WebDev #BigData #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/zCVmHDZVTl", "Just put together a reference list for all the #Rstats packages I've used in an analysis via the {grateful} package. Easy peasy! \n\nhttps://t.co/zPwVGq1UNq https://t.co/aoiwf5geYY", "So excited to be sharing what the community has built around #TidyTuesday for #useR2020 !\n\n\"TidyTuesday: Scaffolding for a Community of Practice\"\n\nhttps://t.co/NK3PKMACde\n\nSlides: https://t.co/PAs1uruopZ\n\n#rstats", "2 Books to Deepen Your Command of Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/HzBoPBGjMb", "📣 R package {multinma} is now on CRAN! 📦\nBayesian network meta-analysis and multilevel network meta-regression of individual and aggregate data in @mcmc_stan\n\nhttps://t.co/6FERC4ukYM\n\n#rstats https://t.co/PFNsiQ3IPG", "🌈\"Communities of Practice in Latin America: #rstats &amp; Friends\" for #useR2020 is now available at\n\n🔗https://t.co/NfT1kbITBH🎉\n\nEmotional as I tweet because it features 35 authors from 🇦🇷🇦🇺🇧🇴🇧🇷🇨🇱🇨🇷🇪🇨🇲🇽🇵🇪🇺🇸🇺🇾!\n\nBrilliantly co-organized by @yabellini @PaobCorrales @palolili23 &amp;💁🏽‍♀️💜", "After months of following #TidyTuesday, I’ve decided to stop waiting until I have enough time to make something beautiful, and to just join in the fun with what time I do have. Here’s my first submission on a topic close to my heart.. ☕️ #rstats #tidyverse #coffeelovers https://t.co/zk8ZbsBto9", "So cool to be able to explore #mobility data with the #rstats package flowmapblue! 🚗🚴🛣️ @ilyabo #rspatial #GIS\n\n👉https://t.co/2YMfGqCXXb\n\nMobility in Madrid #Spain: https://t.co/j8kW6mZhB7"],
-  "top10_tweets_retweet": ["I'm happy to share with you and #useR2020 a little #rstats package I've been working on called {xaringanExtra}. It's full of extensions and add-ons to make your xaringan slides extra fun!\n\nhttps://t.co/cflHqoUija", "Use vacant ggplot2 facets for advertising with {ggbillboard}\n\np &lt;- ggplot(blah, blah)\nimg &lt;- grid::rasterGrob(readPNG(\"whatever.png\"), \n               interpolate=TRUE)\nbillboard(p, img)\n\nhttps://t.co/MNwiHZ7vt6 #rstats https://t.co/46EaPhkgXj", "What language is this? 😅\n\n#WebDev #BigData #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/zCVmHDZVTl", "Just put together a reference list for all the #Rstats packages I've used in an analysis via the {grateful} package. Easy peasy! \n\nhttps://t.co/zPwVGq1UNq https://t.co/aoiwf5geYY", "So excited to be sharing what the community has built around #TidyTuesday for #useR2020 !\n\n\"TidyTuesday: Scaffolding for a Community of Practice\"\n\nhttps://t.co/NK3PKMACde\n\nSlides: https://t.co/PAs1uruopZ\n\n#rstats", "2 Books to Deepen Your Command of Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/HzBoPBGjMb", "📣 R package {multinma} is now on CRAN! 📦\nBayesian network meta-analysis and multilevel network meta-regression of individual and aggregate data in @mcmc_stan\n\nhttps://t.co/6FERC4ukYM\n\n#rstats https://t.co/PFNsiQ3IPG", "🌈\"Communities of Practice in Latin America: #rstats &amp; Friends\" for #useR2020 is now available at\n\n🔗https://t.co/NfT1kbITBH🎉\n\nEmotional as I tweet because it features 35 authors from 🇦🇷🇦🇺🇧🇴🇧🇷🇨🇱🇨🇷🇪🇨🇲🇽🇵🇪🇺🇸🇺🇾!\n\nBrilliantly co-organized by @yabellini @PaobCorrales @palolili23 &amp;💁🏽‍♀️💜", "After months of following #TidyTuesday, I’ve decided to stop waiting until I have enough time to make something beautiful, and to just join in the fun with what time I do have. Here’s my first submission on a topic close to my heart.. ☕️ #rstats #tidyverse #coffeelovers https://t.co/zk8ZbsBto9", "So cool to be able to explore #mobility data with the #rstats package flowmapblue! 🚗🚴🛣️ @ilyabo #rspatial #GIS\n\n👉https://t.co/2YMfGqCXXb\n\nMobility in Madrid #Spain: https://t.co/j8kW6mZhB7"]
+  "top10_tweets_like": ["I'm happy to share with you and #useR2020 a little #rstats package I've been working on called {xaringanExtra}. It's full of extensions and add-ons to make your xaringan slides extra fun!\n\nhttps://t.co/cflHqoUija", "Use vacant ggplot2 facets for advertising with {ggbillboard}\n\np &lt;- ggplot(blah, blah)\nimg &lt;- grid::rasterGrob(readPNG(\"whatever.png\"), \n               interpolate=TRUE)\nbillboard(p, img)\n\nhttps://t.co/MNwiHZ7vt6 #rstats https://t.co/46EaPhkgXj", "What language is this? 😅\n\n#WebDev #BigData #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/zCVmHDZVTl", "Just put together a reference list for all the #Rstats packages I've used in an analysis via the {grateful} package. Easy peasy! \n\nhttps://t.co/zPwVGq1UNq https://t.co/aoiwf5geYY", "So excited to be sharing what the community has built around #TidyTuesday for #useR2020 !\n\n\"TidyTuesday: Scaffolding for a Community of Practice\"\n\nhttps://t.co/NK3PKMACde\n\nSlides: https://t.co/PAs1uruopZ\n\n#rstats", "2 Books to Deepen Your Command of Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/HzBoPBGjMb", "🌈\"Communities of Practice in Latin America: #rstats &amp; Friends\" for #useR2020 is now available at\n\n🔗https://t.co/NfT1kbITBH🎉\n\nEmotional as I tweet because it features 35 authors from 🇦🇷🇦🇺🇧🇴🇧🇷🇨🇱🇨🇷🇪🇨🇲🇽🇵🇪🇺🇸🇺🇾!\n\nBrilliantly co-organized by @yabellini @PaobCorrales @palolili23 &amp;💁🏽‍♀️💜", "After months of following #TidyTuesday, I’ve decided to stop waiting until I have enough time to make something beautiful, and to just join in the fun with what time I do have. Here’s my first submission on a topic close to my heart.. ☕️ #rstats #tidyverse #coffeelovers https://t.co/zk8ZbsBto9", "So cool to be able to explore #mobility data with the #rstats package flowmapblue! 🚗🚴🛣️ @ilyabo #rspatial #GIS\n\n👉https://t.co/2YMfGqCXXb\n\nMobility in Madrid #Spain: https://t.co/j8kW6mZhB7", "WHOA did you know that the logo for dplyr changed in May?! #rstats https://t.co/iJo8ZXyAWm"],
+  "top10_tweets_retweet": ["I'm happy to share with you and #useR2020 a little #rstats package I've been working on called {xaringanExtra}. It's full of extensions and add-ons to make your xaringan slides extra fun!\n\nhttps://t.co/cflHqoUija", "Use vacant ggplot2 facets for advertising with {ggbillboard}\n\np &lt;- ggplot(blah, blah)\nimg &lt;- grid::rasterGrob(readPNG(\"whatever.png\"), \n               interpolate=TRUE)\nbillboard(p, img)\n\nhttps://t.co/MNwiHZ7vt6 #rstats https://t.co/46EaPhkgXj", "What language is this? 😅\n\n#WebDev #BigData #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/zCVmHDZVTl", "Just put together a reference list for all the #Rstats packages I've used in an analysis via the {grateful} package. Easy peasy! \n\nhttps://t.co/zPwVGq1UNq https://t.co/aoiwf5geYY", "So excited to be sharing what the community has built around #TidyTuesday for #useR2020 !\n\n\"TidyTuesday: Scaffolding for a Community of Practice\"\n\nhttps://t.co/NK3PKMACde\n\nSlides: https://t.co/PAs1uruopZ\n\n#rstats", "2 Books to Deepen Your Command of Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/HzBoPBGjMb", "🌈\"Communities of Practice in Latin America: #rstats &amp; Friends\" for #useR2020 is now available at\n\n🔗https://t.co/NfT1kbITBH🎉\n\nEmotional as I tweet because it features 35 authors from 🇦🇷🇦🇺🇧🇴🇧🇷🇨🇱🇨🇷🇪🇨🇲🇽🇵🇪🇺🇸🇺🇾!\n\nBrilliantly co-organized by @yabellini @PaobCorrales @palolili23 &amp;💁🏽‍♀️💜", "After months of following #TidyTuesday, I’ve decided to stop waiting until I have enough time to make something beautiful, and to just join in the fun with what time I do have. Here’s my first submission on a topic close to my heart.. ☕️ #rstats #tidyverse #coffeelovers https://t.co/zk8ZbsBto9", "So cool to be able to explore #mobility data with the #rstats package flowmapblue! 🚗🚴🛣️ @ilyabo #rspatial #GIS\n\n👉https://t.co/2YMfGqCXXb\n\nMobility in Madrid #Spain: https://t.co/j8kW6mZhB7", "WHOA did you know that the logo for dplyr changed in May?! #rstats https://t.co/iJo8ZXyAWm"]
 }
