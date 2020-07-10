@@ -1,32 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5888,
-      "average_tweets_per_hour": 245,
-      "tweeters_today": 1341,
-      "total_likes_today": 4675
+      "total_tweets_today": 5819,
+      "average_tweets_per_hour": 242,
+      "tweeters_today": 1320,
+      "total_likes_today": 4825
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 202
+      "Freq": 204
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 132
+      "Freq": 125
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning BigData",
       "Freq": 92
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 83
+      "Var1": "RStats",
+      "Freq": 86
     },
     {
-      "Var1": "RStats",
-      "Freq": 82
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 83
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -41,14 +41,6 @@
       "Freq": 73
     },
     {
-      "Var1": "ApacheSpark Docker BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 67
-    },
-    {
-      "Var1": "useR2020 rstats",
-      "Freq": 67
-    },
-    {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 66
     },
@@ -57,11 +49,19 @@
       "Freq": 64
     },
     {
+      "Var1": "useR2020 rstats",
+      "Freq": 64
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 59
+    },
+    {
       "Var1": "Programming DataScience BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
       "Freq": 59
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 58
     },
     {
@@ -70,33 +70,33 @@
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 57
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 56
+      "Freq": 55
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT",
       "Freq": 53
     },
     {
-      "Var1": "BigData Analytics",
+      "Var1": "Cybersecurity Books BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 52
     },
     {
-      "Var1": "Cybersecurity Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 50
+      "Var1": "ApacheSpark Docker BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 48
+    },
+    {
+      "Var1": "BigData",
+      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 612
+      "Freq": 611
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 258
+      "Freq": 253
     },
     {
       "Var1": "LlnuxBot",
@@ -104,63 +104,63 @@
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 177
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 167
+      "Freq": 172
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 164
+      "Freq": 165
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 165
     },
     {
       "Var1": "nlognbot",
-      "Freq": 164
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 130
+      "Freq": 160
     },
     {
       "Var1": "chidambara09",
+      "Freq": 129
+    },
+    {
+      "Var1": "Taieb_Bot",
       "Freq": 126
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 123
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 96
+      "Freq": 122
     },
     {
       "Var1": "TheDeveloperBot",
+      "Freq": 100
+    },
+    {
+      "Var1": "tidyversetweets",
       "Freq": 95
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 88
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 81
+      "Freq": 83
     },
     {
       "Var1": "learn__together",
-      "Freq": 79
+      "Freq": 82
     },
     {
-      "Var1": "femtech_",
-      "Freq": 68
+      "Var1": "TheSecretJunio1",
+      "Freq": 80
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 66
+      "Freq": 70
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 69
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 53
+      "Freq": 58
     },
     {
       "Var1": "hubofml",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 48
+      "Freq": 50
     }
   ],
-  "top10_tweets_like": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "📢 Hi friends - I wrote a really quick #rstats blog post on the dplyr 1.0.0 across() function!\n\nacross() let's you apply dplyr functions (like summarise and mutate) simultaneously across multiple columns.\n\nhttps://t.co/zFt2DjTF77", "Closest country when in Brazil. #RStats https://t.co/771BZsrHCS", "Teaching statistics to undergraduate sociology students for the first time next semester and looking for a good intro textbook using #rstats... \n\n@djnavarro's 'Learning Statistics with R' is top of the list, but curious if people have other recommendations!", "Getting Started with R Markdown — Guide and Cheatsheet  {https://t.co/33kFZ46mvX} #rstats #DataScience", "5 #DevOps #Books to Read for Free. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/S1mFNyTRfz https://t.co/CoHbLGboQP", "📦⚖️ \"modelsummary • Crosstabs, frequencies, correlations, balance (a.k.a. \"table 1\"), and more • `datasummary`\"\n\n👤 Vincent Arel-Bundock @vincentab \n\nhttps://t.co/AmsjuCejRa\n#rstats https://t.co/1J9OQX5Y32", "\"code is language\" - @AmeliaMN #useR2020 #rstats https://t.co/QhgyIfR0kJ", "Generating Synthetic Sequential Data using GANs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/I1A0BTMoL9 https://t.co/bIhzq0hxEM", "#ApacheSpark MLlib &amp; Ease-of-Prototyping with #Docker. \n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Fyyn11Qm3A https://t.co/BxZ6nLQ3FP"],
-  "top10_tweets_retweet": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "📢 Hi friends - I wrote a really quick #rstats blog post on the dplyr 1.0.0 across() function!\n\nacross() let's you apply dplyr functions (like summarise and mutate) simultaneously across multiple columns.\n\nhttps://t.co/zFt2DjTF77", "Closest country when in Brazil. #RStats https://t.co/771BZsrHCS", "Teaching statistics to undergraduate sociology students for the first time next semester and looking for a good intro textbook using #rstats... \n\n@djnavarro's 'Learning Statistics with R' is top of the list, but curious if people have other recommendations!", "Getting Started with R Markdown — Guide and Cheatsheet  {https://t.co/33kFZ46mvX} #rstats #DataScience", "5 #DevOps #Books to Read for Free. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/S1mFNyTRfz https://t.co/CoHbLGboQP", "📦⚖️ \"modelsummary • Crosstabs, frequencies, correlations, balance (a.k.a. \"table 1\"), and more • `datasummary`\"\n\n👤 Vincent Arel-Bundock @vincentab \n\nhttps://t.co/AmsjuCejRa\n#rstats https://t.co/1J9OQX5Y32", "\"code is language\" - @AmeliaMN #useR2020 #rstats https://t.co/QhgyIfR0kJ", "Generating Synthetic Sequential Data using GANs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/I1A0BTMoL9 https://t.co/bIhzq0hxEM", "#ApacheSpark MLlib &amp; Ease-of-Prototyping with #Docker. \n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Fyyn11Qm3A https://t.co/BxZ6nLQ3FP"]
+  "top10_tweets_like": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "Closest country when in Brazil. #RStats https://t.co/771BZsrHCS", "📢 Hi friends - I wrote a really quick #rstats blog post on the dplyr 1.0.0 across() function!\n\nacross() let's you apply dplyr functions (like summarise and mutate) simultaneously across multiple columns.\n\nhttps://t.co/zFt2DjTF77", "Teaching statistics to undergraduate sociology students for the first time next semester and looking for a good intro textbook using #rstats... \n\n@djnavarro's 'Learning Statistics with R' is top of the list, but curious if people have other recommendations!", "Getting Started with R Markdown — Guide and Cheatsheet  {https://t.co/33kFZ46mvX} #rstats #DataScience", "5 #DevOps #Books to Read for Free. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/S1mFNyTRfz https://t.co/CoHbLGboQP", "📦⚖️ \"modelsummary • Crosstabs, frequencies, correlations, balance (a.k.a. \"table 1\"), and more • `datasummary`\"\n\n👤 Vincent Arel-Bundock @vincentab \n\nhttps://t.co/AmsjuCejRa\n#rstats https://t.co/1J9OQX5Y32", "\"code is language\" - @AmeliaMN #useR2020 #rstats https://t.co/QhgyIfR0kJ", "Generating Synthetic Sequential Data using GANs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/I1A0BTMoL9 https://t.co/bIhzq0hxEM", "Some news from #rstats package #ggiraph. The latest versions are faster, cover almost all the elements provided by #ggplot2 and allow more interactivity within #shiny or simple HTML. https://t.co/HWWNXZaVmd"],
+  "top10_tweets_retweet": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "Closest country when in Brazil. #RStats https://t.co/771BZsrHCS", "📢 Hi friends - I wrote a really quick #rstats blog post on the dplyr 1.0.0 across() function!\n\nacross() let's you apply dplyr functions (like summarise and mutate) simultaneously across multiple columns.\n\nhttps://t.co/zFt2DjTF77", "Teaching statistics to undergraduate sociology students for the first time next semester and looking for a good intro textbook using #rstats... \n\n@djnavarro's 'Learning Statistics with R' is top of the list, but curious if people have other recommendations!", "Getting Started with R Markdown — Guide and Cheatsheet  {https://t.co/33kFZ46mvX} #rstats #DataScience", "5 #DevOps #Books to Read for Free. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/S1mFNyTRfz https://t.co/CoHbLGboQP", "📦⚖️ \"modelsummary • Crosstabs, frequencies, correlations, balance (a.k.a. \"table 1\"), and more • `datasummary`\"\n\n👤 Vincent Arel-Bundock @vincentab \n\nhttps://t.co/AmsjuCejRa\n#rstats https://t.co/1J9OQX5Y32", "\"code is language\" - @AmeliaMN #useR2020 #rstats https://t.co/QhgyIfR0kJ", "Generating Synthetic Sequential Data using GANs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/I1A0BTMoL9 https://t.co/bIhzq0hxEM", "Some news from #rstats package #ggiraph. The latest versions are faster, cover almost all the elements provided by #ggplot2 and allow more interactivity within #shiny or simple HTML. https://t.co/HWWNXZaVmd"]
 }
