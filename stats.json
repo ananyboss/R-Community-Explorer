@@ -1,48 +1,52 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6558,
-      "average_tweets_per_hour": 273,
-      "tweeters_today": 1764,
-      "total_likes_today": 5229
+      "total_tweets_today": 6412,
+      "average_tweets_per_hour": 267,
+      "tweeters_today": 1728,
+      "total_likes_today": 5194
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 264
+      "Freq": 295
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 213
+      "Freq": 210
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 133
-    },
-    {
-      "Var1": "rstats mgcv",
-      "Freq": 133
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 118
+      "Freq": 139
     },
     {
       "Var1": "Bioinformatics DataScience Biology Coding",
-      "Freq": 115
+      "Freq": 114
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 108
+    },
+    {
+      "Var1": "rstats mgcv",
+      "Freq": 106
     },
     {
       "Var1": "MachineLearning ReinforcementLearning BigData Analytics DataScience AI IoT",
       "Freq": 96
     },
     {
+      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats Java",
+      "Freq": 92
+    },
+    {
       "Var1": "rstats DataScience",
-      "Freq": 95
+      "Freq": 91
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 93
+      "Freq": 89
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
@@ -53,16 +57,12 @@
       "Freq": 83
     },
     {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats Java",
-      "Freq": 78
+      "Var1": "vegan rstats",
+      "Freq": 72
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 67
-    },
-    {
-      "Var1": "vegan rstats",
-      "Freq": 67
+      "Freq": 69
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -70,107 +70,107 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 60
+      "Freq": 62
+    },
+    {
+      "Var1": "useR2020 rstats",
+      "Freq": 61
     },
     {
       "Var1": "PyTorch BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 58
     },
     {
-      "Var1": "useR2020 rstats",
-      "Freq": 58
+      "Var1": "AWS Kubernetes BigData Analytics DataScience AI MachineLearning IoT IIoT Docker",
+      "Freq": 56
     },
     {
       "Var1": "useR2020",
-      "Freq": 57
-    },
-    {
-      "Var1": "AWS Kubernetes BigData Analytics DataScience AI MachineLearning IoT IIoT Docker",
       "Freq": 56
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 492
+      "Freq": 469
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 319
+      "Freq": 320
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 207
+      "Freq": 193
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 187
+      "Freq": 186
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 182
+      "Freq": 177
     },
     {
       "Var1": "nlognbot",
-      "Freq": 166
+      "Freq": 162
     },
     {
       "Var1": "xaelbot",
-      "Freq": 164
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 145
+      "Freq": 160
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 141
+      "Freq": 139
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 138
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 132
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 105
+      "Freq": 128
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 102
+      "Freq": 106
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 104
     },
     {
       "Var1": "femtech_",
-      "Freq": 88
+      "Freq": 82
     },
     {
       "Var1": "learn__together",
-      "Freq": 78
+      "Freq": 80
     },
     {
       "Var1": "hubofml",
-      "Freq": 73
+      "Freq": 78
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 71
-    },
-    {
-      "Var1": "DeepSingularity",
-      "Freq": 62
+      "Freq": 65
     },
     {
       "Var1": "LinuxDreams",
       "Freq": 62
     },
     {
-      "Var1": "RaymondWSA460",
-      "Freq": 62
+      "Var1": "DeepSingularity",
+      "Freq": 61
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 55
+      "Var1": "RaymondWSA460",
+      "Freq": 61
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 53
     }
   ],
-  "top10_tweets_like": ["6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology", "Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "Yesterday I did a webinar on constrained ordination &amp; PERMANOVA in #rstats with the #vegan 📦, including an overview of restricted permutation tests &amp; the permute 📦. Recording now up\n\n🎥 https://t.co/iTQdx6fGgV\n💾 https://t.co/gViHDjpxjy\n📊 https://t.co/JwvOfYrGMk\n\n#ecology", "13 Top Python Libraries You Should Know in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/0PYYBRng5M https://t.co/ZcwNaLuOoP", "Types of #MachineLearning – Supervised, Unsupervised, #ReinforcementLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/XUV8eXtVj1 https://t.co/DWV6c1w9CF", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/rZbdO4oKnv", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/eehu4QVj8D", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c"],
-  "top10_tweets_retweet": ["6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology", "Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "Yesterday I did a webinar on constrained ordination &amp; PERMANOVA in #rstats with the #vegan 📦, including an overview of restricted permutation tests &amp; the permute 📦. Recording now up\n\n🎥 https://t.co/iTQdx6fGgV\n💾 https://t.co/gViHDjpxjy\n📊 https://t.co/JwvOfYrGMk\n\n#ecology", "13 Top Python Libraries You Should Know in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/0PYYBRng5M https://t.co/ZcwNaLuOoP", "Types of #MachineLearning – Supervised, Unsupervised, #ReinforcementLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/XUV8eXtVj1 https://t.co/DWV6c1w9CF", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/rZbdO4oKnv", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/eehu4QVj8D", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c"]
+  "top10_tweets_like": ["6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "Yesterday I did a webinar on constrained ordination &amp; PERMANOVA in #rstats with the #vegan 📦, including an overview of restricted permutation tests &amp; the permute 📦. Recording now up\n\n🎥 https://t.co/iTQdx6fGgV\n💾 https://t.co/gViHDjpxjy\n📊 https://t.co/JwvOfYrGMk\n\n#ecology", "13 Top Python Libraries You Should Know in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/0PYYBRng5M https://t.co/ZcwNaLuOoP", "Types of #MachineLearning – Supervised, Unsupervised, #ReinforcementLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/XUV8eXtVj1 https://t.co/DWV6c1w9CF", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/rZbdO4oKnv", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/eehu4QVj8D", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c"],
+  "top10_tweets_retweet": ["6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "Yesterday I did a webinar on constrained ordination &amp; PERMANOVA in #rstats with the #vegan 📦, including an overview of restricted permutation tests &amp; the permute 📦. Recording now up\n\n🎥 https://t.co/iTQdx6fGgV\n💾 https://t.co/gViHDjpxjy\n📊 https://t.co/JwvOfYrGMk\n\n#ecology", "13 Top Python Libraries You Should Know in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/0PYYBRng5M https://t.co/ZcwNaLuOoP", "Types of #MachineLearning – Supervised, Unsupervised, #ReinforcementLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/XUV8eXtVj1 https://t.co/DWV6c1w9CF", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/rZbdO4oKnv", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/eehu4QVj8D", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c"]
 }
