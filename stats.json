@@ -1,44 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6091,
-      "average_tweets_per_hour": 254,
-      "tweeters_today": 1589,
-      "total_likes_today": 5894
+      "total_tweets_today": 6057,
+      "average_tweets_per_hour": 252,
+      "tweeters_today": 1608,
+      "total_likes_today": 6089
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 215
+      "Freq": 210
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 153
+      "Freq": 156
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 92
+      "Freq": 96
     },
     {
       "Var1": "rstats mgcv",
-      "Freq": 89
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 87
+      "Freq": 95
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 83
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 80
-    },
-    {
       "Var1": "theinsaneapp ML AI MachineLearning BigData",
       "Freq": 79
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 75
     },
     {
       "Var1": "MachineLearning Algorithms Python BigData Analytics DataScience AI IoT IIoT",
@@ -46,7 +42,7 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 73
+      "Freq": 74
     },
     {
       "Var1": "Programming DataScience BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
@@ -58,31 +54,35 @@
     },
     {
       "Var1": "TidyTuesday Coffee",
+      "Freq": 64
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 63
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI CyberSecurity IoT",
-      "Freq": 56
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 52
+      "Freq": 59
     },
     {
       "Var1": "BigData",
       "Freq": 49
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 46
+    },
+    {
       "Var1": "rstats datascience",
+      "Freq": 44
+    },
+    {
+      "Var1": "rstats ggiraph ggplot2",
       "Freq": 44
     },
     {
       "Var1": "Udemy guide ML Linux IoT DeepLearning CloudComputing RStats",
       "Freq": 43
-    },
-    {
-      "Var1": "rstats ggiraph ggplot2",
-      "Freq": 42
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -92,43 +92,43 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 623
+      "Freq": 626
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 264
+      "Freq": 268
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 182
+      "Freq": 177
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 165
+      "Freq": 163
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 158
+      "Freq": 152
     },
     {
       "Var1": "xaelbot",
-      "Freq": 148
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 145
+      "Freq": 149
     },
     {
       "Var1": "nlognbot",
-      "Freq": 144
+      "Freq": 139
     },
     {
-      "Var1": "nodeQuotesBot",
+      "Var1": "chidambara09",
       "Freq": 126
     },
     {
-      "Var1": "Taieb_Bot",
+      "Var1": "nodeQuotesBot",
       "Freq": 116
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 112
     },
     {
       "Var1": "TheDeveloperBot",
@@ -136,19 +136,19 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 99
+      "Freq": 96
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 86
+      "Freq": 87
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 85
+      "Freq": 80
     },
     {
       "Var1": "femtech_",
-      "Freq": 82
+      "Freq": 78
     },
     {
       "Var1": "learn__together",
@@ -156,21 +156,21 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 70
+      "Freq": 72
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 62
+      "Freq": 63
     },
     {
       "Var1": "hubofml",
-      "Freq": 49
+      "Freq": 50
     },
     {
       "Var1": "anglehernandez",
       "Freq": 46
     }
   ],
-  "top10_tweets_like": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "One of my most used features of dplyr since its 1.0.0 release is the across() adverb.   I don’t have to remember all the old scoped variants of summarise() and mutate().  It also brings the grammar structure closer to everyday English. #rstats #r4ds #tidyverse #datascience https://t.co/F0QDAA9YIx", "Some news from #rstats package #ggiraph. The latest versions are faster, cover almost all the elements provided by #ggplot2 and allow more interactivity within #shiny or simple HTML. https://t.co/HWWNXZaVmd", "Interested in learning about Generalized Additive Models and how to fit them with #rstats &amp; #mgcv? Then checkout this my free webinar on July 30th 1000-1230 CST (1600-1830 UTC)\n\nhttps://t.co/PADMqIqhrG https://t.co/eE8cTr7n5D", "Hi #Rstats #tidyverse #ggplot2 twitter. I invested a lot of free time into learning #dataviz #DataVisualization for some months. Here my first viz tweet and one of the most recent. Thank you #rstats #r4ds #TidyTuesday  twitter bubble for tweets and tips. This kept me going😁 https://t.co/MFOUWKG16k", "6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Making-of #TidyTuesday Week 2020/28 ☕️ #Coffee Ratings, showing the first trials as bar code and beeswarm chart as well.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/TkikbGSgJw https://t.co/K5ZgQsHTnc", "#MachineLearning #Algorithms For Beginners with Code Examples in #Python. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/h3W65mjNjv https://t.co/cBLW0pTZcK", "Kubeflow: The Enterprise Machine Learning Platform. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YyMTfJZtIp https://t.co/Si1cXjOtEp", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology"],
-  "top10_tweets_retweet": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "One of my most used features of dplyr since its 1.0.0 release is the across() adverb.   I don’t have to remember all the old scoped variants of summarise() and mutate().  It also brings the grammar structure closer to everyday English. #rstats #r4ds #tidyverse #datascience https://t.co/F0QDAA9YIx", "Some news from #rstats package #ggiraph. The latest versions are faster, cover almost all the elements provided by #ggplot2 and allow more interactivity within #shiny or simple HTML. https://t.co/HWWNXZaVmd", "Interested in learning about Generalized Additive Models and how to fit them with #rstats &amp; #mgcv? Then checkout this my free webinar on July 30th 1000-1230 CST (1600-1830 UTC)\n\nhttps://t.co/PADMqIqhrG https://t.co/eE8cTr7n5D", "Hi #Rstats #tidyverse #ggplot2 twitter. I invested a lot of free time into learning #dataviz #DataVisualization for some months. Here my first viz tweet and one of the most recent. Thank you #rstats #r4ds #TidyTuesday  twitter bubble for tweets and tips. This kept me going😁 https://t.co/MFOUWKG16k", "6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Making-of #TidyTuesday Week 2020/28 ☕️ #Coffee Ratings, showing the first trials as bar code and beeswarm chart as well.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/TkikbGSgJw https://t.co/K5ZgQsHTnc", "#MachineLearning #Algorithms For Beginners with Code Examples in #Python. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/h3W65mjNjv https://t.co/cBLW0pTZcK", "Kubeflow: The Enterprise Machine Learning Platform. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YyMTfJZtIp https://t.co/Si1cXjOtEp", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology"]
+  "top10_tweets_like": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "One of my most used features of dplyr since its 1.0.0 release is the across() adverb.   I don’t have to remember all the old scoped variants of summarise() and mutate().  It also brings the grammar structure closer to everyday English. #rstats #r4ds #tidyverse #datascience https://t.co/F0QDAA9YIx", "Interested in learning about Generalized Additive Models and how to fit them with #rstats &amp; #mgcv? Then checkout this my free webinar on July 30th 1000-1230 CST (1600-1830 UTC)\n\nhttps://t.co/PADMqIqhrG https://t.co/eE8cTr7n5D", "Some news from #rstats package #ggiraph. The latest versions are faster, cover almost all the elements provided by #ggplot2 and allow more interactivity within #shiny or simple HTML. https://t.co/HWWNXZaVmd", "Hi #Rstats #tidyverse #ggplot2 twitter. I invested a lot of free time into learning #dataviz #DataVisualization for some months. Here my first viz tweet and one of the most recent. Thank you #rstats #r4ds #TidyTuesday  twitter bubble for tweets and tips. This kept me going😁 https://t.co/MFOUWKG16k", "6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Making-of #TidyTuesday Week 2020/28 ☕️ #Coffee Ratings, showing the first trials as bar code and beeswarm chart as well.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/TkikbGSgJw https://t.co/K5ZgQsHTnc", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology", "#MachineLearning #Algorithms For Beginners with Code Examples in #Python. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/h3W65mjNjv https://t.co/cBLW0pTZcK", "Coffee aroma ratings for this week's #TidyTuesday. Not very happy with the final result but it was better than the previous iterations 🙃\n\ncode: https://t.co/qzE5Za3alV\n\n#dataviz #RStats https://t.co/JWNMaPLwhV"],
+  "top10_tweets_retweet": ["#TidyTuesday Week 2020/28 ☕️ #Coffee Ratings\n\nMotivated by the current attention on my boxplot animation, I aimed for an update with bar codes or beeswarms - and ended up using @mjskay's fantastic {ggdist} 📦 once again.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/rEmYEjuu2T", "One of my most used features of dplyr since its 1.0.0 release is the across() adverb.   I don’t have to remember all the old scoped variants of summarise() and mutate().  It also brings the grammar structure closer to everyday English. #rstats #r4ds #tidyverse #datascience https://t.co/F0QDAA9YIx", "Interested in learning about Generalized Additive Models and how to fit them with #rstats &amp; #mgcv? Then checkout this my free webinar on July 30th 1000-1230 CST (1600-1830 UTC)\n\nhttps://t.co/PADMqIqhrG https://t.co/eE8cTr7n5D", "Some news from #rstats package #ggiraph. The latest versions are faster, cover almost all the elements provided by #ggplot2 and allow more interactivity within #shiny or simple HTML. https://t.co/HWWNXZaVmd", "Hi #Rstats #tidyverse #ggplot2 twitter. I invested a lot of free time into learning #dataviz #DataVisualization for some months. Here my first viz tweet and one of the most recent. Thank you #rstats #r4ds #TidyTuesday  twitter bubble for tweets and tips. This kept me going😁 https://t.co/MFOUWKG16k", "6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/lMgf8dNECs", "Making-of #TidyTuesday Week 2020/28 ☕️ #Coffee Ratings, showing the first trials as bar code and beeswarm chart as well.\n\n#r4ds #rstats #tiyverse #ggplot2 #dataviz #coffeelovers https://t.co/TkikbGSgJw https://t.co/K5ZgQsHTnc", "Earlier this week I did a webinar on the #vegan #rstats 📦 covering PCA, CA, PCO, NMDS, &amp; diversity-related things you can do with vegan. The recording is now up\n\n🎥: https://t.co/Sr3vC90lfb\n💾: https://t.co/yHBCRaXzAs\n📊: https://t.co/SSWJVQu6se\n\n#ecology", "#MachineLearning #Algorithms For Beginners with Code Examples in #Python. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/h3W65mjNjv https://t.co/cBLW0pTZcK", "Coffee aroma ratings for this week's #TidyTuesday. Not very happy with the final result but it was better than the previous iterations 🙃\n\ncode: https://t.co/qzE5Za3alV\n\n#dataviz #RStats https://t.co/JWNMaPLwhV"]
 }
