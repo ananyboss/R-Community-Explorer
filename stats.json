@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5212,
-      "average_tweets_per_hour": 217,
-      "tweeters_today": 1429,
-      "total_likes_today": 4146
+      "total_tweets_today": 5195,
+      "average_tweets_per_hour": 216,
+      "tweeters_today": 1391,
+      "total_likes_today": 4108
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 208
+      "Freq": 200
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -22,11 +22,11 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 101
+      "Freq": 105
     },
     {
       "Var1": "Bioinformatics DataScience Biology Coding",
-      "Freq": 89
+      "Freq": 91
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -34,11 +34,11 @@
     },
     {
       "Var1": "useR2020",
-      "Freq": 80
+      "Freq": 79
     },
     {
       "Var1": "useR2020 rstats",
-      "Freq": 75
+      "Freq": 74
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch",
@@ -46,19 +46,19 @@
     },
     {
       "Var1": "rayshader rstats",
-      "Freq": 70
+      "Freq": 71
     },
     {
       "Var1": "Free Programming BigData DataAnalytics PHP Citrix DeepLearning Devops defstar5",
       "Freq": 69
     },
     {
-      "Var1": "RStats",
-      "Freq": 63
+      "Var1": "rstats DataScience",
+      "Freq": 60
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 63
+      "Var1": "RStats",
+      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -69,11 +69,7 @@
       "Freq": 55
     },
     {
-      "Var1": "rstats mgcv",
-      "Freq": 55
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
       "Freq": 52
     },
     {
@@ -81,8 +77,12 @@
       "Freq": 50
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 50
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
+      "Freq": 49
+    },
+    {
+      "Var1": "rstats mgcv",
+      "Freq": 48
     },
     {
       "Var1": "Udemy python neurolab DeepLearning ReactJS AI",
@@ -92,19 +92,19 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 404
+      "Freq": 399
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 280
+      "Freq": 281
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 181
+      "Freq": 176
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 147
+      "Freq": 152
     },
     {
       "Var1": "CodeGnuts",
@@ -112,46 +112,50 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 131
+      "Freq": 134
     },
     {
       "Var1": "xaelbot",
-      "Freq": 128
+      "Freq": 132
     },
     {
       "Var1": "chidambara09",
-      "Freq": 116
+      "Freq": 125
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 115
+      "Freq": 119
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 94
+      "Freq": 98
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 76
+      "Var1": "femtech_",
+      "Freq": 73
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 75
+      "Freq": 73
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 73
     },
     {
       "Var1": "hubofml",
       "Freq": 69
     },
     {
-      "Var1": "femtech_",
-      "Freq": 65
-    },
-    {
       "Var1": "learn__together",
-      "Freq": 56
+      "Freq": 64
     },
     {
       "Var1": "DeepSingularity",
+      "Freq": 53
+    },
+    {
+      "Var1": "LinuxDreams",
       "Freq": 53
     },
     {
@@ -159,18 +163,14 @@
       "Freq": 53
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 51
+    },
+    {
       "Var1": "rstats4ds",
       "Freq": 49
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 49
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 48
     }
   ],
-  "top10_tweets_like": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Challenges Deploying #MachineLearning Models to Production. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mh3Fu8P4t9 https://t.co/M9Agp1EpjC"],
-  "top10_tweets_retweet": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Challenges Deploying #MachineLearning Models to Production. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mh3Fu8P4t9 https://t.co/M9Agp1EpjC"]
+  "top10_tweets_like": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "Also in the works is a massive speed boost for making spatial objects \n\nIn this example I'm converting a 400,000 row data.frame into 100,000 polygons in 50ms (down from 30 seconds!) #rstats #rspatial https://t.co/ocCgSkmjKf", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp"],
+  "top10_tweets_retweet": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "Also in the works is a massive speed boost for making spatial objects \n\nIn this example I'm converting a 400,000 row data.frame into 100,000 polygons in 50ms (down from 30 seconds!) #rstats #rspatial https://t.co/ocCgSkmjKf", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp"]
 }
