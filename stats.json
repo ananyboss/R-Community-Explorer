@@ -1,36 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5870,
-      "average_tweets_per_hour": 245,
-      "tweeters_today": 1535,
-      "total_likes_today": 4290
+      "total_tweets_today": 5826,
+      "average_tweets_per_hour": 243,
+      "tweeters_today": 1499,
+      "total_likes_today": 4268
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats",
-      "Freq": 224
+      "Freq": 227
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 210
+      "Freq": 208
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 174
+      "Freq": 193
     },
     {
       "Var1": "Bioinformatics DataScience Biology Coding",
-      "Freq": 114
+      "Freq": 109
     },
     {
       "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
-      "Freq": 107
+      "Freq": 104
     },
     {
       "Var1": "tidyverse rstats",
       "Freq": 101
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 93
     },
     {
       "Var1": "useR2020",
@@ -38,139 +42,135 @@
     },
     {
       "Var1": "useR2020 rstats",
-      "Freq": 70
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 67
+      "Freq": 71
     },
     {
       "Var1": "Free Programming BigData DataAnalytics PHP Citrix DeepLearning Devops defstar5",
-      "Freq": 66
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch",
-      "Freq": 66
+      "Freq": 68
     },
     {
       "Var1": "rayshader rstats",
       "Freq": 66
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 66
-    },
-    {
-      "Var1": "Statistics BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 62
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch",
+      "Freq": 65
     },
     {
       "Var1": "RStats",
+      "Freq": 63
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning",
       "Freq": 61
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 60
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 60
     },
     {
       "Var1": "rstats mgcv",
       "Freq": 59
     },
     {
-      "Var1": "MachineLearning ReinforcementLearning BigData Analytics DataScience AI IoT",
-      "Freq": 57
-    },
-    {
       "Var1": "BigData",
-      "Freq": 56
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning",
-      "Freq": 56
+      "Freq": 54
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 51
+      "Freq": 50
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 404
+      "Freq": 416
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 301
+      "Freq": 306
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 181
+      "Freq": 194
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 166
+      "Freq": 178
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 161
+      "Freq": 165
     },
     {
       "Var1": "xaelbot",
-      "Freq": 152
+      "Freq": 156
     },
     {
       "Var1": "nlognbot",
-      "Freq": 150
+      "Freq": 153
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 123
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 111
+      "Freq": 128
     },
     {
       "Var1": "chidambara09",
-      "Freq": 105
+      "Freq": 122
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 115
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 103
-    },
-    {
-      "Var1": "clairebotai",
-      "Freq": 100
+      "Freq": 107
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 88
+      "Freq": 96
     },
     {
       "Var1": "hubofml",
-      "Freq": 83
+      "Freq": 81
     },
     {
       "Var1": "femtech_",
-      "Freq": 73
+      "Freq": 80
     },
     {
       "Var1": "learn__together",
-      "Freq": 63
+      "Freq": 71
     },
     {
       "Var1": "rstats4ds",
       "Freq": 58
     },
     {
+      "Var1": "LinuxDreams",
+      "Freq": 57
+    },
+    {
       "Var1": "DeepSingularity",
-      "Freq": 55
+      "Freq": 53
     },
     {
       "Var1": "RaymondWSA460",
-      "Freq": 55
+      "Freq": 53
     },
     {
-      "Var1": "LinuxDreams",
+      "Var1": "tidyversetweets",
       "Freq": 49
     }
   ],
-  "top10_tweets_like": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "13 Top Python Libraries You Should Know in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/0PYYBRng5M https://t.co/ZcwNaLuOoP", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Difference Between Correlation and Regression in #Statistics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/njOEJz6qVn https://t.co/l2DhF7gpvF", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F"],
-  "top10_tweets_retweet": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "13 Top Python Libraries You Should Know in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/0PYYBRng5M https://t.co/ZcwNaLuOoP", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Difference Between Correlation and Regression in #Statistics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/njOEJz6qVn https://t.co/l2DhF7gpvF", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F"]
+  "top10_tweets_like": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "Thanks to @simonw's idea and @malco_barrett's @Github actions #RStats template, now I also have a self-updating personal README showing my latest tweet and reply. \n\n📦rtweet gets my latest tweet. \n📸tweetrmd and webshot2 turned it into a screenshot. \n🔗https://t.co/3CJMfhK4Mm https://t.co/vuyumULiaj https://t.co/j2KnXx87qP", "✍️🖥 \"Sharing and Running R code using Docker\"\n\n👤 Aidan Boland @bolandai \n\nhttps://t.co/bT3Bb5nGnO\n#rstats"],
+  "top10_tweets_retweet": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "I hadn't noticed it before, but it turns out my TOSTER equivalence testing package in #Rstats has become popular enough to be incorporated into @JASPStats! It's great to see their commitment to provide both frequentist and Bayesian analyses. https://t.co/9HAhaY7T92", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "Thanks to @simonw's idea and @malco_barrett's @Github actions #RStats template, now I also have a self-updating personal README showing my latest tweet and reply. \n\n📦rtweet gets my latest tweet. \n📸tweetrmd and webshot2 turned it into a screenshot. \n🔗https://t.co/3CJMfhK4Mm https://t.co/vuyumULiaj https://t.co/j2KnXx87qP", "✍️🖥 \"Sharing and Running R code using Docker\"\n\n👤 Aidan Boland @bolandai \n\nhttps://t.co/bT3Bb5nGnO\n#rstats"]
 }
