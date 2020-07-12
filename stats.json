@@ -1,24 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4930,
-      "average_tweets_per_hour": 205,
-      "tweeters_today": 1172,
-      "total_likes_today": 3987
+      "total_tweets_today": 4933,
+      "average_tweets_per_hour": 206,
+      "tweeters_today": 1153,
+      "total_likes_today": 4149
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 201
+      "Freq": 209
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 125
+      "Freq": 134
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 101
+      "Freq": 104
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 94
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -29,20 +33,12 @@
       "Freq": 84
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 83
-    },
-    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 70
     },
     {
-      "Var1": "Free Programming BigData DataAnalytics PHP Citrix DeepLearning Devops defstar5",
-      "Freq": 69
-    },
-    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning",
-      "Freq": 65
+      "Freq": 69
     },
     {
       "Var1": "Mathematics DataScience Statistics BigData Analytics AI MachineLearning IoT IIoT",
@@ -53,7 +49,15 @@
       "Freq": 59
     },
     {
+      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats Java",
+      "Freq": 55
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning HPC",
+      "Freq": 54
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 54
     },
     {
@@ -61,23 +65,19 @@
       "Freq": 53
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 51
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT RStats Java",
-      "Freq": 50
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 50
-    },
-    {
       "Var1": "Udemy python neurolab DeepLearning ReactJS AI",
       "Freq": 50
     },
     {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 49
+    },
+    {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML Serverless",
+      "Freq": 48
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 48
     },
     {
@@ -85,30 +85,30 @@
       "Freq": 47
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 46
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 365
+      "Freq": 359
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 296
+      "Freq": 292
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 175
+      "Freq": 179
     },
     {
       "Var1": "nlognbot",
-      "Freq": 166
+      "Freq": 171
     },
     {
       "Var1": "xaelbot",
-      "Freq": 164
+      "Freq": 169
     },
     {
       "Var1": "chidambara09",
@@ -116,27 +116,27 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 146
+      "Freq": 154
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 141
+      "Freq": 149
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 132
+      "Freq": 135
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 107
+      "Freq": 101
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 94
+      "Freq": 93
     },
     {
       "Var1": "femtech_",
-      "Freq": 84
+      "Freq": 85
     },
     {
       "Var1": "learn__together",
@@ -144,7 +144,7 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 73
+      "Freq": 74
     },
     {
       "Var1": "LinuxDreams",
@@ -156,21 +156,21 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 48
+      "Freq": 49
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 46
+      "Freq": 45
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 40
+      "Freq": 38
     },
     {
       "Var1": "_reactdev",
-      "Freq": 37
+      "Freq": 34
     }
   ],
-  "top10_tweets_like": ["Cartography... in the dark🌒\n\nRendered in #rstats with #rayshader + #rayrender https://t.co/ncXWevUwsK", "Also in the works is a massive speed boost for making spatial objects \n\nIn this example I'm converting a 400,000 row data.frame into 100,000 polygons in 50ms (down from 30 seconds!) #rstats #rspatial https://t.co/ocCgSkmjKf", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "\"Mercado de trabalho brasileiro pós-pandemia\" por Regis Ely.\nUm belo exemplo- em todos os sentidos-  de como usar o #rstats para explorar a Pnad. \nhttps://t.co/Fnfb8g7GgO", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/e6imrO7P3G", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Fourier Series and Differential Equations in R (Part 1). #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oPjINf9rfL https://t.co/q21JnKeoWp", "Only *3* years ago today I started really learning #RStats with a certain online site. I learned so much. I wish they didn't turn out to be awful, so I could recommend them to other people in good conscience.", "Today I wrote fractal pkg for Julia Sets (frak) + pkg of simple non-linear interp easing funcs (displease)\n\nResult: calc &amp; display of 800x800 fractal from #RStats at ~40 frames per second!\n\nThis is a realtime capture of my screen - not a render to gif/mp4\n\nUsing {sdlr}. https://t.co/LPYprBrz3n", "✍️📊 \"Visualising two ordinal variables using R\"\n\n👤 Will Ball @willball12 \n\nhttps://t.co/p3PKshkv3u\n#rstats https://t.co/aGV1ujpYzq"],
-  "top10_tweets_retweet": ["Cartography... in the dark🌒\n\nRendered in #rstats with #rayshader + #rayrender https://t.co/ncXWevUwsK", "Also in the works is a massive speed boost for making spatial objects \n\nIn this example I'm converting a 400,000 row data.frame into 100,000 polygons in 50ms (down from 30 seconds!) #rstats #rspatial https://t.co/ocCgSkmjKf", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "\"Mercado de trabalho brasileiro pós-pandemia\" por Regis Ely.\nUm belo exemplo- em todos os sentidos-  de como usar o #rstats para explorar a Pnad. \nhttps://t.co/Fnfb8g7GgO", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/e6imrO7P3G", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Fourier Series and Differential Equations in R (Part 1). #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oPjINf9rfL https://t.co/q21JnKeoWp", "Only *3* years ago today I started really learning #RStats with a certain online site. I learned so much. I wish they didn't turn out to be awful, so I could recommend them to other people in good conscience.", "Today I wrote fractal pkg for Julia Sets (frak) + pkg of simple non-linear interp easing funcs (displease)\n\nResult: calc &amp; display of 800x800 fractal from #RStats at ~40 frames per second!\n\nThis is a realtime capture of my screen - not a render to gif/mp4\n\nUsing {sdlr}. https://t.co/LPYprBrz3n", "✍️📊 \"Visualising two ordinal variables using R\"\n\n👤 Will Ball @willball12 \n\nhttps://t.co/p3PKshkv3u\n#rstats https://t.co/aGV1ujpYzq"]
+  "top10_tweets_like": ["Cartography... in the dark🌒\n\nRendered in #rstats with #rayshader + #rayrender https://t.co/ncXWevUwsK", "Also in the works is a massive speed boost for making spatial objects \n\nIn this example I'm converting a 400,000 row data.frame into 100,000 polygons in 50ms (down from 30 seconds!) #rstats #rspatial https://t.co/ocCgSkmjKf", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "\"Mercado de trabalho brasileiro pós-pandemia\" por Regis Ely.\nUm belo exemplo- em todos os sentidos-  de como usar o #rstats para explorar a Pnad. \nhttps://t.co/Fnfb8g7GgO", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/e6imrO7P3G", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Only *3* years ago today I started really learning #RStats with a certain online site. I learned so much. I wish they didn't turn out to be awful, so I could recommend them to other people in good conscience.", "Fourier Series and Differential Equations in R (Part 1). #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oPjINf9rfL https://t.co/q21JnKeoWp", "Today I wrote fractal pkg for Julia Sets (frak) + pkg of simple non-linear interp easing funcs (displease)\n\nResult: calc &amp; display of 800x800 fractal from #RStats at ~40 frames per second!\n\nThis is a realtime capture of my screen - not a render to gif/mp4\n\nUsing {sdlr}. https://t.co/LPYprBrz3n", "Fourier Series and Differential Equations in R and #Python (Part 2). #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/9iJ90R70EI https://t.co/iCShpxIecj"],
+  "top10_tweets_retweet": ["Cartography... in the dark🌒\n\nRendered in #rstats with #rayshader + #rayrender https://t.co/ncXWevUwsK", "Also in the works is a massive speed boost for making spatial objects \n\nIn this example I'm converting a 400,000 row data.frame into 100,000 polygons in 50ms (down from 30 seconds!) #rstats #rspatial https://t.co/ocCgSkmjKf", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "\"Mercado de trabalho brasileiro pós-pandemia\" por Regis Ely.\nUm belo exemplo- em todos os sentidos-  de como usar o #rstats para explorar a Pnad. \nhttps://t.co/Fnfb8g7GgO", "Best Data Science Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/e6imrO7P3G", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Only *3* years ago today I started really learning #RStats with a certain online site. I learned so much. I wish they didn't turn out to be awful, so I could recommend them to other people in good conscience.", "Fourier Series and Differential Equations in R (Part 1). #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oPjINf9rfL https://t.co/q21JnKeoWp", "Today I wrote fractal pkg for Julia Sets (frak) + pkg of simple non-linear interp easing funcs (displease)\n\nResult: calc &amp; display of 800x800 fractal from #RStats at ~40 frames per second!\n\nThis is a realtime capture of my screen - not a render to gif/mp4\n\nUsing {sdlr}. https://t.co/LPYprBrz3n", "Fourier Series and Differential Equations in R and #Python (Part 2). #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/9iJ90R70EI https://t.co/iCShpxIecj"]
 }
