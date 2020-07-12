@@ -1,40 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5300,
-      "average_tweets_per_hour": 221,
-      "tweeters_today": 1435,
-      "total_likes_today": 4137
+      "total_tweets_today": 5212,
+      "average_tweets_per_hour": 217,
+      "tweeters_today": 1429,
+      "total_likes_today": 4146
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 215
+      "Freq": 208
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 187
+      "Freq": 190
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 121
+      "Freq": 118
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 103
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 96
+      "Freq": 101
     },
     {
       "Var1": "Bioinformatics DataScience Biology Coding",
-      "Freq": 94
+      "Freq": 89
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 89
     },
     {
       "Var1": "useR2020",
-      "Freq": 82
+      "Freq": 80
     },
     {
       "Var1": "useR2020 rstats",
@@ -45,24 +45,24 @@
       "Freq": 72
     },
     {
+      "Var1": "rayshader rstats",
+      "Freq": 70
+    },
+    {
       "Var1": "Free Programming BigData DataAnalytics PHP Citrix DeepLearning Devops defstar5",
       "Freq": 69
     },
     {
-      "Var1": "rayshader rstats",
-      "Freq": 69
+      "Var1": "RStats",
+      "Freq": 63
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 66
+      "Freq": 63
     },
     {
-      "Var1": "RStats",
-      "Freq": 65
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
-      "Freq": 59
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
@@ -70,85 +70,85 @@
     },
     {
       "Var1": "rstats mgcv",
-      "Freq": 54
+      "Freq": 55
+    },
+    {
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python",
+      "Freq": 52
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 50
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 49
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 50
     },
     {
       "Var1": "Udemy python neurolab DeepLearning ReactJS AI",
       "Freq": 48
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning HPC",
-      "Freq": 47
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 407
+      "Freq": 404
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 283
+      "Freq": 280
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 178
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 149
+      "Freq": 181
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 149
+      "Freq": 147
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 144
     },
     {
       "Var1": "nlognbot",
-      "Freq": 134
+      "Freq": 131
     },
     {
       "Var1": "xaelbot",
-      "Freq": 130
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 117
+      "Freq": 128
     },
     {
       "Var1": "chidambara09",
-      "Freq": 111
+      "Freq": 116
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 115
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 96
+      "Freq": 94
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 84
+      "Freq": 76
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 74
+      "Freq": 75
     },
     {
       "Var1": "hubofml",
-      "Freq": 70
+      "Freq": 69
     },
     {
       "Var1": "femtech_",
-      "Freq": 67
+      "Freq": 65
     },
     {
       "Var1": "learn__together",
-      "Freq": 59
+      "Freq": 56
     },
     {
       "Var1": "DeepSingularity",
@@ -160,15 +160,15 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 51
+      "Freq": 49
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 50
+      "Freq": 49
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 49
+      "Freq": 48
     }
   ],
   "top10_tweets_like": ["Using #rayshader to overlay a historical map with modern elevation data in 3D.\n\nEverything done in #rstats with the exception of georeferencing the historical map, which was done with QGIS (tutorial referenced in gist).\n\nCode (GH gist):\nhttps://t.co/Z7y68Jm7oC https://t.co/uhCef1idfd", "Was honoured to give my first keynote at #useR2020 yesterday on \"Computational Reproducibility: from theory to practice\" \n\nCatch up here: 📺 https://t.co/9cLkwkj97I\nSlides: https://t.co/WhOOBRqKhm\n\nNow time to kick back and binge on on all the great #rstats content created! 😎🍿 https://t.co/gNeskXRV0c", "All the Probability Distributions You Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YXZUrBLzMf https://t.co/j09LAP3Uwn", "Details about all of our #useR2020 #rstats tutorials can be found on our website - https://t.co/yKyjZKjq9r https://t.co/xuL59MSjKF", "Realtime mandelbrot zoom in #RStats \n\nCalculates and displays result at about 30fps.\n\nUsing {mandelbrot} + {sdlr}\n\n#AchievementUnlocked\n\nStep 4 out of 1million https://t.co/UDKr8G3d5r", "What are the must-know #rstats package(s) for your discipline? I work in #airquality and find the openair package by @DavidCarslaw super useful. https://t.co/yuBAXfChNZ . Especially calendar plots, windrose and time averaging functions https://t.co/2APVs5yvG1", "Just discovered an amazing #rstats 📦 {livecode} - lets you broadcast your live coding from RStudio onto a webpage that auto updates as you write code. \n\nLooks fantastic for teaching/presentations, you have to try it out to see its coolness! \n\nhttps://t.co/XN0joa2Wi1 by @rundel", "#Makingof of the coffee ratings plot for this week’s #TidyTuesday \n\n#RStats https://t.co/NQxxfzQB6X https://t.co/BN7v968c6F", "A Neural Network for CFD Laminar Flows at Low Reynolds Number. #BigData #Analytics #DataScience #AI #MachineLearning #HPC #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/BlACXpeOQ8 https://t.co/QN3Gx14nmp", "Challenges Deploying #MachineLearning Models to Production. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mh3Fu8P4t9 https://t.co/M9Agp1EpjC"],
