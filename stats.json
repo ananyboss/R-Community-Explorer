@@ -1,44 +1,48 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7285,
-      "average_tweets_per_hour": 304,
-      "tweeters_today": 1786,
-      "total_likes_today": 5828
+      "total_tweets_today": 7250,
+      "average_tweets_per_hour": 302,
+      "tweeters_today": 1791,
+      "total_likes_today": 5636
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 178
+      "Freq": 174
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 173
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 159
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 152
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 126
+      "Freq": 116
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 112
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 104
+      "Freq": 113
     },
     {
       "Var1": "BigData Analytics DataScience",
+      "Freq": 111
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
       "Freq": 99
     },
     {
       "Var1": "RStats",
-      "Freq": 86
+      "Freq": 91
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 87
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning",
@@ -49,11 +53,19 @@
       "Freq": 78
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 66
+      "Var1": "rstats DataScience",
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 68
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 64
+    },
+    {
+      "Var1": "Rstats",
       "Freq": 63
     },
     {
@@ -61,102 +73,90 @@
       "Freq": 62
     },
     {
-      "Var1": "Rstats",
+      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 61
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 57
-    },
-    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 56
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 56
-    },
-    {
-      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 55
+      "Freq": 60
     },
     {
       "Var1": "Python Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 52
+      "Freq": 53
     },
     {
-      "Var1": "rstats datascience",
-      "Freq": 51
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 50
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 628
+      "Freq": 630
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 398
+      "Freq": 393
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 234
+      "Freq": 231
     },
     {
       "Var1": "nlognbot",
-      "Freq": 210
-    },
-    {
-      "Var1": "xaelbot",
       "Freq": 204
     },
     {
-      "Var1": "Taieb_Bot",
-      "Freq": 169
+      "Var1": "xaelbot",
+      "Freq": 199
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 166
+      "Freq": 177
     },
     {
       "Var1": "nodeQuotesBot",
       "Freq": 164
     },
     {
+      "Var1": "Taieb_Bot",
+      "Freq": 162
+    },
+    {
       "Var1": "ServerlessFan",
-      "Freq": 141
+      "Freq": 144
     },
     {
       "Var1": "TheSecretJunio1",
       "Freq": 134
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 125
-    },
-    {
       "Var1": "learn__together",
-      "Freq": 112
+      "Freq": 115
     },
     {
       "Var1": "hubofml",
       "Freq": 111
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 98
+      "Var1": "chidambara09",
+      "Freq": 105
     },
     {
-      "Var1": "femtech_",
-      "Freq": 96
+      "Var1": "TheDeveloperBot",
+      "Freq": 104
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 95
+      "Freq": 93
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 92
+      "Freq": 90
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 86
     },
     {
       "Var1": "JohnEngine_",
@@ -167,10 +167,10 @@
       "Freq": 71
     },
     {
-      "Var1": "LinuxDreams",
+      "Var1": "coding_x",
       "Freq": 70
     }
   ],
-  "top10_tweets_like": ["a tweetorial on #broom and linear models with categorical features in #rstats based on a super common confusion and related feature request we get\n\nsuppose you estimate a linear regression where a categorical predictor is of primary interest, something like this: https://t.co/1CdGSSptMN", "The fact that the dplyr function `summarize()` can now generate multiple rows per group is incredibly useful. #rstats #tidyverse https://t.co/2YgR10NNOG", "#TidyTuesday Week 2020/19 🚀 Astronaut database via Stavnichuk &amp; Corlett (2020)\n\nMore a piece of #dataart than an insightful #dataviz but it was such a pleasure and so much fun.\n\n🔗 https://t.co/m9xbuSNVVn\n#ggplot #tidyverse #rstats #r4ds #datavis https://t.co/zHsbB0HTbw", "My #TidyTuesday take on space mission data. First attempt  to use coord_polar. Time changes from the origin to the outside and the length is average mission time. \n#r4ds #rstats #dataviz https://t.co/Z1GI1zdb44", "Recognize Handwritten Digits — in 19 lines of #Python! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OroGsZ5hfu https://t.co/atrM9xICiE", "11 Best #Python Programming Books for Beginner (2020 Update). #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding \nhttps://t.co/kfKV7wE3R9 https://t.co/zaCMuB8ieR", "I'm very happy to announce that the {hexmake} application is one of the 5 Grand Prizes of the 2020 Shiny Contest 🎉\n\nhttps://t.co/x75NBiFs4m\n\n#RStats #shiny #golem", "Printing #generative #rstats (genesis4321) https://t.co/FP1hFkE60x https://t.co/oQBPDFDFiQ", "I finally have a blog at https://t.co/YeSQ2VRXSN where I will write my \"thoughts longer than a tweet, shorter than a manuscript on data, pedagogy, and data pedagogy\". Topics will include #datascied #rstats #highered #phdchat #FirstGen #statsed https://t.co/LAG6734RgM", "For your next meta-analysis make your forest plots with emoji effect sizes in #RStats by @dsquintana @LesleyUttley https://t.co/q9jVVLLfq6 https://t.co/5Fsv30MMBL"],
-  "top10_tweets_retweet": ["a tweetorial on #broom and linear models with categorical features in #rstats based on a super common confusion and related feature request we get\n\nsuppose you estimate a linear regression where a categorical predictor is of primary interest, something like this: https://t.co/1CdGSSptMN", "The fact that the dplyr function `summarize()` can now generate multiple rows per group is incredibly useful. #rstats #tidyverse https://t.co/2YgR10NNOG", "#TidyTuesday Week 2020/19 🚀 Astronaut database via Stavnichuk &amp; Corlett (2020)\n\nMore a piece of #dataart than an insightful #dataviz but it was such a pleasure and so much fun.\n\n🔗 https://t.co/m9xbuSNVVn\n#ggplot #tidyverse #rstats #r4ds #datavis https://t.co/zHsbB0HTbw", "My #TidyTuesday take on space mission data. First attempt  to use coord_polar. Time changes from the origin to the outside and the length is average mission time. \n#r4ds #rstats #dataviz https://t.co/Z1GI1zdb44", "Recognize Handwritten Digits — in 19 lines of #Python! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OroGsZ5hfu https://t.co/atrM9xICiE", "11 Best #Python Programming Books for Beginner (2020 Update). #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding \nhttps://t.co/kfKV7wE3R9 https://t.co/zaCMuB8ieR", "I'm very happy to announce that the {hexmake} application is one of the 5 Grand Prizes of the 2020 Shiny Contest 🎉\n\nhttps://t.co/x75NBiFs4m\n\n#RStats #shiny #golem", "Printing #generative #rstats (genesis4321) https://t.co/FP1hFkE60x https://t.co/oQBPDFDFiQ", "I finally have a blog at https://t.co/YeSQ2VRXSN where I will write my \"thoughts longer than a tweet, shorter than a manuscript on data, pedagogy, and data pedagogy\". Topics will include #datascied #rstats #highered #phdchat #FirstGen #statsed https://t.co/LAG6734RgM", "For your next meta-analysis make your forest plots with emoji effect sizes in #RStats by @dsquintana @LesleyUttley https://t.co/q9jVVLLfq6 https://t.co/5Fsv30MMBL"]
+  "top10_tweets_like": ["The fact that the dplyr function `summarize()` can now generate multiple rows per group is incredibly useful. #rstats #tidyverse https://t.co/2YgR10NNOG", "#TidyTuesday Week 2020/19 🚀 Astronaut database via Stavnichuk &amp; Corlett (2020)\n\nMore a piece of #dataart than an insightful #dataviz but it was such a pleasure and so much fun.\n\n🔗 https://t.co/m9xbuSNVVn\n#ggplot #tidyverse #rstats #r4ds #datavis https://t.co/zHsbB0HTbw", "My #TidyTuesday take on space mission data. First attempt  to use coord_polar. Time changes from the origin to the outside and the length is average mission time. \n#r4ds #rstats #dataviz https://t.co/Z1GI1zdb44", "Recognize Handwritten Digits — in 19 lines of #Python! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OroGsZ5hfu https://t.co/atrM9xICiE", "11 Best #Python Programming Books for Beginner (2020 Update). #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding \nhttps://t.co/kfKV7wE3R9 https://t.co/zaCMuB8ieR", "I'm very happy to announce that the {hexmake} application is one of the 5 Grand Prizes of the 2020 Shiny Contest 🎉\n\nhttps://t.co/x75NBiFs4m\n\n#RStats #shiny #golem", "Printing #generative #rstats (genesis4321) https://t.co/FP1hFkE60x https://t.co/oQBPDFDFiQ", "I finally have a blog at https://t.co/YeSQ2VRXSN where I will write my \"thoughts longer than a tweet, shorter than a manuscript on data, pedagogy, and data pedagogy\". Topics will include #datascied #rstats #highered #phdchat #FirstGen #statsed https://t.co/LAG6734RgM", "For your next meta-analysis make your forest plots with emoji effect sizes in #RStats by @dsquintana @LesleyUttley https://t.co/q9jVVLLfq6 https://t.co/5Fsv30MMBL", "Doing Maths Symbolically: R as a Computer Algebra System (CAS)  {https://t.co/tFrwRVRa5h} #rstats #DataScience"],
+  "top10_tweets_retweet": ["The fact that the dplyr function `summarize()` can now generate multiple rows per group is incredibly useful. #rstats #tidyverse https://t.co/2YgR10NNOG", "#TidyTuesday Week 2020/19 🚀 Astronaut database via Stavnichuk &amp; Corlett (2020)\n\nMore a piece of #dataart than an insightful #dataviz but it was such a pleasure and so much fun.\n\n🔗 https://t.co/m9xbuSNVVn\n#ggplot #tidyverse #rstats #r4ds #datavis https://t.co/zHsbB0HTbw", "My #TidyTuesday take on space mission data. First attempt  to use coord_polar. Time changes from the origin to the outside and the length is average mission time. \n#r4ds #rstats #dataviz https://t.co/Z1GI1zdb44", "Recognize Handwritten Digits — in 19 lines of #Python! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OroGsZ5hfu https://t.co/atrM9xICiE", "11 Best #Python Programming Books for Beginner (2020 Update). #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding \nhttps://t.co/kfKV7wE3R9 https://t.co/zaCMuB8ieR", "I'm very happy to announce that the {hexmake} application is one of the 5 Grand Prizes of the 2020 Shiny Contest 🎉\n\nhttps://t.co/x75NBiFs4m\n\n#RStats #shiny #golem", "Printing #generative #rstats (genesis4321) https://t.co/FP1hFkE60x https://t.co/oQBPDFDFiQ", "I finally have a blog at https://t.co/YeSQ2VRXSN where I will write my \"thoughts longer than a tweet, shorter than a manuscript on data, pedagogy, and data pedagogy\". Topics will include #datascied #rstats #highered #phdchat #FirstGen #statsed https://t.co/LAG6734RgM", "For your next meta-analysis make your forest plots with emoji effect sizes in #RStats by @dsquintana @LesleyUttley https://t.co/q9jVVLLfq6 https://t.co/5Fsv30MMBL", "Doing Maths Symbolically: R as a Computer Algebra System (CAS)  {https://t.co/tFrwRVRa5h} #rstats #DataScience"]
 }
