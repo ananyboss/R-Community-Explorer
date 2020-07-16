@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7015,
-      "average_tweets_per_hour": 292,
-      "tweeters_today": 1520,
-      "total_likes_today": 5664
+      "total_tweets_today": 7064,
+      "average_tweets_per_hour": 294,
+      "tweeters_today": 1523,
+      "total_likes_today": 5864
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 198
+      "Freq": 196
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -18,11 +18,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 176
+      "Freq": 173
     },
     {
       "Var1": "RStats",
-      "Freq": 114
+      "Freq": 120
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -30,18 +30,22 @@
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 78
+      "Freq": 76
     },
     {
       "Var1": "DataScience Books DataScientist BigData Analytics IoT IIoT PyTorch Python",
       "Freq": 71
     },
     {
+      "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
+      "Freq": 67
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 65
     },
     {
-      "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
+      "Var1": "MachineLearning ScikitLearn Keras TensorFlow BigData Analytics AI DataScience IoT IIoT",
       "Freq": 65
     },
     {
@@ -49,11 +53,11 @@
       "Freq": 64
     },
     {
-      "Var1": "MachineLearning ScikitLearn Keras TensorFlow BigData Analytics AI DataScience IoT IIoT",
-      "Freq": 62
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 61
     },
     {
-      "Var1": "BigData Analytics DataScience",
+      "Var1": "Covid19 BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 61
     },
     {
@@ -61,28 +65,24 @@
       "Freq": 59
     },
     {
-      "Var1": "Covid19 BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 59
+      "Var1": "DataScientist BigData Analytics DataScience CyberSecurity IoT IIoT Linux Programming",
+      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 58
-    },
-    {
-      "Var1": "DataScientist BigData Analytics DataScience CyberSecurity IoT IIoT Linux Programming",
-      "Freq": 58
+      "Freq": 57
     },
     {
       "Var1": "infosec cybersecurity researcher privacy ransomware Ethicalhacking programming Linux Coding",
       "Freq": 57
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 56
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 52
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 55
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
+      "Freq": 52
     },
     {
       "Var1": "TidyTuesday",
@@ -92,15 +92,15 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 614
+      "Freq": 633
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 348
+      "Freq": 351
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 232
+      "Freq": 235
     },
     {
       "Var1": "CodeGnuts",
@@ -112,23 +112,23 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 207
+      "Freq": 211
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 205
     },
     {
       "Var1": "chidambara09",
       "Freq": 203
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 202
-    },
-    {
       "Var1": "Taieb_Bot",
-      "Freq": 181
+      "Freq": 184
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 130
+      "Freq": 131
     },
     {
       "Var1": "TheDeveloperBot",
@@ -144,15 +144,15 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 95
-    },
-    {
-      "Var1": "BeakPeakLogic",
-      "Freq": 83
+      "Freq": 94
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 83
+      "Freq": 84
+    },
+    {
+      "Var1": "BeakPeakLogic",
+      "Freq": 82
     },
     {
       "Var1": "hubofml",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 77
-    },
-    {
-      "Var1": "_codenewbiebot",
-      "Freq": 62
+      "Freq": 75
     },
     {
       "Var1": "coding_x",
-      "Freq": 60
+      "Freq": 63
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 61
     }
   ],
-  "top10_tweets_like": ["#TidyTuesday Week 29. After a long break, here is my contribution to this week's data. Very satisfied with the result. Also, I found this amazing package {ggnewscale} from @d_olivaw, very useful for design techniques.\n\n#rstats #tidyverse #ggplot #r4ds #dataviz https://t.co/I4mOIQz9bb", "Houston, we have a plot! Women in space for this week's #TidyTuesday.\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/iayH8lRurT", "Why do you use #RStats? \n\nWrong answers only.", "#rstats meets homeschool..  Ellie missed her multiplication rainbow from school so we made one together using ggplot.  Code is here https://t.co/jJZl83JHRS.  It would be cool to see any other educational posters or wallcharts poeple have made with R. https://t.co/0K4MNQFibY", "Main Types of Neural Networks - Tutorial. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ac7TDLz0gR https://t.co/YObRUs4Z4d", "Today in #phytools &amp; #rstats - by user request, mapping a continuous character onto the edges of a tree using variable branch widths: https://t.co/lYc0jKHwWe. https://t.co/JTJb3dCOzv", "TIL — You can pass SQL function as-is in {dbplyr} calls. \n\nFor example, if I want to call postgres `DATE_PART`, I can use it directly in a mutate() call. \n\n #RStats #dbplyr https://t.co/jbqkpctsd8", "Coming up, July 24th, 2020:\n\"Predictive modeling with text using tidy data principles\"\na tutorial led by @juliasilge \n@Emil_Hvitfeldt\n@RLadiesSR\n@RLadiesBA\n@RLadiesGP\n@RLadiesUshuaia\n@RLadies_rciacte\n@RLadiesCba\n@RLadiesSantaFe\n@RLadiesMza\n@RLadiesBRC \n#useR2020 #rstats #tutorial https://t.co/FpPaebJGgp", "Top Scorers #APL 2019/2020 Season!\n🇫🇷🇮🇷🇵🇾🇬🇪🇿🇦🇲🇦🇸🇳⚽🔝\n\n#PremierLeague #footballindex #Players #France #Iran #Paraguay #Georgia #SouthAfrica #Morocco #Senegal #rstats #linux #2kfreeagent #flutter #100daysofcode #makeyourownlane #wasexo #teamgodvek #concours #gamedev #theHDhub https://t.co/ybfEJzpqgg", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/RqxoZFlMDB"],
-  "top10_tweets_retweet": ["#TidyTuesday Week 29. After a long break, here is my contribution to this week's data. Very satisfied with the result. Also, I found this amazing package {ggnewscale} from @d_olivaw, very useful for design techniques.\n\n#rstats #tidyverse #ggplot #r4ds #dataviz https://t.co/I4mOIQz9bb", "Houston, we have a plot! Women in space for this week's #TidyTuesday.\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/iayH8lRurT", "Why do you use #RStats? \n\nWrong answers only.", "#rstats meets homeschool..  Ellie missed her multiplication rainbow from school so we made one together using ggplot.  Code is here https://t.co/jJZl83JHRS.  It would be cool to see any other educational posters or wallcharts poeple have made with R. https://t.co/0K4MNQFibY", "Main Types of Neural Networks - Tutorial. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ac7TDLz0gR https://t.co/YObRUs4Z4d", "Today in #phytools &amp; #rstats - by user request, mapping a continuous character onto the edges of a tree using variable branch widths: https://t.co/lYc0jKHwWe. https://t.co/JTJb3dCOzv", "TIL — You can pass SQL function as-is in {dbplyr} calls. \n\nFor example, if I want to call postgres `DATE_PART`, I can use it directly in a mutate() call. \n\n #RStats #dbplyr https://t.co/jbqkpctsd8", "Coming up, July 24th, 2020:\n\"Predictive modeling with text using tidy data principles\"\na tutorial led by @juliasilge \n@Emil_Hvitfeldt\n@RLadiesSR\n@RLadiesBA\n@RLadiesGP\n@RLadiesUshuaia\n@RLadies_rciacte\n@RLadiesCba\n@RLadiesSantaFe\n@RLadiesMza\n@RLadiesBRC \n#useR2020 #rstats #tutorial https://t.co/FpPaebJGgp", "Top Scorers #APL 2019/2020 Season!\n🇫🇷🇮🇷🇵🇾🇬🇪🇿🇦🇲🇦🇸🇳⚽🔝\n\n#PremierLeague #footballindex #Players #France #Iran #Paraguay #Georgia #SouthAfrica #Morocco #Senegal #rstats #linux #2kfreeagent #flutter #100daysofcode #makeyourownlane #wasexo #teamgodvek #concours #gamedev #theHDhub https://t.co/ybfEJzpqgg", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/RqxoZFlMDB"]
+  "top10_tweets_like": ["#TidyTuesday Week 29. After a long break, here is my contribution to this week's data. Very satisfied with the result. Also, I found this amazing package {ggnewscale} from @d_olivaw, very useful for design techniques.\n\n#rstats #tidyverse #ggplot #r4ds #dataviz https://t.co/I4mOIQz9bb", "Houston, we have a plot! Women in space for this week's #TidyTuesday.\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/iayH8lRurT", "Why do you use #RStats? \n\nWrong answers only.", "#rstats meets homeschool..  Ellie missed her multiplication rainbow from school so we made one together using ggplot.  Code is here https://t.co/jJZl83JHRS.  It would be cool to see any other educational posters or wallcharts poeple have made with R. https://t.co/0K4MNQFibY", "Today in #phytools &amp; #rstats - by user request, mapping a continuous character onto the edges of a tree using variable branch widths: https://t.co/lYc0jKHwWe. https://t.co/JTJb3dCOzv", "Main Types of Neural Networks - Tutorial. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ac7TDLz0gR https://t.co/YObRUs4Z4d", "Coming up, July 24th, 2020:\n\"Predictive modeling with text using tidy data principles\"\na tutorial led by @juliasilge \n@Emil_Hvitfeldt\n@RLadiesSR\n@RLadiesBA\n@RLadiesGP\n@RLadiesUshuaia\n@RLadies_rciacte\n@RLadiesCba\n@RLadiesSantaFe\n@RLadiesMza\n@RLadiesBRC \n#useR2020 #rstats #tutorial https://t.co/FpPaebJGgp", "TIL — You can pass SQL function as-is in {dbplyr} calls. \n\nFor example, if I want to call postgres `DATE_PART`, I can use it directly in a mutate() call. \n\n #RStats #dbplyr https://t.co/jbqkpctsd8", "Supervised ML Case Studies in R, a free on-demand interactive course using Tidy Tools by @juliasilge #rstats https://t.co/514h5hMoqH", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/RqxoZFlMDB"],
+  "top10_tweets_retweet": ["#TidyTuesday Week 29. After a long break, here is my contribution to this week's data. Very satisfied with the result. Also, I found this amazing package {ggnewscale} from @d_olivaw, very useful for design techniques.\n\n#rstats #tidyverse #ggplot #r4ds #dataviz https://t.co/I4mOIQz9bb", "Houston, we have a plot! Women in space for this week's #TidyTuesday.\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/iayH8lRurT", "Why do you use #RStats? \n\nWrong answers only.", "#rstats meets homeschool..  Ellie missed her multiplication rainbow from school so we made one together using ggplot.  Code is here https://t.co/jJZl83JHRS.  It would be cool to see any other educational posters or wallcharts poeple have made with R. https://t.co/0K4MNQFibY", "Today in #phytools &amp; #rstats - by user request, mapping a continuous character onto the edges of a tree using variable branch widths: https://t.co/lYc0jKHwWe. https://t.co/JTJb3dCOzv", "Main Types of Neural Networks - Tutorial. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ac7TDLz0gR https://t.co/YObRUs4Z4d", "Coming up, July 24th, 2020:\n\"Predictive modeling with text using tidy data principles\"\na tutorial led by @juliasilge \n@Emil_Hvitfeldt\n@RLadiesSR\n@RLadiesBA\n@RLadiesGP\n@RLadiesUshuaia\n@RLadies_rciacte\n@RLadiesCba\n@RLadiesSantaFe\n@RLadiesMza\n@RLadiesBRC \n#useR2020 #rstats #tutorial https://t.co/FpPaebJGgp", "TIL — You can pass SQL function as-is in {dbplyr} calls. \n\nFor example, if I want to call postgres `DATE_PART`, I can use it directly in a mutate() call. \n\n #RStats #dbplyr https://t.co/jbqkpctsd8", "Supervised ML Case Studies in R, a free on-demand interactive course using Tidy Tools by @juliasilge #rstats https://t.co/514h5hMoqH", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/RqxoZFlMDB"]
 }
