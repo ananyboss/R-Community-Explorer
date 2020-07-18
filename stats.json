@@ -1,52 +1,48 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5596,
-      "average_tweets_per_hour": 233,
-      "tweeters_today": 1430,
-      "total_likes_today": 5714
+      "total_tweets_today": 5437,
+      "average_tweets_per_hour": 227,
+      "tweeters_today": 1417,
+      "total_likes_today": 5581
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 223
+      "Freq": 218
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 136
+      "Freq": 128
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 110
+      "Freq": 113
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 97
-    },
-    {
-      "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 76
+      "Freq": 95
     },
     {
       "Var1": "Python",
-      "Freq": 76
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 74
+      "Freq": 80
     },
     {
       "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 73
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 62
+      "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 65
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 57
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 63
+    },
+    {
+      "Var1": "MachineLearning AI BigData Analytics DataScience IoT IIoT",
+      "Freq": 60
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
@@ -58,18 +54,22 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 55
+      "Freq": 53
     },
     {
-      "Var1": "MachineLearning AI BigData Analytics DataScience IoT IIoT",
-      "Freq": 53
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
+      "Freq": 52
     },
     {
       "Var1": "MachineLearning DataScience CloudComputing",
-      "Freq": 53
+      "Freq": 52
     },
     {
       "Var1": "Pandas BigData Analytics DataScience AI MachineLearning",
+      "Freq": 51
+    },
+    {
+      "Var1": "theinsaneapp CodeNewbie Java Swift tech developers DEVCommunity",
       "Freq": 51
     },
     {
@@ -77,100 +77,100 @@
       "Freq": 50
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 50
-    },
-    {
-      "Var1": "theinsaneapp CodeNewbie Java Swift tech developers DEVCommunity",
-      "Freq": 50
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 48
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 46
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 520
+      "Freq": 492
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 277
+      "Freq": 264
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 171
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 153
+      "Freq": 169
     },
     {
       "Var1": "chidambara09",
-      "Freq": 143
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 142
+      "Freq": 150
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 137
+      "Freq": 145
     },
     {
-      "Var1": "Taieb_Bot",
-      "Freq": 127
+      "Var1": "nlognbot",
+      "Freq": 142
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 139
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 123
+      "Freq": 125
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 122
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 96
+      "Freq": 94
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 86
+      "Freq": 92
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 83
+      "Freq": 80
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 69
+      "Freq": 77
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "femtech_",
       "Freq": 61
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 58
-    },
-    {
       "Var1": "coding_x",
       "Freq": 57
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 50
+      "Var1": "tidyversetweets",
+      "Freq": 54
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 48
     },
     {
       "Var1": "100DaysOf2020",
       "Freq": 47
     },
     {
-      "Var1": "hubofml",
+      "Var1": "anglehernandez",
       "Freq": 47
     }
   ],
-  "top10_tweets_like": ["We've made the difficult decision to cancel the in person rstudio::conf(2021), and replace with a designed-for-online rstudio::global() — https://t.co/miweSoQkj3. We're bummed that we can't see y'all in person, but are excited to make it our most inclusive conference yet! #rstats", "We've made the difficult decision to cancel the in-person rstudio::conf(2021), and replace with a designed-for-online rstudio::global()\nMore information at https://t.co/0jvih8fGzF\n#RStats #RStudio", "me: *buys 16gb of RAM*⁣⁣\n⁣⁣\nGoogle Chrome:⁣⁣\nFinally! A Worthy opponent!⁣⁣\nOur battle will be legendary!⁣⁣\n⁣⁣\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #Serverless #cybersecurity #DataScientist  #Programming ⁣#CodeNewbie #GirlsWhoCode https://t.co/LTzEfzaG3t", "my #rstats workflow victory of the day was discovering that I could trim off whitespace around an image with this:\n\nlibrary(magick)\nimage_path &lt;- \"~/myimage.png\"\nimage_read(image_path) %&gt;%\n  image_trim() %&gt;%\n  image_write(image_path)\n\nthat `image_trim` magick is pretty sparkly", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/lnper0H60S", "Lunchtime Monterey Bay render, using #rayrender's new bump mapping feature for some much more realistic (in a game changing way, imo) water 👀  \n\nRendered with #rayshader in #rstats https://t.co/GGTNhJfNjZ", "It's hot in Austin and shade from trees helps keep it cool. Here's a model of shade throughout the day today with actual sun angles, put together in #RStats with the superb packages #lidr and #rayshader @tylermorganwall https://t.co/H2gBQAmI0A", "Anomaly Detection with LSTM in Keras. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/edOjssSTCs https://t.co/H0Vp5mgjHT", "Just set up my #GitHub profile. Feedback and suggestions are welcome! \n\nhttps://t.co/JKlN5nFwuJ\n\n@EarthEngineBot @geospatial_py #gis #remotesensing #python #rstats #linux #EarthEninge #AcademicTwitter #AcademicChatter https://t.co/qmc034kM9m", "#MachineLearning #Algorithms Represented as a Neural Network. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/q4Ngqezt2g https://t.co/ViFFWjpDMa"],
-  "top10_tweets_retweet": ["We've made the difficult decision to cancel the in person rstudio::conf(2021), and replace with a designed-for-online rstudio::global() — https://t.co/miweSoQkj3. We're bummed that we can't see y'all in person, but are excited to make it our most inclusive conference yet! #rstats", "We've made the difficult decision to cancel the in-person rstudio::conf(2021), and replace with a designed-for-online rstudio::global()\nMore information at https://t.co/0jvih8fGzF\n#RStats #RStudio", "me: *buys 16gb of RAM*⁣⁣\n⁣⁣\nGoogle Chrome:⁣⁣\nFinally! A Worthy opponent!⁣⁣\nOur battle will be legendary!⁣⁣\n⁣⁣\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #Serverless #cybersecurity #DataScientist  #Programming ⁣#CodeNewbie #GirlsWhoCode https://t.co/LTzEfzaG3t", "my #rstats workflow victory of the day was discovering that I could trim off whitespace around an image with this:\n\nlibrary(magick)\nimage_path &lt;- \"~/myimage.png\"\nimage_read(image_path) %&gt;%\n  image_trim() %&gt;%\n  image_write(image_path)\n\nthat `image_trim` magick is pretty sparkly", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/lnper0H60S", "Lunchtime Monterey Bay render, using #rayrender's new bump mapping feature for some much more realistic (in a game changing way, imo) water 👀  \n\nRendered with #rayshader in #rstats https://t.co/GGTNhJfNjZ", "It's hot in Austin and shade from trees helps keep it cool. Here's a model of shade throughout the day today with actual sun angles, put together in #RStats with the superb packages #lidr and #rayshader @tylermorganwall https://t.co/H2gBQAmI0A", "Anomaly Detection with LSTM in Keras. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/edOjssSTCs https://t.co/H0Vp5mgjHT", "Just set up my #GitHub profile. Feedback and suggestions are welcome! \n\nhttps://t.co/JKlN5nFwuJ\n\n@EarthEngineBot @geospatial_py #gis #remotesensing #python #rstats #linux #EarthEninge #AcademicTwitter #AcademicChatter https://t.co/qmc034kM9m", "#MachineLearning #Algorithms Represented as a Neural Network. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/q4Ngqezt2g https://t.co/ViFFWjpDMa"]
+  "top10_tweets_like": ["We've made the difficult decision to cancel the in person rstudio::conf(2021), and replace with a designed-for-online rstudio::global() — https://t.co/miweSoQkj3. We're bummed that we can't see y'all in person, but are excited to make it our most inclusive conference yet! #rstats", "We've made the difficult decision to cancel the in-person rstudio::conf(2021), and replace with a designed-for-online rstudio::global()\nMore information at https://t.co/0jvih8fGzF\n#RStats #RStudio", "me: *buys 16gb of RAM*⁣⁣\n⁣⁣\nGoogle Chrome:⁣⁣\nFinally! A Worthy opponent!⁣⁣\nOur battle will be legendary!⁣⁣\n⁣⁣\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #Serverless #cybersecurity #DataScientist  #Programming ⁣#CodeNewbie #GirlsWhoCode https://t.co/LTzEfzaG3t", "my #rstats workflow victory of the day was discovering that I could trim off whitespace around an image with this:\n\nlibrary(magick)\nimage_path &lt;- \"~/myimage.png\"\nimage_read(image_path) %&gt;%\n  image_trim() %&gt;%\n  image_write(image_path)\n\nthat `image_trim` magick is pretty sparkly", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/lnper0H60S", "Lunchtime Monterey Bay render, using #rayrender's new bump mapping feature for some much more realistic (in a game changing way, imo) water 👀  \n\nRendered with #rayshader in #rstats https://t.co/GGTNhJfNjZ", "It's hot in Austin and shade from trees helps keep it cool. Here's a model of shade throughout the day today with actual sun angles, put together in #RStats with the superb packages #lidr and #rayshader @tylermorganwall https://t.co/H2gBQAmI0A", "Anomaly Detection with LSTM in Keras. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/edOjssSTCs https://t.co/H0Vp5mgjHT", "I don't know who needs to hear this, but box-whisker plots are almost always better recasted as violin plots #rstats https://t.co/yGgLNyN262", "#MachineLearning #Algorithms Represented as a Neural Network. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/q4Ngqezt2g https://t.co/ViFFWjpDMa"],
+  "top10_tweets_retweet": ["We've made the difficult decision to cancel the in person rstudio::conf(2021), and replace with a designed-for-online rstudio::global() — https://t.co/miweSoQkj3. We're bummed that we can't see y'all in person, but are excited to make it our most inclusive conference yet! #rstats", "We've made the difficult decision to cancel the in-person rstudio::conf(2021), and replace with a designed-for-online rstudio::global()\nMore information at https://t.co/0jvih8fGzF\n#RStats #RStudio", "me: *buys 16gb of RAM*⁣⁣\n⁣⁣\nGoogle Chrome:⁣⁣\nFinally! A Worthy opponent!⁣⁣\nOur battle will be legendary!⁣⁣\n⁣⁣\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #Serverless #cybersecurity #DataScientist  #Programming ⁣#CodeNewbie #GirlsWhoCode https://t.co/LTzEfzaG3t", "my #rstats workflow victory of the day was discovering that I could trim off whitespace around an image with this:\n\nlibrary(magick)\nimage_path &lt;- \"~/myimage.png\"\nimage_read(image_path) %&gt;%\n  image_trim() %&gt;%\n  image_write(image_path)\n\nthat `image_trim` magick is pretty sparkly", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LAM7PLEH7f https://t.co/lnper0H60S", "Lunchtime Monterey Bay render, using #rayrender's new bump mapping feature for some much more realistic (in a game changing way, imo) water 👀  \n\nRendered with #rayshader in #rstats https://t.co/GGTNhJfNjZ", "It's hot in Austin and shade from trees helps keep it cool. Here's a model of shade throughout the day today with actual sun angles, put together in #RStats with the superb packages #lidr and #rayshader @tylermorganwall https://t.co/H2gBQAmI0A", "Anomaly Detection with LSTM in Keras. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/edOjssSTCs https://t.co/H0Vp5mgjHT", "I don't know who needs to hear this, but box-whisker plots are almost always better recasted as violin plots #rstats https://t.co/yGgLNyN262", "#MachineLearning #Algorithms Represented as a Neural Network. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/q4Ngqezt2g https://t.co/ViFFWjpDMa"]
 }
