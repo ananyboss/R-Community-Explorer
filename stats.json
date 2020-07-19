@@ -1,68 +1,72 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6061,
-      "average_tweets_per_hour": 253,
-      "tweeters_today": 1288,
-      "total_likes_today": 4726
+      "total_tweets_today": 6092,
+      "average_tweets_per_hour": 254,
+      "tweeters_today": 1296,
+      "total_likes_today": 4774
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats",
-      "Freq": 234
+      "Freq": 227
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 132
+      "Freq": 129
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 108
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 106
     },
     {
-      "Var1": "tidyverse rstats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 106
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 98
+      "Var1": "Python",
+      "Freq": 86
     },
     {
-      "Var1": "Python",
-      "Freq": 88
+      "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats TensorFlow JavaScript ReactJS",
+      "Freq": 82
+    },
+    {
+      "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 78
     },
     {
       "Var1": "MachineLearning IoT JavaScript ReactJS",
       "Freq": 78
     },
     {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats TensorFlow JavaScript ReactJS",
-      "Freq": 76
-    },
-    {
-      "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 74
-    },
-    {
       "Var1": "OpenSource GeoSpatial Python Books BigData Analytics DataScience IoT IIoT PyTorch RStats",
-      "Freq": 74
-    },
-    {
-      "Var1": "ggplot2",
-      "Freq": 70
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 68
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 63
+      "Freq": 77
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 75
+    },
+    {
+      "Var1": "ggplot2",
+      "Freq": 72
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 62
+      "Freq": 67
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
@@ -83,28 +87,24 @@
     {
       "Var1": "Research DeepFakes DataScience MachineLearning Analytics BigData IoT Python",
       "Freq": 54
-    },
-    {
-      "Var1": "MachineLearning DataScience",
-      "Freq": 50
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 412
+      "Freq": 405
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 359
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 197
+      "Freq": 341
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 196
+      "Freq": 204
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 202
     },
     {
       "Var1": "nlognbot",
@@ -112,63 +112,63 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 172
+      "Freq": 178
     },
     {
       "Var1": "chidambara09",
-      "Freq": 159
+      "Freq": 162
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 154
+      "Freq": 159
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 138
+      "Freq": 152
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 135
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 111
+      "Freq": 134
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 107
+      "Freq": 117
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 103
     },
     {
       "Var1": "hubofml",
-      "Freq": 92
+      "Freq": 91
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 86
+      "Freq": 82
     },
     {
       "Var1": "coding_x",
-      "Freq": 85
+      "Freq": 81
     },
     {
       "Var1": "femtech_",
-      "Freq": 76
+      "Freq": 78
     },
     {
       "Var1": "LinuxDreams",
       "Freq": 76
     },
     {
-      "Var1": "TheCuriousLuke",
-      "Freq": 54
+      "Var1": "_codenewbiebot",
+      "Freq": 56
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 52
+      "Var1": "TheCuriousLuke",
+      "Freq": 53
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 52
+      "Freq": 51
     }
   ],
   "top10_tweets_like": ["So you finished polishing a #ggplot2 plot for a publication but it's got so many panels that there's no succint way of refering to them in the text!.\n\nWith {tagger} you can add automagic, theme-appropriate tags with just one line of code! \n #rstats https://t.co/xhO8aJhf8v", "✋Raise your hand if you're interested in a package that procedurally generates beautiful 3D trees in a single line of code and renders them directly in #rstats, using #rayrender 🙂 https://t.co/8da2bj6ws1", "How to Train Keras 20x Times Faster with TPU for Free. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vYSeQ7zFUC https://t.co/ZmdlnDpZ3c", "#OpenSource #GeoSpatial Analysis Tools for #Python + #Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/XJTbqwjZMh https://t.co/Jutcb0VX7c", "6 Free Books to Start your Python journey. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/nwAEurrIc6 https://t.co/NXudOzyG8j", "How to store, use, and re-use @RStudio code snippets: https://t.co/rXRJKjSflk by @sharon000 \n—————\n#BigData #MachineLearning #AI #DataScientists #DataScience #Coding #Rstats #RStudio \n———\nSource for graphic: https://t.co/CBlOW6YJmG https://t.co/13lK2NB5Fc", "You mean, do it yourself at a fraction of the cost? #rstats https://t.co/XnTGGJlXc6 https://t.co/VYhCe3Lpyw", "Our paper on a fast, continuous-time model for animal tracking data, with Argos - GPS validation, is now available in Movement Ecology: https://t.co/liXt5LRf0K\n\nyou can use this in the foieGras R package: \nhttps://t.co/weD1ZWaYzP\nhttps://t.co/GOMbQK6Nyg\n\n#rstats #rspatial https://t.co/41iWjI7mag", "20 Minute #DataScience Crash Course for 2020. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/Gk9BXDALRM https://t.co/goNMFKPTY5", "The intensity of Covid-19 spread in Brazil. Inspiration @davidawaldron. Data: https://t.co/I3HRGr66jc @turicas. It's not easy to see it all in a small screen. #Rstats from start to finish (D.T, tidyverse, sf, geobr @UrbanDemog &amp; magick). To make it glow was harder than expected. https://t.co/347blxWvyV"],
