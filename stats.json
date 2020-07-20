@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6061,
-      "average_tweets_per_hour": 253,
-      "tweeters_today": 1317,
-      "total_likes_today": 4487
+      "total_tweets_today": 5810,
+      "average_tweets_per_hour": 242,
+      "tweeters_today": 1337,
+      "total_likes_today": 4561
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 131
+      "Freq": 136
     },
     {
       "Var1": "Python 100DaysOfCode",
@@ -18,23 +18,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 98
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 97
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 84
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 84
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 79
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 76
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 76
     },
     {
       "Var1": "Python",
@@ -42,15 +38,19 @@
     },
     {
       "Var1": "Python AI BigData",
-      "Freq": 65
+      "Freq": 66
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 55
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 57
+      "Freq": 54
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 56
+      "Freq": 53
     },
     {
       "Var1": "Bias Variance MachineLearning bigdata womenintech python",
@@ -69,108 +69,108 @@
       "Freq": 45
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 44
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch",
+      "Freq": 45
     },
     {
       "Var1": "MachineLearning BigData DataScience AI IoT Python RStats javascript ReactJS Linux",
       "Freq": 43
     },
     {
-      "Var1": "Python DataScience AI",
-      "Freq": 43
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch",
-      "Freq": 43
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning HPC IoT",
       "Freq": 42
+    },
+    {
+      "Var1": "Python DataScience Python",
+      "Freq": 41
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 457
+      "Freq": 474
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 334
+      "Freq": 351
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 226
+      "Freq": 212
     },
     {
       "Var1": "xaelbot",
-      "Freq": 210
-    },
-    {
-      "Var1": "nodeQuotesBot",
       "Freq": 208
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 206
+      "Var1": "nlognbot",
+      "Freq": 191
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 197
+      "Var1": "nodeQuotesBot",
+      "Freq": 177
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 170
+      "Freq": 167
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 164
     },
     {
       "Var1": "chidambara09",
-      "Freq": 152
+      "Freq": 147
     },
     {
       "Var1": "femtech_",
-      "Freq": 107
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 104
+      "Freq": 109
     },
     {
       "Var1": "script_py",
       "Freq": 103
     },
     {
+      "Var1": "ServerlessFan",
+      "Freq": 99
+    },
+    {
       "Var1": "TheSecretJunio1",
-      "Freq": 102
+      "Freq": 98
     },
     {
       "Var1": "hubofml",
-      "Freq": 87
+      "Freq": 77
     },
     {
       "Var1": "coding_x",
-      "Freq": 70
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 70
-    },
-    {
-      "Var1": "Anvith64518557",
-      "Freq": 69
-    },
-    {
-      "Var1": "LinuxDreams",
       "Freq": 69
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 66
+      "Freq": 68
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 67
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 58
+      "Freq": 61
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 59
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 57
     }
   ],
-  "top10_tweets_like": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Pretty cool #rstats package to effortlessly generate information-rich forest plots of the coefficients of common regression models 🧮\nhttps://t.co/yu7aK68tqe\n\n#DataViz https://t.co/D41ZSYVgFZ", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "For some reason I tend to forget about anti-joins, but they're super useful! Filters one table to only the observations that are unmatched in a second table. Helpful when you're joining or pivoting to find mismatches or investigate why the # of observations changed. #rstats https://t.co/VMPOA5cniS", "Shiny devs, I'm trying to gather some content/ideas around \"Securing Shiny Apps\" so that I can then share good practices for securing your app from malicious attacks. \n\nWhat common security vulnerabilities would you think about when it comes to {shiny} apps?\n\n#RStats #Shiny", "Good morning! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode https://t.co/zbqTruQHF0"],
-  "top10_tweets_retweet": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Pretty cool #rstats package to effortlessly generate information-rich forest plots of the coefficients of common regression models 🧮\nhttps://t.co/yu7aK68tqe\n\n#DataViz https://t.co/D41ZSYVgFZ", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "For some reason I tend to forget about anti-joins, but they're super useful! Filters one table to only the observations that are unmatched in a second table. Helpful when you're joining or pivoting to find mismatches or investigate why the # of observations changed. #rstats https://t.co/VMPOA5cniS", "Shiny devs, I'm trying to gather some content/ideas around \"Securing Shiny Apps\" so that I can then share good practices for securing your app from malicious attacks. \n\nWhat common security vulnerabilities would you think about when it comes to {shiny} apps?\n\n#RStats #Shiny", "Good morning! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode https://t.co/zbqTruQHF0"]
+  "top10_tweets_like": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "For some reason I tend to forget about anti-joins, but they're super useful! Filters one table to only the observations that are unmatched in a second table. Helpful when you're joining or pivoting to find mismatches or investigate why the # of observations changed. #rstats https://t.co/VMPOA5cniS", "Shiny devs, I'm trying to gather some content/ideas around \"Securing Shiny Apps\" so that I can then share good practices for securing your app from malicious attacks. \n\nWhat common security vulnerabilities would you think about when it comes to {shiny} apps?\n\n#RStats #Shiny", "Good morning! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode https://t.co/zbqTruQHF0", "RvsPython #1: Webscraping  {https://t.co/F9h8UCjbR2} #rstats #DataScience"],
+  "top10_tweets_retweet": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "For some reason I tend to forget about anti-joins, but they're super useful! Filters one table to only the observations that are unmatched in a second table. Helpful when you're joining or pivoting to find mismatches or investigate why the # of observations changed. #rstats https://t.co/VMPOA5cniS", "Shiny devs, I'm trying to gather some content/ideas around \"Securing Shiny Apps\" so that I can then share good practices for securing your app from malicious attacks. \n\nWhat common security vulnerabilities would you think about when it comes to {shiny} apps?\n\n#RStats #Shiny", "Good morning! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode https://t.co/zbqTruQHF0", "RvsPython #1: Webscraping  {https://t.co/F9h8UCjbR2} #rstats #DataScience"]
 }
