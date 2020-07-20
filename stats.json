@@ -1,48 +1,48 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6088,
-      "average_tweets_per_hour": 254,
-      "tweeters_today": 1314,
-      "total_likes_today": 4757
+      "total_tweets_today": 6167,
+      "average_tweets_per_hour": 257,
+      "tweeters_today": 1327,
+      "total_likes_today": 4940
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 118
+      "Var1": "tidyverse rstats",
+      "Freq": 114
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 112
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 113
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 107
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 99
-    },
-    {
-      "Var1": "Python AI BigData",
-      "Freq": 85
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 83
-    },
-    {
-      "Var1": "Python",
-      "Freq": 81
+      "Freq": 97
     },
     {
       "Var1": "Python 100DaysOfCode",
-      "Freq": 79
+      "Freq": 96
+    },
+    {
+      "Var1": "Python AI BigData",
+      "Freq": 92
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 87
+    },
+    {
+      "Var1": "Python",
+      "Freq": 80
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 74
+      "Freq": 76
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
@@ -50,7 +50,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 64
+      "Freq": 68
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -61,11 +61,15 @@
       "Freq": 51
     },
     {
-      "Var1": "ggplot2",
-      "Freq": 50
+      "Var1": "Bias Variance MachineLearning bigdata womenintech python",
+      "Freq": 48
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
+      "Freq": 47
+    },
+    {
+      "Var1": "ggplot2",
       "Freq": 47
     },
     {
@@ -73,26 +77,22 @@
       "Freq": 46
     },
     {
+      "Var1": "BigData Analytics",
+      "Freq": 44
+    },
+    {
       "Var1": "NASSCOMCoE webinar womenintech womeninai DesignThinking entrepreneur",
       "Freq": 44
     },
     {
-      "Var1": "Python DataScience",
-      "Freq": 43
-    },
-    {
-      "Var1": "Python DataScience AI",
-      "Freq": 43
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience RStats javascript",
-      "Freq": 43
+      "Var1": "RStats",
+      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 417
+      "Freq": 430
     },
     {
       "Var1": "datasciencebot_",
@@ -100,39 +100,43 @@
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 237
+      "Freq": 240
     },
     {
       "Var1": "xaelbot",
-      "Freq": 217
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 213
+      "Freq": 224
     },
     {
       "Var1": "nodeQuotesBot",
+      "Freq": 212
+    },
+    {
+      "Var1": "CodeGnuts",
       "Freq": 209
     },
     {
       "Var1": "nlognbot",
-      "Freq": 204
+      "Freq": 206
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 167
+      "Freq": 173
     },
     {
       "Var1": "chidambara09",
-      "Freq": 148
+      "Freq": 154
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 107
+      "Freq": 108
     },
     {
       "Var1": "femtech_",
-      "Freq": 104
+      "Freq": 103
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 97
     },
     {
       "Var1": "script_py",
@@ -140,37 +144,33 @@
     },
     {
       "Var1": "hubofml",
-      "Freq": 89
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 84
+      "Freq": 90
     },
     {
       "Var1": "TheDeveloperBot",
       "Freq": 76
     },
     {
-      "Var1": "LinuxDreams",
-      "Freq": 74
-    },
-    {
       "Var1": "coding_x",
       "Freq": 72
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 70
     },
     {
       "Var1": "Anvith64518557",
       "Freq": 69
     },
     {
-      "Var1": "BeakPeakLogic",
+      "Var1": "_codenewbiebot",
       "Freq": 61
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 60
+      "Var1": "BeakPeakLogic",
+      "Freq": 59
     }
   ],
-  "top10_tweets_like": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Another one for this week’s #TidyTuesday. It’s a table made with ggplot, an adaptation of the table here: https://t.co/2saZl8TZP8\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/3qCtG2UzW7", "Online courses from #Python for beginners to Deep Learning in #AI\n\nView courses: https://t.co/xSEZGHFmsb \n\n#BigData #Analytics #DataScience #AI #MachineLearning #FinTech #IoT #PyTorch #Python #RStats #TensorFlow #JavaScript  #CloudComputing #Serverless #DataScientist #Linux https://t.co/ZcvltLcURm", "Pretty cool #rstats package to effortlessly generate information-rich forest plots of the coefficients of common regression models 🧮\nhttps://t.co/yu7aK68tqe\n\n#DataViz https://t.co/D41ZSYVgFZ", "✍️ \"Teaching the Tidyverse in 2020 - Part 1: Getting Started | RStudio Education\"\n\n👤 Mine CetinkayaRundel @minebocek; RStudioEDU @rstudioedu \n\nhttps://t.co/mb3HHzHoYQ\n#rstats https://t.co/KcumF1GwJj", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "Progress on current project: An interactive event-loop in #RStats \n\nThis is a demo R script for exploring the Julia Set fractal in real-time, with output to an SDL window\n\nWatch the cursor! - x/y position is used as input to fractal creation in {frak}\n\n#RStats https://t.co/oJAeqt2zRz", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ"],
-  "top10_tweets_retweet": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Another one for this week’s #TidyTuesday. It’s a table made with ggplot, an adaptation of the table here: https://t.co/2saZl8TZP8\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/3qCtG2UzW7", "Online courses from #Python for beginners to Deep Learning in #AI\n\nView courses: https://t.co/xSEZGHFmsb \n\n#BigData #Analytics #DataScience #AI #MachineLearning #FinTech #IoT #PyTorch #Python #RStats #TensorFlow #JavaScript  #CloudComputing #Serverless #DataScientist #Linux https://t.co/ZcvltLcURm", "Pretty cool #rstats package to effortlessly generate information-rich forest plots of the coefficients of common regression models 🧮\nhttps://t.co/yu7aK68tqe\n\n#DataViz https://t.co/D41ZSYVgFZ", "✍️ \"Teaching the Tidyverse in 2020 - Part 1: Getting Started | RStudio Education\"\n\n👤 Mine CetinkayaRundel @minebocek; RStudioEDU @rstudioedu \n\nhttps://t.co/mb3HHzHoYQ\n#rstats https://t.co/KcumF1GwJj", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "Progress on current project: An interactive event-loop in #RStats \n\nThis is a demo R script for exploring the Julia Set fractal in real-time, with output to an SDL window\n\nWatch the cursor! - x/y position is used as input to fractal creation in {frak}\n\n#RStats https://t.co/oJAeqt2zRz", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ"]
+  "top10_tweets_like": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Another one for this week’s #TidyTuesday. It’s a table made with ggplot, an adaptation of the table here: https://t.co/2saZl8TZP8\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/3qCtG2UzW7", "Online courses from #Python for beginners to Deep Learning in #AI\n\nView courses: https://t.co/xSEZGHFmsb \n\n#BigData #Analytics #DataScience #AI #MachineLearning #FinTech #IoT #PyTorch #Python #RStats #TensorFlow #JavaScript  #CloudComputing #Serverless #DataScientist #Linux https://t.co/ZcvltLcURm", "Pretty cool #rstats package to effortlessly generate information-rich forest plots of the coefficients of common regression models 🧮\nhttps://t.co/yu7aK68tqe\n\n#DataViz https://t.co/D41ZSYVgFZ", "✍️ \"Teaching the Tidyverse in 2020 - Part 1: Getting Started | RStudio Education\"\n\n👤 Mine CetinkayaRundel @minebocek; RStudioEDU @rstudioedu \n\nhttps://t.co/mb3HHzHoYQ\n#rstats https://t.co/KcumF1GwJj", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "Progress on current project: An interactive event-loop in #RStats \n\nThis is a demo R script for exploring the Julia Set fractal in real-time, with output to an SDL window\n\nWatch the cursor! - x/y position is used as input to fractal creation in {frak}\n\n#RStats https://t.co/oJAeqt2zRz", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ"],
+  "top10_tweets_retweet": ["Have you ever tried to use the tmap package in a #rstats shiny app? Now you can! See an example at https://t.co/pl3gUzLKrt. #rspatial #tmap #cartography #shiny https://t.co/PpyhquOMjW", "Another one for this week’s #TidyTuesday. It’s a table made with ggplot, an adaptation of the table here: https://t.co/2saZl8TZP8\n\ncode: https://t.co/Ayjt1Bb27u\n\n#dataviz #RStats https://t.co/3qCtG2UzW7", "Online courses from #Python for beginners to Deep Learning in #AI\n\nView courses: https://t.co/xSEZGHFmsb \n\n#BigData #Analytics #DataScience #AI #MachineLearning #FinTech #IoT #PyTorch #Python #RStats #TensorFlow #JavaScript  #CloudComputing #Serverless #DataScientist #Linux https://t.co/ZcvltLcURm", "Pretty cool #rstats package to effortlessly generate information-rich forest plots of the coefficients of common regression models 🧮\nhttps://t.co/yu7aK68tqe\n\n#DataViz https://t.co/D41ZSYVgFZ", "✍️ \"Teaching the Tidyverse in 2020 - Part 1: Getting Started | RStudio Education\"\n\n👤 Mine CetinkayaRundel @minebocek; RStudioEDU @rstudioedu \n\nhttps://t.co/mb3HHzHoYQ\n#rstats https://t.co/KcumF1GwJj", "Built a Real-time Sudoku Solver using Basic Image Processing and a little Deep Learning.\n\n#Python #100DaysOfCode #MachineLearning #100DaysOfMLCode #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vyFFnlBoYw", "📦✨ \"shinyMobile • Mobile Ready shiny Apps with Standalone Capabilities\"\n\n👤 David Granjon @divadnojnarg\n\nhttps://t.co/vNahzr2arJ\n#rstats https://t.co/s1OBhwqSyH", "Progress on current project: An interactive event-loop in #RStats \n\nThis is a demo R script for exploring the Julia Set fractal in real-time, with output to an SDL window\n\nWatch the cursor! - x/y position is used as input to fractal creation in {frak}\n\n#RStats https://t.co/oJAeqt2zRz", "It's alive!! New generative 3D tree #rstats package (powered by #rayrender) coming along nicely 😎 https://t.co/3wt4mqfNQO", "A simple change of perspective can reveal hidden worlds, all around us. \n\nThat, or your latent thalassophobia (fear of deep bodies of water). \n\nFind your hidden world in #rstats with #rayshader + #rayrender 😉\n\nCode with realistic water hack: https://t.co/ug5c7WKcsc https://t.co/I1p9y3YmRJ"]
 }
