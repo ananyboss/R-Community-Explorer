@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5082,
-      "average_tweets_per_hour": 212,
-      "tweeters_today": 1662,
-      "total_likes_today": 5990
+      "total_tweets_today": 5279,
+      "average_tweets_per_hour": 220,
+      "tweeters_today": 1670,
+      "total_likes_today": 6022
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 235
+      "Freq": 241
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 85
+      "Freq": 87
     },
     {
       "Var1": "rstats dataanalysis",
-      "Freq": 68
+      "Freq": 70
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 64
+      "Freq": 68
     },
     {
       "Var1": "ReinforcementLearning Algorithms BigData DataScience AI MachineLearning",
@@ -30,15 +30,23 @@
     },
     {
       "Var1": "Python 100DaysOfCode",
-      "Freq": 59
+      "Freq": 57
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 56
     },
     {
       "Var1": "Rstats",
-      "Freq": 51
+      "Freq": 53
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 48
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 46
     },
     {
       "Var1": "Python",
@@ -54,14 +62,14 @@
     },
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT Python",
-      "Freq": 39
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning HPC IoT",
-      "Freq": 38
+      "Freq": 41
     },
     {
       "Var1": "Python AI BigData",
+      "Freq": 39
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
       "Freq": 38
     },
     {
@@ -69,106 +77,98 @@
       "Freq": 38
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning HPC IoT",
+      "Freq": 37
+    },
+    {
       "Var1": "DataScientist BigData Analytics DataScience CyberSecurity IoT IIoT",
       "Freq": 37
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 35
-    },
-    {
       "Var1": "DeepLearning RStats Python IoT TensorFlow Java",
-      "Freq": 35
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 35
-    },
-    {
-      "Var1": "rstudioconf Rstats",
-      "Freq": 34
+      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 565
+      "Freq": 552
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 229
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 134
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 121
+      "Freq": 256
     },
     {
       "Var1": "newaz_tameem",
-      "Freq": 118
+      "Freq": 169
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 143
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 134
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 115
+      "Freq": 119
     },
     {
       "Var1": "nlognbot",
-      "Freq": 112
+      "Freq": 118
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 109
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 105
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 104
+      "Freq": 110
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 102
+      "Freq": 109
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 91
+      "Freq": 106
     },
     {
-      "Var1": "femtech_",
-      "Freq": 64
+      "Var1": "chidambara09",
+      "Freq": 99
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 60
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 58
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 54
+      "Var1": "nodeQuotesBot",
+      "Freq": 99
     },
     {
       "Var1": "hubofml",
+      "Freq": 64
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 63
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 58
+    },
+    {
+      "Var1": "patri_vaquero_",
+      "Freq": 57
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 57
+    },
+    {
+      "Var1": "LinuxDreams",
       "Freq": 50
     },
     {
       "Var1": "learn__together",
-      "Freq": 48
+      "Freq": 45
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 42
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 41
+      "Freq": 39
     }
   ],
   "top10_tweets_like": ["You can now get the new dplyr sticker (designed by @allison_horst) in amazing HOLOGRAPHIC version at https://t.co/aGpV3Q6VsZ! Lots of other stickers also available: https://t.co/9QTVkdj1kE #rstats https://t.co/EE3PnaoQT8", "🇧🇷 Principal estado de origem dos migrantes em cada cidade\n\n[o mapa tem intencionalmente muitas cores]\n\n#rstats + #adobeillustrator https://t.co/EY8BkTUeE3", "Are you Black, Indigenous, or a person of colour? If so, I'm holding open office hours this Friday: https://t.co/c83oJ10Ecy. I'm happy to chat, review #rstats code, give feedback on talks/papers/proposals, or do anything else that would be helpful to you.", "After looking through the #rstudioconf 2020 videos for material on how to improve my #Rstats workflow, I found *exactly* what I was hoping for in @EmilyRiederer's R Markdown Driven Development! More gems in thread 👇\n\nVideo: https://t.co/sClTEeIB5U\nBlog: https://t.co/yLfkI7YM5a", "Just going to leave this here for #RStats ... more to come.\n\n{reactable} is #amazing y'all! https://t.co/CaqwMJIEdB", "Remember when I made myself an #rstats hex dress? Now you could have a fashionable mask with the same pattern! There are a few ways to make that happen: https://t.co/PGBdXYjIr1", "✍️💡 \"15 Tips on Making Better Use of R Markdown\"\n\n👤Yihui Xie @xieyihui\n\nhttps://t.co/YVLX5tx3I3\n#rstats", "While gt is a great #rstats pkg for making tables, you may want to go the extra mile and make a statistical summary table. For that: gtsummary! An awesome package that extends gt to stratospheric heights. The RStudio Education Blog has the deets: https://t.co/XF49Vv5QBO.", "Mapping a quantitative trait via variable edge widths of a plotted tree is now a function in #phytools, &amp; it has some cool-looking options: https://t.co/8a0pV1i4xW. #rstats https://t.co/zToI4sImsq", "broom works so nicely inside #dplyr for batch producing model statistics or hypothesis tests #rstats #r4ds #tidyverse #datascience #analytics https://t.co/rTKsdP3s8N"],
