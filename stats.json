@@ -1,28 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6520,
+      "total_tweets_today": 6531,
       "average_tweets_per_hour": 272,
-      "tweeters_today": 1672,
-      "total_likes_today": 6336
+      "tweeters_today": 1676,
+      "total_likes_today": 6426
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 217
+      "Freq": 223
     },
     {
       "Var1": "Python",
-      "Freq": 90
+      "Freq": 98
     },
     {
       "Var1": "Python 100DaysOfCode",
-      "Freq": 86
+      "Freq": 90
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning HPC IoT",
       "Freq": 80
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 77
     },
     {
       "Var1": "rstats dataanalysis",
@@ -33,19 +37,15 @@
       "Freq": 72
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 70
-    },
-    {
       "Var1": "Bias Variance MachineLearning bigdata womenintech python",
       "Freq": 62
     },
     {
-      "Var1": "Python AI BigData",
-      "Freq": 57
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 56
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Var1": "Python AI BigData",
       "Freq": 56
     },
     {
@@ -58,19 +58,19 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 53
+      "Freq": 54
     },
     {
       "Var1": "ReinforcementLearning Algorithms BigData DataScience AI MachineLearning",
-      "Freq": 50
+      "Freq": 52
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 43
     },
     {
       "Var1": "MachineLearning AI BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 40
-    },
-    {
-      "Var1": "MachineLearning DeepLearning BigData",
-      "Freq": 39
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -85,62 +85,62 @@
       "Freq": 36
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 36
+      "Var1": "DeepLearning TensorFlow keras Analytics DataScience",
+      "Freq": 35
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 609
+      "Freq": 618
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 318
+      "Freq": 315
     },
     {
       "Var1": "newaz_tameem",
-      "Freq": 203
+      "Freq": 202
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 200
+      "Freq": 201
     },
     {
       "Var1": "xaelbot",
-      "Freq": 195
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 169
+      "Freq": 193
     },
     {
       "Var1": "chidambara09",
-      "Freq": 161
+      "Freq": 175
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 158
+      "Freq": 165
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 165
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 158
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 141
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 140
+      "Freq": 159
     },
     {
       "Var1": "femtech_",
-      "Freq": 136
+      "Freq": 139
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 138
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 135
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 108
+      "Freq": 111
     },
     {
       "Var1": "script_py",
@@ -148,19 +148,19 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 102
+      "Freq": 103
     },
     {
       "Var1": "learn__together",
-      "Freq": 88
+      "Freq": 89
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 84
+      "Freq": 86
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 69
+      "Freq": 71
     },
     {
       "Var1": "coding_x",
@@ -171,6 +171,6 @@
       "Freq": 62
     }
   ],
-  "top10_tweets_like": ["You can now get the new dplyr sticker (designed by @allison_horst) in amazing HOLOGRAPHIC version at https://t.co/aGpV3Q6VsZ! Lots of other stickers also available: https://t.co/9QTVkdj1kE #rstats https://t.co/EE3PnaoQT8", "🇧🇷 Principal estado de origem dos migrantes em cada cidade\n\n[o mapa tem intencionalmente muitas cores]\n\n#rstats + #adobeillustrator https://t.co/EY8BkTUeE3", "Are you Black, Indigenous, or a person of colour? If so, I'm holding open office hours this Friday: https://t.co/c83oJ10Ecy. I'm happy to chat, review #rstats code, give feedback on talks/papers/proposals, or do anything else that would be helpful to you.", "After looking through the #rstudioconf 2020 videos for material on how to improve my #Rstats workflow, I found *exactly* what I was hoping for in @EmilyRiederer's R Markdown Driven Development! More gems in thread 👇\n\nVideo: https://t.co/sClTEeIB5U\nBlog: https://t.co/yLfkI7YM5a", "Just going to leave this here for #RStats ... more to come.\n\n{reactable} is #amazing y'all! https://t.co/CaqwMJIEdB", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "✍️💡 \"15 Tips on Making Better Use of R Markdown\"\n\n👤Yihui Xie @xieyihui\n\nhttps://t.co/YVLX5tx3I3\n#rstats", "Remember when I made myself an #rstats hex dress? Now you could have a fashionable mask with the same pattern! There are a few ways to make that happen: https://t.co/PGBdXYjIr1", "While gt is a great #rstats pkg for making tables, you may want to go the extra mile and make a statistical summary table. For that: gtsummary! An awesome package that extends gt to stratospheric heights. The RStudio Education Blog has the deets: https://t.co/XF49Vv5QBO.", "RIGHT NOW, ALL of our #rstats courses are free. \n\nALL 16 courses in our #dataanalysis in R path, including R programming, data viz, data cleaning, SQL, statistics, machine learning...all free!\n\nTake advantage: https://t.co/t52xoUf4DM https://t.co/9ywMzEM2Fe"],
-  "top10_tweets_retweet": ["You can now get the new dplyr sticker (designed by @allison_horst) in amazing HOLOGRAPHIC version at https://t.co/aGpV3Q6VsZ! Lots of other stickers also available: https://t.co/9QTVkdj1kE #rstats https://t.co/EE3PnaoQT8", "🇧🇷 Principal estado de origem dos migrantes em cada cidade\n\n[o mapa tem intencionalmente muitas cores]\n\n#rstats + #adobeillustrator https://t.co/EY8BkTUeE3", "Are you Black, Indigenous, or a person of colour? If so, I'm holding open office hours this Friday: https://t.co/c83oJ10Ecy. I'm happy to chat, review #rstats code, give feedback on talks/papers/proposals, or do anything else that would be helpful to you.", "After looking through the #rstudioconf 2020 videos for material on how to improve my #Rstats workflow, I found *exactly* what I was hoping for in @EmilyRiederer's R Markdown Driven Development! More gems in thread 👇\n\nVideo: https://t.co/sClTEeIB5U\nBlog: https://t.co/yLfkI7YM5a", "Just going to leave this here for #RStats ... more to come.\n\n{reactable} is #amazing y'all! https://t.co/CaqwMJIEdB", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "✍️💡 \"15 Tips on Making Better Use of R Markdown\"\n\n👤Yihui Xie @xieyihui\n\nhttps://t.co/YVLX5tx3I3\n#rstats", "Remember when I made myself an #rstats hex dress? Now you could have a fashionable mask with the same pattern! There are a few ways to make that happen: https://t.co/PGBdXYjIr1", "While gt is a great #rstats pkg for making tables, you may want to go the extra mile and make a statistical summary table. For that: gtsummary! An awesome package that extends gt to stratospheric heights. The RStudio Education Blog has the deets: https://t.co/XF49Vv5QBO.", "RIGHT NOW, ALL of our #rstats courses are free. \n\nALL 16 courses in our #dataanalysis in R path, including R programming, data viz, data cleaning, SQL, statistics, machine learning...all free!\n\nTake advantage: https://t.co/t52xoUf4DM https://t.co/9ywMzEM2Fe"]
+  "top10_tweets_like": ["You can now get the new dplyr sticker (designed by @allison_horst) in amazing HOLOGRAPHIC version at https://t.co/aGpV3Q6VsZ! Lots of other stickers also available: https://t.co/9QTVkdj1kE #rstats https://t.co/EE3PnaoQT8", "🇧🇷 Principal estado de origem dos migrantes em cada cidade\n\n[o mapa tem intencionalmente muitas cores]\n\n#rstats + #adobeillustrator https://t.co/EY8BkTUeE3", "Are you Black, Indigenous, or a person of colour? If so, I'm holding open office hours this Friday: https://t.co/c83oJ10Ecy. I'm happy to chat, review #rstats code, give feedback on talks/papers/proposals, or do anything else that would be helpful to you.", "After looking through the #rstudioconf 2020 videos for material on how to improve my #Rstats workflow, I found *exactly* what I was hoping for in @EmilyRiederer's R Markdown Driven Development! More gems in thread 👇\n\nVideo: https://t.co/sClTEeIB5U\nBlog: https://t.co/yLfkI7YM5a", "Just going to leave this here for #RStats ... more to come.\n\n{reactable} is #amazing y'all! https://t.co/CaqwMJIEdB", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "✍️💡 \"15 Tips on Making Better Use of R Markdown\"\n\n👤Yihui Xie @xieyihui\n\nhttps://t.co/YVLX5tx3I3\n#rstats", "Remember when I made myself an #rstats hex dress? Now you could have a fashionable mask with the same pattern! There are a few ways to make that happen: https://t.co/PGBdXYjIr1", "While gt is a great #rstats pkg for making tables, you may want to go the extra mile and make a statistical summary table. For that: gtsummary! An awesome package that extends gt to stratospheric heights. The RStudio Education Blog has the deets: https://t.co/XF49Vv5QBO.", "broom works so nicely inside #dplyr for batch producing model statistics or hypothesis tests #rstats #r4ds #tidyverse #datascience #analytics https://t.co/rTKsdP3s8N"],
+  "top10_tweets_retweet": ["You can now get the new dplyr sticker (designed by @allison_horst) in amazing HOLOGRAPHIC version at https://t.co/aGpV3Q6VsZ! Lots of other stickers also available: https://t.co/9QTVkdj1kE #rstats https://t.co/EE3PnaoQT8", "🇧🇷 Principal estado de origem dos migrantes em cada cidade\n\n[o mapa tem intencionalmente muitas cores]\n\n#rstats + #adobeillustrator https://t.co/EY8BkTUeE3", "Are you Black, Indigenous, or a person of colour? If so, I'm holding open office hours this Friday: https://t.co/c83oJ10Ecy. I'm happy to chat, review #rstats code, give feedback on talks/papers/proposals, or do anything else that would be helpful to you.", "After looking through the #rstudioconf 2020 videos for material on how to improve my #Rstats workflow, I found *exactly* what I was hoping for in @EmilyRiederer's R Markdown Driven Development! More gems in thread 👇\n\nVideo: https://t.co/sClTEeIB5U\nBlog: https://t.co/yLfkI7YM5a", "Just going to leave this here for #RStats ... more to come.\n\n{reactable} is #amazing y'all! https://t.co/CaqwMJIEdB", "Over the last 3 weeks @rundel &amp; I gave 3 workshops on\n\n☁️ teaching #rstats w/ @rstudio Cloud\n💻 building learnr tutorials\n💾 teaching w/ @github \n\n🔗 materials &amp; recordings: https://t.co/0AVDWzvg91\n❓ questions: open an issue on the repo!\n\nThanks to @Ed_CfS for hosting!", "✍️💡 \"15 Tips on Making Better Use of R Markdown\"\n\n👤Yihui Xie @xieyihui\n\nhttps://t.co/YVLX5tx3I3\n#rstats", "Remember when I made myself an #rstats hex dress? Now you could have a fashionable mask with the same pattern! There are a few ways to make that happen: https://t.co/PGBdXYjIr1", "While gt is a great #rstats pkg for making tables, you may want to go the extra mile and make a statistical summary table. For that: gtsummary! An awesome package that extends gt to stratospheric heights. The RStudio Education Blog has the deets: https://t.co/XF49Vv5QBO.", "broom works so nicely inside #dplyr for batch producing model statistics or hypothesis tests #rstats #r4ds #tidyverse #datascience #analytics https://t.co/rTKsdP3s8N"]
 }
