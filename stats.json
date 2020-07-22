@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4933,
+      "total_tweets_today": 4945,
       "average_tweets_per_hour": 206,
-      "tweeters_today": 1257,
-      "total_likes_today": 4325
+      "tweeters_today": 1246,
+      "total_likes_today": 4385
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 184
+      "Freq": 182
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 113
+      "Freq": 108
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 96
+      "Freq": 99
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -26,19 +26,19 @@
     },
     {
       "Var1": "rstats DataScience",
+      "Freq": 64
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
+      "Freq": 62
+    },
+    {
+      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT PyTorch Python RStats TensorFlow Java",
       "Freq": 62
     },
     {
       "Var1": "Statistics BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 62
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
-      "Freq": 60
-    },
-    {
-      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 60
     },
     {
       "Var1": "Supercomputer BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -50,14 +50,14 @@
     },
     {
       "Var1": "dataexploration",
-      "Freq": 48
+      "Freq": 50
     },
     {
       "Var1": "Datascience algorithms AIthinking BigData Analytics IoT IIoT Python RStats TensorFlow",
-      "Freq": 47
+      "Freq": 48
     },
     {
-      "Var1": "Python",
+      "Var1": "Python DataScience Python RStats JavaScript",
       "Freq": 44
     },
     {
@@ -65,19 +65,11 @@
       "Freq": 41
     },
     {
-      "Var1": "Python DataScience Python RStats JavaScript",
-      "Freq": 38
-    },
-    {
-      "Var1": "Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 37
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 39
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 37
-    },
-    {
-      "Var1": "DataScientist BigData Analytics DataScience CyberSecurity IoT IIoT",
       "Freq": 37
     },
     {
@@ -87,20 +79,28 @@
     {
       "Var1": "NLP NLU BigData Analytics DataScience",
       "Freq": 36
+    },
+    {
+      "Var1": "theinsaneapp CodeNewbies developers programmers rstats javascript reactjs",
+      "Freq": 36
+    },
+    {
+      "Var1": "health DataScientist 100DaysOfCode Python",
+      "Freq": 35
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 534
+      "Freq": 544
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 260
+      "Freq": 272
     },
     {
       "Var1": "newaz_tameem",
-      "Freq": 155
+      "Freq": 154
     },
     {
       "Var1": "xaelbot",
@@ -108,50 +108,50 @@
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 140
+      "Freq": 136
     },
     {
       "Var1": "nlognbot",
-      "Freq": 128
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 121
+      "Freq": 125
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 113
+      "Freq": 119
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 118
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 110
+      "Freq": 111
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 107
     },
     {
       "Var1": "TheSecretJunio1",
       "Freq": 105
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 104
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 92
+      "Freq": 88
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 67
+      "Freq": 70
     },
     {
-      "Var1": "femtech_",
-      "Freq": 64
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 61
+      "Var1": "friday_Js_bot",
+      "Freq": 65
     },
     {
       "Var1": "learn__together",
+      "Freq": 63
+    },
+    {
+      "Var1": "femtech_",
       "Freq": 61
     },
     {
@@ -159,18 +159,18 @@
       "Freq": 60
     },
     {
-      "Var1": "friday_Js_bot",
-      "Freq": 57
-    },
-    {
-      "Var1": "coding_x",
-      "Freq": 52
+      "Var1": "hubofml",
+      "Freq": 59
     },
     {
       "Var1": "LinuxDreams",
       "Freq": 52
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 52
     }
   ],
-  "top10_tweets_like": ["Holy F$%#. What incredible drag and drop functionality for #dataexploration and plotting in R! https://t.co/DMtQAYiXF9 #rstats @ZipperSam @margaret_zimmer @FloodHydrology @adampricehydro @kampf_stephanie https://t.co/rfTFpnbPZH", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "Pandas Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/nDZEKTlWSi https://t.co/fTmUsVWuiV", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Book Review: Bayesian #Statistics the Fun Way. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CWIw86QrUk https://t.co/AgissXm0vt", "A \"random forest\" :)\n\nGenerated in #rstats, rendered with #rayrender https://t.co/nngTLZV8iw", "Wow, what an exciting ride for this week's #TidyTuesday! \nWeek 2020/30 😿😺 Australian Animal Outcomes\n\nEnded up with a faceted treemap. I have never used treemaps before and this is for sure no optimal data for this but it was a nice experiment!\n\n#r4ds #ggplot2 #rstats #dataviz https://t.co/0OjTnOIljQ", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B"],
-  "top10_tweets_retweet": ["Holy F$%#. What incredible drag and drop functionality for #dataexploration and plotting in R! https://t.co/DMtQAYiXF9 #rstats @ZipperSam @margaret_zimmer @FloodHydrology @adampricehydro @kampf_stephanie https://t.co/rfTFpnbPZH", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "Pandas Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/nDZEKTlWSi https://t.co/fTmUsVWuiV", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Book Review: Bayesian #Statistics the Fun Way. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CWIw86QrUk https://t.co/AgissXm0vt", "A \"random forest\" :)\n\nGenerated in #rstats, rendered with #rayrender https://t.co/nngTLZV8iw", "Wow, what an exciting ride for this week's #TidyTuesday! \nWeek 2020/30 😿😺 Australian Animal Outcomes\n\nEnded up with a faceted treemap. I have never used treemaps before and this is for sure no optimal data for this but it was a nice experiment!\n\n#r4ds #ggplot2 #rstats #dataviz https://t.co/0OjTnOIljQ", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B"]
+  "top10_tweets_like": ["Holy F$%#. What incredible drag and drop functionality for #dataexploration and plotting in R! https://t.co/DMtQAYiXF9 #rstats @ZipperSam @margaret_zimmer @FloodHydrology @adampricehydro @kampf_stephanie https://t.co/rfTFpnbPZH", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "Pandas Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/nDZEKTlWSi https://t.co/fTmUsVWuiV", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Book Review: Bayesian #Statistics the Fun Way. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CWIw86QrUk https://t.co/AgissXm0vt", "A \"random forest\" :)\n\nGenerated in #rstats, rendered with #rayrender https://t.co/nngTLZV8iw", "Wow, what an exciting ride for this week's #TidyTuesday! \nWeek 2020/30 😿😺 Australian Animal Outcomes\n\nEnded up with a faceted treemap. I have never used treemaps before and this is for sure no optimal data for this but it was a nice experiment!\n\n#r4ds #ggplot2 #rstats #dataviz https://t.co/0OjTnOIljQ", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B"],
+  "top10_tweets_retweet": ["Holy F$%#. What incredible drag and drop functionality for #dataexploration and plotting in R! https://t.co/DMtQAYiXF9 #rstats @ZipperSam @margaret_zimmer @FloodHydrology @adampricehydro @kampf_stephanie https://t.co/rfTFpnbPZH", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "Pandas Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/nDZEKTlWSi https://t.co/fTmUsVWuiV", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Book Review: Bayesian #Statistics the Fun Way. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CWIw86QrUk https://t.co/AgissXm0vt", "A \"random forest\" :)\n\nGenerated in #rstats, rendered with #rayrender https://t.co/nngTLZV8iw", "Wow, what an exciting ride for this week's #TidyTuesday! \nWeek 2020/30 😿😺 Australian Animal Outcomes\n\nEnded up with a faceted treemap. I have never used treemaps before and this is for sure no optimal data for this but it was a nice experiment!\n\n#r4ds #ggplot2 #rstats #dataviz https://t.co/0OjTnOIljQ", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B"]
 }
