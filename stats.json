@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5117,
-      "average_tweets_per_hour": 213,
-      "tweeters_today": 1375,
-      "total_likes_today": 4239
+      "total_tweets_today": 5155,
+      "average_tweets_per_hour": 215,
+      "tweeters_today": 1388,
+      "total_likes_today": 4293
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 233
+      "Freq": 234
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -18,7 +18,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 110
+      "Freq": 107
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -26,19 +26,23 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 81
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 69
+      "Freq": 74
     },
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT Python",
-      "Freq": 64
+      "Freq": 68
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 62
     },
     {
       "Var1": "Python",
-      "Freq": 59
+      "Freq": 58
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 54
     },
     {
       "Var1": "BigData Analytics",
@@ -47,10 +51,6 @@
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
       "Freq": 48
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 45
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
@@ -65,7 +65,19 @@
       "Freq": 42
     },
     {
+      "Var1": "TidyTuesday",
+      "Freq": 42
+    },
+    {
       "Var1": "career jobs Data DigitalMarketing webdevelopment HTML5 webdev uxdesign ux npm",
+      "Freq": 41
+    },
+    {
+      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 41
+    },
+    {
+      "Var1": "Supercomputer BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 41
     },
     {
@@ -73,30 +85,18 @@
       "Freq": 39
     },
     {
-      "Var1": "TidyTuesday",
-      "Freq": 39
-    },
-    {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
       "Freq": 38
-    },
-    {
-      "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 38
-    },
-    {
-      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 511
+      "Freq": 520
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 291
+      "Freq": 290
     },
     {
       "Var1": "newaz_tameem",
@@ -104,23 +104,23 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 150
+      "Freq": 152
     },
     {
       "Var1": "theInfernobot",
       "Freq": 146
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 125
+      "Var1": "CodeGnuts",
+      "Freq": 130
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 124
+      "Var1": "nlognbot",
+      "Freq": 128
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 119
+      "Freq": 117
     },
     {
       "Var1": "nodeQuotesBot",
@@ -128,7 +128,7 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 107
+      "Freq": 106
     },
     {
       "Var1": "tidyversetweets",
@@ -136,11 +136,11 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 91
+      "Freq": 81
     },
     {
       "Var1": "hubofml",
-      "Freq": 79
+      "Freq": 81
     },
     {
       "Var1": "patri_vaquero_",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 62
+      "Freq": 60
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 53
+      "Freq": 57
     },
     {
       "Var1": "learn__together",
-      "Freq": 52
+      "Freq": 53
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 48
+      "Freq": 49
     },
     {
       "Var1": "coding_x",
       "Freq": 42
     }
   ],
-  "top10_tweets_like": ["Here is a not-so-humble #rstats brag: Today, for the first time in my life, I used expression() correctly to place math text on a plot axis ON THE FIRST TRY. I am tempted to quit working for the day just to end things on a high note.", "How to Approach the Study of #Algorithms? #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/yql9ZaQEu4 https://t.co/Yw6q5ZIn1h", "Introducing {linne}, an attempt at making 💅 CSS more approachable to 🧮 #rstats users.\n\n❔Again, feedback on the API is more than welcome 🙏\n\nhttps://t.co/ZGWaJcAr7T", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "Building A Neural Net from Scratch Using R – Part 1  {https://t.co/BgXHE6v0Kk} #rstats #DataScience", "My #TidyTuesday contribution. Simple bar charts. \n#r4ds #rstats #dataviz https://t.co/n2cbJ3OG6C", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "Kingdom of Yugoslavia, key demographics from the 1931 census on the municipal level (N=4645).\n\n#census #history #bigdata #dataviz #maps #rstats https://t.co/mZ4NSvKucI", "A Bayesian model for a simulated meta-analysis  {https://t.co/8GKr1Yi0pT} #rstats #DataScience", "Building Effective Business Strategies with #DataScience. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/eFmxrowfSX https://t.co/jH6S6RGiZe"],
-  "top10_tweets_retweet": ["Here is a not-so-humble #rstats brag: Today, for the first time in my life, I used expression() correctly to place math text on a plot axis ON THE FIRST TRY. I am tempted to quit working for the day just to end things on a high note.", "How to Approach the Study of #Algorithms? #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/yql9ZaQEu4 https://t.co/Yw6q5ZIn1h", "Introducing {linne}, an attempt at making 💅 CSS more approachable to 🧮 #rstats users.\n\n❔Again, feedback on the API is more than welcome 🙏\n\nhttps://t.co/ZGWaJcAr7T", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "Building A Neural Net from Scratch Using R – Part 1  {https://t.co/BgXHE6v0Kk} #rstats #DataScience", "My #TidyTuesday contribution. Simple bar charts. \n#r4ds #rstats #dataviz https://t.co/n2cbJ3OG6C", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "Kingdom of Yugoslavia, key demographics from the 1931 census on the municipal level (N=4645).\n\n#census #history #bigdata #dataviz #maps #rstats https://t.co/mZ4NSvKucI", "A Bayesian model for a simulated meta-analysis  {https://t.co/8GKr1Yi0pT} #rstats #DataScience", "Building Effective Business Strategies with #DataScience. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/eFmxrowfSX https://t.co/jH6S6RGiZe"]
+  "top10_tweets_like": ["Here is a not-so-humble #rstats brag: Today, for the first time in my life, I used expression() correctly to place math text on a plot axis ON THE FIRST TRY. I am tempted to quit working for the day just to end things on a high note.", "How to Approach the Study of #Algorithms? #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/yql9ZaQEu4 https://t.co/Yw6q5ZIn1h", "Introducing {linne}, an attempt at making 💅 CSS more approachable to 🧮 #rstats users.\n\n❔Again, feedback on the API is more than welcome 🙏\n\nhttps://t.co/ZGWaJcAr7T", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "My #TidyTuesday contribution. Simple bar charts. \n#r4ds #rstats #dataviz https://t.co/n2cbJ3OG6C", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "Kingdom of Yugoslavia, key demographics from the 1931 census on the municipal level (N=4645).\n\n#census #history #bigdata #dataviz #maps #rstats https://t.co/mZ4NSvKucI", "Holy F$%#. What incredible drag and drop functionality for #dataexploration and plotting in R! https://t.co/DMtQAYiXF9 #rstats @ZipperSam @margaret_zimmer @FloodHydrology @adampricehydro @kampf_stephanie https://t.co/rfTFpnbPZH", "A Bayesian model for a simulated meta-analysis  {https://t.co/8GKr1Yi0pT} #rstats #DataScience", "Building Effective Business Strategies with #DataScience. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/eFmxrowfSX https://t.co/jH6S6RGiZe"],
+  "top10_tweets_retweet": ["Here is a not-so-humble #rstats brag: Today, for the first time in my life, I used expression() correctly to place math text on a plot axis ON THE FIRST TRY. I am tempted to quit working for the day just to end things on a high note.", "How to Approach the Study of #Algorithms? #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/yql9ZaQEu4 https://t.co/Yw6q5ZIn1h", "Introducing {linne}, an attempt at making 💅 CSS more approachable to 🧮 #rstats users.\n\n❔Again, feedback on the API is more than welcome 🙏\n\nhttps://t.co/ZGWaJcAr7T", "📝✨ Playing with a new #rstats idea: write complete Shiny components in an R markdown document. UI, Server, global R code, extra CSS and JavaScript all in one place.\n\nStill just a prototype, but you can try it out at https://t.co/VjU6iiNCQC https://t.co/c0JVwUEsTg", "My #TidyTuesday contribution. Simple bar charts. \n#r4ds #rstats #dataviz https://t.co/n2cbJ3OG6C", "Although there are many reasons why I'm sad #rstudioconf won't be happening in Orlando and the Wizarding World of Harry Potter next year, I'm especially sad because I won't have the opportunity to present this in a slide as part of my \"Official R Wizard\" bona fides :) #rstats https://t.co/24baPjb2iD", "Kingdom of Yugoslavia, key demographics from the 1931 census on the municipal level (N=4645).\n\n#census #history #bigdata #dataviz #maps #rstats https://t.co/mZ4NSvKucI", "Holy F$%#. What incredible drag and drop functionality for #dataexploration and plotting in R! https://t.co/DMtQAYiXF9 #rstats @ZipperSam @margaret_zimmer @FloodHydrology @adampricehydro @kampf_stephanie https://t.co/rfTFpnbPZH", "A Bayesian model for a simulated meta-analysis  {https://t.co/8GKr1Yi0pT} #rstats #DataScience", "Building Effective Business Strategies with #DataScience. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/eFmxrowfSX https://t.co/jH6S6RGiZe"]
 }
