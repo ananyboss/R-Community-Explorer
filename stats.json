@@ -1,36 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5007,
-      "average_tweets_per_hour": 209,
+      "total_tweets_today": 4946,
+      "average_tweets_per_hour": 206,
       "tweeters_today": 1401,
-      "total_likes_today": 4043
+      "total_likes_today": 4033
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 196
+      "Freq": 198
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 99
+      "Freq": 100
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 80
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 87
     },
     {
       "Var1": "rstats DataScience",
       "Freq": 79
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 71
-    },
-    {
-      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 68
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 78
     },
     {
       "Var1": "dataexploration",
@@ -38,11 +34,11 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 58
+      "Freq": 59
     },
     {
       "Var1": "Python",
-      "Freq": 58
+      "Freq": 55
     },
     {
       "Var1": "Datascience algorithms AIthinking BigData Analytics IoT IIoT Python RStats TensorFlow",
@@ -50,11 +46,7 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 52
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 50
+      "Freq": 53
     },
     {
       "Var1": "Python DataScience Python RStats JavaScript",
@@ -69,15 +61,23 @@
       "Freq": 45
     },
     {
-      "Var1": "Statistics BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 44
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 43
     },
     {
-      "Var1": "TidyTuesday",
+      "Var1": "Statistics BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 40
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 39
+    },
+    {
       "Var1": "DataScience MachineLearning BigData AI IoT Python RStats javascript ReactJS Linux Programming",
+      "Freq": 39
+    },
+    {
+      "Var1": "religion Diversity culture history census bigdata",
       "Freq": 39
     },
     {
@@ -85,58 +85,58 @@
       "Freq": 39
     },
     {
-      "Var1": "religion Diversity culture history census bigdata",
-      "Freq": 38
+      "Var1": "AI DeepLearning MachineLearning DataScience bigdata analytics cybersecurity EmergingTech",
+      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 539
+      "Freq": 536
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 239
+      "Freq": 234
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 132
+      "Freq": 128
     },
     {
       "Var1": "nlognbot",
-      "Freq": 125
-    },
-    {
-      "Var1": "newaz_tameem",
-      "Freq": 121
+      "Freq": 124
     },
     {
       "Var1": "xaelbot",
-      "Freq": 120
+      "Freq": 118
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 106
+      "Var1": "newaz_tameem",
+      "Freq": 110
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 98
+      "Freq": 99
     },
     {
-      "Var1": "Taieb_Bot",
-      "Freq": 94
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 92
+      "Var1": "TheSecretJunio1",
+      "Freq": 97
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 92
+      "Freq": 96
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 91
     },
     {
       "Var1": "chidambara09",
       "Freq": 88
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 87
     },
     {
       "Var1": "friday_Js_bot",
@@ -152,11 +152,11 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 57
+      "Freq": 59
     },
     {
       "Var1": "coding_x",
-      "Freq": 56
+      "Freq": 58
     },
     {
       "Var1": "hubofml",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 51
+      "Freq": 48
     },
     {
       "Var1": "learn__together",
-      "Freq": 47
+      "Freq": 46
     }
   ],
-  "top10_tweets_like": ["Christians and Muslims in the Kingdom of Yugoslavia in 1931\n\n#religion #Diversity #culture #history #census #bigdata #dataviz #maps #rstats https://t.co/HSoMHJ2JN7", "We cannot talk about art and #rstats and not mention the pipe. The pipe operator is in the magrittr package. Artist René Magritte depicts a smoking pipe in the Treachery of Images. The writing says that this is not a pipe. After all, it is not a pipe but only a depiction of it. https://t.co/DJH4QXvLkG", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Now available in the development version of tidycensus: ACS microdata!  @buddyherms and I have been working on tools to help you download and analyze @uscensusbureau microdata in #rstats.  Read how: https://t.co/5Rt5ah0kko https://t.co/tJ0sM9MC2T", "Most Common Loss Functions in #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YRim3GxBb1 https://t.co/1wmgRL9QWz", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B", "Want a gentle intro to #DataScience with R, #RStudio, and the #tidyverse with REAL clinical data? \n\nRegistration for #rmed2020 includes Intro to R for Clinicians / Healthcare Professionals / Healthcare Analysts! \n\nRegister here → https://t.co/3d0BxywQ4l #rmedicine #rstats #r4ds https://t.co/Lz7dbOGd8B", "Perception of scale!\n#Datascience #algorithms #AIthinking #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Math #Programming #Coding #cybersecurity #AI #MachineLearning #100DaysofCode #CX #innovations #Engineering https://t.co/WxgVq7vizg", "#Pandas Cheat Sheet | #BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode via @gp_pulipaka | https://t.co/v3tqCFS8au https://t.co/8bGpeMSNGl"],
-  "top10_tweets_retweet": ["Christians and Muslims in the Kingdom of Yugoslavia in 1931\n\n#religion #Diversity #culture #history #census #bigdata #dataviz #maps #rstats https://t.co/HSoMHJ2JN7", "We cannot talk about art and #rstats and not mention the pipe. The pipe operator is in the magrittr package. Artist René Magritte depicts a smoking pipe in the Treachery of Images. The writing says that this is not a pipe. After all, it is not a pipe but only a depiction of it. https://t.co/DJH4QXvLkG", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Now available in the development version of tidycensus: ACS microdata!  @buddyherms and I have been working on tools to help you download and analyze @uscensusbureau microdata in #rstats.  Read how: https://t.co/5Rt5ah0kko https://t.co/tJ0sM9MC2T", "Most Common Loss Functions in #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YRim3GxBb1 https://t.co/1wmgRL9QWz", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B", "Want a gentle intro to #DataScience with R, #RStudio, and the #tidyverse with REAL clinical data? \n\nRegistration for #rmed2020 includes Intro to R for Clinicians / Healthcare Professionals / Healthcare Analysts! \n\nRegister here → https://t.co/3d0BxywQ4l #rmedicine #rstats #r4ds https://t.co/Lz7dbOGd8B", "Perception of scale!\n#Datascience #algorithms #AIthinking #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Math #Programming #Coding #cybersecurity #AI #MachineLearning #100DaysofCode #CX #innovations #Engineering https://t.co/WxgVq7vizg", "#Pandas Cheat Sheet | #BigData #Analytics #DataScience #AI #MachineLearning #IoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode via @gp_pulipaka | https://t.co/v3tqCFS8au https://t.co/8bGpeMSNGl"]
+  "top10_tweets_like": ["We cannot talk about art and #rstats and not mention the pipe. The pipe operator is in the magrittr package. Artist René Magritte depicts a smoking pipe in the Treachery of Images. The writing says that this is not a pipe. After all, it is not a pipe but only a depiction of it. https://t.co/DJH4QXvLkG", "Christians and Muslims in the Kingdom of Yugoslavia in 1931\n\n#religion #Diversity #culture #history #census #bigdata #dataviz #maps #rstats https://t.co/HSoMHJ2JN7", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Now available in the development version of tidycensus: ACS microdata!  @buddyherms and I have been working on tools to help you download and analyze @uscensusbureau microdata in #rstats.  Read how: https://t.co/5Rt5ah0kko https://t.co/tJ0sM9MC2T", "Most Common Loss Functions in #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YRim3GxBb1 https://t.co/1wmgRL9QWz", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B", "Want a gentle intro to #DataScience with R, #RStudio, and the #tidyverse with REAL clinical data? \n\nRegistration for #rmed2020 includes Intro to R for Clinicians / Healthcare Professionals / Healthcare Analysts! \n\nRegister here → https://t.co/3d0BxywQ4l #rmedicine #rstats #r4ds https://t.co/Lz7dbOGd8B", "Perception of scale!\n#Datascience #algorithms #AIthinking #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Math #Programming #Coding #cybersecurity #AI #MachineLearning #100DaysofCode #CX #innovations #Engineering https://t.co/WxgVq7vizg", "🤩 If you are nostalgic about the old school design and you miss your old floppy disk, I am glad to introduce #RStats shiny386. https://t.co/fd1yGOA5Eh and a revamped version of « Twin cities buses »: https://t.co/kbeWoKqfNk 🚌🚌🚌 https://t.co/vxEKra7A0q"],
+  "top10_tweets_retweet": ["We cannot talk about art and #rstats and not mention the pipe. The pipe operator is in the magrittr package. Artist René Magritte depicts a smoking pipe in the Treachery of Images. The writing says that this is not a pipe. After all, it is not a pipe but only a depiction of it. https://t.co/DJH4QXvLkG", "Christians and Muslims in the Kingdom of Yugoslavia in 1931\n\n#religion #Diversity #culture #history #census #bigdata #dataviz #maps #rstats https://t.co/HSoMHJ2JN7", "[New] Baby sleep: the first six months. \n\nI tracked every nap and night time wakeup for the last 26 weeks so you all can share in the despair and delight of baby sleep development. \n\nNow... goodnight. I'm tired. 🥱 #rstats \n\nhttps://t.co/y1EU6RBUji https://t.co/S40Cadjquf", "We talked a lot about blogs and we are celebrating languages so I want to highlight some #rstats blogs in Spanish that I try to follow #rstatses", "Now available in the development version of tidycensus: ACS microdata!  @buddyherms and I have been working on tools to help you download and analyze @uscensusbureau microdata in #rstats.  Read how: https://t.co/5Rt5ah0kko https://t.co/tJ0sM9MC2T", "Most Common Loss Functions in #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YRim3GxBb1 https://t.co/1wmgRL9QWz", "What better way to learn about #rstats expressions than build a #Shiny app together! We made an app that takes text inputs for the function name and arguments, then constructs a call and AST! The code is in our repo ☺️ https://t.co/NP76kkT7VA https://t.co/clKERlU34B", "Want a gentle intro to #DataScience with R, #RStudio, and the #tidyverse with REAL clinical data? \n\nRegistration for #rmed2020 includes Intro to R for Clinicians / Healthcare Professionals / Healthcare Analysts! \n\nRegister here → https://t.co/3d0BxywQ4l #rmedicine #rstats #r4ds https://t.co/Lz7dbOGd8B", "Perception of scale!\n#Datascience #algorithms #AIthinking #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Math #Programming #Coding #cybersecurity #AI #MachineLearning #100DaysofCode #CX #innovations #Engineering https://t.co/WxgVq7vizg", "🤩 If you are nostalgic about the old school design and you miss your old floppy disk, I am glad to introduce #RStats shiny386. https://t.co/fd1yGOA5Eh and a revamped version of « Twin cities buses »: https://t.co/kbeWoKqfNk 🚌🚌🚌 https://t.co/vxEKra7A0q"]
 }
