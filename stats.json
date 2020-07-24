@@ -1,28 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5602,
-      "average_tweets_per_hour": 233,
-      "tweeters_today": 1536,
-      "total_likes_today": 5421
+      "total_tweets_today": 5691,
+      "average_tweets_per_hour": 237,
+      "tweeters_today": 1552,
+      "total_likes_today": 5597
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 178
+      "Freq": 183
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 128
+      "Freq": 126
     },
     {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
-      "Freq": 101
+      "Freq": 102
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 99
+    },
+    {
+      "Var1": "DataScientists",
+      "Freq": 97
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 94
     },
     {
       "Var1": "BigData Analytics",
@@ -30,11 +38,7 @@
     },
     {
       "Var1": "DataScience",
-      "Freq": 93
-    },
-    {
-      "Var1": "DataScientists",
-      "Freq": 90
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -49,23 +53,23 @@
       "Freq": 76
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 72
+    },
+    {
       "Var1": "rstats DataScience",
-      "Freq": 66
+      "Freq": 69
     },
     {
       "Var1": "GeneticAlgorithms BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
       "Freq": 62
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 60
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Var1": "RStats",
       "Freq": 60
     },
     {
@@ -73,42 +77,38 @@
       "Freq": 59
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 54
+      "Var1": "rstats datascience",
+      "Freq": 59
     },
     {
-      "Var1": "rstats datascience",
-      "Freq": 54
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 52
-    },
-    {
-      "Var1": "RStats",
       "Freq": 52
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 590
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 168
+      "Freq": 608
     },
     {
       "Var1": "theInfernobot",
       "Freq": 162
     },
     {
+      "Var1": "datasciencebot_",
+      "Freq": 160
+    },
+    {
       "Var1": "nlognbot",
-      "Freq": 150
+      "Freq": 151
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 149
+      "Freq": 147
     },
     {
       "Var1": "xaelbot",
@@ -116,11 +116,11 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 137
+      "Freq": 136
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 126
+      "Freq": 125
     },
     {
       "Var1": "chidambara09",
@@ -128,34 +128,38 @@
     },
     {
       "Var1": "developersbot",
-      "Freq": 102
+      "Freq": 104
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 102
+      "Freq": 100
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 91
+      "Freq": 93
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 86
+      "Freq": 87
     },
     {
       "Var1": "femtech_",
-      "Freq": 71
+      "Freq": 69
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 68
+      "Freq": 67
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 65
+      "Freq": 66
     },
     {
       "Var1": "cloudnewbie",
+      "Freq": 64
+    },
+    {
+      "Var1": "rstats4ds",
       "Freq": 61
     },
     {
@@ -163,14 +167,10 @@
       "Freq": 58
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 55
-    },
-    {
-      "Var1": "_codenewbiebot",
+      "Var1": "codeblooded_bot",
       "Freq": 47
     }
   ],
-  "top10_tweets_like": ["#rstats #rtip - If you're like me, you like to have the end of a script in the middle of the panel, enable \"Allow scroll past end of document\"\n\nGlobal Options &gt; Code &gt; Display https://t.co/V4yZgV0oQw", "I’ve been coding in #rstats for three years, and I’ve never used a for loop. I don’t know if I should feel shame or pride. Either way, thank you, functional programming. https://t.co/iYxLQIB3hs", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/EsxKY9Eoq4", "{datapasta} is one of the great #rstats Konomicode packages. Along with {clipr} (which datapasta depends) \n\nTooling like this make exploration, discovery, and prototyping so much faster. Friction reducers are under appreciated. https://t.co/ItkPTcNp4a", "this video has been sent to me 3 times and i feel like twitter should see it #rstats #datascience https://t.co/vp1rkEXLah", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/S1GyUfdhqE", "WhiteboxTools v1.3.1 with 443 tools for #geospatial analysis released. \n\n#Python: https://t.co/MDt94qoqKu\n\n#rstats: https://t.co/ChYvq38lv9\n\n#ArcGIS: https://t.co/afrApeDAS6\n\nThanks to Dr. John Lindsay @GuelphGeography for his hard work #GIS  #remotesensing #geopython #opensource https://t.co/1GmnALi9rZ", "Do you want to learn how to scrape data from the web? @minebocek and I wrote a paper for those teaching web scraping but we also introduce it for beginner learners. You can run our code on RStudio Cloud.\n\nPaper: https://t.co/yggmYWbl36\n\nCode: https://t.co/C2Hrq9MefZ\n\n#rstats", "When are the people of the suburbs of Townsville most irritated by canine noises? Winter, it appears. #TidyTuesday  #rstats, #r4ds.\n\nI'm using a dyslexia-friendly font called OpenDyslexic - I find it much easier to read.\nhttps://t.co/RBuWS6e5SL\n code: https://t.co/C7ZbxtioYD https://t.co/AJ9KU2yFka", "[The Art of] Regression and other stories  {https://t.co/vH28veKSgv} #rstats #DataScience"],
-  "top10_tweets_retweet": ["#rstats #rtip - If you're like me, you like to have the end of a script in the middle of the panel, enable \"Allow scroll past end of document\"\n\nGlobal Options &gt; Code &gt; Display https://t.co/V4yZgV0oQw", "I’ve been coding in #rstats for three years, and I’ve never used a for loop. I don’t know if I should feel shame or pride. Either way, thank you, functional programming. https://t.co/iYxLQIB3hs", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/EsxKY9Eoq4", "{datapasta} is one of the great #rstats Konomicode packages. Along with {clipr} (which datapasta depends) \n\nTooling like this make exploration, discovery, and prototyping so much faster. Friction reducers are under appreciated. https://t.co/ItkPTcNp4a", "this video has been sent to me 3 times and i feel like twitter should see it #rstats #datascience https://t.co/vp1rkEXLah", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/S1GyUfdhqE", "WhiteboxTools v1.3.1 with 443 tools for #geospatial analysis released. \n\n#Python: https://t.co/MDt94qoqKu\n\n#rstats: https://t.co/ChYvq38lv9\n\n#ArcGIS: https://t.co/afrApeDAS6\n\nThanks to Dr. John Lindsay @GuelphGeography for his hard work #GIS  #remotesensing #geopython #opensource https://t.co/1GmnALi9rZ", "Do you want to learn how to scrape data from the web? @minebocek and I wrote a paper for those teaching web scraping but we also introduce it for beginner learners. You can run our code on RStudio Cloud.\n\nPaper: https://t.co/yggmYWbl36\n\nCode: https://t.co/C2Hrq9MefZ\n\n#rstats", "When are the people of the suburbs of Townsville most irritated by canine noises? Winter, it appears. #TidyTuesday  #rstats, #r4ds.\n\nI'm using a dyslexia-friendly font called OpenDyslexic - I find it much easier to read.\nhttps://t.co/RBuWS6e5SL\n code: https://t.co/C7ZbxtioYD https://t.co/AJ9KU2yFka", "[The Art of] Regression and other stories  {https://t.co/vH28veKSgv} #rstats #DataScience"]
+  "top10_tweets_like": ["#rstats #rtip - If you're like me, you like to have the end of a script in the middle of the panel, enable \"Allow scroll past end of document\"\n\nGlobal Options &gt; Code &gt; Display https://t.co/V4yZgV0oQw", "I’ve been coding in #rstats for three years, and I’ve never used a for loop. I don’t know if I should feel shame or pride. Either way, thank you, functional programming. https://t.co/iYxLQIB3hs", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/EsxKY9Eoq4", "this video has been sent to me 3 times and i feel like twitter should see it #rstats #datascience https://t.co/vp1rkEXLah", "{datapasta} is one of the great #rstats Konomicode packages. Along with {clipr} (which datapasta depends) \n\nTooling like this make exploration, discovery, and prototyping so much faster. Friction reducers are under appreciated. https://t.co/ItkPTcNp4a", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/S1GyUfdhqE", "WhiteboxTools v1.3.1 with 443 tools for #geospatial analysis released. \n\n#Python: https://t.co/MDt94qoqKu\n\n#rstats: https://t.co/ChYvq38lv9\n\n#ArcGIS: https://t.co/afrApeDAS6\n\nThanks to Dr. John Lindsay @GuelphGeography for his hard work #GIS  #remotesensing #geopython #opensource https://t.co/1GmnALi9rZ", "Do you want to learn how to scrape data from the web? @minebocek and I wrote a paper for those teaching web scraping but we also introduce it for beginner learners. You can run our code on RStudio Cloud.\n\nPaper: https://t.co/yggmYWbl36\n\nCode: https://t.co/C2Hrq9MefZ\n\n#rstats", "When are the people of the suburbs of Townsville most irritated by canine noises? Winter, it appears. #TidyTuesday  #rstats, #r4ds.\n\nI'm using a dyslexia-friendly font called OpenDyslexic - I find it much easier to read.\nhttps://t.co/RBuWS6e5SL\n code: https://t.co/C7ZbxtioYD https://t.co/AJ9KU2yFka", "[The Art of] Regression and other stories  {https://t.co/vH28veKSgv} #rstats #DataScience"],
+  "top10_tweets_retweet": ["#rstats #rtip - If you're like me, you like to have the end of a script in the middle of the panel, enable \"Allow scroll past end of document\"\n\nGlobal Options &gt; Code &gt; Display https://t.co/V4yZgV0oQw", "I’ve been coding in #rstats for three years, and I’ve never used a for loop. I don’t know if I should feel shame or pride. Either way, thank you, functional programming. https://t.co/iYxLQIB3hs", "#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/EsxKY9Eoq4", "this video has been sent to me 3 times and i feel like twitter should see it #rstats #datascience https://t.co/vp1rkEXLah", "{datapasta} is one of the great #rstats Konomicode packages. Along with {clipr} (which datapasta depends) \n\nTooling like this make exploration, discovery, and prototyping so much faster. Friction reducers are under appreciated. https://t.co/ItkPTcNp4a", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/S1GyUfdhqE", "WhiteboxTools v1.3.1 with 443 tools for #geospatial analysis released. \n\n#Python: https://t.co/MDt94qoqKu\n\n#rstats: https://t.co/ChYvq38lv9\n\n#ArcGIS: https://t.co/afrApeDAS6\n\nThanks to Dr. John Lindsay @GuelphGeography for his hard work #GIS  #remotesensing #geopython #opensource https://t.co/1GmnALi9rZ", "Do you want to learn how to scrape data from the web? @minebocek and I wrote a paper for those teaching web scraping but we also introduce it for beginner learners. You can run our code on RStudio Cloud.\n\nPaper: https://t.co/yggmYWbl36\n\nCode: https://t.co/C2Hrq9MefZ\n\n#rstats", "When are the people of the suburbs of Townsville most irritated by canine noises? Winter, it appears. #TidyTuesday  #rstats, #r4ds.\n\nI'm using a dyslexia-friendly font called OpenDyslexic - I find it much easier to read.\nhttps://t.co/RBuWS6e5SL\n code: https://t.co/C7ZbxtioYD https://t.co/AJ9KU2yFka", "[The Art of] Regression and other stories  {https://t.co/vH28veKSgv} #rstats #DataScience"]
 }
