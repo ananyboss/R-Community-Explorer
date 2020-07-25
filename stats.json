@@ -1,47 +1,51 @@
 {
   "summary": [
     {
-      "total_tweets_today": 2124,
-      "average_tweets_per_hour": 88,
-      "tweeters_today": 656,
-      "total_likes_today": 1385
+      "total_tweets_today": 2283,
+      "average_tweets_per_hour": 95,
+      "tweeters_today": 701,
+      "total_likes_today": 1565
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 68
+      "Freq": 72
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 66
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 60
+      "Freq": 61
     },
     {
       "Var1": "DataScience AI MachineLearning BigData EmergingTech Robotics coding programming 100DaysOfCode",
-      "Freq": 39
+      "Freq": 46
     },
     {
       "Var1": "rstats DataScience",
+      "Freq": 38
+    },
+    {
+      "Var1": "RStats",
       "Freq": 34
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 27
     },
     {
       "Var1": "GAMS",
       "Freq": 27
     },
     {
-      "Var1": "RStats",
-      "Freq": 27
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Var1": "BigData Analytics",
       "Freq": 26
     },
     {
-      "Var1": "BigData Analytics",
+      "Var1": "BigData DataScience AI MachineLearning NLProc",
       "Freq": 25
     },
     {
@@ -51,6 +55,10 @@
     {
       "Var1": "MSBI SSIS SSRS SSAS Data Microsoft DeepLearning Analytics",
       "Freq": 23
+    },
+    {
+      "Var1": "100DaysOfCode BigData Analytics DataScience DeepLearning",
+      "Freq": 22
     },
     {
       "Var1": "DataScience AI MachineLearning BigData EmergingTech Robotics coding programming 100DaysOfCode womenintech",
@@ -73,42 +81,38 @@
       "Freq": 20
     },
     {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 19
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT",
       "Freq": 19
-    },
-    {
-      "Var1": "BigData DataScience AI MachineLearning NLProc",
-      "Freq": 19
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 18
-    },
-    {
-      "Var1": "digitalTRANSFORMATION YouTube",
-      "Freq": 18
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 221
+      "Freq": 240
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 88
+      "Freq": 89
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 73
+      "Freq": 78
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 63
+      "Freq": 67
     },
     {
       "Var1": "nlognbot",
-      "Freq": 63
+      "Freq": 64
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 64
     },
     {
       "Var1": "chidambara09",
@@ -119,44 +123,44 @@
       "Freq": 60
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 59
-    },
-    {
       "Var1": "developersbot",
-      "Freq": 53
+      "Freq": 57
     },
     {
       "Var1": "femtech_",
-      "Freq": 36
+      "Freq": 37
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 33
+      "Freq": 35
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 31
+      "Freq": 34
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 33
     },
     {
       "Var1": "Anvith64518557",
       "Freq": 29
     },
     {
+      "Var1": "cloudnewbie",
+      "Freq": 29
+    },
+    {
       "Var1": "techtrendingnow",
-      "Freq": 27
+      "Freq": 29
     },
     {
       "Var1": "AaronCuddeback",
       "Freq": 25
     },
     {
-      "Var1": "cloudnewbie",
-      "Freq": 25
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 25
+      "Var1": "ServerlessFan",
+      "Freq": 23
     },
     {
       "Var1": "_codenewbiebot",
@@ -165,12 +169,8 @@
     {
       "Var1": "ThejuPaul",
       "Freq": 22
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 21
     }
   ],
-  "top10_tweets_like": ["How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "✍️🧹 \"Reshaping Your Data with tidyr · UC Business Analytics R Programming Guide\"\n\n👤 UC R Programming @uc_rstats \n\nhttps://t.co/9DGGeuehiv\n#rstats https://t.co/MqD8dDXnzD", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy", "Today I learned plotting functions with #ggplot2\n\n#rstats #r4ds #dataviz https://t.co/OevKbxnY9K", "To replace #programmer with #Robots, clients will have to accurately describe what they want.\nSo You're safe\n#programming #analytics #datascience #cybersecurity #technology #CloudComputing #SelfDrivingCars #100DaysOfCode #Serverless #MachineLearning #AI #Linux #javascript #rstats https://t.co/gjan2EUEMq"],
-  "top10_tweets_retweet": ["How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "✍️🧹 \"Reshaping Your Data with tidyr · UC Business Analytics R Programming Guide\"\n\n👤 UC R Programming @uc_rstats \n\nhttps://t.co/9DGGeuehiv\n#rstats https://t.co/MqD8dDXnzD", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy", "Today I learned plotting functions with #ggplot2\n\n#rstats #r4ds #dataviz https://t.co/OevKbxnY9K", "To replace #programmer with #Robots, clients will have to accurately describe what they want.\nSo You're safe\n#programming #analytics #datascience #cybersecurity #technology #CloudComputing #SelfDrivingCars #100DaysOfCode #Serverless #MachineLearning #AI #Linux #javascript #rstats https://t.co/gjan2EUEMq"]
+  "top10_tweets_like": ["How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "“Street Cred” #rstats\n\nMy piece for the @rstatsnyc aRt auction ✌️ https://t.co/9M4h7GyU0c", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy", "We're starting book clubs for the book that inspired us: #RStats for Data Science (https://t.co/GLkHTXL6H6) by @hadleywickham and @StatGarrett! Check out https://t.co/taL6u78KR0 for meetup times, and stop by https://t.co/XpQXP5Iano to join the conversation!", "Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "Today I learned plotting functions with #ggplot2\n\n#rstats #r4ds #dataviz https://t.co/OevKbxnY9K"],
+  "top10_tweets_retweet": ["How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "“Street Cred” #rstats\n\nMy piece for the @rstatsnyc aRt auction ✌️ https://t.co/9M4h7GyU0c", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy", "We're starting book clubs for the book that inspired us: #RStats for Data Science (https://t.co/GLkHTXL6H6) by @hadleywickham and @StatGarrett! Check out https://t.co/taL6u78KR0 for meetup times, and stop by https://t.co/XpQXP5Iano to join the conversation!", "Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "Today I learned plotting functions with #ggplot2\n\n#rstats #r4ds #dataviz https://t.co/OevKbxnY9K"]
 }
