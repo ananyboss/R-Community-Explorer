@@ -1,20 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 438,
-      "average_tweets_per_hour": 18,
-      "tweeters_today": 187,
-      "total_likes_today": 179
+      "total_tweets_today": 621,
+      "average_tweets_per_hour": 26,
+      "tweeters_today": 243,
+      "total_likes_today": 268
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "",
-      "Freq": 23
+      "Freq": 33
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 23
+      "Freq": 31
+    },
+    {
+      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
+      "Freq": 25
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 21
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 18
+    },
+    {
+      "Var1": "digitalTRANSFORMATION YouTube",
+      "Freq": 17
     },
     {
       "Var1": "GPT3 Python",
@@ -25,27 +41,23 @@
       "Freq": 16
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 15
-    },
-    {
-      "Var1": "digitalTRANSFORMATION YouTube",
-      "Freq": 15
-    },
-    {
-      "Var1": "WebDev BigData Analytics DataScience CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 15
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 14
-    },
-    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 12
+      "Freq": 15
     },
     {
       "Var1": "First cruise ship German harbor lockdown bigdata USA canada london",
+      "Freq": 12
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript ReactJS GoLang CloudComputing Serverless",
+      "Freq": 11
+    },
+    {
+      "Var1": "BlackLivesMatter protests Portland bigdata USA canada london",
+      "Freq": 11
+    },
+    {
+      "Var1": "coding",
       "Freq": 11
     },
     {
@@ -57,58 +69,66 @@
       "Freq": 11
     },
     {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 10
+    },
+    {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 10
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript ReactJS GoLang CloudComputing Serverless",
-      "Freq": 8
-    },
-    {
-      "Var1": "Fraud Robotic Automation bigdata USA",
-      "Freq": 8
-    },
-    {
-      "Var1": "rstats datascience",
-      "Freq": 8
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 10
     },
     {
       "Var1": "CoronavirusPandemic bigdata healthCare WHO",
-      "Freq": 7
+      "Freq": 9
     },
     {
-      "Var1": "BlackLivesMatter protests Portland bigdata USA canada london",
-      "Freq": 6
-    },
-    {
-      "Var1": "Corona Pandemie bigdata COvid19 USA canada london",
-      "Freq": 6
-    },
-    {
-      "Var1": "Coronavirus Deutschland Infektionszahlen bigdata frankfurt",
-      "Freq": 6
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT PyTorch Python RStats",
+      "Freq": 8
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 45
+      "Freq": 56
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 24
+      "Freq": 36
     },
     {
       "Var1": "chidambara09",
-      "Freq": 22
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 20
+      "Freq": 21
     },
     {
       "Var1": "nlognbot",
-      "Freq": 15
+      "Freq": 21
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 21
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 20
+    },
+    {
+      "Var1": "Anvith64518557",
+      "Freq": 17
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 17
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 16
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 14
     },
     {
       "Var1": "adeladelmenem",
@@ -119,23 +139,27 @@
       "Freq": 12
     },
     {
-      "Var1": "xaelbot",
+      "Var1": "rstats4ds",
       "Freq": 11
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 8
-    },
-    {
       "Var1": "developersbot",
-      "Freq": 8
+      "Freq": 10
     },
     {
       "Var1": "femtech_",
-      "Freq": 8
+      "Freq": 9
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 9
     },
     {
       "Var1": "LinuxDreams",
+      "Freq": 8
+    },
+    {
+      "Var1": "techtrendingnow",
       "Freq": 8
     },
     {
@@ -145,32 +169,8 @@
     {
       "Var1": "anglehernandez",
       "Freq": 7
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 7
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 6
-    },
-    {
-      "Var1": "andrewmorrisuk",
-      "Freq": 4
-    },
-    {
-      "Var1": "mnaotech",
-      "Freq": 4
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 4
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 4
     }
   ],
-  "top10_tweets_like": ["When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "Learn Python Development with Programming Hero!\n\nApp: https://t.co/qVCsn6vYrB\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode", "A $100k eStore Done-For-You:\nhttps://t.co/QZWCNKcMJg 📲💻💰\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #NLProc #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode https://t.co/PWPeCro2AM", "Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "Free Book: Natural Language Processing with Python\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #DL #ML #CloudComputing #Serverless #DataScientist #Programming #Coding #100DaysOfCode #books #COURSES #DEVCommunity \n\nhttps://t.co/pNIx4SxkR2 https://t.co/MOMGlgKa1U", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have an #rstats joke, but it’s not compatible with S. https://t.co/9zYnXN5hTM", "Wine? Wine Not!  {https://t.co/3Vk5yopjTy} #rstats #DataScience", "From NICE TO HAVE \nto RAPID \n#digitalTRANSFORMATION -\nTalks 2020 on \n#YouTube https://t.co/r3CErTTveU \n\nby\n@lyakovet\nTy Irene\n@KamLardi\n\n#bigdata \n#USA #FemTech #iot #tech #womenWhoCode #UK\n\n#dataScientist #dataScience #Linux #FRENCHtech #100daysofCode #RStats #Javascript #France", "#RomeoBeckham shares a sweet selfie with #girlfriend #MiaRegan https://t.co/wdBjCY1lN5 @DailyMail\n\n#bigdata \n\n#USA #canada #london #Australia #japan #FemTech #womenWhoCode #UK #CelebS\n\n#dataScientist #dataScience #Linux #FRENCHtech #100daysofCode #RStats #Javascript #France #tech"],
-  "top10_tweets_retweet": ["When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "Learn Python Development with Programming Hero!\n\nApp: https://t.co/qVCsn6vYrB\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode", "A $100k eStore Done-For-You:\nhttps://t.co/QZWCNKcMJg 📲💻💰\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #NLProc #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode https://t.co/PWPeCro2AM", "Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "Free Book: Natural Language Processing with Python\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #DL #ML #CloudComputing #Serverless #DataScientist #Programming #Coding #100DaysOfCode #books #COURSES #DEVCommunity \n\nhttps://t.co/pNIx4SxkR2 https://t.co/MOMGlgKa1U", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have an #rstats joke, but it’s not compatible with S. https://t.co/9zYnXN5hTM", "Wine? Wine Not!  {https://t.co/3Vk5yopjTy} #rstats #DataScience", "From NICE TO HAVE \nto RAPID \n#digitalTRANSFORMATION -\nTalks 2020 on \n#YouTube https://t.co/r3CErTTveU \n\nby\n@lyakovet\nTy Irene\n@KamLardi\n\n#bigdata \n#USA #FemTech #iot #tech #womenWhoCode #UK\n\n#dataScientist #dataScience #Linux #FRENCHtech #100daysofCode #RStats #Javascript #France", "#RomeoBeckham shares a sweet selfie with #girlfriend #MiaRegan https://t.co/wdBjCY1lN5 @DailyMail\n\n#bigdata \n\n#USA #canada #london #Australia #japan #FemTech #womenWhoCode #UK #CelebS\n\n#dataScientist #dataScience #Linux #FRENCHtech #100daysofCode #RStats #Javascript #France #tech"]
+  "top10_tweets_like": ["Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "Learn Python Development with Programming Hero!\n\nApp: https://t.co/qVCsn6vYrB\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode", "A $100k eStore Done-For-You:\nhttps://t.co/QZWCNKcMJg 📲💻💰\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #NLProc #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode https://t.co/PWPeCro2AM", "Put on headphones and good music. \nNo distractions. \nJust full focus on your #coding project.\n\nNothing beats that feeling when you‘re „in the zone“\n\n#AI #MachineLearning #100DaysOfCode #BigData #tech #DataScience #100DaysOfMLCode #programming #Python #rstats", "Free Book: Natural Language Processing with Python\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #DL #ML #CloudComputing #Serverless #DataScientist #Programming #Coding #100DaysOfCode #books #COURSES #DEVCommunity \n\nhttps://t.co/pNIx4SxkR2 https://t.co/MOMGlgKa1U", "#DataScience\nSQL &amp; Database Design A-Z™: Learn MS SQL Server + PostgreSQL =&gt; https://t.co/TKEbSpAb4i\n     \n#CloudComputing #Serverless #Linux #Mathematics #Coding #Books #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #100DaysOfCode #udemy #coupons #free", "From NICE TO HAVE \nto RAPID \n#digitalTRANSFORMATION -\nTalks 2020 on \n#YouTube https://t.co/r3CErTTveU \n\nby\n@lyakovet\nTy Irene\n@KamLardi\n\n#bigdata \n#USA #FemTech #iot #tech #womenWhoCode #UK\n\n#dataScientist #dataScience #Linux #FRENCHtech #100daysofCode #RStats #Javascript #France", "I have an #rstats joke, but it’s not compatible with S. https://t.co/9zYnXN5hTM"],
+  "top10_tweets_retweet": ["Best mood to do coding 😌..\n\n#WebDev #BigData #Analytics #DataScience #CyberSecurity #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysOfCode #Python https://t.co/XVbkBZsfT1", "When you reopen your R script after several months for a revise and resubmit #rstats https://t.co/9wQWMAOYXR", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "Learn Python Development with Programming Hero!\n\nApp: https://t.co/qVCsn6vYrB\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode", "A $100k eStore Done-For-You:\nhttps://t.co/QZWCNKcMJg 📲💻💰\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #NLProc #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode https://t.co/PWPeCro2AM", "Put on headphones and good music. \nNo distractions. \nJust full focus on your #coding project.\n\nNothing beats that feeling when you‘re „in the zone“\n\n#AI #MachineLearning #100DaysOfCode #BigData #tech #DataScience #100DaysOfMLCode #programming #Python #rstats", "Free Book: Natural Language Processing with Python\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #DL #ML #CloudComputing #Serverless #DataScientist #Programming #Coding #100DaysOfCode #books #COURSES #DEVCommunity \n\nhttps://t.co/pNIx4SxkR2 https://t.co/MOMGlgKa1U", "#DataScience\nSQL &amp; Database Design A-Z™: Learn MS SQL Server + PostgreSQL =&gt; https://t.co/TKEbSpAb4i\n     \n#CloudComputing #Serverless #Linux #Mathematics #Coding #Books #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #100DaysOfCode #udemy #coupons #free", "From NICE TO HAVE \nto RAPID \n#digitalTRANSFORMATION -\nTalks 2020 on \n#YouTube https://t.co/r3CErTTveU \n\nby\n@lyakovet\nTy Irene\n@KamLardi\n\n#bigdata \n#USA #FemTech #iot #tech #womenWhoCode #UK\n\n#dataScientist #dataScience #Linux #FRENCHtech #100daysofCode #RStats #Javascript #France", "I have an #rstats joke, but it’s not compatible with S. https://t.co/9zYnXN5hTM"]
 }
