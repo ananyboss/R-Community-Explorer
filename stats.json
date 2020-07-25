@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5436,
-      "average_tweets_per_hour": 226,
-      "tweeters_today": 1420,
-      "total_likes_today": 3937
+      "total_tweets_today": 5386,
+      "average_tweets_per_hour": 224,
+      "tweeters_today": 1409,
+      "total_likes_today": 3833
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 174
+      "Freq": 172
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 95
+      "Var1": "Python",
+      "Freq": 89
     },
     {
       "Var1": "DataScience BigData Analytics AI IoT IIoT Python RStats TensorFlow",
@@ -22,35 +22,31 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 86
+      "Freq": 84
     },
     {
       "Var1": "DataScientists",
-      "Freq": 83
-    },
-    {
-      "Var1": "Python",
-      "Freq": 71
+      "Freq": 76
     },
     {
       "Var1": "rstats datascience",
-      "Freq": 70
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 64
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 64
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 63
+    },
+    {
+      "Var1": "Python rstats java javascript AWS",
+      "Freq": 63
     },
     {
       "Var1": "Mathematics Statistics NLProc MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 62
-    },
-    {
-      "Var1": "Python rstats java javascript AWS",
-      "Freq": 60
     },
     {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
@@ -61,24 +57,24 @@
       "Freq": 57
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 55
+    },
+    {
+      "Var1": "DataScientists BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 55
+    },
+    {
       "Var1": "NeuralNetworks Python RStats BigData Analytics DataScience AI",
       "Freq": 54
     },
     {
-      "Var1": "DataScientists BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 49
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch",
+      "Freq": 50
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience rstats",
       "Freq": 48
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch",
-      "Freq": 47
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 47
     },
     {
       "Var1": "DarkWeb Anonymity Security TOR Darknet Linux",
@@ -87,76 +83,80 @@
     {
       "Var1": "Python 100DaysOfCode",
       "Freq": 45
+    },
+    {
+      "Var1": "GeneticAlgorithms BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 555
+      "Freq": 546
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 247
+      "Freq": 252
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 187
+      "Freq": 186
     },
     {
       "Var1": "xaelbot",
-      "Freq": 173
+      "Freq": 171
     },
     {
       "Var1": "nlognbot",
-      "Freq": 165
+      "Freq": 167
     },
     {
       "Var1": "femtech_",
-      "Freq": 164
+      "Freq": 166
     },
     {
       "Var1": "chidambara09",
       "Freq": 140
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 123
+      "Var1": "nodeQuotesBot",
+      "Freq": 127
     },
     {
       "Var1": "developersbot",
       "Freq": 123
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 123
+      "Var1": "CodeGnuts",
+      "Freq": 119
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 109
+      "Freq": 105
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 76
+      "Freq": 75
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 69
+      "Freq": 73
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 68
+      "Freq": 70
     },
     {
       "Var1": "LinuxDreams",
       "Freq": 63
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 58
+      "Var1": "_codenewbiebot",
+      "Freq": 54
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 53
+      "Var1": "rstats4ds",
+      "Freq": 54
     },
     {
       "Var1": "dariosailor86",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 49
+      "Freq": 48
     },
     {
       "Var1": "cloudnewbie",
-      "Freq": 49
+      "Freq": 46
     }
   ],
-  "top10_tweets_like": ["Great Books About #DataScience To Read Right Now. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/pUoqcBywZW https://t.co/eVjqFTc5MP", "Today @Emil_Hvitfeldt and I are so happy to announce our new book on text modeling in #rstats: \n\n✨Supervised Machine Learning for Text Analysis in R✨\n\nThat's quite a mouthful, so you can call it SMLTAR.\n\nhttps://t.co/VHnm66ji3s", "This is the reason why microsoft changed 'my computer' to 'this PC' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/JF1FVubSuJ", "Next Thursday (July 30th) I'm running a free webinar on Generalised Additive Models:\n\n* What are #GAMS\n* How to fit GAMS with #rstats &amp; the #mgcv 📦\n* Model diagnostics\n* Plotting\n\nWhen: July 30th, 1600-1830 UTC\n\nInterested? Register here: https://t.co/PADMqIqhrG https://t.co/XUnat4OEGG", "Yay, @rstudio v1.4.x has an option to change graphics backend (AGG is used by default if ragg is installed), which solves annoying graphics device bugs on Windows! 🎉🎉🎉 Can't wait for the release!!! (only available as daily build atm...) #rstats https://t.co/RCek4Jh7bW", "Statistical Distributions in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/AGsuEUDpEo https://t.co/XHVgADNiHB", "An example to show the usefulness of auto-unpacking data frames in `dplyr::mutate()`. #rstats\n\nfull code: https://t.co/JQS7CbFrse\n\nBtw, are there any easier way to one-hot-encode(?) such concatenated strings? I hoped `tidyr::separate()` to have such functionality... https://t.co/5sFhTMAQFr", "Why We Need More Bayesian #DataScientists than Frequentist. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/e1uDDMjULI https://t.co/Eq3hdsXyBf", "I had an Excel joke, but it got turned into a date.\n\n#Excel #DataScience #RStats #pydata", "#Mathematics, #Statistics, and #NLProc for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/KDJOU8vreH https://t.co/RXnyikEPj7"],
-  "top10_tweets_retweet": ["Great Books About #DataScience To Read Right Now. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/pUoqcBywZW https://t.co/eVjqFTc5MP", "Today @Emil_Hvitfeldt and I are so happy to announce our new book on text modeling in #rstats: \n\n✨Supervised Machine Learning for Text Analysis in R✨\n\nThat's quite a mouthful, so you can call it SMLTAR.\n\nhttps://t.co/VHnm66ji3s", "This is the reason why microsoft changed 'my computer' to 'this PC' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/JF1FVubSuJ", "Next Thursday (July 30th) I'm running a free webinar on Generalised Additive Models:\n\n* What are #GAMS\n* How to fit GAMS with #rstats &amp; the #mgcv 📦\n* Model diagnostics\n* Plotting\n\nWhen: July 30th, 1600-1830 UTC\n\nInterested? Register here: https://t.co/PADMqIqhrG https://t.co/XUnat4OEGG", "Yay, @rstudio v1.4.x has an option to change graphics backend (AGG is used by default if ragg is installed), which solves annoying graphics device bugs on Windows! 🎉🎉🎉 Can't wait for the release!!! (only available as daily build atm...) #rstats https://t.co/RCek4Jh7bW", "Statistical Distributions in One Picture. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/AGsuEUDpEo https://t.co/XHVgADNiHB", "An example to show the usefulness of auto-unpacking data frames in `dplyr::mutate()`. #rstats\n\nfull code: https://t.co/JQS7CbFrse\n\nBtw, are there any easier way to one-hot-encode(?) such concatenated strings? I hoped `tidyr::separate()` to have such functionality... https://t.co/5sFhTMAQFr", "Why We Need More Bayesian #DataScientists than Frequentist. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/e1uDDMjULI https://t.co/Eq3hdsXyBf", "I had an Excel joke, but it got turned into a date.\n\n#Excel #DataScience #RStats #pydata", "#Mathematics, #Statistics, and #NLProc for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/KDJOU8vreH https://t.co/RXnyikEPj7"]
+  "top10_tweets_like": ["Today @Emil_Hvitfeldt and I are so happy to announce our new book on text modeling in #rstats: \n\n✨Supervised Machine Learning for Text Analysis in R✨\n\nThat's quite a mouthful, so you can call it SMLTAR.\n\nhttps://t.co/VHnm66ji3s", "Great Books About #DataScience To Read Right Now. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/pUoqcBywZW https://t.co/eVjqFTc5MP", "This is the reason why microsoft changed 'my computer' to 'this PC' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/JF1FVubSuJ", "Next Thursday (July 30th) I'm running a free webinar on Generalised Additive Models:\n\n* What are #GAMS\n* How to fit GAMS with #rstats &amp; the #mgcv 📦\n* Model diagnostics\n* Plotting\n\nWhen: July 30th, 1600-1830 UTC\n\nInterested? Register here: https://t.co/PADMqIqhrG https://t.co/XUnat4OEGG", "I had an Excel joke, but it got turned into a date.\n\n#Excel #DataScience #RStats #pydata", "An example to show the usefulness of auto-unpacking data frames in `dplyr::mutate()`. #rstats\n\nfull code: https://t.co/JQS7CbFrse\n\nBtw, are there any easier way to one-hot-encode(?) such concatenated strings? I hoped `tidyr::separate()` to have such functionality... https://t.co/5sFhTMAQFr", "Why We Need More Bayesian #DataScientists than Frequentist. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/e1uDDMjULI https://t.co/Eq3hdsXyBf", "#Mathematics, #Statistics, and #NLProc for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/KDJOU8vreH https://t.co/RXnyikEPj7", "Generating Synthetic Tabular Data with GANs — Part 2. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/IP7n7MHF6V https://t.co/JcHsWolqRW", "Solving Ordinary Differential Equations for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/0OvYu58llT https://t.co/Vylfvno9Q1"],
+  "top10_tweets_retweet": ["Today @Emil_Hvitfeldt and I are so happy to announce our new book on text modeling in #rstats: \n\n✨Supervised Machine Learning for Text Analysis in R✨\n\nThat's quite a mouthful, so you can call it SMLTAR.\n\nhttps://t.co/VHnm66ji3s", "Great Books About #DataScience To Read Right Now. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Statistics #Books #Programming #Coding #100DaysofCode \nhttps://t.co/pUoqcBywZW https://t.co/eVjqFTc5MP", "This is the reason why microsoft changed 'my computer' to 'this PC' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/JF1FVubSuJ", "Next Thursday (July 30th) I'm running a free webinar on Generalised Additive Models:\n\n* What are #GAMS\n* How to fit GAMS with #rstats &amp; the #mgcv 📦\n* Model diagnostics\n* Plotting\n\nWhen: July 30th, 1600-1830 UTC\n\nInterested? Register here: https://t.co/PADMqIqhrG https://t.co/XUnat4OEGG", "I had an Excel joke, but it got turned into a date.\n\n#Excel #DataScience #RStats #pydata", "An example to show the usefulness of auto-unpacking data frames in `dplyr::mutate()`. #rstats\n\nfull code: https://t.co/JQS7CbFrse\n\nBtw, are there any easier way to one-hot-encode(?) such concatenated strings? I hoped `tidyr::separate()` to have such functionality... https://t.co/5sFhTMAQFr", "Why We Need More Bayesian #DataScientists than Frequentist. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/e1uDDMjULI https://t.co/Eq3hdsXyBf", "#Mathematics, #Statistics, and #NLProc for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/KDJOU8vreH https://t.co/RXnyikEPj7", "Generating Synthetic Tabular Data with GANs — Part 2. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/IP7n7MHF6V https://t.co/JcHsWolqRW", "Solving Ordinary Differential Equations for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/0OvYu58llT https://t.co/Vylfvno9Q1"]
 }
