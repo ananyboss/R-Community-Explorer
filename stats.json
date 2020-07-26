@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 3822,
-      "average_tweets_per_hour": 159,
-      "tweeters_today": 994,
-      "total_likes_today": 2936
+      "total_tweets_today": 4195,
+      "average_tweets_per_hour": 175,
+      "tweeters_today": 1027,
+      "total_likes_today": 3194
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 122
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 109
+      "Freq": 125
     },
     {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 86
+      "Var1": "tidyverse rstats",
+      "Freq": 125
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 77
+      "Freq": 96
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 93
     },
     {
       "Var1": "rstats DataScience",
@@ -37,27 +37,39 @@
       "Freq": 49
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 47
+    },
+    {
       "Var1": "RStats",
       "Freq": 43
+    },
+    {
+      "Var1": "DataScience",
+      "Freq": 42
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 40
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
       "Freq": 40
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 39
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Freq": 40
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 38
+      "Freq": 39
     },
     {
       "Var1": "BigData DataScience AI MachineLearning NLProc",
       "Freq": 38
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Var1": "MachineLearning BigData Analytics DataScience AI NLProc IoT IIoT Python",
       "Freq": 38
     },
     {
@@ -65,112 +77,100 @@
       "Freq": 36
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python",
-      "Freq": 32
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats DL ML",
-      "Freq": 30
-    },
-    {
-      "Var1": "GAMS",
-      "Freq": 30
-    },
-    {
-      "Var1": "100DaysOfCode BigData Analytics DataScience DeepLearning",
-      "Freq": 29
+      "Var1": "MachineLearning BigData Analytics DataScience AI NLProc IoT IIoT Python RStats",
+      "Freq": 35
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 29
+      "Freq": 34
     },
     {
-      "Var1": "Algebra Calculus SymPy BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 28
+      "Var1": "Python 100DaysOfCode MachineLearning 100DaysOfMLCode AI javascript womenwhocode RStats",
+      "Freq": 34
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 378
+      "Freq": 403
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 186
+      "Freq": 220
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 125
+      "Freq": 136
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 122
+      "Freq": 135
     },
     {
       "Var1": "nlognbot",
-      "Freq": 116
+      "Freq": 130
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 111
+      "Freq": 122
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 101
+      "Freq": 105
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 99
     },
     {
       "Var1": "chidambara09",
       "Freq": 96
     },
     {
-      "Var1": "developersbot",
-      "Freq": 93
+      "Var1": "ServerlessFan",
+      "Freq": 79
+    },
+    {
+      "Var1": "techtrendingnow",
+      "Freq": 66
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 58
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 57
     },
     {
       "Var1": "rstats4ds",
       "Freq": 55
     },
     {
-      "Var1": "femtech_",
+      "Var1": "tidyversetweets",
       "Freq": 54
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 53
-    },
-    {
       "Var1": "cloudnewbie",
-      "Freq": 49
-    },
-    {
-      "Var1": "techtrendingnow",
-      "Freq": 49
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 48
-    },
-    {
-      "Var1": "learn__together",
-      "Freq": 44
+      "Freq": 51
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 43
+      "Freq": 49
+    },
+    {
+      "Var1": "JohnEngine_",
+      "Freq": 44
+    },
+    {
+      "Var1": "BeakPeakLogic",
+      "Freq": 41
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 38
-    },
-    {
-      "Var1": "KKTech7",
-      "Freq": 35
-    },
-    {
-      "Var1": "AaronCuddeback",
-      "Freq": 33
+      "Freq": 40
     }
   ],
-  "top10_tweets_like": ["“Street Cred” #rstats\n\nMy piece for the @rstatsnyc aRt auction ✌️ https://t.co/9M4h7GyU0c", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "We're starting book clubs for the book that inspired us: #RStats for Data Science (https://t.co/GLkHTXL6H6) by @hadleywickham and @StatGarrett! Check out https://t.co/taL6u78KR0 for meetup times, and stop by https://t.co/XpQXP5Iano to join the conversation!", "#MakingOf of the noisy dogs plot for #TidyTuesday. A lot of exploring and frustration before arriving to something I thought was decent…\n\nHow I make these animations: https://t.co/mvbcHN0m9Y\n\n#RStats https://t.co/Ijd27LH1IU https://t.co/0fqLGxyBFi", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd"],
-  "top10_tweets_retweet": ["“Street Cred” #rstats\n\nMy piece for the @rstatsnyc aRt auction ✌️ https://t.co/9M4h7GyU0c", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "We're starting book clubs for the book that inspired us: #RStats for Data Science (https://t.co/GLkHTXL6H6) by @hadleywickham and @StatGarrett! Check out https://t.co/taL6u78KR0 for meetup times, and stop by https://t.co/XpQXP5Iano to join the conversation!", "#MakingOf of the noisy dogs plot for #TidyTuesday. A lot of exploring and frustration before arriving to something I thought was decent…\n\nHow I make these animations: https://t.co/mvbcHN0m9Y\n\n#RStats https://t.co/Ijd27LH1IU https://t.co/0fqLGxyBFi", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd"]
+  "top10_tweets_like": ["“Street Cred” #rstats\n\nMy piece for the @rstatsnyc aRt auction ✌️ https://t.co/9M4h7GyU0c", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "We're starting book clubs for the book that inspired us: #RStats for Data Science (https://t.co/GLkHTXL6H6) by @hadleywickham and @StatGarrett! Check out https://t.co/taL6u78KR0 for meetup times, and stop by https://t.co/XpQXP5Iano to join the conversation!", "#MakingOf of the noisy dogs plot for #TidyTuesday. A lot of exploring and frustration before arriving to something I thought was decent…\n\nHow I make these animations: https://t.co/mvbcHN0m9Y\n\n#RStats https://t.co/Ijd27LH1IU https://t.co/0fqLGxyBFi", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy"],
+  "top10_tweets_retweet": ["“Street Cred” #rstats\n\nMy piece for the @rstatsnyc aRt auction ✌️ https://t.co/9M4h7GyU0c", "#rstats tip that just blew my mind: want to subset a dataframe using $ at the end of a pipe for another operation?\n\nbest_median &lt;- bootsamp %&gt;%\n          filter(...) %&gt;% \n          \"$\"(var_i_want_median_of) %&gt;% \n          median()\n\nI used to write this in two steps!", "How far is motorway in Bosnia &amp; Herzegovina?\n\n#highway #road #development #datadcience #geospatial #dataviz #rstats #maps https://t.co/bSH0UvIKh8", "✍️🧹 \"Five Tidyverse Tricks You May Not Know About – https://t.co/vcQmGws7Kc\"\n\n👤 Keith McNulty @dr_keithmcnulty \n\nhttps://t.co/cdZYNlst94\n#rstats https://t.co/ZBUv7Ev1tb", "I have come to the end of my curation. I hope you enjoyed hearing from me about #rstats, teaching stats + probability, art, and languages, got to meet new #RLadies, and learn about their projects. Feel free to keep in touch @MineDogucu \n\nprint(\"Goodbye\")\nGüle güle! \nAdiós!", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "We're starting book clubs for the book that inspired us: #RStats for Data Science (https://t.co/GLkHTXL6H6) by @hadleywickham and @StatGarrett! Check out https://t.co/taL6u78KR0 for meetup times, and stop by https://t.co/XpQXP5Iano to join the conversation!", "#MakingOf of the noisy dogs plot for #TidyTuesday. A lot of exploring and frustration before arriving to something I thought was decent…\n\nHow I make these animations: https://t.co/mvbcHN0m9Y\n\n#RStats https://t.co/Ijd27LH1IU https://t.co/0fqLGxyBFi", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd", "#DataScience Tools\n\n#AI #MachineLearning #BigData #EmergingTech #Robotics #coding #programming #100DaysOfCode #womenintech #GirlsWhoCode #CodeNewbies #Python #html #defstar5 #django #Kotlin #Golang #serverless #Linux #cybersecurity #rstats #reactjs #iot #DataScience #Engineering https://t.co/LDeSQsbMvy"]
 }
