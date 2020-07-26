@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5968,
-      "average_tweets_per_hour": 249,
-      "tweeters_today": 1128,
-      "total_likes_today": 4460
+      "total_tweets_today": 6001,
+      "average_tweets_per_hour": 250,
+      "tweeters_today": 1148,
+      "total_likes_today": 4641
     }
   ],
   "top20_hashtags": [
@@ -13,12 +13,12 @@
       "Freq": 222
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 124
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 122
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 118
+      "Var1": "tidyverse rstats",
+      "Freq": 120
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -26,27 +26,23 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 100
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 95
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 91
+      "Freq": 101
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 76
+      "Freq": 98
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 94
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 91
     },
     {
       "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
       "Freq": 74
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 62
     },
     {
       "Var1": "Python Programming BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
@@ -54,7 +50,7 @@
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 61
+      "Freq": 60
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI NLProc IoT IIoT Python",
@@ -73,15 +69,19 @@
       "Freq": 53
     },
     {
+      "Var1": "COVID19 BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 50
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 48
     },
     {
-      "Var1": "COVID19 BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Var1": "Calculus Mathematics BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 47
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Var1": "ggplot2",
       "Freq": 47
     },
     {
@@ -92,62 +92,58 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 447
+      "Freq": 448
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 401
+      "Freq": 390
     },
     {
       "Var1": "chidambara09",
-      "Freq": 233
+      "Freq": 232
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 214
+      "Freq": 222
     },
     {
       "Var1": "nlognbot",
-      "Freq": 209
+      "Freq": 206
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 183
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 165
+      "Freq": 176
     },
     {
       "Var1": "developersbot",
-      "Freq": 162
+      "Freq": 164
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 164
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 155
+      "Freq": 146
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 131
+      "Freq": 129
     },
     {
       "Var1": "femtech_",
-      "Freq": 103
+      "Freq": 105
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 100
+      "Freq": 103
     },
     {
       "Var1": "learn__together",
-      "Freq": 85
+      "Freq": 79
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 75
-    },
-    {
-      "Var1": "JohnEngine_",
       "Freq": 73
     },
     {
@@ -156,21 +152,25 @@
     },
     {
       "Var1": "cloudnewbie",
-      "Freq": 70
+      "Freq": 72
+    },
+    {
+      "Var1": "JohnEngine_",
+      "Freq": 72
+    },
+    {
+      "Var1": "BeakPeakLogic",
+      "Freq": 68
     },
     {
       "Var1": "DeepSingularity",
-      "Freq": 65
+      "Freq": 66
     },
     {
       "Var1": "RaymondWSA460",
-      "Freq": 64
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 63
+      "Freq": 65
     }
   ],
-  "top10_tweets_like": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "Awesome Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/lgSuLMupzp https://t.co/1s2V9GMcQT", "Free Book: Graphs and Big Data Processing. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/Zv3mYjCNDa https://t.co/4SqAdDPy2C", "AI Tool Scores #COVID19 Lung Infection Severity. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OyYlQ4wTs1 https://t.co/PoxTX02DbM", "library(woodblockR) #rstats https://t.co/hCwlMlUdZN", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Ml4Zm6QTfu", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YDYngmoerP https://t.co/xrixwQeFUe", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco"],
-  "top10_tweets_retweet": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "Awesome Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/lgSuLMupzp https://t.co/1s2V9GMcQT", "Free Book: Graphs and Big Data Processing. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/Zv3mYjCNDa https://t.co/4SqAdDPy2C", "AI Tool Scores #COVID19 Lung Infection Severity. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OyYlQ4wTs1 https://t.co/PoxTX02DbM", "library(woodblockR) #rstats https://t.co/hCwlMlUdZN", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Ml4Zm6QTfu", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YDYngmoerP https://t.co/xrixwQeFUe", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco"]
+  "top10_tweets_like": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "Awesome Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/lgSuLMupzp https://t.co/1s2V9GMcQT", "Free Book: Graphs and Big Data Processing. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/Zv3mYjCNDa https://t.co/4SqAdDPy2C", "AI Tool Scores #COVID19 Lung Infection Severity. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OyYlQ4wTs1 https://t.co/PoxTX02DbM", "library(woodblockR) #rstats https://t.co/hCwlMlUdZN", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Ml4Zm6QTfu", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YDYngmoerP https://t.co/xrixwQeFUe"],
+  "top10_tweets_retweet": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OQXJwool50 https://t.co/yGaa77mAAE", "Awesome Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/lgSuLMupzp https://t.co/1s2V9GMcQT", "Free Book: Graphs and Big Data Processing. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/Zv3mYjCNDa https://t.co/4SqAdDPy2C", "AI Tool Scores #COVID19 Lung Infection Severity. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OyYlQ4wTs1 https://t.co/PoxTX02DbM", "library(woodblockR) #rstats https://t.co/hCwlMlUdZN", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/Ml4Zm6QTfu", "The Mathematical Modeling of Black Swan Events. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/3P418MwgA6 https://t.co/BySGPTruJd", "2 Books to Deepen Your Command of #Python Machine Learning. #BigData #Analytics #DataScience #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/YDYngmoerP https://t.co/xrixwQeFUe"]
 }
