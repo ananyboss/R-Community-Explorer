@@ -1,44 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6123,
-      "average_tweets_per_hour": 255,
-      "tweeters_today": 1482,
-      "total_likes_today": 6558
+      "total_tweets_today": 6052,
+      "average_tweets_per_hour": 252,
+      "tweeters_today": 1486,
+      "total_likes_today": 6697
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "ggplot2",
-      "Freq": 217
+      "Freq": 211
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 139
+      "Freq": 146
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 133
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 93
+      "Freq": 136
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 90
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
-      "Freq": 88
+      "Freq": 94
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 86
+      "Freq": 92
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
+      "Freq": 90
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 88
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 69
+      "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -50,7 +50,7 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 67
+      "Freq": 63
     },
     {
       "Var1": "Python",
@@ -69,108 +69,108 @@
       "Freq": 57
     },
     {
+      "Var1": "AWS Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 54
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 53
+    },
+    {
       "Var1": "AI HealthTech BigData Analytics DataScience MachineLearning IoT IIoT Python",
       "Freq": 51
     },
     {
-      "Var1": "AWS Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 50
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 47
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 47
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
-      "Freq": 46
+      "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 482
+      "Freq": 483
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 353
+      "Freq": 333
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 259
+      "Freq": 251
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 187
+      "Freq": 195
     },
     {
       "Var1": "nlognbot",
-      "Freq": 185
+      "Freq": 182
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 174
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 167
+      "Freq": 156
     },
     {
       "Var1": "developersbot",
       "Freq": 154
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 153
+      "Var1": "TheSecretJunio1",
+      "Freq": 151
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 146
+      "Var1": "chidambara09",
+      "Freq": 144
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 140
     },
     {
       "Var1": "femtech_",
-      "Freq": 109
+      "Freq": 107
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 98
+      "Freq": 95
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 97
+      "Freq": 93
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 84
+      "Freq": 77
     },
     {
       "Var1": "learn__together",
-      "Freq": 80
+      "Freq": 72
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 65
-    },
-    {
-      "Var1": "cloudnewbie",
-      "Freq": 61
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 58
-    },
-    {
-      "Var1": "BeakPeakLogic",
-      "Freq": 58
+      "Freq": 66
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 58
+      "Freq": 63
+    },
+    {
+      "Var1": "cloudnewbie",
+      "Freq": 59
+    },
+    {
+      "Var1": "BeakPeakLogic",
+      "Freq": 56
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 51
     }
   ],
-  "top10_tweets_like": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "Feel free to use this #ggplot2 cheat sheet to quickly find the right aesthetics for your geoms.\n\nFeedback and improvements welcome #rstats\n\nhttps://t.co/WmuAC5i5rx https://t.co/0e83VRpvYH", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco", "Happy to announce that version 0.8.2 of {highcharter} 📦 is on CRAN. We also have a new documentation site https://t.co/ZHgoInQxDe -based on {pkgdown} - with many many examples. Thank you very much to everyone who helped! #rstats", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "✍️🧹 \"Data cleaning and exploration with data.table • Megan Stodel\"\n\n👤 Megan Stodel @meganstodel \n\nhttps://t.co/uM7rEFl9PP\n#rstats https://t.co/7N4YmTlAHF", "If you’ve never used {reticulate} before I wrote this simple guide to get a minimal #Python function working in #rstats #r4ds #datascience https://t.co/pSw6apEGdi", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "143,000 #Books Reserved Through North Carolina Wake Libraries' for Curbside Pick-Up. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/gd2Eg2K74p https://t.co/bVMbrTPZ0M", "reminder that anyone can sign up to hear your fave Seattle Kraken analysts talk public sports research using #rstats and the #tidyverse this Wednesday https://t.co/bwSTGGMXw8"],
-  "top10_tweets_retweet": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "Feel free to use this #ggplot2 cheat sheet to quickly find the right aesthetics for your geoms.\n\nFeedback and improvements welcome #rstats\n\nhttps://t.co/WmuAC5i5rx https://t.co/0e83VRpvYH", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco", "Happy to announce that version 0.8.2 of {highcharter} 📦 is on CRAN. We also have a new documentation site https://t.co/ZHgoInQxDe -based on {pkgdown} - with many many examples. Thank you very much to everyone who helped! #rstats", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "✍️🧹 \"Data cleaning and exploration with data.table • Megan Stodel\"\n\n👤 Megan Stodel @meganstodel \n\nhttps://t.co/uM7rEFl9PP\n#rstats https://t.co/7N4YmTlAHF", "If you’ve never used {reticulate} before I wrote this simple guide to get a minimal #Python function working in #rstats #r4ds #datascience https://t.co/pSw6apEGdi", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "143,000 #Books Reserved Through North Carolina Wake Libraries' for Curbside Pick-Up. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/gd2Eg2K74p https://t.co/bVMbrTPZ0M", "reminder that anyone can sign up to hear your fave Seattle Kraken analysts talk public sports research using #rstats and the #tidyverse this Wednesday https://t.co/bwSTGGMXw8"]
+  "top10_tweets_like": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "Feel free to use this #ggplot2 cheat sheet to quickly find the right aesthetics for your geoms.\n\nFeedback and improvements welcome #rstats\n\nhttps://t.co/WmuAC5i5rx https://t.co/0e83VRpvYH", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco", "Happy to announce that version 0.8.2 of {highcharter} 📦 is on CRAN. We also have a new documentation site https://t.co/ZHgoInQxDe -based on {pkgdown} - with many many examples. Thank you very much to everyone who helped! #rstats", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "✍️🧹 \"Data cleaning and exploration with data.table • Megan Stodel\"\n\n👤 Megan Stodel @meganstodel \n\nhttps://t.co/uM7rEFl9PP\n#rstats https://t.co/7N4YmTlAHF", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "If you’ve never used {reticulate} before I wrote this simple guide to get a minimal #Python function working in #rstats #r4ds #datascience https://t.co/pSw6apEGdi", "143,000 #Books Reserved Through North Carolina Wake Libraries' for Curbside Pick-Up. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/gd2Eg2K74p https://t.co/bVMbrTPZ0M", "reminder that anyone can sign up to hear your fave Seattle Kraken analysts talk public sports research using #rstats and the #tidyverse this Wednesday https://t.co/bwSTGGMXw8"],
+  "top10_tweets_retweet": ["Did you know the latest version of ggplot2 allows you to set the default colour/fill scale functions via global options? Since the version was a minor update, there was no release blog post, so you might not notice this big news... Thanks so much @cpsievert! #rstats https://t.co/XN7yqFYvVX", "Feel free to use this #ggplot2 cheat sheet to quickly find the right aesthetics for your geoms.\n\nFeedback and improvements welcome #rstats\n\nhttps://t.co/WmuAC5i5rx https://t.co/0e83VRpvYH", "In addition, you can now also set discrete colour/fill scale defaults via a vector (or list) of colour codes. Super useful for providing colour-blind safe defaults! #rstats https://t.co/7AwMsfEv3V https://t.co/jHMPC86pco", "Happy to announce that version 0.8.2 of {highcharter} 📦 is on CRAN. We also have a new documentation site https://t.co/ZHgoInQxDe -based on {pkgdown} - with many many examples. Thank you very much to everyone who helped! #rstats", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "✍️🧹 \"Data cleaning and exploration with data.table • Megan Stodel\"\n\n👤 Megan Stodel @meganstodel \n\nhttps://t.co/uM7rEFl9PP\n#rstats https://t.co/7N4YmTlAHF", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "If you’ve never used {reticulate} before I wrote this simple guide to get a minimal #Python function working in #rstats #r4ds #datascience https://t.co/pSw6apEGdi", "143,000 #Books Reserved Through North Carolina Wake Libraries' for Curbside Pick-Up. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/gd2Eg2K74p https://t.co/bVMbrTPZ0M", "reminder that anyone can sign up to hear your fave Seattle Kraken analysts talk public sports research using #rstats and the #tidyverse this Wednesday https://t.co/bwSTGGMXw8"]
 }
