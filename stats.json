@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5966,
-      "average_tweets_per_hour": 249,
-      "tweeters_today": 1603,
-      "total_likes_today": 4898
+      "total_tweets_today": 5876,
+      "average_tweets_per_hour": 245,
+      "tweeters_today": 1611,
+      "total_likes_today": 4603
     }
   ],
   "top20_hashtags": [
@@ -14,63 +14,63 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 147
+      "Freq": 145
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 141
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 110
+      "Freq": 143
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
-      "Freq": 103
+      "Freq": 108
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 79
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 84
+      "Freq": 77
     },
     {
-      "Var1": "Books BigData Analytics DataScience IoT",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
       "Freq": 70
+    },
+    {
+      "Var1": "AWS BigData Analytics DataScience AI MachineLearning",
+      "Freq": 68
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 68
     },
     {
-      "Var1": "AWS BigData Analytics DataScience AI MachineLearning",
-      "Freq": 66
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 66
-    },
-    {
       "Var1": "AWS Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 59
+      "Freq": 63
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 59
+      "Freq": 62
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT",
+      "Freq": 57
     },
     {
       "Var1": "RStats",
-      "Freq": 56
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
       "Freq": 55
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 52
-    },
-    {
       "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 50
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 49
     },
     {
       "Var1": "Algorithms math statistics DataScience coding MachineLearning AI KI",
@@ -85,69 +85,65 @@
       "Freq": 48
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 47
+      "Var1": "BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow JavaScript ReactJS",
+      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 538
+      "Freq": 535
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 304
+      "Freq": 291
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 213
+      "Freq": 211
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 191
+      "Freq": 194
     },
     {
       "Var1": "nlognbot",
-      "Freq": 166
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 148
+      "Freq": 165
     },
     {
       "Var1": "developersbot",
-      "Freq": 140
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 140
-    },
-    {
-      "Var1": "CodeGnuts",
       "Freq": 139
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 134
     },
     {
       "Var1": "chidambara09",
       "Freq": 129
     },
     {
+      "Var1": "TheSecretJunio1",
+      "Freq": 129
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 126
+    },
+    {
       "Var1": "techtrendingnow",
-      "Freq": 93
+      "Freq": 92
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 83
+      "Freq": 84
     },
     {
       "Var1": "femtech_",
-      "Freq": 75
+      "Freq": 79
     },
     {
       "Var1": "learn__together",
-      "Freq": 70
-    },
-    {
-      "Var1": "tidyversetweets",
       "Freq": 69
     },
     {
@@ -155,22 +151,26 @@
       "Freq": 68
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 68
+    },
+    {
       "Var1": "cloudnewbie",
-      "Freq": 61
+      "Freq": 64
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 51
+      "Freq": 49
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 49
+      "Freq": 47
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 49
+      "Freq": 47
     }
   ],
-  "top10_tweets_like": ["Happy to announce that version 0.8.2 of {highcharter} 📦 is on CRAN. We also have a new documentation site https://t.co/ZHgoInQxDe -based on {pkgdown} - with many many examples. Thank you very much to everyone who helped! #rstats", "I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "✍️🧹 \"Data cleaning and exploration with data.table • Megan Stodel\"\n\n👤 Megan Stodel @meganstodel \n\nhttps://t.co/uM7rEFl9PP\n#rstats https://t.co/7N4YmTlAHF", "143,000 #Books Reserved Through North Carolina Wake Libraries' for Curbside Pick-Up. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/gd2Eg2K74p https://t.co/bVMbrTPZ0M", "✍️📊💡 \"7 Tips to Combine Multiple ggplots Using Patchwork • Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/1rJp0aJFYu\n#rstats https://t.co/S46Y2Wmaqt", "Tomorrow I'll be teaching 🎓 a workshop on #recount2 for #BioC2020\n\nIt'll likely be my last #recount2 workshop 😢😇\n\n🌐 https://t.co/navj34rcq4\n💻 https://t.co/sDlZfkKMTo\n🎚️🌈 https://t.co/Rwy2pPrNJk\n\n🎅🏾🎁 is coming later in 2020 at a @Bioconductor 🪞 near you!☺️\n\n#rstats #RNAseq https://t.co/EhIIwXPvsq", "🔬 How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT  #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode  https://t.co/1tUy2FLtsF https://t.co/awvxzK54RE"],
-  "top10_tweets_retweet": ["Happy to announce that version 0.8.2 of {highcharter} 📦 is on CRAN. We also have a new documentation site https://t.co/ZHgoInQxDe -based on {pkgdown} - with many many examples. Thank you very much to everyone who helped! #rstats", "I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "✍️🧹 \"Data cleaning and exploration with data.table • Megan Stodel\"\n\n👤 Megan Stodel @meganstodel \n\nhttps://t.co/uM7rEFl9PP\n#rstats https://t.co/7N4YmTlAHF", "143,000 #Books Reserved Through North Carolina Wake Libraries' for Curbside Pick-Up. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/gd2Eg2K74p https://t.co/bVMbrTPZ0M", "✍️📊💡 \"7 Tips to Combine Multiple ggplots Using Patchwork • Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/1rJp0aJFYu\n#rstats https://t.co/S46Y2Wmaqt", "Tomorrow I'll be teaching 🎓 a workshop on #recount2 for #BioC2020\n\nIt'll likely be my last #recount2 workshop 😢😇\n\n🌐 https://t.co/navj34rcq4\n💻 https://t.co/sDlZfkKMTo\n🎚️🌈 https://t.co/Rwy2pPrNJk\n\n🎅🏾🎁 is coming later in 2020 at a @Bioconductor 🪞 near you!☺️\n\n#rstats #RNAseq https://t.co/EhIIwXPvsq", "🔬 How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT  #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode  https://t.co/1tUy2FLtsF https://t.co/awvxzK54RE"]
+  "top10_tweets_like": ["I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "✍️📊💡 \"7 Tips to Combine Multiple ggplots Using Patchwork • Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/1rJp0aJFYu\n#rstats https://t.co/S46Y2Wmaqt", "Tomorrow I'll be teaching 🎓 a workshop on #recount2 for #BioC2020\n\nIt'll likely be my last #recount2 workshop 😢😇\n\n🌐 https://t.co/navj34rcq4\n💻 https://t.co/sDlZfkKMTo\n🎚️🌈 https://t.co/Rwy2pPrNJk\n\n🎅🏾🎁 is coming later in 2020 at a @Bioconductor 🪞 near you!☺️\n\n#rstats #RNAseq https://t.co/EhIIwXPvsq", "🔬 How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT  #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode  https://t.co/1tUy2FLtsF https://t.co/awvxzK54RE", "1/2‼️New package AND blog post! Introducing {raybonsai}: Generate and render custom 3D trees in #rstats! Based on the {flametree} package by @djnavarro, with rendering powered by #rayrender.\n\nBlog post:\nhttps://t.co/ZKtAhnLf3S\n\npkgdown website:\nhttps://t.co/8n6wEGMqXT https://t.co/kA6k7CIV7s", "✍️📊 \"A ggplot2 grammar guide\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/xmVvLyjPDz\n#rstats https://t.co/j5ArkFYRam", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/sBEvihKDT0 https://t.co/3AqhrNYjpz"],
+  "top10_tweets_retweet": ["I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "If you’re still using summarise_if() or mutate_if() take look at across() #rstats #r4ds #tidyverse #dplyr #datascience #analytics https://t.co/1Ueee4TSRj", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "✍️📊💡 \"7 Tips to Combine Multiple ggplots Using Patchwork • Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/1rJp0aJFYu\n#rstats https://t.co/S46Y2Wmaqt", "Tomorrow I'll be teaching 🎓 a workshop on #recount2 for #BioC2020\n\nIt'll likely be my last #recount2 workshop 😢😇\n\n🌐 https://t.co/navj34rcq4\n💻 https://t.co/sDlZfkKMTo\n🎚️🌈 https://t.co/Rwy2pPrNJk\n\n🎅🏾🎁 is coming later in 2020 at a @Bioconductor 🪞 near you!☺️\n\n#rstats #RNAseq https://t.co/EhIIwXPvsq", "🔬 How to Build a Machine Learning Model. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT  #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode  https://t.co/1tUy2FLtsF https://t.co/awvxzK54RE", "1/2‼️New package AND blog post! Introducing {raybonsai}: Generate and render custom 3D trees in #rstats! Based on the {flametree} package by @djnavarro, with rendering powered by #rayrender.\n\nBlog post:\nhttps://t.co/ZKtAhnLf3S\n\npkgdown website:\nhttps://t.co/8n6wEGMqXT https://t.co/kA6k7CIV7s", "✍️📊 \"A ggplot2 grammar guide\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/xmVvLyjPDz\n#rstats https://t.co/j5ArkFYRam", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/sBEvihKDT0 https://t.co/3AqhrNYjpz"]
 }
