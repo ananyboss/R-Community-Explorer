@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5710,
-      "average_tweets_per_hour": 238,
-      "tweeters_today": 1570,
-      "total_likes_today": 5035
+      "total_tweets_today": 5664,
+      "average_tweets_per_hour": 236,
+      "tweeters_today": 1582,
+      "total_likes_today": 4858
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "ggplot2",
-      "Freq": 212
+      "Freq": 210
     },
     {
       "Var1": "tidyverse rstats",
@@ -18,7 +18,7 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 82
+      "Freq": 86
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -26,18 +26,10 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 77
-    },
-    {
-      "Var1": "AWS Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 75
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 75
     },
     {
@@ -50,19 +42,23 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT",
-      "Freq": 73
+      "Freq": 71
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 59
+    },
+    {
+      "Var1": "AWS Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 58
     },
     {
       "Var1": "RStats",
-      "Freq": 56
+      "Freq": 55
     },
     {
       "Var1": "Algorithms math statistics DataScience coding MachineLearning AI KI",
       "Freq": 52
-    },
-    {
-      "Var1": "Python 100DaysOfCode MachineLearning 100DaysOfMLCode AI javascript womenwhocode",
-      "Freq": 48
     },
     {
       "Var1": "BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow JavaScript ReactJS",
@@ -70,7 +66,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 47
+      "Freq": 44
     },
     {
       "Var1": "Python 100DaysOfCode MachineLearning 100DaysOfMLCode AI javascript womenwhocode RStats",
@@ -79,6 +75,10 @@
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 41
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 40
     },
     {
       "Var1": "BigData Analytics DataScience AI IoT",
@@ -92,7 +92,7 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 590
+      "Freq": 588
     },
     {
       "Var1": "datasciencebot_",
@@ -100,31 +100,31 @@
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 185
+      "Freq": 188
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 175
+      "Freq": 171
     },
     {
       "Var1": "nlognbot",
-      "Freq": 162
+      "Freq": 160
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 150
+      "Freq": 145
     },
     {
       "Var1": "developersbot",
-      "Freq": 139
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 129
+      "Freq": 137
     },
     {
       "Var1": "CodeGnuts",
       "Freq": 126
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 123
     },
     {
       "Var1": "TheSecretJunio1",
@@ -132,45 +132,45 @@
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 87
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 81
+      "Freq": 88
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 81
+      "Freq": 84
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 80
     },
     {
       "Var1": "femtech_",
-      "Freq": 73
-    },
-    {
-      "Var1": "LinuxDreams",
       "Freq": 70
     },
     {
+      "Var1": "LinuxDreams",
+      "Freq": 69
+    },
+    {
       "Var1": "learn__together",
-      "Freq": 67
+      "Freq": 66
     },
     {
       "Var1": "cloudnewbie",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 51
+      "Freq": 50
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 48
+      "Freq": 46
     },
     {
       "Var1": "TheCuriousLuke",
       "Freq": 42
     }
   ],
-  "top10_tweets_like": ["I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "@juliasilge and I are so happy to announce our new book on text modeling in #rstats: \n\n🎉 Supervised Machine Learning for Text Analysis in R 🎉\n\nhttps://t.co/kwOLrZRZJb https://t.co/rw9icyPTZ0", "The @R4DScommunity welcomes you to week 31 of #TidyTuesday!  We're exploring Palmer Penguins!!\n\n📁 https://t.co/sElb4fcv3u\n📰 https://t.co/rJJaO2Rnhr\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/9cJJK8vBmK", "Which kind of #rstats user are you?\n\n1)\ndbh_acer &lt;- data[data$sp=='Acer','dbh']\n\n2)\ndbh_acer &lt;- subset(data,sp=='Acer',\nselect=c(dbh))\n\n3)\ndbh_acer &lt;- data %&gt;% filter(sp=='Acer') %&gt;% select(dbh)\n\n4) \nwrite.xlsx(data, 'data.xlsx')\ndbh_acer &lt;- read.xlsx('data_acer_only_dbh.xlsx')", "1/2‼️New package AND blog post! Introducing {raybonsai}: Generate and render custom 3D trees in #rstats! Based on the {flametree} package by @djnavarro, with rendering powered by #rayrender.\n\nBlog post:\nhttps://t.co/ZKtAhnLf3S\n\npkgdown website:\nhttps://t.co/8n6wEGMqXT https://t.co/kA6k7CIV7s", "✍️📊 \"A ggplot2 grammar guide\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/xmVvLyjPDz\n#rstats https://t.co/j5ArkFYRam", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/sBEvihKDT0 https://t.co/3AqhrNYjpz", "Bioconductor is another reason that one can not just simply leave #rstats and use python if you are doing bioinformatics."],
-  "top10_tweets_retweet": ["I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", ".#rstats trick of the day: Creating a waterfall chart with total geom_text() label ending up in the right spot all depends on an ifelse() statement. https://t.co/zvIf0ZRfK1", "@juliasilge and I are so happy to announce our new book on text modeling in #rstats: \n\n🎉 Supervised Machine Learning for Text Analysis in R 🎉\n\nhttps://t.co/kwOLrZRZJb https://t.co/rw9icyPTZ0", "The @R4DScommunity welcomes you to week 31 of #TidyTuesday!  We're exploring Palmer Penguins!!\n\n📁 https://t.co/sElb4fcv3u\n📰 https://t.co/rJJaO2Rnhr\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/9cJJK8vBmK", "Which kind of #rstats user are you?\n\n1)\ndbh_acer &lt;- data[data$sp=='Acer','dbh']\n\n2)\ndbh_acer &lt;- subset(data,sp=='Acer',\nselect=c(dbh))\n\n3)\ndbh_acer &lt;- data %&gt;% filter(sp=='Acer') %&gt;% select(dbh)\n\n4) \nwrite.xlsx(data, 'data.xlsx')\ndbh_acer &lt;- read.xlsx('data_acer_only_dbh.xlsx')", "1/2‼️New package AND blog post! Introducing {raybonsai}: Generate and render custom 3D trees in #rstats! Based on the {flametree} package by @djnavarro, with rendering powered by #rayrender.\n\nBlog post:\nhttps://t.co/ZKtAhnLf3S\n\npkgdown website:\nhttps://t.co/8n6wEGMqXT https://t.co/kA6k7CIV7s", "✍️📊 \"A ggplot2 grammar guide\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/xmVvLyjPDz\n#rstats https://t.co/j5ArkFYRam", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/sBEvihKDT0 https://t.co/3AqhrNYjpz", "Bioconductor is another reason that one can not just simply leave #rstats and use python if you are doing bioinformatics."]
+  "top10_tweets_like": ["I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", "@juliasilge and I are so happy to announce our new book on text modeling in #rstats: \n\n🎉 Supervised Machine Learning for Text Analysis in R 🎉\n\nhttps://t.co/kwOLrZRZJb https://t.co/rw9icyPTZ0", "The @R4DScommunity welcomes you to week 31 of #TidyTuesday!  We're exploring Palmer Penguins!!\n\n📁 https://t.co/sElb4fcv3u\n📰 https://t.co/rJJaO2Rnhr\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/9cJJK8vBmK", "Which kind of #rstats user are you?\n\n1)\ndbh_acer &lt;- data[data$sp=='Acer','dbh']\n\n2)\ndbh_acer &lt;- subset(data,sp=='Acer',\nselect=c(dbh))\n\n3)\ndbh_acer &lt;- data %&gt;% filter(sp=='Acer') %&gt;% select(dbh)\n\n4) \nwrite.xlsx(data, 'data.xlsx')\ndbh_acer &lt;- read.xlsx('data_acer_only_dbh.xlsx')", "1/2‼️New package AND blog post! Introducing {raybonsai}: Generate and render custom 3D trees in #rstats! Based on the {flametree} package by @djnavarro, with rendering powered by #rayrender.\n\nBlog post:\nhttps://t.co/ZKtAhnLf3S\n\npkgdown website:\nhttps://t.co/8n6wEGMqXT https://t.co/kA6k7CIV7s", "✍️📊 \"A ggplot2 grammar guide\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/xmVvLyjPDz\n#rstats https://t.co/j5ArkFYRam", "Bioconductor is another reason that one can not just simply leave #rstats and use python if you are doing bioinformatics.", "5 Algorithms that Changed the World\n\n#Algorithms #math #statistics #DataScience #coding #MachineLearning #AI #KI #100DaysOfCode #Science #MINT #IIoT #100DaysofMLCode #defstar5 #rstats #EducationForAll #python #Analytics #science #DigitalTransformation\n\nhttps://t.co/EpTMnH3zc7", "Big thanks to @hadleywickham. When I whinged on Twitter about #rstats packages and dependencies last night, not only did he engage constructively, he even put in a pull request to fix a problem in someone else's package (the excellent ropenaq) caused by a recent dplyr bug fix."],
+  "top10_tweets_retweet": ["I spent the weekend putting together a \"Meta RMarkdown\" blog post!\n\n4 R Markdown Strategies:\n\n1 - Literate Programming\n2 - Data Product\n3 - Control Document\n4 - Template\n\nhttps://t.co/a6DbT0AA6c\n\n#rstats #datascience #tidyverse", "I'm looking to take on some more #rstats freelancing work!\n\nI 💜 to do:\n📊 Data analysis and visualization\n📰 Reproducible + reusable reporting\n💻 Shiny app development\n📦 Package development\n\n👇 https://t.co/lGBaIlSAOL", "@juliasilge and I are so happy to announce our new book on text modeling in #rstats: \n\n🎉 Supervised Machine Learning for Text Analysis in R 🎉\n\nhttps://t.co/kwOLrZRZJb https://t.co/rw9icyPTZ0", "The @R4DScommunity welcomes you to week 31 of #TidyTuesday!  We're exploring Palmer Penguins!!\n\n📁 https://t.co/sElb4fcv3u\n📰 https://t.co/rJJaO2Rnhr\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/9cJJK8vBmK", "Which kind of #rstats user are you?\n\n1)\ndbh_acer &lt;- data[data$sp=='Acer','dbh']\n\n2)\ndbh_acer &lt;- subset(data,sp=='Acer',\nselect=c(dbh))\n\n3)\ndbh_acer &lt;- data %&gt;% filter(sp=='Acer') %&gt;% select(dbh)\n\n4) \nwrite.xlsx(data, 'data.xlsx')\ndbh_acer &lt;- read.xlsx('data_acer_only_dbh.xlsx')", "1/2‼️New package AND blog post! Introducing {raybonsai}: Generate and render custom 3D trees in #rstats! Based on the {flametree} package by @djnavarro, with rendering powered by #rayrender.\n\nBlog post:\nhttps://t.co/ZKtAhnLf3S\n\npkgdown website:\nhttps://t.co/8n6wEGMqXT https://t.co/kA6k7CIV7s", "✍️📊 \"A ggplot2 grammar guide\"\n\n👤 Gina Reynolds @evamaerey \n\nhttps://t.co/xmVvLyjPDz\n#rstats https://t.co/j5ArkFYRam", "Bioconductor is another reason that one can not just simply leave #rstats and use python if you are doing bioinformatics.", "5 Algorithms that Changed the World\n\n#Algorithms #math #statistics #DataScience #coding #MachineLearning #AI #KI #100DaysOfCode #Science #MINT #IIoT #100DaysofMLCode #defstar5 #rstats #EducationForAll #python #Analytics #science #DigitalTransformation\n\nhttps://t.co/EpTMnH3zc7", "Big thanks to @hadleywickham. When I whinged on Twitter about #rstats packages and dependencies last night, not only did he engage constructively, he even put in a pull request to fix a problem in someone else's package (the excellent ropenaq) caused by a recent dplyr bug fix."]
 }
