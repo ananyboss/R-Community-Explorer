@@ -1,48 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5928,
-      "average_tweets_per_hour": 247,
-      "tweeters_today": 1408,
-      "total_likes_today": 4730
+      "total_tweets_today": 5720,
+      "average_tweets_per_hour": 238,
+      "tweeters_today": 1386,
+      "total_likes_today": 4504
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 328
+      "Freq": 309
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 202
+      "Freq": 198
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 110
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 100
-    },
-    {
-      "Var1": "Python",
-      "Freq": 86
+      "Freq": 101
     },
     {
       "Var1": "DataScience Books DataScientist BigData Analytics IoT IIoT PyTorch Python",
       "Freq": 82
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 81
     },
     {
-      "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 77
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 80
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 76
+      "Freq": 80
+    },
+    {
+      "Var1": "Python",
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -50,10 +46,10 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI AWS IoT",
-      "Freq": 64
+      "Freq": 66
     },
     {
-      "Var1": "TidyTuesday",
+      "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 62
     },
     {
@@ -65,58 +61,62 @@
       "Freq": 56
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Var1": "TidyTuesday",
       "Freq": 56
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 54
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 53
     },
     {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
-      "Freq": 53
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 53
+      "Var1": "programmerlife python java R matlab c LISP prolog AI Javascript",
+      "Freq": 49
     },
     {
       "Var1": "rstats OpenResearch Reproducibility",
-      "Freq": 53
+      "Freq": 48
     },
     {
-      "Var1": "Algorithms Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 49
+      "Var1": "AI MachineLearning wearables IoT bigdata blockchain socialmedia python java R",
+      "Freq": 45
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow JavaScript ReactJS CloudComputing",
+      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 556
+      "Freq": 551
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 213
-    },
-    {
-      "Var1": "CodebloodedBot",
-      "Freq": 197
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 191
+      "Freq": 203
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 190
+      "Freq": 196
+    },
+    {
+      "Var1": "CodebloodedBot",
+      "Freq": 186
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 182
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 171
+      "Freq": 169
     },
     {
       "Var1": "nlognbot",
-      "Freq": 160
+      "Freq": 150
     },
     {
       "Var1": "chidambara09",
@@ -124,30 +124,22 @@
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 129
+      "Freq": 124
     },
     {
       "Var1": "developersbot",
-      "Freq": 121
+      "Freq": 117
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 92
+      "Freq": 90
     },
     {
       "Var1": "PtAshokkiradoo",
       "Freq": 81
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 68
-    },
-    {
       "Var1": "cloudnewbie",
-      "Freq": 66
-    },
-    {
-      "Var1": "learn__together",
       "Freq": 64
     },
     {
@@ -155,22 +147,30 @@
       "Freq": 57
     },
     {
-      "Var1": "autotw_bot",
-      "Freq": 57
-    },
-    {
       "Var1": "_codenewbiebot",
-      "Freq": 56
+      "Freq": 53
     },
     {
-      "Var1": "JohnEngine_",
-      "Freq": 52
+      "Var1": "learn__together",
+      "Freq": 53
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 53
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 50
+      "Freq": 49
+    },
+    {
+      "Var1": "BeakPeakLogic",
+      "Freq": 48
+    },
+    {
+      "Var1": "anglehernandez",
+      "Freq": 46
     }
   ],
-  "top10_tweets_like": ["I'm really excited about the new features in the upcoming testthat 3.0.0. So you can learn more about them (and I can get your feedback) I'm giving a webinar on new August 13. Please sign up at https://t.co/pR1H4xgRmo #rstats", "New📦! Small {flextable} extension to create pivot tables in #rmarkdown and #shiny easily exportable in Office #rstats https://t.co/j3495qQSRi https://t.co/6HdMcsSftf", "I am busy but I can't resist the penguin on this week of #TidyTuesday \n\nThank you for your great contribution @allison_horst \n\nsource:\nhttps://t.co/mNqyOkh3ym\n\n#rstats https://t.co/6k2FwjhOec", "💌 🧠📊 I'm starting a #newsletter... who wants in?\n\nData-driven decision-making, plus a dash of humor!\n\n#DataScience #Statistics #rstats #analytics #AI #MachineLearning #puns #humor #psychology #leadership\n\nhttps://t.co/HVLx8CeyGS", "#Makingof of the penguins plot for this #TidyTuesday\n\n#RStats https://t.co/nwkAQ1JAFb https://t.co/1mRAcLWhV1", "10 Best #DataScience #Books for Beginners and Advanced #DataScientist. \n#BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/TfVgV0iZr4 https://t.co/jVYqcNpQBe", "Quiero ser parte del cambio que quiero ver en el mundo de #rstats: más recursos en otros idiomas además del inglés. Mi primera publicación de blog en español: \n\n🎤Cantamos como Manu Chao en R.\n\nhttps://t.co/oX1bZCqBMh\n\nGracias a @yabellini por su ayuda\n\n#rstatses", "Free MIT Courses on #Calculus. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/SeLQTCV5MB https://t.co/agYJyxEEnu", "It seems to me that stackoverflow user akrun alone could handle support for #rstats data manipulation for the whole planet if everyone else stopped helping. Same for Wiktor Stribizew and regex. The dedication of these guys is really impressive.", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/aGRFpo3bpI"],
-  "top10_tweets_retweet": ["I'm really excited about the new features in the upcoming testthat 3.0.0. So you can learn more about them (and I can get your feedback) I'm giving a webinar on new August 13. Please sign up at https://t.co/pR1H4xgRmo #rstats", "New📦! Small {flextable} extension to create pivot tables in #rmarkdown and #shiny easily exportable in Office #rstats https://t.co/j3495qQSRi https://t.co/6HdMcsSftf", "I am busy but I can't resist the penguin on this week of #TidyTuesday \n\nThank you for your great contribution @allison_horst \n\nsource:\nhttps://t.co/mNqyOkh3ym\n\n#rstats https://t.co/6k2FwjhOec", "💌 🧠📊 I'm starting a #newsletter... who wants in?\n\nData-driven decision-making, plus a dash of humor!\n\n#DataScience #Statistics #rstats #analytics #AI #MachineLearning #puns #humor #psychology #leadership\n\nhttps://t.co/HVLx8CeyGS", "#Makingof of the penguins plot for this #TidyTuesday\n\n#RStats https://t.co/nwkAQ1JAFb https://t.co/1mRAcLWhV1", "10 Best #DataScience #Books for Beginners and Advanced #DataScientist. \n#BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/TfVgV0iZr4 https://t.co/jVYqcNpQBe", "Quiero ser parte del cambio que quiero ver en el mundo de #rstats: más recursos en otros idiomas además del inglés. Mi primera publicación de blog en español: \n\n🎤Cantamos como Manu Chao en R.\n\nhttps://t.co/oX1bZCqBMh\n\nGracias a @yabellini por su ayuda\n\n#rstatses", "Free MIT Courses on #Calculus. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/SeLQTCV5MB https://t.co/agYJyxEEnu", "It seems to me that stackoverflow user akrun alone could handle support for #rstats data manipulation for the whole planet if everyone else stopped helping. Same for Wiktor Stribizew and regex. The dedication of these guys is really impressive.", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YXfx71l2FP https://t.co/aGRFpo3bpI"]
+  "top10_tweets_like": ["I'm really excited about the new features in the upcoming testthat 3.0.0. So you can learn more about them (and I can get your feedback) I'm giving a webinar on new August 13. Please sign up at https://t.co/pR1H4xgRmo #rstats", "New📦! Small {flextable} extension to create pivot tables in #rmarkdown and #shiny easily exportable in Office #rstats https://t.co/j3495qQSRi https://t.co/6HdMcsSftf", "I am busy but I can't resist the penguin on this week of #TidyTuesday \n\nThank you for your great contribution @allison_horst \n\nsource:\nhttps://t.co/mNqyOkh3ym\n\n#rstats https://t.co/6k2FwjhOec", "💌 🧠📊 I'm starting a #newsletter... who wants in?\n\nData-driven decision-making, plus a dash of humor!\n\n#DataScience #Statistics #rstats #analytics #AI #MachineLearning #puns #humor #psychology #leadership\n\nhttps://t.co/HVLx8CeyGS", "#Makingof of the penguins plot for this #TidyTuesday\n\n#RStats https://t.co/nwkAQ1JAFb https://t.co/1mRAcLWhV1", "Quiero ser parte del cambio que quiero ver en el mundo de #rstats: más recursos en otros idiomas además del inglés. Mi primera publicación de blog en español: \n\n🎤Cantamos como Manu Chao en R.\n\nhttps://t.co/oX1bZCqBMh\n\nGracias a @yabellini por su ayuda\n\n#rstatses", "10 Best #DataScience #Books for Beginners and Advanced #DataScientist. \n#BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/TfVgV0iZr4 https://t.co/jVYqcNpQBe", "It seems to me that stackoverflow user akrun alone could handle support for #rstats data manipulation for the whole planet if everyone else stopped helping. Same for Wiktor Stribizew and regex. The dedication of these guys is really impressive.", "Shoutout to @riannone - look at the beautiful {gt} tables!\n\n#rstats https://t.co/Dz8dnQ7V33", "Last year I had a pleasure to attend the WhyR?2019 conference. This year, the WhyR? conference series is happening online Sept 24-27.\n\nRegistration is free, learn more at https://t.co/ijxWgCihGF. #rstats"],
+  "top10_tweets_retweet": ["I'm really excited about the new features in the upcoming testthat 3.0.0. So you can learn more about them (and I can get your feedback) I'm giving a webinar on new August 13. Please sign up at https://t.co/pR1H4xgRmo #rstats", "New📦! Small {flextable} extension to create pivot tables in #rmarkdown and #shiny easily exportable in Office #rstats https://t.co/j3495qQSRi https://t.co/6HdMcsSftf", "I am busy but I can't resist the penguin on this week of #TidyTuesday \n\nThank you for your great contribution @allison_horst \n\nsource:\nhttps://t.co/mNqyOkh3ym\n\n#rstats https://t.co/6k2FwjhOec", "💌 🧠📊 I'm starting a #newsletter... who wants in?\n\nData-driven decision-making, plus a dash of humor!\n\n#DataScience #Statistics #rstats #analytics #AI #MachineLearning #puns #humor #psychology #leadership\n\nhttps://t.co/HVLx8CeyGS", "#Makingof of the penguins plot for this #TidyTuesday\n\n#RStats https://t.co/nwkAQ1JAFb https://t.co/1mRAcLWhV1", "Quiero ser parte del cambio que quiero ver en el mundo de #rstats: más recursos en otros idiomas además del inglés. Mi primera publicación de blog en español: \n\n🎤Cantamos como Manu Chao en R.\n\nhttps://t.co/oX1bZCqBMh\n\nGracias a @yabellini por su ayuda\n\n#rstatses", "10 Best #DataScience #Books for Beginners and Advanced #DataScientist. \n#BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/TfVgV0iZr4 https://t.co/jVYqcNpQBe", "It seems to me that stackoverflow user akrun alone could handle support for #rstats data manipulation for the whole planet if everyone else stopped helping. Same for Wiktor Stribizew and regex. The dedication of these guys is really impressive.", "Shoutout to @riannone - look at the beautiful {gt} tables!\n\n#rstats https://t.co/Dz8dnQ7V33", "Last year I had a pleasure to attend the WhyR?2019 conference. This year, the WhyR? conference series is happening online Sept 24-27.\n\nRegistration is free, learn more at https://t.co/ijxWgCihGF. #rstats"]
 }
