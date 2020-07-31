@@ -1,40 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6303,
-      "average_tweets_per_hour": 263,
-      "tweeters_today": 1394,
-      "total_likes_today": 5343
+      "total_tweets_today": 6238,
+      "average_tweets_per_hour": 260,
+      "tweeters_today": 1399,
+      "total_likes_today": 5479
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats",
-      "Freq": 363
+      "Freq": 361
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 191
+      "Freq": 180
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 136
+      "Freq": 128
     },
     {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
-      "Freq": 102
+      "Freq": 103
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 90
     },
     {
-      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 89
+      "Var1": "RStats",
+      "Freq": 74
     },
     {
-      "Var1": "RStats",
-      "Freq": 78
+      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 72
     },
     {
       "Var1": "Books BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -46,23 +46,23 @@
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 60
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 53
+      "Freq": 54
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 48
+      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience",
+      "Freq": 49
+    },
+    {
+      "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 46
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 46
-    },
-    {
-      "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 45
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
@@ -73,7 +73,11 @@
       "Freq": 42
     },
     {
-      "Var1": "socialmedia python java R matlab",
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
+      "Freq": 42
+    },
+    {
+      "Var1": "ML AI",
       "Freq": 42
     },
     {
@@ -83,44 +87,40 @@
     {
       "Var1": "AI RT",
       "Freq": 40
-    },
-    {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience IoT IIoT",
-      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 647
+      "Freq": 645
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 235
+      "Freq": 227
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 206
+      "Freq": 194
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 188
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 184
+      "Freq": 186
     },
     {
       "Var1": "nlognbot",
       "Freq": 179
     },
     {
+      "Var1": "CodeGnuts",
+      "Freq": 172
+    },
+    {
       "Var1": "developersbot",
-      "Freq": 165
+      "Freq": 162
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 158
+      "Freq": 161
     },
     {
       "Var1": "nanavati_maulik",
@@ -128,15 +128,15 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 146
+      "Freq": 141
     },
     {
       "Var1": "Rbloggers",
-      "Freq": 123
+      "Freq": 125
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 120
+      "Freq": 116
     },
     {
       "Var1": "NCIB_OFFICER",
@@ -144,15 +144,11 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 98
+      "Freq": 96
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 85
-    },
-    {
-      "Var1": "anglehernandez",
-      "Freq": 84
+      "Freq": 81
     },
     {
       "Var1": "rstats4ds",
@@ -160,17 +156,21 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 77
+      "Freq": 78
     },
     {
-      "Var1": "Anvith64518557",
-      "Freq": 73
+      "Var1": "anglehernandez",
+      "Freq": 77
     },
     {
       "Var1": "moneyrealtorbot",
       "Freq": 72
+    },
+    {
+      "Var1": "Anvith64518557",
+      "Freq": 63
     }
   ],
-  "top10_tweets_like": ["I wrote about some of the things I've learned about data science jobs - https://t.co/mI3JEMq8tm #datascience #rstats #pydata", "State-of-the-art #NLP models from R - RStudio AI BLog\n\n#RStats users can benefit from all the state-of-the-art Natural Language Processing models under active development. \n\nhttps://t.co/rq1Q08KBRt\n#datascience  #gpt2 #RoBERTa @stanfordnlp", "📢 In an hour (1600 UTC) I'm doing a live webinar on #GAMs in #rstats with the #mgcv 📦\n\nJoin us 👇\n\n🎥 https://t.co/iQHJFxjgDa\n💻 https://t.co/5EhpcmKkCh https://t.co/IJFq2WWYpc", "Abstraction\n\n#rstats #generative #maths https://t.co/KnrGAFBIsw", "✍️ \"Your Slides are So Extra! | Extra-Special Presentations with xaringanExtra\"\n\n👤 aden_buie(\"garrick\") @grrrck \n\nhttps://t.co/Gq5g5NMlqJ\n#rstats https://t.co/k0VfbVTisV", "12 Lessons from 55,000 Pages of 136 #Books. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CgzlxbWv5i https://t.co/JZXLaQxrEU", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/S0vyzGoUoe https://t.co/BGUtabilEV", "The death of a red dwarf \n(oil on #ggplot2 canvas)\n\n#rstats #generativeart #maths https://t.co/4v6b3Zj8X9", "Not sure I've ever loved an IDE feature as much as I love rainbow parens in @RStudio! #rstats 🌈 https://t.co/2Z7bvh3jHa", "PCA in a tidy(verse) framework  {https://t.co/35JECWvsTf} #rstats #DataScience"],
-  "top10_tweets_retweet": ["I wrote about some of the things I've learned about data science jobs - https://t.co/mI3JEMq8tm #datascience #rstats #pydata", "State-of-the-art #NLP models from R - RStudio AI BLog\n\n#RStats users can benefit from all the state-of-the-art Natural Language Processing models under active development. \n\nhttps://t.co/rq1Q08KBRt\n#datascience  #gpt2 #RoBERTa @stanfordnlp", "📢 In an hour (1600 UTC) I'm doing a live webinar on #GAMs in #rstats with the #mgcv 📦\n\nJoin us 👇\n\n🎥 https://t.co/iQHJFxjgDa\n💻 https://t.co/5EhpcmKkCh https://t.co/IJFq2WWYpc", "Abstraction\n\n#rstats #generative #maths https://t.co/KnrGAFBIsw", "✍️ \"Your Slides are So Extra! | Extra-Special Presentations with xaringanExtra\"\n\n👤 aden_buie(\"garrick\") @grrrck \n\nhttps://t.co/Gq5g5NMlqJ\n#rstats https://t.co/k0VfbVTisV", "12 Lessons from 55,000 Pages of 136 #Books. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CgzlxbWv5i https://t.co/JZXLaQxrEU", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/S0vyzGoUoe https://t.co/BGUtabilEV", "The death of a red dwarf \n(oil on #ggplot2 canvas)\n\n#rstats #generativeart #maths https://t.co/4v6b3Zj8X9", "Not sure I've ever loved an IDE feature as much as I love rainbow parens in @RStudio! #rstats 🌈 https://t.co/2Z7bvh3jHa", "PCA in a tidy(verse) framework  {https://t.co/35JECWvsTf} #rstats #DataScience"]
+  "top10_tweets_like": ["I wrote about some of the things I've learned about data science jobs - https://t.co/mI3JEMq8tm #datascience #rstats #pydata", "State-of-the-art #NLP models from R - RStudio AI BLog\n\n#RStats users can benefit from all the state-of-the-art Natural Language Processing models under active development. \n\nhttps://t.co/rq1Q08KBRt\n#datascience  #gpt2 #RoBERTa @stanfordnlp", "📢 In an hour (1600 UTC) I'm doing a live webinar on #GAMs in #rstats with the #mgcv 📦\n\nJoin us 👇\n\n🎥 https://t.co/iQHJFxjgDa\n💻 https://t.co/5EhpcmKkCh https://t.co/IJFq2WWYpc", "✍️ \"Your Slides are So Extra! | Extra-Special Presentations with xaringanExtra\"\n\n👤 aden_buie(\"garrick\") @grrrck \n\nhttps://t.co/Gq5g5NMlqJ\n#rstats https://t.co/k0VfbVTisV", "Abstraction\n\n#rstats #generative #maths https://t.co/KnrGAFBIsw", "12 Lessons from 55,000 Pages of 136 #Books. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CgzlxbWv5i https://t.co/JZXLaQxrEU", "👀 upcoming @rstudio release will have Word processor-like features for editing markdown documents built in. This is HUGE. #rstats\n🤯 https://t.co/Ul2tOBykdg\n\nSaw this when I stumbled on @xieyihui et al's new (draft) #rmarkdown cookbook - the BEST treat.\n👩‍🍳https://t.co/rWU9bOH710 https://t.co/fZKru4R5SN", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/S0vyzGoUoe https://t.co/BGUtabilEV", "The death of a red dwarf \n(oil on #ggplot2 canvas)\n\n#rstats #generativeart #maths https://t.co/4v6b3Zj8X9", "Not sure I've ever loved an IDE feature as much as I love rainbow parens in @RStudio! #rstats 🌈 https://t.co/2Z7bvh3jHa"],
+  "top10_tweets_retweet": ["I wrote about some of the things I've learned about data science jobs - https://t.co/mI3JEMq8tm #datascience #rstats #pydata", "State-of-the-art #NLP models from R - RStudio AI BLog\n\n#RStats users can benefit from all the state-of-the-art Natural Language Processing models under active development. \n\nhttps://t.co/rq1Q08KBRt\n#datascience  #gpt2 #RoBERTa @stanfordnlp", "📢 In an hour (1600 UTC) I'm doing a live webinar on #GAMs in #rstats with the #mgcv 📦\n\nJoin us 👇\n\n🎥 https://t.co/iQHJFxjgDa\n💻 https://t.co/5EhpcmKkCh https://t.co/IJFq2WWYpc", "✍️ \"Your Slides are So Extra! | Extra-Special Presentations with xaringanExtra\"\n\n👤 aden_buie(\"garrick\") @grrrck \n\nhttps://t.co/Gq5g5NMlqJ\n#rstats https://t.co/k0VfbVTisV", "Abstraction\n\n#rstats #generative #maths https://t.co/KnrGAFBIsw", "12 Lessons from 55,000 Pages of 136 #Books. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/CgzlxbWv5i https://t.co/JZXLaQxrEU", "👀 upcoming @rstudio release will have Word processor-like features for editing markdown documents built in. This is HUGE. #rstats\n🤯 https://t.co/Ul2tOBykdg\n\nSaw this when I stumbled on @xieyihui et al's new (draft) #rmarkdown cookbook - the BEST treat.\n👩‍🍳https://t.co/rWU9bOH710 https://t.co/fZKru4R5SN", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/S0vyzGoUoe https://t.co/BGUtabilEV", "The death of a red dwarf \n(oil on #ggplot2 canvas)\n\n#rstats #generativeart #maths https://t.co/4v6b3Zj8X9", "Not sure I've ever loved an IDE feature as much as I love rainbow parens in @RStudio! #rstats 🌈 https://t.co/2Z7bvh3jHa"]
 }
