@@ -1,32 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6083,
-      "average_tweets_per_hour": 253,
-      "tweeters_today": 1327,
-      "total_likes_today": 4120
+      "total_tweets_today": 6187,
+      "average_tweets_per_hour": 258,
+      "tweeters_today": 1310,
+      "total_likes_today": 4250
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 193
+      "Freq": 195
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 140
+      "Freq": 142
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 108
+      "Freq": 121
     },
     {
       "Var1": "Python 100DaysOfCode IoT IIoT MachineLearning GoLang",
-      "Freq": 106
+      "Freq": 111
     },
     {
       "Var1": "Java Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 77
+      "Freq": 84
     },
     {
       "Var1": "PANDAS BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
@@ -37,7 +37,11 @@
       "Freq": 67
     },
     {
-      "Var1": "Python Cobol pandemic",
+      "Var1": "BigDataAnalytics DeepLearning NeuralNetworks",
+      "Freq": 66
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 64
     },
     {
@@ -45,28 +49,24 @@
       "Freq": 63
     },
     {
-      "Var1": "BigDataAnalytics DeepLearning NeuralNetworks",
-      "Freq": 63
-    },
-    {
       "Var1": "ML DataScientist DeepLearning programming",
       "Freq": 63
     },
     {
-      "Var1": "rstats DataScience",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 63
+    },
+    {
+      "Var1": "Python Cobol pandemic",
       "Freq": 62
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 60
-    },
-    {
-      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 55
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 51
+      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 50
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript ReactJS GoLang CloudComputing Serverless",
@@ -92,85 +92,85 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 420
+      "Freq": 425
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 308
+      "Freq": 305
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 275
+      "Freq": 274
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 198
+      "Freq": 199
     },
     {
       "Var1": "nlognbot",
-      "Freq": 194
-    },
-    {
-      "Var1": "developersbot",
-      "Freq": 185
+      "Freq": 199
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 175
+      "Freq": 192
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 189
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 163
+      "Freq": 173
     },
     {
       "Var1": "chidambara09",
-      "Freq": 137
+      "Freq": 145
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 130
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 123
+      "Freq": 127
     },
     {
       "Var1": "xaelbot",
-      "Freq": 119
+      "Freq": 127
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 125
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 110
+      "Freq": 115
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 97
+      "Freq": 104
+    },
+    {
+      "Var1": "frontendbot1",
+      "Freq": 72
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 70
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 68
     },
     {
       "Var1": "anglehernandez",
       "Freq": 66
     },
     {
-      "Var1": "frontendbot1",
-      "Freq": 66
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 66
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 66
-    },
-    {
       "Var1": "learn__together",
-      "Freq": 60
+      "Freq": 66
     },
     {
       "Var1": "HarryHSolo",
       "Freq": 57
     }
   ],
-  "top10_tweets_like": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "What am I missing in my @LisaFrank inspired \"my life in months\" plot (project forked from the amazing @sharlagelfand)?!\n\nI learned to waffle, work with dates, add xkcd lines, add images anywhere, and create rainbow font! \n\nStill a work in progress...send updates! \n\n#rstats https://t.co/FZQoFa7mox", "Programmer in the 1950's vs 2020. I feel called out.\n\n#Python #100DaysOfCode #IoT #IIoT #MachineLearning #GoLang #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/fUjF0PEi4b", "#PANDAS for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/l4jMmHDY0i https://t.co/dlxbJ7K76m", "Deep Learning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/KZNYOxPt9N https://t.co/IEgG5bx9Of", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "Shout-out to whoever tweeted this week about being able to create graphviz 'dot' diagrams in Rmarkdown documents!\n\nJust used this to create a simple trie diagram for the README for {simpletrie}\n\n#RStats https://t.co/OByqNfJ9Xm"],
-  "top10_tweets_retweet": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "What am I missing in my @LisaFrank inspired \"my life in months\" plot (project forked from the amazing @sharlagelfand)?!\n\nI learned to waffle, work with dates, add xkcd lines, add images anywhere, and create rainbow font! \n\nStill a work in progress...send updates! \n\n#rstats https://t.co/FZQoFa7mox", "Programmer in the 1950's vs 2020. I feel called out.\n\n#Python #100DaysOfCode #IoT #IIoT #MachineLearning #GoLang #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/fUjF0PEi4b", "#PANDAS for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/l4jMmHDY0i https://t.co/dlxbJ7K76m", "Deep Learning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/KZNYOxPt9N https://t.co/IEgG5bx9Of", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "Shout-out to whoever tweeted this week about being able to create graphviz 'dot' diagrams in Rmarkdown documents!\n\nJust used this to create a simple trie diagram for the README for {simpletrie}\n\n#RStats https://t.co/OByqNfJ9Xm"]
+  "top10_tweets_like": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "Programmer in the 1950's vs 2020. I feel called out.\n\n#Python #100DaysOfCode #IoT #IIoT #MachineLearning #GoLang #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/fUjF0PEi4b", "#PANDAS for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/l4jMmHDY0i https://t.co/dlxbJ7K76m", "Deep Learning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/KZNYOxPt9N https://t.co/IEgG5bx9Of", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "Shout-out to whoever tweeted this week about being able to create graphviz 'dot' diagrams in Rmarkdown documents!\n\nJust used this to create a simple trie diagram for the README for {simpletrie}\n\n#RStats https://t.co/OByqNfJ9Xm", "Comment yes if this happens with you too⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/Z6AjcLatGp"],
+  "top10_tweets_retweet": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "Programmer in the 1950's vs 2020. I feel called out.\n\n#Python #100DaysOfCode #IoT #IIoT #MachineLearning #GoLang #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/fUjF0PEi4b", "#PANDAS for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/l4jMmHDY0i https://t.co/dlxbJ7K76m", "Deep Learning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/KZNYOxPt9N https://t.co/IEgG5bx9Of", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "Shout-out to whoever tweeted this week about being able to create graphviz 'dot' diagrams in Rmarkdown documents!\n\nJust used this to create a simple trie diagram for the README for {simpletrie}\n\n#RStats https://t.co/OByqNfJ9Xm", "Comment yes if this happens with you too⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/Z6AjcLatGp"]
 }
