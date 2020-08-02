@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5883,
-      "average_tweets_per_hour": 245,
-      "tweeters_today": 1263,
-      "total_likes_today": 4213
+      "total_tweets_today": 5644,
+      "average_tweets_per_hour": 235,
+      "tweeters_today": 1242,
+      "total_likes_today": 4079
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 235
+      "Freq": 222
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 145
+      "Freq": 146
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 135
+      "Freq": 127
     },
     {
       "Var1": "Python 100DaysOfCode IoT IIoT MachineLearning GoLang",
-      "Freq": 101
+      "Freq": 104
     },
     {
       "Var1": "Java Books BigData Analytics DataScience IoT IIoT Python RStats",
@@ -30,7 +30,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 82
+      "Freq": 77
     },
     {
       "Var1": "BigDataAnalytics DeepLearning NeuralNetworks",
@@ -49,10 +49,6 @@
       "Freq": 62
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 60
-    },
-    {
       "Var1": "Python Cobol pandemic",
       "Freq": 59
     },
@@ -61,90 +57,94 @@
       "Freq": 53
     },
     {
-      "Var1": "PANDAS BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 53
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript ReactJS GoLang CloudComputing Serverless",
-      "Freq": 50
-    },
-    {
-      "Var1": "Python",
-      "Freq": 50
-    },
-    {
       "Var1": "Python 100DaysOfCode IoT",
       "Freq": 50
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 48
+      "Var1": "PANDAS BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
+      "Freq": 49
     },
     {
       "Var1": "WomenWhoCode Python BigData Analytics AI",
       "Freq": 48
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Var1": "Python",
       "Freq": 47
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 46
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 45
+    },
+    {
+      "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python",
+      "Freq": 45
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 372
+      "Freq": 362
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 271
+      "Freq": 261
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 246
+      "Freq": 247
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 235
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 182
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 182
+      "Freq": 241
     },
     {
       "Var1": "developersbot",
-      "Freq": 179
+      "Freq": 171
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 171
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 163
+      "Freq": 152
     },
     {
-      "Var1": "techtrendingnow",
-      "Freq": 138
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 134
+      "Var1": "friday_Js_bot",
+      "Freq": 144
     },
     {
       "Var1": "xaelbot",
-      "Freq": 124
+      "Freq": 130
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 125
+    },
+    {
+      "Var1": "techtrendingnow",
+      "Freq": 118
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 116
+      "Freq": 113
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 108
+      "Freq": 105
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 107
+      "Freq": 101
     },
     {
       "Var1": "anglehernandez",
@@ -155,22 +155,22 @@
       "Freq": 72
     },
     {
-      "Var1": "HarryHSolo",
-      "Freq": 58
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 58
-    },
-    {
       "Var1": "ServerlessFan",
       "Freq": 56
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 52
+      "Var1": "HarryHSolo",
+      "Freq": 55
+    },
+    {
+      "Var1": "learn__together",
+      "Freq": 53
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 53
     }
   ],
-  "top10_tweets_like": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "Subí una nueva versión de PortalHacienda, el paquete de R para descargar series del Ministerio de Economía, con algunas mejoras menores. Para instalar, simplemente correr install.packages(\"PortalHacienda\"). #RStats @renbaires @R4DS_es . Breve tutorial de uso: https://t.co/iKQMFxlgpn", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "✍️🔤 \"Working with text in R\"\n\n👤 Ella Kaye @ellamkaye \n\nhttps://t.co/SMLE4jRVoC\n#rstats https://t.co/cOfMVqSySB", "Comment yes if this happens with you too⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/Z6AjcLatGp", "Discrete Choice Models are my favorite class of GLM I didn't learn about in grad school. They're multinomial logits, modeling individual and choice characteristics. Here's a great introduction to them in #rstats and @mcmc_stan  from @eleafeit &amp; van Horn: https://t.co/v1rzI4LVMm", "RT @gp_pulipaka: 11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #1… https://t.co/A8qwdfQUTa"],
-  "top10_tweets_retweet": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "Subí una nueva versión de PortalHacienda, el paquete de R para descargar series del Ministerio de Economía, con algunas mejoras menores. Para instalar, simplemente correr install.packages(\"PortalHacienda\"). #RStats @renbaires @R4DS_es . Breve tutorial de uso: https://t.co/iKQMFxlgpn", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "✍️🔤 \"Working with text in R\"\n\n👤 Ella Kaye @ellamkaye \n\nhttps://t.co/SMLE4jRVoC\n#rstats https://t.co/cOfMVqSySB", "Comment yes if this happens with you too⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/Z6AjcLatGp", "Discrete Choice Models are my favorite class of GLM I didn't learn about in grad school. They're multinomial logits, modeling individual and choice characteristics. Here's a great introduction to them in #rstats and @mcmc_stan  from @eleafeit &amp; van Horn: https://t.co/v1rzI4LVMm", "RT @gp_pulipaka: 11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #1… https://t.co/A8qwdfQUTa"]
+  "top10_tweets_like": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "Subí una nueva versión de PortalHacienda, el paquete de R para descargar series del Ministerio de Economía, con algunas mejoras menores. Para instalar, simplemente correr install.packages(\"PortalHacienda\"). #RStats @renbaires @R4DS_es . Breve tutorial de uso: https://t.co/iKQMFxlgpn", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "✍️🔤 \"Working with text in R\"\n\n👤 Ella Kaye @ellamkaye \n\nhttps://t.co/SMLE4jRVoC\n#rstats https://t.co/cOfMVqSySB", "Comment yes if this happens with you too⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/Z6AjcLatGp", "RT @gp_pulipaka: 11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #1… https://t.co/A8qwdfQUTa", "😱 \"When Someone Disturbs You While Coding\" 😂\n\n#theinsaneapp #Coding\n#codingisfun #MEMES\n#rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #AI #100DaysOfCode #Python #programming #programmerslife #developers\n#CodeNewbies #code\n\nCredits: _Compiler_ https://t.co/MqfZbjAEtE"],
+  "top10_tweets_retweet": ["My most common piece of advice when reviewing a Shiny app: take non-reactive code out of your server and put it in its own function. Makes it so much easier to debug when something goes wrong in the depths of your Shiny app. See https://t.co/iabMn01ot2 for more details #rstats", "Easy quick #rstats tip:  The relocate() function is new in dplyr 1.0.0+ and allows you to move columns of data easily and more intuitively than was possible using select() #r4ds #tidyverse #datascience #analytics https://t.co/e4Hh3VhzDa", "How to Become a Bayesian. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PdCv4TUMSo https://t.co/6PKZ6zn7m2", "11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UpcYlEnCQm https://t.co/uuaUCTgpID", "Subí una nueva versión de PortalHacienda, el paquete de R para descargar series del Ministerio de Economía, con algunas mejoras menores. Para instalar, simplemente correr install.packages(\"PortalHacienda\"). #RStats @renbaires @R4DS_es . Breve tutorial de uso: https://t.co/iKQMFxlgpn", "Ever notice in the #rstats #tidyverse docs, at the top of every single page there's a @github source link?\n\nEver wanted to do that with your #blogdown / #hugodown blog posts?\n\nMy new post walks you through it step by step, and then tells you how it works!\n\nhttps://t.co/ErDL3ayQ98 https://t.co/Nme42pODli", "✍️🔤 \"Working with text in R\"\n\n👤 Ella Kaye @ellamkaye \n\nhttps://t.co/SMLE4jRVoC\n#rstats https://t.co/cOfMVqSySB", "Comment yes if this happens with you too⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/Z6AjcLatGp", "RT @gp_pulipaka: 11 Best #Java #Books for Beginners and Senior Developers. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #1… https://t.co/A8qwdfQUTa", "😱 \"When Someone Disturbs You While Coding\" 😂\n\n#theinsaneapp #Coding\n#codingisfun #MEMES\n#rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #AI #100DaysOfCode #Python #programming #programmerslife #developers\n#CodeNewbies #code\n\nCredits: _Compiler_ https://t.co/MqfZbjAEtE"]
 }
