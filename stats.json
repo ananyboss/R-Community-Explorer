@@ -1,63 +1,67 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5160,
-      "average_tweets_per_hour": 215,
-      "tweeters_today": 995,
-      "total_likes_today": 3013
+      "total_tweets_today": 5148,
+      "average_tweets_per_hour": 214,
+      "tweeters_today": 1010,
+      "total_likes_today": 3096
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 111
+      "Freq": 118
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 101
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 92
+      "Freq": 104
     },
     {
       "Var1": "Calculus DataScience BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 82
+      "Freq": 80
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 77
     },
     {
       "Var1": "RStats",
+      "Freq": 77
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
+      "Freq": 76
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 74
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 70
     },
     {
-      "Var1": "BigData Analytics DataScience",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 68
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience rstats javascript reactjs",
-      "Freq": 68
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 67
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 67
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 63
+      "Freq": 66
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow JavaScript ReactJS CloudComputing Serverless",
+      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning",
+      "Freq": 60
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
       "Freq": 59
     },
     {
@@ -65,20 +69,16 @@
       "Freq": 59
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 57
-    },
-    {
-      "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning",
-      "Freq": 57
+      "Var1": "rstats DataScience",
+      "Freq": 56
     },
     {
       "Var1": "theinsaneapp ML AI",
       "Freq": 56
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 55
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Drones",
+      "Freq": 54
     },
     {
       "Var1": "DeepLearning Analytics DataScience AI",
@@ -92,31 +92,31 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 340
+      "Freq": 346
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 274
+      "Freq": 265
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 215
+      "Freq": 216
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 187
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 182
+      "Freq": 192
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 177
+      "Freq": 179
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 161
     },
     {
       "Var1": "nlognbot",
-      "Freq": 143
+      "Freq": 142
     },
     {
       "Var1": "techtrendingnow",
@@ -124,19 +124,19 @@
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 128
+      "Freq": 131
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 120
-    },
-    {
-      "Var1": "developersbot",
-      "Freq": 110
+      "Freq": 118
     },
     {
       "Var1": "xaelbot",
-      "Freq": 101
+      "Freq": 107
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 104
     },
     {
       "Var1": "Taieb_Bot",
@@ -144,31 +144,31 @@
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 75
+      "Freq": 66
     },
     {
       "Var1": "hubofml",
-      "Freq": 63
+      "Freq": 65
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 58
     },
     {
       "Var1": "ontimewriter",
       "Freq": 55
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 53
-    },
-    {
-      "Var1": "frontendbot1",
+      "Var1": "rstats4ds",
       "Freq": 53
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 53
+      "Freq": 50
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 51
+      "Var1": "anglehernandez",
+      "Freq": 49
     }
   ],
   "top10_tweets_like": ["The video for our #useR2020 tutorial is now available! 🥳\n\nYou can find #rstats code to work through (as well as the slides) here:\nhttps://t.co/b2d2R5xCDc https://t.co/oQXaVnezGg", "if(isTRUE(out_there)) {\n  👽\n} else {\n  ❓\n}\n\nFull #rayrender + #rstats animation code: https://t.co/jpdcJN0K49 https://t.co/nmEdyfWWXY", "On The Roma Holocaust Memorial Day, we remember the victims of the Romani genocide in World War II. My map shows the Romani victims of the Ustasha regime in the Independent State of Croatia\n\n#RomaGenocideRemembranceDay #Porajmos #dataviz #datascience #maps #rstats #gis https://t.co/caXvpp0PCP", "📦An opinionated framework for using #JavaScript with #rstats promoting good practices using npm and webpack 📥\n\nhttps://t.co/oTFDFNgQFH", "Credit Risk Modelling using Machine Learning: A Gentle Introduction  {https://t.co/lt9GKHLM0B} #rstats #DataScience", "In an attempt to hide my sadness, here is your irregular reminder that the size aesthetic in ggplot2 maps value to areas by default #rstats https://t.co/LkHNHeUVVz", "✍️ \"data.table vs. dplyr und dtplyr • Benchmarks – Statistik Dresden\"\n\n👤 Statistik in Dresden @statistikindd \n\nhttps://t.co/qHi7zb4Qrv\n#rstats https://t.co/ghz2PX0UU0", "Linear Regression in #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/MzBZqSsffw https://t.co/RJgFMD0Y2W", "When you try to fix error but failed.\n\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Drones #Robotics  #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #innovation #SmartCity https://t.co/oF8VmtXEqK", "🔥 Types of Neural Networks\n\n#theinsaneapp #ML #AI\n#MachineLearning #BigData #DataScience #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence #developers #NeuralNetworks https://t.co/4bMoJLN5S7"],
