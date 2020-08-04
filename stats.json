@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6561,
-      "average_tweets_per_hour": 273,
-      "tweeters_today": 1322,
-      "total_likes_today": 4526
+      "total_tweets_today": 6724,
+      "average_tweets_per_hour": 280,
+      "tweeters_today": 1351,
+      "total_likes_today": 4705
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 198
+      "Freq": 202
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 197
+      "Freq": 196
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 139
+      "Freq": 140
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning",
@@ -30,7 +30,11 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 110
+      "Freq": 116
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 93
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -38,27 +42,23 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 87
+      "Freq": 89
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 88
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "Python 100DaysOfCode IoT IIoT MachineLearning GoLang",
       "Freq": 81
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 79
-    },
-    {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
-      "Freq": 78
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 77
+      "Freq": 80
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT",
@@ -70,18 +70,18 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
-      "Freq": 66
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 65
+      "Freq": 69
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python",
-      "Freq": 65
+      "Freq": 66
     },
     {
       "Var1": "Books Mathematics BigData Analytics IoT IIoT Python RStats TensorFlow",
+      "Freq": 64
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 64
     },
     {
@@ -92,67 +92,67 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 555
+      "Freq": 562
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 359
+      "Freq": 365
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 226
+      "Freq": 218
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 200
+      "Freq": 199
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 186
+      "Freq": 193
     },
     {
       "Var1": "nlognbot",
-      "Freq": 176
+      "Freq": 182
     },
     {
       "Var1": "xaelbot",
-      "Freq": 161
+      "Freq": 166
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 155
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 146
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 141
-    },
-    {
-      "Var1": "developersbot",
-      "Freq": 126
+      "Freq": 145
     },
     {
       "Var1": "chidambara09",
-      "Freq": 123
+      "Freq": 139
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 138
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 134
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 133
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 122
+      "Freq": 130
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 95
+      "Freq": 99
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 89
+      "Freq": 97
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 81
+      "Freq": 87
     },
     {
       "Var1": "hubofml",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 74
+      "Freq": 75
     },
     {
       "Var1": "KKTech7",
       "Freq": 58
     },
     {
-      "Var1": "thisisgulshan",
+      "Var1": "cloudnewbie",
       "Freq": 49
     }
   ],
-  "top10_tweets_like": ["Texto novo no Medium.\nEm tempos de eleições municipais (?), uma análise de cluster pelos componentes do PIB.\nE uma experiência para usar o geobr. (1/n)\n#RStats #dataviz #OpenData \nhttps://t.co/zTMlQRyTBO https://t.co/UQwJIfnkrv", "New meta post on using {distill} to build a personal blog (like mine)!\n\ndistill is a framework for scientific writing native to the web via #rmarkdown &amp; #rstats !\n\nThis post covers:\n\n🆕 Creating the blog\n🐙 GitHub storage\n☁️ Netlify hosting\n🎨 Customizing\n\nhttps://t.co/2vFf5RV34d", "One thing I've learned in my #rstats training work: current R users underestimate how scary R is to new users. \n\nThis email is a case in point: \"the way you speak shows you understand how terrifying it is to get started and how inaccessible R appears to the uninitiated\"", "How to measure spatial 🗺️diversity and segregation? In my latest blog post at https://t.co/AVItwKHvqI, I am presenting a concept of racial topography and how to calculate diversity and segregation using the raceland package. #rstats #rspatial #sil https://t.co/oc2NIHCLDO", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #IoT #IIoT #Python #RStats  #TensorFlow #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/6hd5o5j3N7", "I mentioned earlier I started my career using Excel. #rstats makes things a lot easier but I will never bash Excel. Do you know how many times I had to figure out how to do something in Excel? It greatly enhanced my problem-solving abilities!", "A Gentle Introduction to Numerical Simulations with #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/f4aE4c9Qwt https://t.co/fy3DHaMGJq", "Unsupervised vs. Supervised Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/IZgYDN0ELs https://t.co/wS7lLETTkK", "#ReinforcementLearning for Autonomous Cyber-Physical Systems. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #100DaysofCode \nhttps://t.co/FghpRKP7mt https://t.co/tX9OL1ANz5", "Repeated k-Fold Cross-Validation in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/9cjnQEuhsE https://t.co/LV960RA1M3"],
-  "top10_tweets_retweet": ["Texto novo no Medium.\nEm tempos de eleições municipais (?), uma análise de cluster pelos componentes do PIB.\nE uma experiência para usar o geobr. (1/n)\n#RStats #dataviz #OpenData \nhttps://t.co/zTMlQRyTBO https://t.co/UQwJIfnkrv", "New meta post on using {distill} to build a personal blog (like mine)!\n\ndistill is a framework for scientific writing native to the web via #rmarkdown &amp; #rstats !\n\nThis post covers:\n\n🆕 Creating the blog\n🐙 GitHub storage\n☁️ Netlify hosting\n🎨 Customizing\n\nhttps://t.co/2vFf5RV34d", "One thing I've learned in my #rstats training work: current R users underestimate how scary R is to new users. \n\nThis email is a case in point: \"the way you speak shows you understand how terrifying it is to get started and how inaccessible R appears to the uninitiated\"", "How to measure spatial 🗺️diversity and segregation? In my latest blog post at https://t.co/AVItwKHvqI, I am presenting a concept of racial topography and how to calculate diversity and segregation using the raceland package. #rstats #rspatial #sil https://t.co/oc2NIHCLDO", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #IoT #IIoT #Python #RStats  #TensorFlow #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/6hd5o5j3N7", "I mentioned earlier I started my career using Excel. #rstats makes things a lot easier but I will never bash Excel. Do you know how many times I had to figure out how to do something in Excel? It greatly enhanced my problem-solving abilities!", "A Gentle Introduction to Numerical Simulations with #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/f4aE4c9Qwt https://t.co/fy3DHaMGJq", "Unsupervised vs. Supervised Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/IZgYDN0ELs https://t.co/wS7lLETTkK", "#ReinforcementLearning for Autonomous Cyber-Physical Systems. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #100DaysofCode \nhttps://t.co/FghpRKP7mt https://t.co/tX9OL1ANz5", "Repeated k-Fold Cross-Validation in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/9cjnQEuhsE https://t.co/LV960RA1M3"]
+  "top10_tweets_like": ["Texto novo no Medium.\nEm tempos de eleições municipais (?), uma análise de cluster pelos componentes do PIB.\nE uma experiência para usar o geobr. (1/n)\n#RStats #dataviz #OpenData \nhttps://t.co/zTMlQRyTBO https://t.co/UQwJIfnkrv", "New meta post on using {distill} to build a personal blog (like mine)!\n\ndistill is a framework for scientific writing native to the web via #rmarkdown &amp; #rstats !\n\nThis post covers:\n\n🆕 Creating the blog\n🐙 GitHub storage\n☁️ Netlify hosting\n🎨 Customizing\n\nhttps://t.co/2vFf5RV34d", "How to measure spatial 🗺️diversity and segregation? In my latest blog post at https://t.co/AVItwKHvqI, I am presenting a concept of racial topography and how to calculate diversity and segregation using the raceland package. #rstats #rspatial #sil https://t.co/oc2NIHCLDO", "One thing I've learned in my #rstats training work: current R users underestimate how scary R is to new users. \n\nThis email is a case in point: \"the way you speak shows you understand how terrifying it is to get started and how inaccessible R appears to the uninitiated\"", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #IoT #IIoT #Python #RStats  #TensorFlow #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/6hd5o5j3N7", "I mentioned earlier I started my career using Excel. #rstats makes things a lot easier but I will never bash Excel. Do you know how many times I had to figure out how to do something in Excel? It greatly enhanced my problem-solving abilities!", "A Gentle Introduction to Numerical Simulations with #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/f4aE4c9Qwt https://t.co/fy3DHaMGJq", "#ReinforcementLearning for Autonomous Cyber-Physical Systems. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #100DaysofCode \nhttps://t.co/FghpRKP7mt https://t.co/tX9OL1ANz5", "Unsupervised vs. Supervised Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/IZgYDN0ELs https://t.co/wS7lLETTkK", "Repeated k-Fold Cross-Validation in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/9cjnQEuhsE https://t.co/LV960RA1M3"],
+  "top10_tweets_retweet": ["Texto novo no Medium.\nEm tempos de eleições municipais (?), uma análise de cluster pelos componentes do PIB.\nE uma experiência para usar o geobr. (1/n)\n#RStats #dataviz #OpenData \nhttps://t.co/zTMlQRyTBO https://t.co/UQwJIfnkrv", "New meta post on using {distill} to build a personal blog (like mine)!\n\ndistill is a framework for scientific writing native to the web via #rmarkdown &amp; #rstats !\n\nThis post covers:\n\n🆕 Creating the blog\n🐙 GitHub storage\n☁️ Netlify hosting\n🎨 Customizing\n\nhttps://t.co/2vFf5RV34d", "How to measure spatial 🗺️diversity and segregation? In my latest blog post at https://t.co/AVItwKHvqI, I am presenting a concept of racial topography and how to calculate diversity and segregation using the raceland package. #rstats #rspatial #sil https://t.co/oc2NIHCLDO", "One thing I've learned in my #rstats training work: current R users underestimate how scary R is to new users. \n\nThis email is a case in point: \"the way you speak shows you understand how terrifying it is to get started and how inaccessible R appears to the uninitiated\"", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #IoT #IIoT #Python #RStats  #TensorFlow #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/6hd5o5j3N7", "I mentioned earlier I started my career using Excel. #rstats makes things a lot easier but I will never bash Excel. Do you know how many times I had to figure out how to do something in Excel? It greatly enhanced my problem-solving abilities!", "A Gentle Introduction to Numerical Simulations with #Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/f4aE4c9Qwt https://t.co/fy3DHaMGJq", "#ReinforcementLearning for Autonomous Cyber-Physical Systems. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #100DaysofCode \nhttps://t.co/FghpRKP7mt https://t.co/tX9OL1ANz5", "Unsupervised vs. Supervised Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/IZgYDN0ELs https://t.co/wS7lLETTkK", "Repeated k-Fold Cross-Validation in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/9cjnQEuhsE https://t.co/LV960RA1M3"]
 }
