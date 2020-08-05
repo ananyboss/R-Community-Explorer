@@ -1,40 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7003,
-      "average_tweets_per_hour": 292,
-      "tweeters_today": 1547,
-      "total_likes_today": 5732
+      "total_tweets_today": 6926,
+      "average_tweets_per_hour": 289,
+      "tweeters_today": 1557,
+      "total_likes_today": 5899
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 202
+      "Freq": 217
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 196
+      "Freq": 185
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 184
+      "Freq": 176
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 174
+      "Freq": 171
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 134
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 118
-    },
-    {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 116
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 111
     },
     {
       "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
@@ -45,20 +45,12 @@
       "Freq": 86
     },
     {
-      "Var1": "programming",
-      "Freq": 85
-    },
-    {
       "Var1": "InMemoryComputing BigData Analytics DataScience AI MachineLearning",
       "Freq": 81
     },
     {
       "Var1": "RStats",
-      "Freq": 80
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 79
+      "Freq": 78
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
@@ -69,11 +61,15 @@
       "Freq": 70
     },
     {
-      "Var1": "Books Mathematics BigData Analytics IoT IIoT Python RStats TensorFlow",
-      "Freq": 57
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 66
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 55
+    },
+    {
+      "Var1": "programming",
       "Freq": 55
     },
     {
@@ -85,66 +81,70 @@
       "Freq": 52
     },
     {
-      "Var1": "DataScience",
-      "Freq": 45
+      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 47
+    },
+    {
+      "Var1": "Python",
+      "Freq": 46
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 504
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 221
+      "Freq": 500
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 217
+      "Freq": 220
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 219
     },
     {
       "Var1": "nlognbot",
-      "Freq": 212
+      "Freq": 206
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 200
+      "Freq": 190
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 176
     },
     {
       "Var1": "xaelbot",
-      "Freq": 172
+      "Freq": 169
     },
     {
       "Var1": "developersbot",
       "Freq": 162
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 155
+      "Var1": "CodeGnuts",
+      "Freq": 157
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 152
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 148
+      "Freq": 153
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 142
+      "Freq": 137
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 132
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 117
+      "Freq": 131
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 115
+      "Freq": 123
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 96
     },
     {
       "Var1": "nanavati_maulik",
@@ -152,11 +152,11 @@
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 92
+      "Freq": 93
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 79
+      "Freq": 80
     },
     {
       "Var1": "DeepSingularity",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 65
+      "Freq": 62
     }
   ],
-  "top10_tweets_like": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/3Aglu4qGgb", "#TidyTuesday Week 2020/32 ⚡ European Electricity by @EU_Eurostat inspired by @JohnMuyskens, @karim_douieb &amp; @robradburn\n\nStill experimenting with geofacets 🌐 And still experimenting with moon charts 🌘🌒🌖 Not enough green on that chart though.\n\n#r4ds #rstats #ggplot2 #dataviz https://t.co/VEAwKwGkOd", "Super excited to announce that @marlygotti and I are collaborating on the Mastering Shiny Solutions Manual to accompany @hadleywickham's Mastering #Shiny! It's still in development and we welcome contributions to the repo 😊 Check it out here!! https://t.co/dFBABWP96L #rstats https://t.co/8udnaewcC2", "The Palmer Penguin dataset: Giving new meaning to the sentence \"I'm more of a fan of the Gentoo distribution\" 😉\n\nThank you @allison_horst for the graphic &amp; for putting this package together! \n\n3D ggplot rendered w/ #rayshader + #rayrender + #rstats\n\nGist: https://t.co/5C3ThD6p8G https://t.co/GAjTro0Kqx", "I wrote a blog post on how the R community is like a party - come join the fun 🥳💡🎉🍕🦄 #rstats https://t.co/PJo0rIotua", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/ly0XgF7w7L", "Make sure your #rstats plots are colorblind friendly using {colorblindr} by @ClausWilke \n\nhttps://t.co/v859baWrX9 https://t.co/T3IcsbeAH5", "💠 My teacher said people who study #programming are better at \"If-Then logic\"...I've determined that's booleshit \n\n#DataScience #coding #DevOps #100DaysOfCode #tech #BigData #techhumor #defstar5 #CodeNewbie #makeyourownlane #javascript #Linux #RStats #100DaysOfMLCode #webdev https://t.co/cCMsuIcUKr", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H"],
-  "top10_tweets_retweet": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/3Aglu4qGgb", "#TidyTuesday Week 2020/32 ⚡ European Electricity by @EU_Eurostat inspired by @JohnMuyskens, @karim_douieb &amp; @robradburn\n\nStill experimenting with geofacets 🌐 And still experimenting with moon charts 🌘🌒🌖 Not enough green on that chart though.\n\n#r4ds #rstats #ggplot2 #dataviz https://t.co/VEAwKwGkOd", "Super excited to announce that @marlygotti and I are collaborating on the Mastering Shiny Solutions Manual to accompany @hadleywickham's Mastering #Shiny! It's still in development and we welcome contributions to the repo 😊 Check it out here!! https://t.co/dFBABWP96L #rstats https://t.co/8udnaewcC2", "The Palmer Penguin dataset: Giving new meaning to the sentence \"I'm more of a fan of the Gentoo distribution\" 😉\n\nThank you @allison_horst for the graphic &amp; for putting this package together! \n\n3D ggplot rendered w/ #rayshader + #rayrender + #rstats\n\nGist: https://t.co/5C3ThD6p8G https://t.co/GAjTro0Kqx", "I wrote a blog post on how the R community is like a party - come join the fun 🥳💡🎉🍕🦄 #rstats https://t.co/PJo0rIotua", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/ly0XgF7w7L", "Make sure your #rstats plots are colorblind friendly using {colorblindr} by @ClausWilke \n\nhttps://t.co/v859baWrX9 https://t.co/T3IcsbeAH5", "💠 My teacher said people who study #programming are better at \"If-Then logic\"...I've determined that's booleshit \n\n#DataScience #coding #DevOps #100DaysOfCode #tech #BigData #techhumor #defstar5 #CodeNewbie #makeyourownlane #javascript #Linux #RStats #100DaysOfMLCode #webdev https://t.co/cCMsuIcUKr", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H"]
+  "top10_tweets_like": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/3Aglu4qGgb", "#TidyTuesday Week 2020/32 ⚡ European Electricity by @EU_Eurostat inspired by @JohnMuyskens, @karim_douieb &amp; @robradburn\n\nStill experimenting with geofacets 🌐 And still experimenting with moon charts 🌘🌒🌖 Not enough green on that chart though.\n\n#r4ds #rstats #ggplot2 #dataviz https://t.co/VEAwKwGkOd", "The Palmer Penguin dataset: Giving new meaning to the sentence \"I'm more of a fan of the Gentoo distribution\" 😉\n\nThank you @allison_horst for the graphic &amp; for putting this package together! \n\n3D ggplot rendered w/ #rayshader + #rayrender + #rstats\n\nGist: https://t.co/5C3ThD6p8G https://t.co/GAjTro0Kqx", "I wrote a blog post on how the R community is like a party - come join the fun 🥳💡🎉🍕🦄 #rstats https://t.co/PJo0rIotua", "Super excited to announce that @marlygotti and I are collaborating on the Mastering Shiny Solutions Manual to accompany @hadleywickham's Mastering #Shiny! It's still in development and we welcome contributions to the repo 😊 Check it out here!! https://t.co/dFBABWP96L #rstats https://t.co/8udnaewcC2", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/ly0XgF7w7L", "Make sure your #rstats plots are colorblind friendly using {colorblindr} by @ClausWilke \n\nhttps://t.co/v859baWrX9 https://t.co/T3IcsbeAH5", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/6l9LhreIGO"],
+  "top10_tweets_retweet": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/3Aglu4qGgb", "#TidyTuesday Week 2020/32 ⚡ European Electricity by @EU_Eurostat inspired by @JohnMuyskens, @karim_douieb &amp; @robradburn\n\nStill experimenting with geofacets 🌐 And still experimenting with moon charts 🌘🌒🌖 Not enough green on that chart though.\n\n#r4ds #rstats #ggplot2 #dataviz https://t.co/VEAwKwGkOd", "The Palmer Penguin dataset: Giving new meaning to the sentence \"I'm more of a fan of the Gentoo distribution\" 😉\n\nThank you @allison_horst for the graphic &amp; for putting this package together! \n\n3D ggplot rendered w/ #rayshader + #rayrender + #rstats\n\nGist: https://t.co/5C3ThD6p8G https://t.co/GAjTro0Kqx", "I wrote a blog post on how the R community is like a party - come join the fun 🥳💡🎉🍕🦄 #rstats https://t.co/PJo0rIotua", "Super excited to announce that @marlygotti and I are collaborating on the Mastering Shiny Solutions Manual to accompany @hadleywickham's Mastering #Shiny! It's still in development and we welcome contributions to the repo 😊 Check it out here!! https://t.co/dFBABWP96L #rstats https://t.co/8udnaewcC2", "6 Free Data Science Books. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cav1QbBzrl https://t.co/ly0XgF7w7L", "Make sure your #rstats plots are colorblind friendly using {colorblindr} by @ClausWilke \n\nhttps://t.co/v859baWrX9 https://t.co/T3IcsbeAH5", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/6l9LhreIGO"]
 }
