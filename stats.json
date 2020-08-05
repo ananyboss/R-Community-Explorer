@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6780,
-      "average_tweets_per_hour": 282,
-      "tweeters_today": 1584,
-      "total_likes_today": 6398
+      "total_tweets_today": 6828,
+      "average_tweets_per_hour": 284,
+      "tweeters_today": 1607,
+      "total_likes_today": 6473
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 257
+      "Freq": 271
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -18,23 +18,23 @@
     },
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 161
+      "Freq": 163
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 148
+      "Freq": 147
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 138
+      "Freq": 139
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript TensorFlow",
-      "Freq": 120
+      "Freq": 126
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 119
+      "Freq": 118
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -42,22 +42,30 @@
     },
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 90
+      "Freq": 93
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 84
     },
     {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 83
+    },
+    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 83
     },
     {
-      "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 67
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 74
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 73
+    },
+    {
+      "Var1": "RStats",
       "Freq": 65
     },
     {
@@ -65,23 +73,15 @@
       "Freq": 63
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 62
-    },
-    {
       "Var1": "DataScience",
       "Freq": 62
     },
     {
-      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 58
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 57
-    },
-    {
       "Var1": "Android Malware BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT Python",
+      "Freq": 55
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 55
     },
     {
@@ -92,11 +92,11 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 559
+      "Freq": 573
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 228
+      "Freq": 236
     },
     {
       "Var1": "datasciencebot_",
@@ -104,47 +104,47 @@
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 210
+      "Freq": 208
     },
     {
       "Var1": "redianbot",
-      "Freq": 192
-    },
-    {
-      "Var1": "friday_Js_bot",
       "Freq": 188
     },
     {
       "Var1": "nlognbot",
-      "Freq": 184
+      "Freq": 185
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 178
     },
     {
       "Var1": "developersbot",
-      "Freq": 163
+      "Freq": 159
     },
     {
       "Var1": "xaelbot",
-      "Freq": 156
+      "Freq": 157
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 150
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 148
+      "Freq": 152
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 139
+      "Freq": 146
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 146
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 134
     },
     {
       "Var1": "TheSecretJunio1",
       "Freq": 130
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 128
     },
     {
       "Var1": "ServerlessFan",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 89
+      "Freq": 83
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 78
+      "Freq": 81
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 65
+      "Freq": 66
     },
     {
       "Var1": "cloudnewbie",
-      "Freq": 62
+      "Freq": 61
     },
     {
       "Var1": "Spain_EU_Dubai",
       "Freq": 55
     }
   ],
-  "top10_tweets_like": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/KSVMika9Hu", "#TidyTuesday Week 2020/32 ⚡ European Electricity by @EU_Eurostat inspired by @JohnMuyskens, @karim_douieb &amp; @robradburn\n\nStill experimenting with geofacets 🌐 And still experimenting with moon charts 🌘🌒🌖 Not enough green on that chart though.\n\n#r4ds #rstats #ggplot2 #dataviz https://t.co/VEAwKwGkOd", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H", "My contribution for #TidyTuesday week 32. Exploring European Energy production.\n\nCode: https://t.co/wh9Z5e7QKs\n\n#r4ds #tidyverse #rstats https://t.co/WQat0o5UbQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/6l9LhreIGO", "📚✨🩺🗺 \"Geospatial Health Data • Modeling and Visualization with R-INLA and Shiny\"\n\n👤 Paula Moraga @paula_moraga_ \n\nhttps://t.co/orfhpDkwyp\n#rstats https://t.co/QfqRrXzuYl", "The Best Computer Vision #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/XWl3GWCqwF https://t.co/3eV5AvaA8j", "Any favorites #rstats packages for exploratory data analysis? I like skimr. Are there other great ones? Particularly for big data?"],
-  "top10_tweets_retweet": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/KSVMika9Hu", "#TidyTuesday Week 2020/32 ⚡ European Electricity by @EU_Eurostat inspired by @JohnMuyskens, @karim_douieb &amp; @robradburn\n\nStill experimenting with geofacets 🌐 And still experimenting with moon charts 🌘🌒🌖 Not enough green on that chart though.\n\n#r4ds #rstats #ggplot2 #dataviz https://t.co/VEAwKwGkOd", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H", "My contribution for #TidyTuesday week 32. Exploring European Energy production.\n\nCode: https://t.co/wh9Z5e7QKs\n\n#r4ds #tidyverse #rstats https://t.co/WQat0o5UbQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/6l9LhreIGO", "📚✨🩺🗺 \"Geospatial Health Data • Modeling and Visualization with R-INLA and Shiny\"\n\n👤 Paula Moraga @paula_moraga_ \n\nhttps://t.co/orfhpDkwyp\n#rstats https://t.co/QfqRrXzuYl", "The Best Computer Vision #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/XWl3GWCqwF https://t.co/3eV5AvaA8j", "Any favorites #rstats packages for exploratory data analysis? I like skimr. Are there other great ones? Particularly for big data?"]
+  "top10_tweets_like": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/KSVMika9Hu", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H", "My contribution for #TidyTuesday week 32. Exploring European Energy production.\n\nCode: https://t.co/wh9Z5e7QKs\n\n#r4ds #tidyverse #rstats https://t.co/WQat0o5UbQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/6l9LhreIGO", "📚✨🩺🗺 \"Geospatial Health Data • Modeling and Visualization with R-INLA and Shiny\"\n\n👤 Paula Moraga @paula_moraga_ \n\nhttps://t.co/orfhpDkwyp\n#rstats https://t.co/QfqRrXzuYl", "Any favorites #rstats packages for exploratory data analysis? I like skimr. Are there other great ones? Particularly for big data?", "#TidyTuesday Week 32. Back to the old school with pie charts. \nCode: https://t.co/tELUvUnyID\n#rstats #tidyverse #ggplot #r4ds #dataviz https://t.co/3aIfr6kr6N", "For experienced users of #rstats, RStudio Cloud is also a handy place to conduct experiments with different versions of R or packages, without the risk of goofing up your main installation. Let someone else run Docker for you 😉 https://t.co/E0vjW0SGKH"],
+  "top10_tweets_retweet": ["Excited to see the cover for Mastering Shiny (https://t.co/5pWcXgdEof)! Featuring the kereru — New Zealand’s own native pigeon #rstats https://t.co/4gSkFF4DpL", "After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/KSVMika9Hu", "Another session sacrifice for the R god, may the new feature harvest be bountiful #rstats https://t.co/MqcH04405H", "My contribution for #TidyTuesday week 32. Exploring European Energy production.\n\nCode: https://t.co/wh9Z5e7QKs\n\n#r4ds #tidyverse #rstats https://t.co/WQat0o5UbQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/6l9LhreIGO", "📚✨🩺🗺 \"Geospatial Health Data • Modeling and Visualization with R-INLA and Shiny\"\n\n👤 Paula Moraga @paula_moraga_ \n\nhttps://t.co/orfhpDkwyp\n#rstats https://t.co/QfqRrXzuYl", "Any favorites #rstats packages for exploratory data analysis? I like skimr. Are there other great ones? Particularly for big data?", "#TidyTuesday Week 32. Back to the old school with pie charts. \nCode: https://t.co/tELUvUnyID\n#rstats #tidyverse #ggplot #r4ds #dataviz https://t.co/3aIfr6kr6N", "For experienced users of #rstats, RStudio Cloud is also a handy place to conduct experiments with different versions of R or packages, without the risk of goofing up your main installation. Let someone else run Docker for you 😉 https://t.co/E0vjW0SGKH"]
 }
