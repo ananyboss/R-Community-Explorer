@@ -1,48 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6362,
+      "total_tweets_today": 6371,
       "average_tweets_per_hour": 265,
-      "tweeters_today": 1655,
-      "total_likes_today": 4935
+      "tweeters_today": 1646,
+      "total_likes_today": 5029
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 327
+      "Freq": 340
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 148
+      "Freq": 155
+    },
+    {
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 132
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript TensorFlow",
-      "Freq": 122
+      "Freq": 109
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 105
     },
     {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 105
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 99
+      "Freq": 92
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 85
+      "Freq": 86
     },
     {
       "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 84
-    },
-    {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -53,8 +49,12 @@
       "Freq": 66
     },
     {
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 65
+    },
+    {
       "Var1": "MachineLearning TensorFlow BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 66
+      "Freq": 64
     },
     {
       "Var1": "programmingmemes 100DaysOfCode Python IoT IIoT",
@@ -66,14 +66,14 @@
     },
     {
       "Var1": "heatwave",
-      "Freq": 53
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 53
+      "Freq": 54
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS",
+      "Freq": 52
+    },
+    {
+      "Var1": "RStats",
       "Freq": 51
     },
     {
@@ -81,96 +81,96 @@
       "Freq": 47
     },
     {
-      "Var1": "Rstats",
-      "Freq": 45
+      "Var1": "rstats DataScience",
+      "Freq": 46
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 43
+      "Var1": "Rstats",
+      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 594
+      "Freq": 589
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 199
+      "Freq": 196
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 190
+      "Freq": 185
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 182
+      "Freq": 181
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 162
+      "Freq": 165
     },
     {
       "Var1": "nlognbot",
-      "Freq": 158
-    },
-    {
-      "Var1": "redianbot",
-      "Freq": 149
+      "Freq": 161
     },
     {
       "Var1": "friday_Js_bot",
+      "Freq": 157
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 147
+    },
+    {
+      "Var1": "redianbot",
       "Freq": 147
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 145
+      "Freq": 126
     },
     {
-      "Var1": "developersbot",
-      "Freq": 144
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 128
+      "Var1": "Taieb_Bot",
+      "Freq": 126
     },
     {
       "Var1": "xaelbot",
       "Freq": 125
     },
     {
-      "Var1": "Taieb_Bot",
-      "Freq": 123
+      "Var1": "CodeGnuts",
+      "Freq": 118
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 101
+      "Freq": 105
     },
     {
       "Var1": "chidambara09",
-      "Freq": 94
+      "Freq": 92
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 74
+      "Freq": 76
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 69
+      "Freq": 68
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 55
+      "Freq": 58
     },
     {
       "Var1": "hubofml",
-      "Freq": 53
+      "Freq": 54
     },
     {
       "Var1": "KKTech7",
       "Freq": 50
     }
   ],
-  "top10_tweets_like": ["After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "#Rstats people: What package (CRAN, Github, whatever) is under-appreciated and also incredibly life-changing for you?\n\nFor me it’s Glue. I do a ton of SQL from boilerplate and Glue::glue_sql saves me hours a week.", "In the context of the forecasted #heatwave in parts of Europe, do we reach a minimum temperature of 20 ºC more times than a few decades ago? Comparison between 1950-1979 and 1980-2019. #climatechange #dataviz #rstats https://t.co/xJZODWZY8t", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rziiLycCZu https://t.co/pTv5OKDKKc", "For experienced users of #rstats, RStudio Cloud is also a handy place to conduct experiments with different versions of R or packages, without the risk of goofing up your main installation. Let someone else run Docker for you 😉 https://t.co/E0vjW0SGKH", "My top 3 recommendations of tools for dissertations:\n\n- @mendeley_com (a reference manager)\n- Mindful browsing (to encourage purpose when distracted)\n- @rstudiotips (the IDE for #Rstats - if you have time and quantitative data)\n\nWhat are yours?\n\n#AcademicTwitter #AcademicChatter", "Scaling Iterative Algorithms in #ApacheSpark. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LI1dEsYirh https://t.co/O2unNG4s5A", "pivot_longer() ... I understand now and I'm sorry for resisting. \nYou are a generous and benevolent god. #rstats", "Top 15 AI and Machine Learning Audiobooks. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Books #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/O42ISDLk3h"],
-  "top10_tweets_retweet": ["After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "#Rstats people: What package (CRAN, Github, whatever) is under-appreciated and also incredibly life-changing for you?\n\nFor me it’s Glue. I do a ton of SQL from boilerplate and Glue::glue_sql saves me hours a week.", "In the context of the forecasted #heatwave in parts of Europe, do we reach a minimum temperature of 20 ºC more times than a few decades ago? Comparison between 1950-1979 and 1980-2019. #climatechange #dataviz #rstats https://t.co/xJZODWZY8t", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rziiLycCZu https://t.co/pTv5OKDKKc", "For experienced users of #rstats, RStudio Cloud is also a handy place to conduct experiments with different versions of R or packages, without the risk of goofing up your main installation. Let someone else run Docker for you 😉 https://t.co/E0vjW0SGKH", "My top 3 recommendations of tools for dissertations:\n\n- @mendeley_com (a reference manager)\n- Mindful browsing (to encourage purpose when distracted)\n- @rstudiotips (the IDE for #Rstats - if you have time and quantitative data)\n\nWhat are yours?\n\n#AcademicTwitter #AcademicChatter", "Scaling Iterative Algorithms in #ApacheSpark. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LI1dEsYirh https://t.co/O2unNG4s5A", "pivot_longer() ... I understand now and I'm sorry for resisting. \nYou are a generous and benevolent god. #rstats", "Top 15 AI and Machine Learning Audiobooks. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Books #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/O42ISDLk3h"]
+  "top10_tweets_like": ["After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "#Rstats people: What package (CRAN, Github, whatever) is under-appreciated and also incredibly life-changing for you?\n\nFor me it’s Glue. I do a ton of SQL from boilerplate and Glue::glue_sql saves me hours a week.", "In the context of the forecasted #heatwave in parts of Europe, do we reach a minimum temperature of 20 ºC more times than a few decades ago? Comparison between 1950-1979 and 1980-2019. #climatechange #dataviz #rstats https://t.co/xJZODWZY8t", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rziiLycCZu https://t.co/pTv5OKDKKc", "For experienced users of #rstats, RStudio Cloud is also a handy place to conduct experiments with different versions of R or packages, without the risk of goofing up your main installation. Let someone else run Docker for you 😉 https://t.co/E0vjW0SGKH", "Scaling Iterative Algorithms in #ApacheSpark. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LI1dEsYirh https://t.co/O2unNG4s5A", "pivot_longer() ... I understand now and I'm sorry for resisting. \nYou are a generous and benevolent god. #rstats", "Top 15 AI and Machine Learning Audiobooks. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Books #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/O42ISDLk3h", "A convite do @FelipeSMBarros, participo na próxima terça a noite de uma live sobre geografia eleitoral, numa série do @GeoCastBrasil de #rstats + análise espacial.\n\nVai ser uma conversa legal sobre como a Ciência Política trata desse assunto e como o R ajuda nessas pesquisas https://t.co/XHDr86hak6"],
+  "top10_tweets_retweet": ["After millions of hours of testing, RStudio now has made RStudio Cloud generally available. We believe it's one of the best platforms for teacher-led R and Python instruction. https://t.co/G9E5bhzBg8 #rstats #rstudio", "Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "#Rstats people: What package (CRAN, Github, whatever) is under-appreciated and also incredibly life-changing for you?\n\nFor me it’s Glue. I do a ton of SQL from boilerplate and Glue::glue_sql saves me hours a week.", "In the context of the forecasted #heatwave in parts of Europe, do we reach a minimum temperature of 20 ºC more times than a few decades ago? Comparison between 1950-1979 and 1980-2019. #climatechange #dataviz #rstats https://t.co/xJZODWZY8t", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rziiLycCZu https://t.co/pTv5OKDKKc", "For experienced users of #rstats, RStudio Cloud is also a handy place to conduct experiments with different versions of R or packages, without the risk of goofing up your main installation. Let someone else run Docker for you 😉 https://t.co/E0vjW0SGKH", "Scaling Iterative Algorithms in #ApacheSpark. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LI1dEsYirh https://t.co/O2unNG4s5A", "pivot_longer() ... I understand now and I'm sorry for resisting. \nYou are a generous and benevolent god. #rstats", "Top 15 AI and Machine Learning Audiobooks. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Books #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/O42ISDLk3h", "A convite do @FelipeSMBarros, participo na próxima terça a noite de uma live sobre geografia eleitoral, numa série do @GeoCastBrasil de #rstats + análise espacial.\n\nVai ser uma conversa legal sobre como a Ciência Política trata desse assunto e como o R ajuda nessas pesquisas https://t.co/XHDr86hak6"]
 }
