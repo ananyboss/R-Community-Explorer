@@ -1,63 +1,63 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6101,
-      "average_tweets_per_hour": 254,
-      "tweeters_today": 1542,
-      "total_likes_today": 4894
+      "total_tweets_today": 6007,
+      "average_tweets_per_hour": 250,
+      "tweeters_today": 1526,
+      "total_likes_today": 5054
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 221
+      "Freq": 215
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 168
+      "Freq": 159
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 140
+      "Freq": 144
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 137
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 82
-    },
-    {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 79
+      "Freq": 126
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 78
+      "Freq": 94
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 72
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 76
+      "Freq": 71
+    },
+    {
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 69
     },
     {
       "Var1": "heatwave",
-      "Freq": 73
+      "Freq": 68
     },
     {
       "Var1": "RStats",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc",
       "Freq": 60
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 57
+      "Var1": "MachineLearning Kotlin BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
+      "Freq": 58
     },
     {
-      "Var1": "MachineLearning Kotlin BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 57
     },
     {
@@ -73,16 +73,16 @@
       "Freq": 49
     },
     {
-      "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 47
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript TensorFlow",
-      "Freq": 46
-    },
-    {
       "Var1": "MachineLearning BigData Analytics DataScience AI",
       "Freq": 46
+    },
+    {
+      "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 45
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 44
     },
     {
       "Var1": "rstats DataScience",
@@ -92,19 +92,15 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 502
+      "Freq": 501
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 195
+      "Freq": 179
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 177
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 161
+      "Freq": 169
     },
     {
       "Var1": "datasciencebot_",
@@ -115,32 +111,36 @@
       "Freq": 156
     },
     {
+      "Var1": "nlognbot",
+      "Freq": 151
+    },
+    {
       "Var1": "developersbot",
-      "Freq": 149
+      "Freq": 140
     },
     {
       "Var1": "redianbot",
-      "Freq": 132
+      "Freq": 130
     },
     {
       "Var1": "xaelbot",
-      "Freq": 126
+      "Freq": 128
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 116
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 114
+      "Freq": 121
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 112
+      "Freq": 109
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 103
     },
     {
       "Var1": "chidambara09",
-      "Freq": 99
+      "Freq": 100
     },
     {
       "Var1": "TheSecretJunio1",
@@ -148,29 +148,29 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 79
+      "Freq": 83
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 67
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 73
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 64
+      "Freq": 67
     },
     {
       "Var1": "techtrendingnow",
       "Freq": 64
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 59
+      "Var1": "hubofml",
+      "Freq": 62
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 58
+      "Var1": "anglehernandez",
+      "Freq": 57
     }
   ],
-  "top10_tweets_like": ["Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "🎇 I am so happy to be a winner of a National Teaching Fellowship! ❤️Huge thanks to my wonderful @BiologyatYork @UniOfYork colleagues for supporting me and especially to all the folks I've taught #rstats to 💻📈 - I've learnt everything from you 💜 https://t.co/ooNGkNod8p", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "Do you like open science and reproducible research? 🤔 Of course you do. You should read this thread. \n\n#openscience #rstats #academia #linguistics #phonetics https://t.co/M5oVV07ypv", "With the start of the semester fast approaching, my #rstats book Crime By The Numbers (https://t.co/yEPDyGkXBK)  can be a useful resource for teaching R for crim students. This free ebook covers most of what students will need to know for criminology research (it does not 1/", "Tutorial: Getting Started with R and RStudio  {https://t.co/Aik7jPuEj9} #rstats #DataScience", "A convite do @FelipeSMBarros, participo na próxima terça a noite de uma live sobre geografia eleitoral, numa série do @GeoCastBrasil de #rstats + análise espacial.\n\nVai ser uma conversa legal sobre como a Ciência Política trata desse assunto e como o R ajuda nessas pesquisas https://t.co/XHDr86hak6", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT", "spotted in the @rstudio daily builds: ability to add more columns! May your #rstats be more productive! https://t.co/vqs6tM5rVV"],
-  "top10_tweets_retweet": ["Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "🎇 I am so happy to be a winner of a National Teaching Fellowship! ❤️Huge thanks to my wonderful @BiologyatYork @UniOfYork colleagues for supporting me and especially to all the folks I've taught #rstats to 💻📈 - I've learnt everything from you 💜 https://t.co/ooNGkNod8p", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "Do you like open science and reproducible research? 🤔 Of course you do. You should read this thread. \n\n#openscience #rstats #academia #linguistics #phonetics https://t.co/M5oVV07ypv", "With the start of the semester fast approaching, my #rstats book Crime By The Numbers (https://t.co/yEPDyGkXBK)  can be a useful resource for teaching R for crim students. This free ebook covers most of what students will need to know for criminology research (it does not 1/", "Tutorial: Getting Started with R and RStudio  {https://t.co/Aik7jPuEj9} #rstats #DataScience", "A convite do @FelipeSMBarros, participo na próxima terça a noite de uma live sobre geografia eleitoral, numa série do @GeoCastBrasil de #rstats + análise espacial.\n\nVai ser uma conversa legal sobre como a Ciência Política trata desse assunto e como o R ajuda nessas pesquisas https://t.co/XHDr86hak6", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT", "spotted in the @rstudio daily builds: ability to add more columns! May your #rstats be more productive! https://t.co/vqs6tM5rVV"]
+  "top10_tweets_like": ["Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "🎇 I am so happy to be a winner of a National Teaching Fellowship! ❤️Huge thanks to my wonderful @BiologyatYork @UniOfYork colleagues for supporting me and especially to all the folks I've taught #rstats to 💻📈 - I've learnt everything from you 💜 https://t.co/ooNGkNod8p", "Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "With the start of the semester fast approaching, my #rstats book Crime By The Numbers (https://t.co/yEPDyGkXBK)  can be a useful resource for teaching R for crim students. This free ebook covers most of what students will need to know for criminology research (it does not 1/", "Do you like open science and reproducible research? 🤔 Of course you do. You should read this thread. \n\n#openscience #rstats #academia #linguistics #phonetics https://t.co/M5oVV07ypv", "A convite do @FelipeSMBarros, participo na próxima terça a noite de uma live sobre geografia eleitoral, numa série do @GeoCastBrasil de #rstats + análise espacial.\n\nVai ser uma conversa legal sobre como a Ciência Política trata desse assunto e como o R ajuda nessas pesquisas https://t.co/XHDr86hak6", "Tutorial: Getting Started with R and RStudio  {https://t.co/Aik7jPuEj9} #rstats #DataScience", "spotted in the @rstudio daily builds: ability to add more columns! May your #rstats be more productive! https://t.co/vqs6tM5rVV", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT"],
+  "top10_tweets_retweet": ["Replacing \"self-taught\" with \"community-taught\" from here on out. It's more accurate, especially given how many amazing resources the #rstats community has built. \n\nThanks for sharing this phrasing, @EriPDev!", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "🎇 I am so happy to be a winner of a National Teaching Fellowship! ❤️Huge thanks to my wonderful @BiologyatYork @UniOfYork colleagues for supporting me and especially to all the folks I've taught #rstats to 💻📈 - I've learnt everything from you 💜 https://t.co/ooNGkNod8p", "Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "With the start of the semester fast approaching, my #rstats book Crime By The Numbers (https://t.co/yEPDyGkXBK)  can be a useful resource for teaching R for crim students. This free ebook covers most of what students will need to know for criminology research (it does not 1/", "Do you like open science and reproducible research? 🤔 Of course you do. You should read this thread. \n\n#openscience #rstats #academia #linguistics #phonetics https://t.co/M5oVV07ypv", "A convite do @FelipeSMBarros, participo na próxima terça a noite de uma live sobre geografia eleitoral, numa série do @GeoCastBrasil de #rstats + análise espacial.\n\nVai ser uma conversa legal sobre como a Ciência Política trata desse assunto e como o R ajuda nessas pesquisas https://t.co/XHDr86hak6", "Tutorial: Getting Started with R and RStudio  {https://t.co/Aik7jPuEj9} #rstats #DataScience", "spotted in the @rstudio daily builds: ability to add more columns! May your #rstats be more productive! https://t.co/vqs6tM5rVV", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT"]
 }
