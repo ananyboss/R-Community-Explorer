@@ -1,60 +1,64 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6976,
-      "average_tweets_per_hour": 291,
-      "tweeters_today": 1640,
-      "total_likes_today": 5601
+      "total_tweets_today": 7025,
+      "average_tweets_per_hour": 293,
+      "tweeters_today": 1657,
+      "total_likes_today": 5636
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "RStats",
-      "Freq": 222
+      "Freq": 238
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 181
+      "Freq": 199
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 181
+      "Freq": 183
     },
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 175
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 158
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 132
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 137
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 135
+      "Freq": 126
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 123
+      "Freq": 126
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 126
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 86
+      "Freq": 100
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 80
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 78
+      "Var1": "Python MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 74
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 76
+      "Freq": 74
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
+      "Freq": 73
     },
     {
       "Var1": "Boolean DataScience programming 100DaysOfCode Python",
@@ -65,34 +69,30 @@
       "Freq": 70
     },
     {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 69
-    },
-    {
-      "Var1": "Python MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 68
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
       "Freq": 67
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
+      "Var1": "DataScience",
       "Freq": 63
     },
     {
-      "Var1": "RaspberryPi BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 61
+      "Var1": "BigData Analytics AI DataScience loT lloT PyTorch RStats Java TensorFlow JavaScript ReacUS Cplusplus",
+      "Freq": 62
     },
     {
-      "Var1": "DataScience",
-      "Freq": 60
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 62
+    },
+    {
+      "Var1": "RaspberryPi BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 62
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 525
+      "Freq": 518
     },
     {
       "Var1": "friday_Js_bot",
@@ -100,35 +100,35 @@
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 236
+      "Freq": 235
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 214
+      "Freq": 230
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 199
+      "Freq": 202
     },
     {
       "Var1": "nlognbot",
-      "Freq": 195
+      "Freq": 200
     },
     {
       "Var1": "redianbot",
-      "Freq": 178
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 162
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 159
+      "Freq": 181
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 152
+      "Freq": 167
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 165
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 162
     },
     {
       "Var1": "CodeGnuts",
@@ -136,22 +136,22 @@
     },
     {
       "Var1": "developersbot",
-      "Freq": 140
+      "Freq": 139
     },
     {
       "Var1": "chidambara09",
-      "Freq": 135
+      "Freq": 137
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 128
+      "Freq": 124
     },
     {
       "Var1": "ricardo_ik_ahau",
       "Freq": 82
     },
     {
-      "Var1": "ServerlessFan",
+      "Var1": "techtrendingnow",
       "Freq": 82
     },
     {
@@ -159,18 +159,18 @@
       "Freq": 82
     },
     {
-      "Var1": "techtrendingnow",
-      "Freq": 79
+      "Var1": "ServerlessFan",
+      "Freq": 80
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 78
+      "Freq": 75
     },
     {
       "Var1": "Maignanamurthy",
-      "Freq": 75
+      "Freq": 74
     }
   ],
-  "top10_tweets_like": ["#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "Taylor Swift as #RStats hex, a thread ⤵️ https://t.co/L9ZGxsX7WY", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/qutIN14TgI", "30 Days Of Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/JgPLWYqBZ0 https://t.co/blFrZeQ0lm", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "A friend sent me this and said, \"I saw this and immediately thought of you\" and I am both honored and thoroughly creeped out 😂😂😂😂😂😂#rstats https://t.co/9SVSKhce5Y", "Minding my own business while the kids are watching PBS, when all of a sudden I look up to a group of girls cheering on #rstats and #rstudio ! The full episode of \"SciGirls\" is pretty awesome:\nhttps://t.co/JRZ7SLw1u8 https://t.co/TMvNKsMGmi", "[FREE e-Book] Learn Classification &amp; Regression in a Weekend: https://t.co/I4CTsFuNZG\n—————\n#BigData #MachineLearning #Algorithms #DataScience #Statistics #DataMining #AI #PredictiveAnalytics #Rstats #DataScientists #abdsc\n——\nThen go deeper with this book: https://t.co/GDqthS2rxY https://t.co/kVbqv28qqg"],
-  "top10_tweets_retweet": ["#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "Taylor Swift as #RStats hex, a thread ⤵️ https://t.co/L9ZGxsX7WY", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/qutIN14TgI", "30 Days Of Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/JgPLWYqBZ0 https://t.co/blFrZeQ0lm", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "A friend sent me this and said, \"I saw this and immediately thought of you\" and I am both honored and thoroughly creeped out 😂😂😂😂😂😂#rstats https://t.co/9SVSKhce5Y", "Minding my own business while the kids are watching PBS, when all of a sudden I look up to a group of girls cheering on #rstats and #rstudio ! The full episode of \"SciGirls\" is pretty awesome:\nhttps://t.co/JRZ7SLw1u8 https://t.co/TMvNKsMGmi", "[FREE e-Book] Learn Classification &amp; Regression in a Weekend: https://t.co/I4CTsFuNZG\n—————\n#BigData #MachineLearning #Algorithms #DataScience #Statistics #DataMining #AI #PredictiveAnalytics #Rstats #DataScientists #abdsc\n——\nThen go deeper with this book: https://t.co/GDqthS2rxY https://t.co/kVbqv28qqg"]
+  "top10_tweets_like": ["Taylor Swift as #RStats hex, a thread ⤵️ https://t.co/L9ZGxsX7WY", "#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/qutIN14TgI", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "Minding my own business while the kids are watching PBS, when all of a sudden I look up to a group of girls cheering on #rstats and #rstudio ! The full episode of \"SciGirls\" is pretty awesome:\nhttps://t.co/JRZ7SLw1u8 https://t.co/TMvNKsMGmi", "[FREE e-Book] Learn Classification &amp; Regression in a Weekend: https://t.co/I4CTsFuNZG\n—————\n#BigData #MachineLearning #Algorithms #DataScience #Statistics #DataMining #AI #PredictiveAnalytics #Rstats #DataScientists #abdsc\n——\nThen go deeper with this book: https://t.co/GDqthS2rxY https://t.co/kVbqv28qqg", "Demonstrating The Central Limit Theorem in R  {https://t.co/UkUeS49EVG} #rstats #DataScience", "Gradient Descent Explained with #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/EYMMphXHyi https://t.co/suaTngPfLT"],
+  "top10_tweets_retweet": ["Taylor Swift as #RStats hex, a thread ⤵️ https://t.co/L9ZGxsX7WY", "#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Top Machine Learning Books To Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6gK9cR9Gmk https://t.co/qutIN14TgI", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "Minding my own business while the kids are watching PBS, when all of a sudden I look up to a group of girls cheering on #rstats and #rstudio ! The full episode of \"SciGirls\" is pretty awesome:\nhttps://t.co/JRZ7SLw1u8 https://t.co/TMvNKsMGmi", "[FREE e-Book] Learn Classification &amp; Regression in a Weekend: https://t.co/I4CTsFuNZG\n—————\n#BigData #MachineLearning #Algorithms #DataScience #Statistics #DataMining #AI #PredictiveAnalytics #Rstats #DataScientists #abdsc\n——\nThen go deeper with this book: https://t.co/GDqthS2rxY https://t.co/kVbqv28qqg", "Demonstrating The Central Limit Theorem in R  {https://t.co/UkUeS49EVG} #rstats #DataScience", "Gradient Descent Explained with #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/EYMMphXHyi https://t.co/suaTngPfLT"]
 }
