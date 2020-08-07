@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6435,
-      "average_tweets_per_hour": 268,
-      "tweeters_today": 1524,
-      "total_likes_today": 5748
+      "total_tweets_today": 6416,
+      "average_tweets_per_hour": 267,
+      "tweeters_today": 1541,
+      "total_likes_today": 5662
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 185
+      "Freq": 175
     },
     {
       "Var1": "tidyverse rstats",
       "Freq": 169
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 134
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 137
     },
     {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 132
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 136
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -30,34 +30,38 @@
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 115
+      "Freq": 109
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 110
+      "Freq": 102
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 87
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 91
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 86
+      "Freq": 90
     },
     {
-      "Var1": "Python Algorithms BigData Analytics DataScience AI MachineLearning",
-      "Freq": 83
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 89
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 70
+      "Freq": 73
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow Java",
       "Freq": 64
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Var1": "Python Algorithms BigData Analytics DataScience AI MachineLearning",
       "Freq": 60
     },
     {
@@ -65,20 +69,16 @@
       "Freq": 59
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
+      "Freq": 56
+    },
+    {
       "Var1": "tableau DataScientist ArtificialIntelligence",
       "Freq": 55
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT",
-      "Freq": 53
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 53
-    },
-    {
       "Var1": "Statistics DataScience DataAnalysis Python 100DaysOfCode IoT",
-      "Freq": 53
+      "Freq": 54
     },
     {
       "Var1": "BigData Analytics",
@@ -92,27 +92,35 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 549
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 203
+      "Freq": 559
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 201
+      "Freq": 202
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 185
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 183
+      "Freq": 185
     },
     {
       "Var1": "nlognbot",
-      "Freq": 169
+      "Freq": 171
     },
     {
       "Var1": "redianbot",
-      "Freq": 157
+      "Freq": 161
+    },
+    {
+      "Var1": "developersbot",
+      "Freq": 147
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 147
     },
     {
       "Var1": "TheSecretJunio1",
@@ -123,44 +131,32 @@
       "Freq": 144
     },
     {
-      "Var1": "xaelbot",
-      "Freq": 143
-    },
-    {
-      "Var1": "developersbot",
-      "Freq": 142
-    },
-    {
       "Var1": "CodeGnuts",
-      "Freq": 137
+      "Freq": 134
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 115
+      "Freq": 117
     },
     {
       "Var1": "chidambara09",
-      "Freq": 106
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 88
+      "Freq": 113
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 86
-    },
-    {
-      "Var1": "hubofml",
       "Freq": 82
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 74
+      "Var1": "hubofml",
+      "Freq": 75
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 75
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 70
+      "Freq": 74
     },
     {
       "Var1": "tidyversetweets",
@@ -168,9 +164,13 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 63
+      "Freq": 69
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 59
     }
   ],
-  "top10_tweets_like": ["Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "🎇 I am so happy to be a winner of a National Teaching Fellowship! ❤️Huge thanks to my wonderful @BiologyatYork @UniOfYork colleagues for supporting me and especially to all the folks I've taught #rstats to 💻📈 - I've learnt everything from you 💜 https://t.co/ooNGkNod8p", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT", "I'll teach a two day online course on Making beautiful and effective maps 🗺️ in #rstats on August 26-27 2020. You can find more details at https://t.co/SdnzH6nc5H. (It's probably my last course this year). Feel free to email me if you have any questions! #rspatial #gis #tmap https://t.co/rK9KD3bueD", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "Last week @malco_barrett and I ran a Causal Inference in #rstats workshop!\n🎥 https://t.co/Du65M2MhBU…\n👩‍💻 you can find our slides, code, and examples here: https://t.co/iOHU9om4NW"],
-  "top10_tweets_retweet": ["Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "🎇 I am so happy to be a winner of a National Teaching Fellowship! ❤️Huge thanks to my wonderful @BiologyatYork @UniOfYork colleagues for supporting me and especially to all the folks I've taught #rstats to 💻📈 - I've learnt everything from you 💜 https://t.co/ooNGkNod8p", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT", "I'll teach a two day online course on Making beautiful and effective maps 🗺️ in #rstats on August 26-27 2020. You can find more details at https://t.co/SdnzH6nc5H. (It's probably my last course this year). Feel free to email me if you have any questions! #rspatial #gis #tmap https://t.co/rK9KD3bueD", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "Last week @malco_barrett and I ran a Causal Inference in #rstats workshop!\n🎥 https://t.co/Du65M2MhBU…\n👩‍💻 you can find our slides, code, and examples here: https://t.co/iOHU9om4NW"]
+  "top10_tweets_like": ["#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "I'll teach a two day online course on Making beautiful and effective maps 🗺️ in #rstats on August 26-27 2020. You can find more details at https://t.co/SdnzH6nc5H. (It's probably my last course this year). Feel free to email me if you have any questions! #rspatial #gis #tmap https://t.co/rK9KD3bueD", "Last week @malco_barrett and I ran a Causal Inference in #rstats workshop!\n🎥 https://t.co/Du65M2MhBU…\n👩‍💻 you can find our slides, code, and examples here: https://t.co/iOHU9om4NW", "Designer , Client 😆🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/RL4haz4A3o"],
+  "top10_tweets_retweet": ["#rstats friends please let me finally properly introduce {flow} !\nVisualize as flow diagrams the logic and the execution of your code or browse through it as the diagram updates in real time.\nhttps://t.co/gz06HbY5Xu\nFeedback and visibility as always greatly appreciated! https://t.co/nzHrkTPPzD", "Y'ALL. Making maps with #rstats and {sf} (even fictional maps!) is absurdly easy. Behold, Middle Earth in 26 lines of code! (code here: https://t.co/lC3ArRt4RC) https://t.co/SCrxAVAkjY", "One non-serious thing I enjoy doing in #rstats is making pixel art. I create a dataframe of the x and y coordinates, code the colors, then plot it with ggplot2. Here's a pacman ghost I made https://t.co/03RQvHfQbX", "This is a huge announcement that hasn't gotten much attention yet. #rstats users will finally be able to get their bar graphs with hatching:\nGradient fill, pattern fill, masks, and clipping paths in the R graphics engine. \nhttps://t.co/8KPDsPVFUv https://t.co/snDKSiBmlQ", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/7IP8wihWbw https://t.co/n4gjsSY9fw", "Distance from the nearest railway in Bosnia &amp; Herzegovina\nduring World War II (left)\nthese days (right)\n\n#railway #rail #railroad #history #dataviz #maps #gis #geospatial #rstats https://t.co/Rfn1OaQ4NT", "talked about \"art + #rstats\" at the toronto data workshop today 🎨 pixel art, renderings, generative art, and more! ty to TDW for having me again and to all the amazing aRtists that inspire me 🥰\n\nslides: https://t.co/h7Q2DgCZVm\nrepo: https://t.co/vH4uc3s4QY https://t.co/XlrAgQAiuM", "I'll teach a two day online course on Making beautiful and effective maps 🗺️ in #rstats on August 26-27 2020. You can find more details at https://t.co/SdnzH6nc5H. (It's probably my last course this year). Feel free to email me if you have any questions! #rspatial #gis #tmap https://t.co/rK9KD3bueD", "Last week @malco_barrett and I ran a Causal Inference in #rstats workshop!\n🎥 https://t.co/Du65M2MhBU…\n👩‍💻 you can find our slides, code, and examples here: https://t.co/iOHU9om4NW", "Designer , Client 😆🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/RL4haz4A3o"]
 }
