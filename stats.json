@@ -1,47 +1,39 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6385,
-      "average_tweets_per_hour": 266,
-      "tweeters_today": 1468,
-      "total_likes_today": 3710
+      "total_tweets_today": 6293,
+      "average_tweets_per_hour": 262,
+      "tweeters_today": 1436,
+      "total_likes_today": 3849
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "RStats",
-      "Freq": 307
+      "Freq": 301
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 139
+      "Freq": 134
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 127
+      "Freq": 124
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 117
+      "Freq": 116
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 111
+      "Freq": 114
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience",
-      "Freq": 108
+      "Freq": 109
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 106
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 97
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 97
     },
     {
@@ -49,32 +41,44 @@
       "Freq": 94
     },
     {
-      "Var1": "Python MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 93
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 90
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 77
+      "Var1": "Python MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 90
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 89
     },
     {
       "Var1": "DataScience",
-      "Freq": 77
+      "Freq": 83
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 75
+      "Freq": 82
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 66
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT",
       "Freq": 65
     },
     {
+      "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 64
+    },
+    {
       "Var1": "landingpage ApacheSpark BigData Analytics DataScience AI",
       "Freq": 64
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 61
+      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 60
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch RStats TensorFlow Java",
@@ -82,95 +86,91 @@
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 57
-    },
-    {
-      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 57
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 417
+      "Freq": 426
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 279
+      "Freq": 277
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 247
+      "Freq": 231
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 205
+      "Freq": 206
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 191
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 176
+      "Freq": 189
     },
     {
       "Var1": "redianbot",
-      "Freq": 171
+      "Freq": 173
     },
     {
       "Var1": "xaelbot",
-      "Freq": 168
+      "Freq": 171
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 170
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 153
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 166
+      "Freq": 152
     },
     {
       "Var1": "TheSecretJunio1",
       "Freq": 147
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 140
-    },
-    {
       "Var1": "chidambara09",
-      "Freq": 131
+      "Freq": 142
     },
     {
       "Var1": "developersbot",
-      "Freq": 123
+      "Freq": 126
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 115
+      "Freq": 124
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 111
+      "Freq": 110
     },
     {
       "Var1": "Anvith64518557",
       "Freq": 78
     },
     {
-      "Var1": "Maignanamurthy",
-      "Freq": 73
+      "Var1": "TheDeveloperBot",
+      "Freq": 75
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 71
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 68
+      "Freq": 74
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 65
+      "Freq": 66
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 55
     }
   ],
-  "top10_tweets_like": ["🤖🤗🤖I made the friendliest #AI course for you: Making Friends with #MachineLearning!\n\nThe first 9 min will take you from zero (Is AI magic?!) to knowing where to apply it and even having a sketch of how GANs work. Enjoy!\n\n#DataScience #rstats #ML #data\n\nhttps://t.co/Yup2B5T1Gy", "When #soil nerdiness meets #rstats nerdiness. Introducing the “soilpalettes” package for #ggplot2 - color palettes inspired by soil profiles. \n\nhttps://t.co/YY6MIIqmZj https://t.co/OKY7lJCYOj", "Free Book: Lithium-Ion Batteries - A Complete Machine ( #MachineLearning) Generated Book. #BigData #Analytics #DataScience #AI #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #Serverless #Linux #Statistics #Books #Programming #Coding #100DaysofCode\nhttps://t.co/xMKVhfZpaV https://t.co/N8H7IpMRf2", "Top 8 Hands-On Books For ML Practitioners. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/RxosjI8j7R https://t.co/gpbiThBWDz", "Gradient Descent Explained with #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/EYMMphXHyi https://t.co/suaTngPfLT", "🧞: \"You have one wish\"\n👨‍💻: \"I want the ability to put hair on my data visualizations\"\n🧞: \"Wh... what? Money? Power? You can have anyth-\"\n👨‍💻: \"ABILITY TO PUT HAIR ON MY DATAVIZ\"\n\nSome truly weird and wonderful stuff coming to #rayrender #rstats😎 https://t.co/jluexkuLZe", "Playing with 2D rigid-body physics in #RStats \n\nPosition calcs are faster than realtime. Image rendering is current bottleneck\n\nThis is a manual render created with #ggplot2, but I have ideas on realtime rendering ...\n\n... &amp; interactivity!\n\nJust a few more pkgs to write! :) https://t.co/SnjkI8pyIY", "Sentiment Analysis using #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/wIj09MZwuv https://t.co/o4YD39y4wW", "Top Best #Python #Books of All Time Review 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/DCtJPrgGMh https://t.co/VVwfP02cTt", "Metaflow for R was just open-sourced at #useR2020! We are super excited to bring together the best parts of the amazing #rstats ecosystem and modern cloud-based scalability and model operations. Learn more at https://t.co/FDS3lORecD #metaflow #datascience"],
-  "top10_tweets_retweet": ["🤖🤗🤖I made the friendliest #AI course for you: Making Friends with #MachineLearning!\n\nThe first 9 min will take you from zero (Is AI magic?!) to knowing where to apply it and even having a sketch of how GANs work. Enjoy!\n\n#DataScience #rstats #ML #data\n\nhttps://t.co/Yup2B5T1Gy", "When #soil nerdiness meets #rstats nerdiness. Introducing the “soilpalettes” package for #ggplot2 - color palettes inspired by soil profiles. \n\nhttps://t.co/YY6MIIqmZj https://t.co/OKY7lJCYOj", "Free Book: Lithium-Ion Batteries - A Complete Machine ( #MachineLearning) Generated Book. #BigData #Analytics #DataScience #AI #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #Serverless #Linux #Statistics #Books #Programming #Coding #100DaysofCode\nhttps://t.co/xMKVhfZpaV https://t.co/N8H7IpMRf2", "Top 8 Hands-On Books For ML Practitioners. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/RxosjI8j7R https://t.co/gpbiThBWDz", "Gradient Descent Explained with #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/EYMMphXHyi https://t.co/suaTngPfLT", "🧞: \"You have one wish\"\n👨‍💻: \"I want the ability to put hair on my data visualizations\"\n🧞: \"Wh... what? Money? Power? You can have anyth-\"\n👨‍💻: \"ABILITY TO PUT HAIR ON MY DATAVIZ\"\n\nSome truly weird and wonderful stuff coming to #rayrender #rstats😎 https://t.co/jluexkuLZe", "Playing with 2D rigid-body physics in #RStats \n\nPosition calcs are faster than realtime. Image rendering is current bottleneck\n\nThis is a manual render created with #ggplot2, but I have ideas on realtime rendering ...\n\n... &amp; interactivity!\n\nJust a few more pkgs to write! :) https://t.co/SnjkI8pyIY", "Sentiment Analysis using #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/wIj09MZwuv https://t.co/o4YD39y4wW", "Top Best #Python #Books of All Time Review 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/DCtJPrgGMh https://t.co/VVwfP02cTt", "Metaflow for R was just open-sourced at #useR2020! We are super excited to bring together the best parts of the amazing #rstats ecosystem and modern cloud-based scalability and model operations. Learn more at https://t.co/FDS3lORecD #metaflow #datascience"]
+  "top10_tweets_like": ["🤖🤗🤖I made the friendliest #AI course for you: Making Friends with #MachineLearning!\n\nThe first 9 min will take you from zero (Is AI magic?!) to knowing where to apply it and even having a sketch of how GANs work. Enjoy!\n\n#DataScience #rstats #ML #data\n\nhttps://t.co/Yup2B5T1Gy", "When #soil nerdiness meets #rstats nerdiness. Introducing the “soilpalettes” package for #ggplot2 - color palettes inspired by soil profiles. \n\nhttps://t.co/YY6MIIqmZj https://t.co/OKY7lJCYOj", "Free Book: Lithium-Ion Batteries - A Complete Machine ( #MachineLearning) Generated Book. #BigData #Analytics #DataScience #AI #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #Serverless #Linux #Statistics #Books #Programming #Coding #100DaysofCode\nhttps://t.co/xMKVhfZpaV https://t.co/N8H7IpMRf2", "Top 8 Hands-On Books For ML Practitioners. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/RxosjI8j7R https://t.co/gpbiThBWDz", "Playing with 2D rigid-body physics in #RStats \n\nPosition calcs are faster than realtime. Image rendering is current bottleneck\n\nThis is a manual render created with #ggplot2, but I have ideas on realtime rendering ...\n\n... &amp; interactivity!\n\nJust a few more pkgs to write! :) https://t.co/SnjkI8pyIY", "Gradient Descent Explained with #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/EYMMphXHyi https://t.co/suaTngPfLT", "🧞: \"You have one wish\"\n👨‍💻: \"I want the ability to put hair on my data visualizations\"\n🧞: \"Wh... what? Money? Power? You can have anyth-\"\n👨‍💻: \"ABILITY TO PUT HAIR ON MY DATAVIZ\"\n\nSome truly weird and wonderful stuff coming to #rayrender #rstats😎 https://t.co/jluexkuLZe", "Sentiment Analysis using #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/wIj09MZwuv https://t.co/o4YD39y4wW", "Top Best #Python #Books of All Time Review 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/DCtJPrgGMh https://t.co/VVwfP02cTt", "Metaflow for R was just open-sourced at #useR2020! We are super excited to bring together the best parts of the amazing #rstats ecosystem and modern cloud-based scalability and model operations. Learn more at https://t.co/FDS3lORecD #metaflow #datascience"],
+  "top10_tweets_retweet": ["🤖🤗🤖I made the friendliest #AI course for you: Making Friends with #MachineLearning!\n\nThe first 9 min will take you from zero (Is AI magic?!) to knowing where to apply it and even having a sketch of how GANs work. Enjoy!\n\n#DataScience #rstats #ML #data\n\nhttps://t.co/Yup2B5T1Gy", "When #soil nerdiness meets #rstats nerdiness. Introducing the “soilpalettes” package for #ggplot2 - color palettes inspired by soil profiles. \n\nhttps://t.co/YY6MIIqmZj https://t.co/OKY7lJCYOj", "Free Book: Lithium-Ion Batteries - A Complete Machine ( #MachineLearning) Generated Book. #BigData #Analytics #DataScience #AI #NLProc #IoT #IIoT #Python #RStats #JavaScript #ReactJS #Serverless #Linux #Statistics #Books #Programming #Coding #100DaysofCode\nhttps://t.co/xMKVhfZpaV https://t.co/N8H7IpMRf2", "Top 8 Hands-On Books For ML Practitioners. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/RxosjI8j7R https://t.co/gpbiThBWDz", "Playing with 2D rigid-body physics in #RStats \n\nPosition calcs are faster than realtime. Image rendering is current bottleneck\n\nThis is a manual render created with #ggplot2, but I have ideas on realtime rendering ...\n\n... &amp; interactivity!\n\nJust a few more pkgs to write! :) https://t.co/SnjkI8pyIY", "Gradient Descent Explained with #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/EYMMphXHyi https://t.co/suaTngPfLT", "🧞: \"You have one wish\"\n👨‍💻: \"I want the ability to put hair on my data visualizations\"\n🧞: \"Wh... what? Money? Power? You can have anyth-\"\n👨‍💻: \"ABILITY TO PUT HAIR ON MY DATAVIZ\"\n\nSome truly weird and wonderful stuff coming to #rayrender #rstats😎 https://t.co/jluexkuLZe", "Sentiment Analysis using #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/wIj09MZwuv https://t.co/o4YD39y4wW", "Top Best #Python #Books of All Time Review 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/DCtJPrgGMh https://t.co/VVwfP02cTt", "Metaflow for R was just open-sourced at #useR2020! We are super excited to bring together the best parts of the amazing #rstats ecosystem and modern cloud-based scalability and model operations. Learn more at https://t.co/FDS3lORecD #metaflow #datascience"]
 }
