@@ -1,36 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6364,
-      "average_tweets_per_hour": 265,
-      "tweeters_today": 1300,
-      "total_likes_today": 4075
+      "total_tweets_today": 6630,
+      "average_tweets_per_hour": 276,
+      "tweeters_today": 1441,
+      "total_likes_today": 4620
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 145
+      "Freq": 149
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 138
+      "Freq": 146
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 135
+      "Freq": 125
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 132
-    },
-    {
-      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 119
+      "Freq": 124
     },
     {
       "Var1": "RStats",
       "Freq": 113
+    },
+    {
+      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 111
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Freq": 107
     },
     {
       "Var1": "Python",
@@ -38,19 +42,15 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 89
+      "Freq": 90
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT",
-      "Freq": 88
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning",
-      "Freq": 78
+      "Freq": 79
     },
     {
       "Var1": "Python MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch",
-      "Freq": 77
+      "Freq": 79
     },
     {
       "Var1": "MachineLearning Mathematics BigData Analytics DataScience AI IoT",
@@ -61,78 +61,78 @@
       "Freq": 73
     },
     {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 68
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience",
+      "Freq": 67
+    },
+    {
       "Var1": "BigData Analytics",
       "Freq": 66
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 66
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience",
-      "Freq": 66
-    },
-    {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript TensorFlow",
-      "Freq": 59
+      "Freq": 62
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 56
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 55
+      "Var1": "RStats stackoverflow",
+      "Freq": 56
     },
     {
-      "Var1": "Python Algorithms BigData Analytics",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 55
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 373
+      "Freq": 385
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 230
+      "Freq": 245
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 204
+      "Freq": 214
     },
     {
       "Var1": "nlognbot",
-      "Freq": 194
+      "Freq": 199
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 193
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 189
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 184
+      "Freq": 195
     },
     {
       "Var1": "redianbot",
-      "Freq": 180
+      "Freq": 188
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 186
     },
     {
       "Var1": "xaelbot",
-      "Freq": 177
+      "Freq": 185
     },
     {
       "Var1": "chidambara09",
-      "Freq": 175
+      "Freq": 184
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 180
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 158
+      "Freq": 172
     },
     {
       "Var1": "developersbot",
@@ -140,30 +140,30 @@
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 155
+      "Freq": 145
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 138
+      "Freq": 143
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 113
-    },
-    {
-      "Var1": "techtrendingnow",
-      "Freq": 101
+      "Freq": 112
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 96
+      "Freq": 105
     },
     {
-      "Var1": "hubofml",
-      "Freq": 76
+      "Var1": "techtrendingnow",
+      "Freq": 102
     },
     {
       "Var1": "LinuxDreams",
+      "Freq": 79
+    },
+    {
+      "Var1": "hubofml",
       "Freq": 73
     },
     {
@@ -171,6 +171,6 @@
       "Freq": 65
     }
   ],
-  "top10_tweets_like": ["This is a day at the beach in 1896!!  All hail 👉🏾 Deep learning algorithms for enhanced image interpolation, HD, color etc... \n\n #sundayvibes #AI #MachineLearning #100DaysOfCode #DeepLearning #RStats #Python \n https://t.co/hn4nyNeZue", "M secret debugging technique in #RStats: automatically search for the error on #stackoverflow. Hacker level over 9000 😂 https://t.co/0C79j9iRU9", "📦 \"thesisdown • An updated R Markdown thesis template using the bookdown package\"\n\n👤 Chester Ismay @old_man_chester \n\nhttps://t.co/qHUX1TN9Wk\n#rstats https://t.co/sdxwqSnmBZ", "An Introduction to Machine Learning: Part of FREE Ebooks from Springer Part 21.\n\nhttps://t.co/gZ1C60i8xI\n\n#Python #100DaysOfCode #IoT #MachineLearning  #DeepLearning #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vCXdjh70h0", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/ywEhiwa54k", "European energy for this week's #TidyTuesday\n\ncode and big image: https://t.co/cfRpDxDMuK \n\n#dataviz #RStats https://t.co/tvgES38Oq2", "Understanding #MachineLearning Papers with Armies of Jargon and #Mathematics. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/lgu3lLeM48 https://t.co/yrVT3Ulx6U", "Designing a #Python Interface for #MachineLearning Engineering. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/nwGPdewznE https://t.co/4yw5ivdczN", "📦⇆ \"fuzzyjoin • Join tables together on inexact matching\"\n\n👤 David Robinson @drob \n\nhttps://t.co/fEbUHcBsCm\n#rstats", "This has misguided me before. Use ylim() in ggplot and values outside the defined range are ignored for making summaries of the data (e.g. line figures displaying averages). Took me a while to figure out that coord_cartesian() solves this issue #rstats https://t.co/9ZlP8xeMl3"],
-  "top10_tweets_retweet": ["This is a day at the beach in 1896!!  All hail 👉🏾 Deep learning algorithms for enhanced image interpolation, HD, color etc... \n\n #sundayvibes #AI #MachineLearning #100DaysOfCode #DeepLearning #RStats #Python \n https://t.co/hn4nyNeZue", "M secret debugging technique in #RStats: automatically search for the error on #stackoverflow. Hacker level over 9000 😂 https://t.co/0C79j9iRU9", "📦 \"thesisdown • An updated R Markdown thesis template using the bookdown package\"\n\n👤 Chester Ismay @old_man_chester \n\nhttps://t.co/qHUX1TN9Wk\n#rstats https://t.co/sdxwqSnmBZ", "An Introduction to Machine Learning: Part of FREE Ebooks from Springer Part 21.\n\nhttps://t.co/gZ1C60i8xI\n\n#Python #100DaysOfCode #IoT #MachineLearning  #DeepLearning #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vCXdjh70h0", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/ywEhiwa54k", "European energy for this week's #TidyTuesday\n\ncode and big image: https://t.co/cfRpDxDMuK \n\n#dataviz #RStats https://t.co/tvgES38Oq2", "Understanding #MachineLearning Papers with Armies of Jargon and #Mathematics. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/lgu3lLeM48 https://t.co/yrVT3Ulx6U", "Designing a #Python Interface for #MachineLearning Engineering. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/nwGPdewznE https://t.co/4yw5ivdczN", "📦⇆ \"fuzzyjoin • Join tables together on inexact matching\"\n\n👤 David Robinson @drob \n\nhttps://t.co/fEbUHcBsCm\n#rstats", "This has misguided me before. Use ylim() in ggplot and values outside the defined range are ignored for making summaries of the data (e.g. line figures displaying averages). Took me a while to figure out that coord_cartesian() solves this issue #rstats https://t.co/9ZlP8xeMl3"]
+  "top10_tweets_like": ["This is a day at the beach in 1896!!  All hail 👉🏾 Deep learning algorithms for enhanced image interpolation, HD, color etc... \n\n #sundayvibes #AI #MachineLearning #100DaysOfCode #DeepLearning #RStats #Python \n https://t.co/hn4nyNeZue", "M secret debugging technique in #RStats: automatically search for the error on #stackoverflow. Hacker level over 9000 😂 https://t.co/0C79j9iRU9", "An Introduction to Machine Learning: Part of FREE Ebooks from Springer Part 21.\n\nhttps://t.co/gZ1C60i8xI\n\n#Python #100DaysOfCode #IoT #MachineLearning  #DeepLearning #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vCXdjh70h0", "📦 \"thesisdown • An updated R Markdown thesis template using the bookdown package\"\n\n👤 Chester Ismay @old_man_chester \n\nhttps://t.co/qHUX1TN9Wk\n#rstats https://t.co/sdxwqSnmBZ", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/ywEhiwa54k", "European energy for this week's #TidyTuesday\n\ncode and big image: https://t.co/cfRpDxDMuK \n\n#dataviz #RStats https://t.co/tvgES38Oq2", "Designing a #Python Interface for #MachineLearning Engineering. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/nwGPdewznE https://t.co/4yw5ivdczN", "Understanding #MachineLearning Papers with Armies of Jargon and #Mathematics. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/lgu3lLeM48 https://t.co/yrVT3Ulx6U", "📦⇆ \"fuzzyjoin • Join tables together on inexact matching\"\n\n👤 David Robinson @drob \n\nhttps://t.co/fEbUHcBsCm\n#rstats", "Sidetracked by @JonTheGeek  - animated hex with movement from a 2d physics simulation.\n\n* Orchestrated in #RStats \n* Sim in Chipmunk2d\n* Image rendering in CairoGraphics https://t.co/gSfTIOFqQR"],
+  "top10_tweets_retweet": ["This is a day at the beach in 1896!!  All hail 👉🏾 Deep learning algorithms for enhanced image interpolation, HD, color etc... \n\n #sundayvibes #AI #MachineLearning #100DaysOfCode #DeepLearning #RStats #Python \n https://t.co/hn4nyNeZue", "M secret debugging technique in #RStats: automatically search for the error on #stackoverflow. Hacker level over 9000 😂 https://t.co/0C79j9iRU9", "An Introduction to Machine Learning: Part of FREE Ebooks from Springer Part 21.\n\nhttps://t.co/gZ1C60i8xI\n\n#Python #100DaysOfCode #IoT #MachineLearning  #DeepLearning #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/vCXdjh70h0", "📦 \"thesisdown • An updated R Markdown thesis template using the bookdown package\"\n\n👤 Chester Ismay @old_man_chester \n\nhttps://t.co/qHUX1TN9Wk\n#rstats https://t.co/sdxwqSnmBZ", "Free Springer 65 Data Science #Books. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/modSaxiNPS https://t.co/ywEhiwa54k", "European energy for this week's #TidyTuesday\n\ncode and big image: https://t.co/cfRpDxDMuK \n\n#dataviz #RStats https://t.co/tvgES38Oq2", "Designing a #Python Interface for #MachineLearning Engineering. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/nwGPdewznE https://t.co/4yw5ivdczN", "Understanding #MachineLearning Papers with Armies of Jargon and #Mathematics. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/lgu3lLeM48 https://t.co/yrVT3Ulx6U", "📦⇆ \"fuzzyjoin • Join tables together on inexact matching\"\n\n👤 David Robinson @drob \n\nhttps://t.co/fEbUHcBsCm\n#rstats", "Sidetracked by @JonTheGeek  - animated hex with movement from a 2d physics simulation.\n\n* Orchestrated in #RStats \n* Sim in Chipmunk2d\n* Image rendering in CairoGraphics https://t.co/gSfTIOFqQR"]
 }
