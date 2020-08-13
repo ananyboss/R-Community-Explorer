@@ -1,44 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4964,
-      "average_tweets_per_hour": 207,
-      "tweeters_today": 1447,
-      "total_likes_today": 3745
+      "total_tweets_today": 4869,
+      "average_tweets_per_hour": 203,
+      "tweeters_today": 1426,
+      "total_likes_today": 3583
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "Python programming",
-      "Freq": 155
-    },
-    {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience",
-      "Freq": 117
+      "Freq": 152
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 110
+      "Freq": 116
+    },
+    {
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience",
+      "Freq": 107
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 80
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats JavaScript",
       "Freq": 77
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 65
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 65
+      "Freq": 66
     },
     {
-      "Var1": "AWS BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 63
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 60
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning rstats javascript reactjs",
@@ -49,15 +45,15 @@
       "Freq": 59
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 53
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 51
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 54
     },
     {
       "Var1": "ApacheSpark BigData Analytics DataScience AI",
+      "Freq": 48
+    },
+    {
+      "Var1": "AWS BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 48
     },
     {
@@ -77,66 +73,70 @@
       "Freq": 45
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 44
-    },
-    {
       "Var1": "Python",
       "Freq": 41
     },
     {
       "Var1": "Python 100DaysOfCode IoT",
       "Freq": 40
+    },
+    {
+      "Var1": "ML BigData DataScientist 100DaysOfCode",
+      "Freq": 39
+    },
+    {
+      "Var1": "Python Books BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
+      "Freq": 39
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "datasciencebot_",
-      "Freq": 255
+      "Freq": 246
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 157
+      "Freq": 155
     },
     {
       "Var1": "redianbot",
-      "Freq": 143
+      "Freq": 140
     },
     {
       "Var1": "xaelbot",
-      "Freq": 142
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 137
+      "Freq": 138
     },
     {
       "Var1": "nlognbot",
-      "Freq": 137
+      "Freq": 136
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 132
+      "Var1": "chidambara09",
+      "Freq": 128
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 114
+      "Freq": 115
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 111
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 103
+      "Freq": 108
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 100
     },
     {
       "Var1": "Taieb_Bot",
       "Freq": 99
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 96
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 91
+      "Freq": 95
     },
     {
       "Var1": "developersbot",
@@ -144,33 +144,33 @@
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 85
+      "Freq": 84
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 79
+      "Freq": 82
+    },
+    {
+      "Var1": "techtrendingnow",
+      "Freq": 66
     },
     {
       "Var1": "hubofml",
-      "Freq": 64
+      "Freq": 63
     },
     {
       "Var1": "ServerlessFan",
       "Freq": 63
     },
     {
-      "Var1": "techtrendingnow",
-      "Freq": 62
-    },
-    {
-      "Var1": "LinuxDreams",
+      "Var1": "TheDeveloperBot",
       "Freq": 57
     },
     {
-      "Var1": "TheDeveloperBot",
+      "Var1": "LinuxDreams",
       "Freq": 55
     }
   ],
-  "top10_tweets_like": ["I've written an overview on:\n\nA Unifying Framework for Parallel and Distributed Processing in R using Futures\n\narXiv version avail via https://t.co/SjhLdMUyYF \n\nFeedback appreciated 🙏 (above issue tracker). Hoping for The R Journal\n\n#rstats #parallel #hpc future", "Bivariate choropleth maps are great to show relations between two variables. The tmap #rstats package doesn't implement bivariate maps yet, but with some additional coding they can be done. See examples at https://t.co/t1dZxVvODN based on the work of @maps4thought #tmap #rspatial https://t.co/AlAeFd19lD", "We're hiring a second data scientist at @Heap! 🥳\n\nThis is a senior role that will work with me + others to research &amp; develop new features for our analytics product, and help 1000s of users gain insight from their data\n\n#rstats and Python both welcome!\n\nhttps://t.co/QuGuis9uuV", "My favorite slide from my recent successful Ph.D. defense, showing large week-to-week variations in the jump landing patterns of preschool children.\nThe gif is made in #rstats using #ggplot2 and #gganimate through the mocapr 📦.\n@thomasp85 https://t.co/E4BwiexJWX", "For all users of mixed effects models, published today in @thePeerJ is our digest of perils and pitfalls @mattjsilk @XavHarrison @UniExeCEC #rstats #ecologicalmodelling we hope you find it useful! https://t.co/gkSDZ94ZxH", "500 balls in a 2D rigid body physics simulation calculated + rendered in realtime in #RStats at 40fps!\n\nI've included some code in the video so you can see some of the fun involved!\n\nPkgs needed so far: {cheddar} {cairocore} {sdlcore} {pixelweaver} {chipmunkcore} https://t.co/KBo8zctKj3", "Accelerate Your Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/4MVmjk5fzf https://t.co/WnferUwXVI", "In {dplyr} it's now easy to manipulate objects, not just data.  Here's an example of tidy manipulation of pretty plotly barcharts.  Rpubs tutorial here --&gt; https://t.co/rij87SfnWw #rstats #r4ds #tidyverse #datascience #analytics https://t.co/63CIpJ3XK0", "A qué hora se suelen alcanzar las temperaturas máximas o mínimas? Aquí la distribución para Barcelona y Madrid con datos de @AEMET_Esp \n  #rstats #ggplot2 #dataviz https://t.co/PRw8v2iIfF", "Top 10 Interview Questions in Machine Learning\n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence https://t.co/ymU0uXDlny"],
-  "top10_tweets_retweet": ["I've written an overview on:\n\nA Unifying Framework for Parallel and Distributed Processing in R using Futures\n\narXiv version avail via https://t.co/SjhLdMUyYF \n\nFeedback appreciated 🙏 (above issue tracker). Hoping for The R Journal\n\n#rstats #parallel #hpc future", "Bivariate choropleth maps are great to show relations between two variables. The tmap #rstats package doesn't implement bivariate maps yet, but with some additional coding they can be done. See examples at https://t.co/t1dZxVvODN based on the work of @maps4thought #tmap #rspatial https://t.co/AlAeFd19lD", "We're hiring a second data scientist at @Heap! 🥳\n\nThis is a senior role that will work with me + others to research &amp; develop new features for our analytics product, and help 1000s of users gain insight from their data\n\n#rstats and Python both welcome!\n\nhttps://t.co/QuGuis9uuV", "My favorite slide from my recent successful Ph.D. defense, showing large week-to-week variations in the jump landing patterns of preschool children.\nThe gif is made in #rstats using #ggplot2 and #gganimate through the mocapr 📦.\n@thomasp85 https://t.co/E4BwiexJWX", "For all users of mixed effects models, published today in @thePeerJ is our digest of perils and pitfalls @mattjsilk @XavHarrison @UniExeCEC #rstats #ecologicalmodelling we hope you find it useful! https://t.co/gkSDZ94ZxH", "500 balls in a 2D rigid body physics simulation calculated + rendered in realtime in #RStats at 40fps!\n\nI've included some code in the video so you can see some of the fun involved!\n\nPkgs needed so far: {cheddar} {cairocore} {sdlcore} {pixelweaver} {chipmunkcore} https://t.co/KBo8zctKj3", "Accelerate Your Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/4MVmjk5fzf https://t.co/WnferUwXVI", "In {dplyr} it's now easy to manipulate objects, not just data.  Here's an example of tidy manipulation of pretty plotly barcharts.  Rpubs tutorial here --&gt; https://t.co/rij87SfnWw #rstats #r4ds #tidyverse #datascience #analytics https://t.co/63CIpJ3XK0", "A qué hora se suelen alcanzar las temperaturas máximas o mínimas? Aquí la distribución para Barcelona y Madrid con datos de @AEMET_Esp \n  #rstats #ggplot2 #dataviz https://t.co/PRw8v2iIfF", "Top 10 Interview Questions in Machine Learning\n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence https://t.co/ymU0uXDlny"]
+  "top10_tweets_like": ["Bivariate choropleth maps are great to show relations between two variables. The tmap #rstats package doesn't implement bivariate maps yet, but with some additional coding they can be done. See examples at https://t.co/t1dZxVvODN based on the work of @maps4thought #tmap #rspatial https://t.co/AlAeFd19lD", "We're hiring a second data scientist at @Heap! 🥳\n\nThis is a senior role that will work with me + others to research &amp; develop new features for our analytics product, and help 1000s of users gain insight from their data\n\n#rstats and Python both welcome!\n\nhttps://t.co/QuGuis9uuV", "My favorite slide from my recent successful Ph.D. defense, showing large week-to-week variations in the jump landing patterns of preschool children.\nThe gif is made in #rstats using #ggplot2 and #gganimate through the mocapr 📦.\n@thomasp85 https://t.co/E4BwiexJWX", "For all users of mixed effects models, published today in @thePeerJ is our digest of perils and pitfalls @mattjsilk @XavHarrison @UniExeCEC #rstats #ecologicalmodelling we hope you find it useful! https://t.co/gkSDZ94ZxH", "500 balls in a 2D rigid body physics simulation calculated + rendered in realtime in #RStats at 40fps!\n\nI've included some code in the video so you can see some of the fun involved!\n\nPkgs needed so far: {cheddar} {cairocore} {sdlcore} {pixelweaver} {chipmunkcore} https://t.co/KBo8zctKj3", "In {dplyr} it's now easy to manipulate objects, not just data.  Here's an example of tidy manipulation of pretty plotly barcharts.  Rpubs tutorial here --&gt; https://t.co/rij87SfnWw #rstats #r4ds #tidyverse #datascience #analytics https://t.co/63CIpJ3XK0", "Accelerate Your Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/4MVmjk5fzf https://t.co/WnferUwXVI", "A qué hora se suelen alcanzar las temperaturas máximas o mínimas? Aquí la distribución para Barcelona y Madrid con datos de @AEMET_Esp \n  #rstats #ggplot2 #dataviz https://t.co/PRw8v2iIfF", "Finally got back to doing some #rstats in the last few days and learned something new ☺ made my first R package! For now it's mainly for speeding up my plotting process and includes my **very simple** theme. \n\n#ggplot2 #100DaysOfCode Days 43-46\n\nhttps://t.co/369hLhXu1k", "I built an #rstats #shiny dashboard that people can use to see the progress that Kenya has made towards achieving the SDGs (solely based on the census data).  Still work in progress though ... but it makes me so happy ... 😢\nhttps://t.co/gVpYs7hg3H"],
+  "top10_tweets_retweet": ["Bivariate choropleth maps are great to show relations between two variables. The tmap #rstats package doesn't implement bivariate maps yet, but with some additional coding they can be done. See examples at https://t.co/t1dZxVvODN based on the work of @maps4thought #tmap #rspatial https://t.co/AlAeFd19lD", "We're hiring a second data scientist at @Heap! 🥳\n\nThis is a senior role that will work with me + others to research &amp; develop new features for our analytics product, and help 1000s of users gain insight from their data\n\n#rstats and Python both welcome!\n\nhttps://t.co/QuGuis9uuV", "My favorite slide from my recent successful Ph.D. defense, showing large week-to-week variations in the jump landing patterns of preschool children.\nThe gif is made in #rstats using #ggplot2 and #gganimate through the mocapr 📦.\n@thomasp85 https://t.co/E4BwiexJWX", "For all users of mixed effects models, published today in @thePeerJ is our digest of perils and pitfalls @mattjsilk @XavHarrison @UniExeCEC #rstats #ecologicalmodelling we hope you find it useful! https://t.co/gkSDZ94ZxH", "500 balls in a 2D rigid body physics simulation calculated + rendered in realtime in #RStats at 40fps!\n\nI've included some code in the video so you can see some of the fun involved!\n\nPkgs needed so far: {cheddar} {cairocore} {sdlcore} {pixelweaver} {chipmunkcore} https://t.co/KBo8zctKj3", "In {dplyr} it's now easy to manipulate objects, not just data.  Here's an example of tidy manipulation of pretty plotly barcharts.  Rpubs tutorial here --&gt; https://t.co/rij87SfnWw #rstats #r4ds #tidyverse #datascience #analytics https://t.co/63CIpJ3XK0", "Accelerate Your Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/4MVmjk5fzf https://t.co/WnferUwXVI", "A qué hora se suelen alcanzar las temperaturas máximas o mínimas? Aquí la distribución para Barcelona y Madrid con datos de @AEMET_Esp \n  #rstats #ggplot2 #dataviz https://t.co/PRw8v2iIfF", "Finally got back to doing some #rstats in the last few days and learned something new ☺ made my first R package! For now it's mainly for speeding up my plotting process and includes my **very simple** theme. \n\n#ggplot2 #100DaysOfCode Days 43-46\n\nhttps://t.co/369hLhXu1k", "I built an #rstats #shiny dashboard that people can use to see the progress that Kenya has made towards achieving the SDGs (solely based on the census data).  Still work in progress though ... but it makes me so happy ... 😢\nhttps://t.co/gVpYs7hg3H"]
 }
