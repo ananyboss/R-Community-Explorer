@@ -1,40 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6536,
-      "average_tweets_per_hour": 272,
-      "tweeters_today": 1382,
-      "total_likes_today": 3912
+      "total_tweets_today": 6664,
+      "average_tweets_per_hour": 278,
+      "tweeters_today": 1393,
+      "total_likes_today": 3936
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 182
+      "Freq": 184
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
       "Freq": 137
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 134
-    },
-    {
-      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
-      "Freq": 115
-    },
-    {
       "Var1": "ApacheSpark BigData Analytics DataScience AI",
       "Freq": 113
     },
     {
-      "Var1": "Books Python BigData Analytics DataScience IoT IIoT PyTorch RStats TensorFlow Java",
-      "Freq": 106
+      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
+      "Freq": 112
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 111
     },
     {
       "Var1": "Python MachineLearning BigData Analytics DataScience AI IoT IIoT RStats Java",
-      "Freq": 105
+      "Freq": 111
     },
     {
       "Var1": "BigData Analytics",
@@ -42,18 +38,18 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 90
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 79
+      "Freq": 78
+    },
+    {
+      "Var1": "Books Python BigData Analytics DataScience IoT IIoT PyTorch RStats TensorFlow Java",
+      "Freq": 76
     },
     {
       "Var1": "Python",
-      "Freq": 74
-    },
-    {
-      "Var1": "Python programming",
       "Freq": 74
     },
     {
@@ -61,58 +57,66 @@
       "Freq": 72
     },
     {
+      "Var1": "Python programming",
+      "Freq": 65
+    },
+    {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 61
     },
     {
-      "Var1": "Covid19 MachineLearning Algorithms BigData Analytics DataScience AI",
-      "Freq": 57
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 59
     },
     {
       "Var1": "Python 100DaysOfCode IoT MachineLearning",
-      "Freq": 57
+      "Freq": 58
     },
     {
       "Var1": "Tensorflow MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 50
+      "Freq": 52
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 51
+    },
+    {
+      "Var1": "Covid19 MachineLearning Algorithms BigData Analytics DataScience AI",
       "Freq": 49
     },
     {
       "Var1": "Python Books BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 48
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
-      "Freq": 47
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "datasciencebot_",
-      "Freq": 298
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 217
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 216
+      "Freq": 311
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 208
+      "Freq": 224
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 220
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 220
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 198
+      "Freq": 219
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 187
+      "Freq": 197
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 185
     },
     {
       "Var1": "redianbot",
@@ -120,11 +124,7 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 181
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 179
+      "Freq": 182
     },
     {
       "Var1": "xaelbot",
@@ -132,7 +132,11 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 175
+      "Freq": 164
+    },
+    {
+      "Var1": "Fabriciosx",
+      "Freq": 148
     },
     {
       "Var1": "developersbot",
@@ -140,37 +144,33 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 135
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 130
+      "Freq": 136
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 111
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 92
+      "Freq": 121
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 87
+      "Freq": 96
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 95
     },
     {
       "Var1": "hubofml",
-      "Freq": 83
+      "Freq": 86
     },
     {
       "Var1": "rstats4ds",
       "Freq": 70
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 65
+      "Var1": "LinuxDreams",
+      "Freq": 67
     }
   ],
-  "top10_tweets_like": ["📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "I'm chuffed to announce the release of my first open source #rstats package! 🥳🎉🍾\n\nstringr . plus is a collection of helpful string functions that aren't included in stringr:\n\nhttps://t.co/7uFGNs0jN9 https://t.co/adpfOu0qNY", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "If you've been thinking about submitting to rstudio::global() but haven't quite found the time: good news! We've extended the deadline to submit by two weeks — https://t.co/OJUgzgqqEj #rstats", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "Did you know you can append data to an existing CSV file without opening that file and importing the data into #Rstats first? Use append = TRUE in either #rdatatable's fread() function or the #tidyverse vroom pkg's vroom_write(). https://t.co/Md3RYUiplh", "Self Driving Car Specialization Course. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Wdb2Sy9ty3 https://t.co/elTDnb6iMi", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "From the testthat webinar today, having your R prompt include the git branch. (This goes in your .Rprofile) #rstats https://t.co/bnqurRIw5v", "Top #Books: Practical Business #Python. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS  #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ZISwMexuzn https://t.co/e2F6Abe6QW"],
-  "top10_tweets_retweet": ["📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "I'm chuffed to announce the release of my first open source #rstats package! 🥳🎉🍾\n\nstringr . plus is a collection of helpful string functions that aren't included in stringr:\n\nhttps://t.co/7uFGNs0jN9 https://t.co/adpfOu0qNY", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "If you've been thinking about submitting to rstudio::global() but haven't quite found the time: good news! We've extended the deadline to submit by two weeks — https://t.co/OJUgzgqqEj #rstats", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "Did you know you can append data to an existing CSV file without opening that file and importing the data into #Rstats first? Use append = TRUE in either #rdatatable's fread() function or the #tidyverse vroom pkg's vroom_write(). https://t.co/Md3RYUiplh", "Self Driving Car Specialization Course. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Wdb2Sy9ty3 https://t.co/elTDnb6iMi", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "From the testthat webinar today, having your R prompt include the git branch. (This goes in your .Rprofile) #rstats https://t.co/bnqurRIw5v", "Top #Books: Practical Business #Python. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS  #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/ZISwMexuzn https://t.co/e2F6Abe6QW"]
+  "top10_tweets_like": ["I'm chuffed to announce the release of my first open source #rstats package! 🥳🎉🍾\n\nstringr . plus is a collection of helpful string functions that aren't included in stringr:\n\nhttps://t.co/7uFGNs0jN9 https://t.co/adpfOu0qNY", "📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "If you've been thinking about submitting to rstudio::global() but haven't quite found the time: good news! We've extended the deadline to submit by two weeks — https://t.co/OJUgzgqqEj #rstats", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "Did you know you can append data to an existing CSV file without opening that file and importing the data into #Rstats first? Use append = TRUE in either #rdatatable's fread() function or the #tidyverse vroom pkg's vroom_write(). https://t.co/Md3RYUiplh", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "From the testthat webinar today, having your R prompt include the git branch. (This goes in your .Rprofile) #rstats https://t.co/bnqurRIw5v", "{gtsummary}📦tables can now be printed in 12 languages! Big thank you to @oranwutan for spearheading, and to the many who helped translate! https://t.co/ZSdnmMPn59\n \n@Jemus42 @thomas_neitmann @amauguen @CLaunderer @Shuntarooo3 @hommedefer3 @Catoper\n#rstats\nhttps://t.co/V2VAOpm37s https://t.co/NS0G7FZOgV", "GPBoost: Software Library for Gaussian Process. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/SrE0cXWHl9 https://t.co/2keuPeQDO9"],
+  "top10_tweets_retweet": ["I'm chuffed to announce the release of my first open source #rstats package! 🥳🎉🍾\n\nstringr . plus is a collection of helpful string functions that aren't included in stringr:\n\nhttps://t.co/7uFGNs0jN9 https://t.co/adpfOu0qNY", "📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "If you've been thinking about submitting to rstudio::global() but haven't quite found the time: good news! We've extended the deadline to submit by two weeks — https://t.co/OJUgzgqqEj #rstats", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "Did you know you can append data to an existing CSV file without opening that file and importing the data into #Rstats first? Use append = TRUE in either #rdatatable's fread() function or the #tidyverse vroom pkg's vroom_write(). https://t.co/Md3RYUiplh", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "From the testthat webinar today, having your R prompt include the git branch. (This goes in your .Rprofile) #rstats https://t.co/bnqurRIw5v", "{gtsummary}📦tables can now be printed in 12 languages! Big thank you to @oranwutan for spearheading, and to the many who helped translate! https://t.co/ZSdnmMPn59\n \n@Jemus42 @thomas_neitmann @amauguen @CLaunderer @Shuntarooo3 @hommedefer3 @Catoper\n#rstats\nhttps://t.co/V2VAOpm37s https://t.co/NS0G7FZOgV", "GPBoost: Software Library for Gaussian Process. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/SrE0cXWHl9 https://t.co/2keuPeQDO9"]
 }
