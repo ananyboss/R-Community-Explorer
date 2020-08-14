@@ -1,20 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6617,
-      "average_tweets_per_hour": 276,
-      "tweeters_today": 1413,
-      "total_likes_today": 4314
+      "total_tweets_today": 6723,
+      "average_tweets_per_hour": 280,
+      "tweeters_today": 1404,
+      "total_likes_today": 4385
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 134
+      "Freq": 135
     },
     {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats JavaScript",
       "Freq": 133
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 125
     },
     {
       "Var1": "ApacheSpark BigData Analytics DataScience AI",
@@ -22,19 +26,11 @@
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 105
+      "Freq": 107
     },
     {
       "Var1": "tidyverse rstats",
       "Freq": 104
-    },
-    {
-      "Var1": "Python programming",
-      "Freq": 102
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 97
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -46,15 +42,23 @@
     },
     {
       "Var1": "Books Python BigData Analytics DataScience IoT IIoT PyTorch RStats TensorFlow Java",
-      "Freq": 84
+      "Freq": 94
     },
     {
       "Var1": "Python",
-      "Freq": 84
+      "Freq": 93
+    },
+    {
+      "Var1": "Python programming",
+      "Freq": 88
     },
     {
       "Var1": "AWS BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 82
+    },
+    {
+      "Var1": "Python MachineLearning BigData Analytics DataScience AI IoT IIoT RStats Java",
+      "Freq": 78
     },
     {
       "Var1": "Covid19 MachineLearning Algorithms BigData Analytics DataScience AI",
@@ -73,10 +77,6 @@
       "Freq": 69
     },
     {
-      "Var1": "Python MachineLearning BigData Analytics DataScience AI IoT IIoT RStats Java",
-      "Freq": 69
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
       "Freq": 68
     },
@@ -92,27 +92,27 @@
   "top20_tweeters": [
     {
       "Var1": "datasciencebot_",
-      "Freq": 311
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 224
+      "Freq": 320
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 210
+      "Freq": 231
     },
     {
-      "Var1": "friday_Js_bot",
-      "Freq": 209
+      "Var1": "theInfernobot",
+      "Freq": 225
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 205
+      "Freq": 216
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 214
     },
     {
       "Var1": "nlognbot",
-      "Freq": 196
+      "Freq": 198
     },
     {
       "Var1": "chidambara09",
@@ -120,15 +120,19 @@
     },
     {
       "Var1": "redianbot",
-      "Freq": 185
+      "Freq": 187
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 173
+      "Freq": 186
     },
     {
       "Var1": "xaelbot",
-      "Freq": 168
+      "Freq": 170
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 141
     },
     {
       "Var1": "developersbot",
@@ -136,41 +140,37 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 135
+      "Freq": 134
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 132
+      "Freq": 133
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 129
+      "Var1": "techtrendingnow",
+      "Freq": 113
     },
     {
       "Var1": "ServerlessFan",
       "Freq": 110
     },
     {
-      "Var1": "techtrendingnow",
-      "Freq": 105
-    },
-    {
       "Var1": "hubofml",
-      "Freq": 86
+      "Freq": 84
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 82
+      "Freq": 84
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 76
+      "Freq": 73
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 73
     }
   ],
-  "top10_tweets_like": ["Finally got back to doing some #rstats in the last few days and learned something new ☺ made my first R package! For now it's mainly for speeding up my plotting process and includes my **very simple** theme. \n\n#ggplot2 #100DaysOfCode Days 43-46\n\nhttps://t.co/369hLhXu1k", "📦 \"easystats • Jump in the easyverse\"\n\n👤 Daniel Lüdecke @strengejacke; Dominique Makowski 🧙 @dom_makowski\n\nhttps://t.co/LoDOIr8Kgh\n#rstats https://t.co/VLhEjhwCec", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/etMpnDZdP7", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "No he leído el libro, pero se ve interesante. Está enfocado en R, RStudio y por supuesto ggplot2.\n“Data Visualization\nA practical introduction” \nhttps://t.co/PePSou4Wsn\n#rstats #ggplot2 https://t.co/7OLuD0p9ar", "📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "Self Driving Car Specialization Course. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Wdb2Sy9ty3 https://t.co/elTDnb6iMi", "Ever happened??⁣⁣\nComment below⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/zMtQZsXxiY"],
-  "top10_tweets_retweet": ["Finally got back to doing some #rstats in the last few days and learned something new ☺ made my first R package! For now it's mainly for speeding up my plotting process and includes my **very simple** theme. \n\n#ggplot2 #100DaysOfCode Days 43-46\n\nhttps://t.co/369hLhXu1k", "📦 \"easystats • Jump in the easyverse\"\n\n👤 Daniel Lüdecke @strengejacke; Dominique Makowski 🧙 @dom_makowski\n\nhttps://t.co/LoDOIr8Kgh\n#rstats https://t.co/VLhEjhwCec", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/etMpnDZdP7", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "No he leído el libro, pero se ve interesante. Está enfocado en R, RStudio y por supuesto ggplot2.\n“Data Visualization\nA practical introduction” \nhttps://t.co/PePSou4Wsn\n#rstats #ggplot2 https://t.co/7OLuD0p9ar", "📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "Self Driving Car Specialization Course. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Wdb2Sy9ty3 https://t.co/elTDnb6iMi", "Ever happened??⁣⁣\nComment below⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/zMtQZsXxiY"]
+  "top10_tweets_like": ["Finally got back to doing some #rstats in the last few days and learned something new ☺ made my first R package! For now it's mainly for speeding up my plotting process and includes my **very simple** theme. \n\n#ggplot2 #100DaysOfCode Days 43-46\n\nhttps://t.co/369hLhXu1k", "📦 \"easystats • Jump in the easyverse\"\n\n👤 Daniel Lüdecke @strengejacke; Dominique Makowski 🧙 @dom_makowski\n\nhttps://t.co/LoDOIr8Kgh\n#rstats https://t.co/VLhEjhwCec", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/etMpnDZdP7", "📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "No he leído el libro, pero se ve interesante. Está enfocado en R, RStudio y por supuesto ggplot2.\n“Data Visualization\nA practical introduction” \nhttps://t.co/PePSou4Wsn\n#rstats #ggplot2 https://t.co/7OLuD0p9ar", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "Self Driving Car Specialization Course. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Wdb2Sy9ty3 https://t.co/elTDnb6iMi", "Ever happened??⁣⁣\nComment below⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/zMtQZsXxiY"],
+  "top10_tweets_retweet": ["Finally got back to doing some #rstats in the last few days and learned something new ☺ made my first R package! For now it's mainly for speeding up my plotting process and includes my **very simple** theme. \n\n#ggplot2 #100DaysOfCode Days 43-46\n\nhttps://t.co/369hLhXu1k", "📦 \"easystats • Jump in the easyverse\"\n\n👤 Daniel Lüdecke @strengejacke; Dominique Makowski 🧙 @dom_makowski\n\nhttps://t.co/LoDOIr8Kgh\n#rstats https://t.co/VLhEjhwCec", "Free Springer 65 #DataScience #Books. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/etMpnDZdP7", "📦🎨 \"colorblindr • An R package to simulate colorblindness on R figures.\"\n\n👤 Claus Wilke @clauswilke; Claire McWhite @clairemcwhite\n\n➡️ Simulate colorblindness in production-ready R figures.\n\nhttps://t.co/AiPcSPsaQl\n#rstats https://t.co/WpQ7dj1gIR", "I think the best ways to learn Data Science is by doing, but few programs / bootcamps offer insight into what the job is like. \n\nAre there any data folks I know who want to volunteer their time show newbies what a day in the life is like? #BlackTechTwitter #rstats", "2 Books to Deepen Your Command of #Python #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/cCsT5AqoiJ https://t.co/gVwpwlFHaK", "No he leído el libro, pero se ve interesante. Está enfocado en R, RStudio y por supuesto ggplot2.\n“Data Visualization\nA practical introduction” \nhttps://t.co/PePSou4Wsn\n#rstats #ggplot2 https://t.co/7OLuD0p9ar", "How to Deliver Max Value Using R &amp; Python\nFrom @LanderAnalytics,\nFor #DataScience teams to be successful, they need to embrace both #RStats &amp; Python. The ease of interoperability gives the user the flexibility to fill in any tool gaps for their own needs.\nhttps://t.co/GaG0TY2uyr", "Self Driving Car Specialization Course. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Wdb2Sy9ty3 https://t.co/elTDnb6iMi", "Ever happened??⁣⁣\nComment below⁣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/zMtQZsXxiY"]
 }
