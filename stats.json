@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5297,
-      "average_tweets_per_hour": 221,
-      "tweeters_today": 1264,
-      "total_likes_today": 4794
+      "total_tweets_today": 5234,
+      "average_tweets_per_hour": 218,
+      "tweeters_today": 1240,
+      "total_likes_today": 4803
     }
   ],
   "top20_hashtags": [
@@ -14,15 +14,15 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 109
+      "Freq": 121
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 106
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
       "Freq": 104
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 103
     },
     {
       "Var1": "Python",
@@ -30,27 +30,19 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 82
+      "Freq": 84
     },
     {
-      "Var1": "DataDriven MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 64
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 59
-    },
-    {
-      "Var1": "Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow Java",
       "Freq": 58
     },
     {
       "Var1": "Python 100DaysOfCode IoT",
       "Freq": 51
-    },
-    {
-      "Var1": "DataScientists BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 49
     },
     {
       "Var1": "MachineLearning BigData DataScience IoT IIoT Python RStats TensorFlow Java",
@@ -61,7 +53,15 @@
       "Freq": 49
     },
     {
+      "Var1": "AIEthics AI SafetyFirst family eldercare childcare",
+      "Freq": 48
+    },
+    {
       "Var1": "AWS Sockeye NMT Toolkit BigData Analytics DataScience AI MachineLearning IoT IIoT NLProc Python",
+      "Freq": 48
+    },
+    {
+      "Var1": "DataScientists BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 48
     },
     {
@@ -73,8 +73,8 @@
       "Freq": 47
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 47
+      "Var1": "DataDriven MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 46
     },
     {
       "Var1": "programming ArtificialIntelligence BigData Linux ML",
@@ -92,85 +92,85 @@
   "top20_tweeters": [
     {
       "Var1": "theInfernobot",
-      "Freq": 170
+      "Freq": 165
     },
     {
       "Var1": "nlognbot",
-      "Freq": 166
-    },
-    {
-      "Var1": "CodebloodedBot",
-      "Freq": 160
+      "Freq": 162
     },
     {
       "Var1": "redianbot",
-      "Freq": 153
+      "Freq": 149
     },
     {
-      "Var1": "xaelbot",
-      "Freq": 150
+      "Var1": "CodebloodedBot",
+      "Freq": 147
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 144
+      "Freq": 147
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 147
     },
     {
       "Var1": "JonTheGeek",
       "Freq": 138
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 137
+      "Var1": "TheSecretJunio1",
+      "Freq": 138
     },
     {
-      "Var1": "TheSecretJunio1",
+      "Var1": "CodeGnuts",
       "Freq": 136
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 132
+      "Freq": 133
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 128
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 122
+      "Freq": 123
     },
     {
       "Var1": "developersbot",
       "Freq": 120
     },
     {
+      "Var1": "chidambara09",
+      "Freq": 119
+    },
+    {
       "Var1": "techtrendingnow",
-      "Freq": 86
+      "Freq": 85
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 79
-    },
-    {
-      "Var1": "learn__together",
-      "Freq": 68
+      "Freq": 81
     },
     {
       "Var1": "BeakPeakLogic",
+      "Freq": 67
+    },
+    {
+      "Var1": "learn__together",
       "Freq": 66
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 65
+      "Freq": 63
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 65
+      "Freq": 62
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 58
+      "Freq": 57
     }
   ],
-  "top10_tweets_like": ["After more than 2 years, there will soon be a new release of the #rstats 📦 for running purrr in parallel - furrr!\n\nThere are a ton of bug fixes, a new future_walk() function, a whopping 5 new vignettes, and, most importantly, a hex sticker by Dan Kuhn!\n\nhttps://t.co/qsNodmEk1J https://t.co/45VZSv0yVG", "Slides and code from my #rstatsnyc talk on \"Forecasting ensembles using fable\" now available at https://t.co/wB1GhYXqE0. #rstats #forecasting Thanks to @mitchoharawild for the packages. https://t.co/GTpKLQxz0Y", "Anunciamos que o Data Zoom começa a entrar no R #rstats . Disponibilizamos primeiro o pacote *datazoomPNADcovid*  microdados da PNAD COVID 19, recentemente divulgados pelo @ibgecomunica.  1/2", "What makes an analyst excellent? Speed! But that's not as simple as it sounds. They need 6 kinds of speed... 1/🧵\n\n#DataScience #Analytics #rstats #DataAnalytics\n\nhttps://t.co/8g9vGCMsPp", "Matrices are Graphs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/FSV44BQ8wo https://t.co/7GiZw4tnAw", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Maximum Likelihood Estimation  {https://t.co/SD4BqLGDs5} #rstats #DataScience", "When you realize your #Rstats update fucked up all your packages and you have to uninstall everything \n\n@AcademicChatter #phdchat https://t.co/pxWaaqhru2", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ"],
-  "top10_tweets_retweet": ["After more than 2 years, there will soon be a new release of the #rstats 📦 for running purrr in parallel - furrr!\n\nThere are a ton of bug fixes, a new future_walk() function, a whopping 5 new vignettes, and, most importantly, a hex sticker by Dan Kuhn!\n\nhttps://t.co/qsNodmEk1J https://t.co/45VZSv0yVG", "Slides and code from my #rstatsnyc talk on \"Forecasting ensembles using fable\" now available at https://t.co/wB1GhYXqE0. #rstats #forecasting Thanks to @mitchoharawild for the packages. https://t.co/GTpKLQxz0Y", "Anunciamos que o Data Zoom começa a entrar no R #rstats . Disponibilizamos primeiro o pacote *datazoomPNADcovid*  microdados da PNAD COVID 19, recentemente divulgados pelo @ibgecomunica.  1/2", "What makes an analyst excellent? Speed! But that's not as simple as it sounds. They need 6 kinds of speed... 1/🧵\n\n#DataScience #Analytics #rstats #DataAnalytics\n\nhttps://t.co/8g9vGCMsPp", "Matrices are Graphs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/FSV44BQ8wo https://t.co/7GiZw4tnAw", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Maximum Likelihood Estimation  {https://t.co/SD4BqLGDs5} #rstats #DataScience", "When you realize your #Rstats update fucked up all your packages and you have to uninstall everything \n\n@AcademicChatter #phdchat https://t.co/pxWaaqhru2", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ"]
+  "top10_tweets_like": ["After more than 2 years, there will soon be a new release of the #rstats 📦 for running purrr in parallel - furrr!\n\nThere are a ton of bug fixes, a new future_walk() function, a whopping 5 new vignettes, and, most importantly, a hex sticker by Dan Kuhn!\n\nhttps://t.co/qsNodmEk1J https://t.co/45VZSv0yVG", "Slides and code from my #rstatsnyc talk on \"Forecasting ensembles using fable\" now available at https://t.co/wB1GhYXqE0. #rstats #forecasting Thanks to @mitchoharawild for the packages. https://t.co/GTpKLQxz0Y", "Anunciamos que o Data Zoom começa a entrar no R #rstats . Disponibilizamos primeiro o pacote *datazoomPNADcovid*  microdados da PNAD COVID 19, recentemente divulgados pelo @ibgecomunica.  1/2", "What makes an analyst excellent? Speed! But that's not as simple as it sounds. They need 6 kinds of speed... 1/🧵\n\n#DataScience #Analytics #rstats #DataAnalytics\n\nhttps://t.co/8g9vGCMsPp", "Matrices are Graphs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/FSV44BQ8wo https://t.co/7GiZw4tnAw", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Maximum Likelihood Estimation  {https://t.co/SD4BqLGDs5} #rstats #DataScience", "When you realize your #Rstats update fucked up all your packages and you have to uninstall everything \n\n@AcademicChatter #phdchat https://t.co/pxWaaqhru2", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe"],
+  "top10_tweets_retweet": ["After more than 2 years, there will soon be a new release of the #rstats 📦 for running purrr in parallel - furrr!\n\nThere are a ton of bug fixes, a new future_walk() function, a whopping 5 new vignettes, and, most importantly, a hex sticker by Dan Kuhn!\n\nhttps://t.co/qsNodmEk1J https://t.co/45VZSv0yVG", "Slides and code from my #rstatsnyc talk on \"Forecasting ensembles using fable\" now available at https://t.co/wB1GhYXqE0. #rstats #forecasting Thanks to @mitchoharawild for the packages. https://t.co/GTpKLQxz0Y", "Anunciamos que o Data Zoom começa a entrar no R #rstats . Disponibilizamos primeiro o pacote *datazoomPNADcovid*  microdados da PNAD COVID 19, recentemente divulgados pelo @ibgecomunica.  1/2", "What makes an analyst excellent? Speed! But that's not as simple as it sounds. They need 6 kinds of speed... 1/🧵\n\n#DataScience #Analytics #rstats #DataAnalytics\n\nhttps://t.co/8g9vGCMsPp", "Matrices are Graphs. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/FSV44BQ8wo https://t.co/7GiZw4tnAw", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Maximum Likelihood Estimation  {https://t.co/SD4BqLGDs5} #rstats #DataScience", "When you realize your #Rstats update fucked up all your packages and you have to uninstall everything \n\n@AcademicChatter #phdchat https://t.co/pxWaaqhru2", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe"]
 }
