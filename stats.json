@@ -1,32 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5299,
-      "average_tweets_per_hour": 221,
-      "tweeters_today": 1151,
-      "total_likes_today": 4010
+      "total_tweets_today": 5396,
+      "average_tweets_per_hour": 225,
+      "tweeters_today": 1142,
+      "total_likes_today": 4137
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "rstats DataScience",
-      "Freq": 140
+      "Var1": "RStats RStatsNYC",
+      "Freq": 147
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 137
+      "Freq": 145
     },
     {
-      "Var1": "RStats RStatsNYC",
-      "Freq": 137
+      "Var1": "rstats DataScience",
+      "Freq": 129
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
       "Freq": 121
     },
     {
+      "Var1": "Python",
+      "Freq": 77
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 79
+      "Freq": 76
     },
     {
       "Var1": "Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow Java",
@@ -37,16 +41,8 @@
       "Freq": 71
     },
     {
-      "Var1": "Python",
-      "Freq": 71
-    },
-    {
       "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 68
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -57,6 +53,10 @@
       "Freq": 60
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 58
+    },
+    {
       "Var1": "Python 100DaysOfCode IoT",
       "Freq": 58
     },
@@ -65,11 +65,19 @@
       "Freq": 55
     },
     {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 51
+    },
+    {
+      "Var1": "funny DataScience programming 100DaysOfCode DevOps",
+      "Freq": 50
+    },
+    {
       "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience rstats javascript",
       "Freq": 50
     },
     {
-      "Var1": "funny DataScience programming 100DaysOfCode DevOps",
+      "Var1": "MachineLearning Python BigData Analytics AI DataScience IoT IIoT RStats Java",
       "Freq": 49
     },
     {
@@ -79,20 +87,12 @@
     {
       "Var1": "programming ArtificialIntelligence BigData Linux ML",
       "Freq": 47
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning",
-      "Freq": 47
-    },
-    {
-      "Var1": "MachineLearning Python BigData Analytics AI DataScience IoT IIoT RStats Java",
-      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "theInfernobot",
-      "Freq": 182
+      "Freq": 185
     },
     {
       "Var1": "nlognbot",
@@ -100,77 +100,77 @@
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 166
+      "Freq": 164
     },
     {
       "Var1": "redianbot",
-      "Freq": 159
+      "Freq": 163
     },
     {
       "Var1": "xaelbot",
-      "Freq": 158
+      "Freq": 162
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 149
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 146
+      "Freq": 155
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 144
+      "Freq": 147
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 147
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 140
-    },
-    {
-      "Var1": "JonTheGeek",
-      "Freq": 127
+      "Freq": 141
     },
     {
       "Var1": "chidambara09",
-      "Freq": 126
+      "Freq": 132
     },
     {
       "Var1": "developersbot",
-      "Freq": 126
+      "Freq": 131
+    },
+    {
+      "Var1": "JonTheGeek",
+      "Freq": 131
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 118
+      "Freq": 121
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 87
     },
     {
       "Var1": "learn__together",
       "Freq": 86
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 84
-    },
-    {
       "Var1": "techtrendingnow",
-      "Freq": 84
+      "Freq": 86
     },
     {
-      "Var1": "LinuxDreams",
-      "Freq": 81
+      "Var1": "rstats4ds",
+      "Freq": 83
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 69
+      "Freq": 72
     },
     {
       "Var1": "TheDeveloperBot",
       "Freq": 69
     },
     {
-      "Var1": "NetworkIndie",
-      "Freq": 64
+      "Var1": "hubofml",
+      "Freq": 65
     }
   ],
-  "top10_tweets_like": ["Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "new {geometries} package now on CRAN\n\n- create geometric structures (POINTS, LINES, POLYGONS) from R object, agnostic of any class or attributes\n\n#rstats #rspatial\n\nhttps://t.co/X3fkIRMD19", "Sad!! But not surprised!! Out of all the statisticians, Hillary has perhaps the LOWEST R^2. Too much focus on “good design” and not enough on TOUGH American cubic splines! \n\n#epitwitter #rstats #econtwitter #DataScience #MachineLearning https://t.co/6mZhb8Doxp"],
-  "top10_tweets_retweet": ["Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "new {geometries} package now on CRAN\n\n- create geometric structures (POINTS, LINES, POLYGONS) from R object, agnostic of any class or attributes\n\n#rstats #rspatial\n\nhttps://t.co/X3fkIRMD19", "Sad!! But not surprised!! Out of all the statisticians, Hillary has perhaps the LOWEST R^2. Too much focus on “good design” and not enough on TOUGH American cubic splines! \n\n#epitwitter #rstats #econtwitter #DataScience #MachineLearning https://t.co/6mZhb8Doxp"]
+  "top10_tweets_like": ["Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ", "Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "new {geometries} package now on CRAN\n\n- create geometric structures (POINTS, LINES, POLYGONS) from R object, agnostic of any class or attributes\n\n#rstats #rspatial\n\nhttps://t.co/X3fkIRMD19", "Sad!! But not surprised!! Out of all the statisticians, Hillary has perhaps the LOWEST R^2. Too much focus on “good design” and not enough on TOUGH American cubic splines! \n\n#epitwitter #rstats #econtwitter #DataScience #MachineLearning https://t.co/6mZhb8Doxp"],
+  "top10_tweets_retweet": ["Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ", "Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "new {geometries} package now on CRAN\n\n- create geometric structures (POINTS, LINES, POLYGONS) from R object, agnostic of any class or attributes\n\n#rstats #rspatial\n\nhttps://t.co/X3fkIRMD19", "Sad!! But not surprised!! Out of all the statisticians, Hillary has perhaps the LOWEST R^2. Too much focus on “good design” and not enough on TOUGH American cubic splines! \n\n#epitwitter #rstats #econtwitter #DataScience #MachineLearning https://t.co/6mZhb8Doxp"]
 }
