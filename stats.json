@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5448,
-      "average_tweets_per_hour": 227,
-      "tweeters_today": 1167,
-      "total_likes_today": 4307
+      "total_tweets_today": 5402,
+      "average_tweets_per_hour": 225,
+      "tweeters_today": 1132,
+      "total_likes_today": 4213
     }
   ],
   "top20_hashtags": [
@@ -17,11 +17,11 @@
       "Freq": 151
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 121
+      "Var1": "rstats DataScience",
+      "Freq": 127
     },
     {
-      "Var1": "rstats DataScience",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
       "Freq": 121
     },
     {
@@ -37,12 +37,16 @@
       "Freq": 71
     },
     {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 67
+    },
+    {
       "Var1": "Python",
       "Freq": 66
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -57,6 +61,10 @@
       "Freq": 59
     },
     {
+      "Var1": "programming ArtificialIntelligence BigData Linux ML",
+      "Freq": 58
+    },
+    {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
       "Freq": 56
     },
@@ -65,16 +73,12 @@
       "Freq": 55
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 55
+      "Var1": "Python 100DaysOfCode IoT",
+      "Freq": 53
     },
     {
       "Var1": "Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 54
-    },
-    {
-      "Var1": "Python 100DaysOfCode IoT",
-      "Freq": 53
+      "Freq": 52
     },
     {
       "Var1": "funny DataScience programming 100DaysOfCode DevOps",
@@ -83,43 +87,47 @@
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 51
-    },
-    {
-      "Var1": "MachineLearning Python BigData Analytics AI DataScience IoT IIoT RStats Java",
-      "Freq": 50
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "CodebloodedBot",
-      "Freq": 186
+      "Freq": 204
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 182
+      "Freq": 181
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 172
     },
     {
       "Var1": "nlognbot",
-      "Freq": 174
+      "Freq": 167
     },
     {
       "Var1": "redianbot",
-      "Freq": 166
+      "Freq": 163
     },
     {
       "Var1": "xaelbot",
-      "Freq": 165
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 146
+      "Freq": 162
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 140
+      "Freq": 149
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 142
     },
     {
       "Var1": "JonTheGeek",
+      "Freq": 141
+    },
+    {
+      "Var1": "nodeQuotesBot",
       "Freq": 140
     },
     {
@@ -127,50 +135,42 @@
       "Freq": 139
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 138
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 134
-    },
-    {
       "Var1": "developersbot",
       "Freq": 134
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 128
+      "Freq": 126
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 86
+      "Freq": 87
     },
     {
       "Var1": "learn__together",
-      "Freq": 85
+      "Freq": 86
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 80
+      "Freq": 84
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 77
+      "Freq": 76
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 74
     },
     {
       "Var1": "ServerlessFan",
       "Freq": 73
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 72
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 66
+      "Var1": "NetworkIndie",
+      "Freq": 65
     }
   ],
-  "top10_tweets_like": ["Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "Shout out to @juliasilge and @drob's weekly tidytuesday screencasts from @thomas_mock. I've been constantly recommending them for people looking to take their #rstats game to the next level!  #rstatsnyc\n\nhttps://t.co/LId1SjZdAm\n\nhttps://t.co/i8ZnZyvf5U https://t.co/J0LePuIgp7", "Animation showing how a #ggplot gets rendered\n\nCreated as part of my stress testing of {cairocore} (in conjunction with {devout})\n\n#RStats https://t.co/MzHF73wn5o"],
-  "top10_tweets_retweet": ["Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Statistical programming languages, judged by their ability to render a delicious-looking pretzel:\n\n🥨R: ✅\n🥨STATA: 🚫\n🥨SAS: 🚫\n\nWinner: #rstats! https://t.co/RMIsywwQrQ", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "Shout out to @juliasilge and @drob's weekly tidytuesday screencasts from @thomas_mock. I've been constantly recommending them for people looking to take their #rstats game to the next level!  #rstatsnyc\n\nhttps://t.co/LId1SjZdAm\n\nhttps://t.co/i8ZnZyvf5U https://t.co/J0LePuIgp7", "Animation showing how a #ggplot gets rendered\n\nCreated as part of my stress testing of {cairocore} (in conjunction with {devout})\n\n#RStats https://t.co/MzHF73wn5o"]
+  "top10_tweets_like": ["Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "Shout out to @juliasilge and @drob's weekly tidytuesday screencasts from @thomas_mock. I've been constantly recommending them for people looking to take their #rstats game to the next level!  #rstatsnyc\n\nhttps://t.co/LId1SjZdAm\n\nhttps://t.co/i8ZnZyvf5U https://t.co/J0LePuIgp7", "Animation showing how a #ggplot gets rendered\n\nCreated as part of my stress testing of {cairocore} (in conjunction with {devout})\n\n#RStats https://t.co/MzHF73wn5o", "✍️🧹🤖 \"Machine Learning Pipelines with Tidymodels and Targets • mdneuzerling\"\n\n👤 David Neuzerling @mdneuzerling \n\nhttps://t.co/7gBNw8yUup\n#rstats https://t.co/HchliogJFr"],
+  "top10_tweets_retweet": ["Really excited to talk about #rstats + RMarkdown for #rstatsnyc in about an hr! \n\nSlides at: https://t.co/AYSprYoK9d if you want to follow along or maybe live tweet!\n\nCompanion blog post: https://t.co/a6DbT0AA6c https://t.co/5SQfrHjFim", "Tutorial: Web Scraping of Multiple Pages using R  {https://t.co/t3LFdeQUkm} #rstats #DataScience", "Save workspace to .RData on exit: Never\n\nis the new\n\nstringsAsFactors = FALSE\n\n#RStats", "Free Chapters: Real-World #MachineLearning. #BigData #Analytics #DataScience #AI  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xkGrh52q9Y https://t.co/IZkUIG32x5", "Announcing The New #Jupyter Book. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/n4I6h5oDwJ https://t.co/TARMgrNmEj", "🔰I would make a UDP joke, but you might not get it...\n\n#funny #DataScience #programming #100DaysOfCode #DevOps #javascript #Linux #RStats #Serverless #TechHumor #DevJokes #CodeNewbies #girlswhocode #ArtificialIntelligence #BigData #Coding #UX #Python https://t.co/agM3kpnDXe", "A beginner’s guide to Shiny modules  {https://t.co/IDutmIwufI} #rstats #DataScience", "Shout out to @juliasilge and @drob's weekly tidytuesday screencasts from @thomas_mock. I've been constantly recommending them for people looking to take their #rstats game to the next level!  #rstatsnyc\n\nhttps://t.co/LId1SjZdAm\n\nhttps://t.co/i8ZnZyvf5U https://t.co/J0LePuIgp7", "Animation showing how a #ggplot gets rendered\n\nCreated as part of my stress testing of {cairocore} (in conjunction with {devout})\n\n#RStats https://t.co/MzHF73wn5o", "✍️🧹🤖 \"Machine Learning Pipelines with Tidymodels and Targets • mdneuzerling\"\n\n👤 David Neuzerling @mdneuzerling \n\nhttps://t.co/7gBNw8yUup\n#rstats https://t.co/HchliogJFr"]
 }
