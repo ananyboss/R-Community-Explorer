@@ -1,60 +1,56 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6422,
-      "average_tweets_per_hour": 268,
-      "tweeters_today": 1668,
-      "total_likes_today": 5313
+      "total_tweets_today": 6394,
+      "average_tweets_per_hour": 266,
+      "tweeters_today": 1681,
+      "total_likes_today": 5024
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats DataScience",
-      "Freq": 128
+      "Freq": 126
     },
     {
       "Var1": "rstats rstatsES",
-      "Freq": 117
-    },
-    {
-      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 111
-    },
-    {
-      "Var1": "DataScientists",
-      "Freq": 104
+      "Freq": 120
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience",
-      "Freq": 104
+      "Freq": 119
+    },
+    {
+      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 105
     },
     {
       "Var1": "DeepLearning Analytics",
       "Freq": 103
     },
     {
+      "Var1": "DataScientists",
+      "Freq": 101
+    },
+    {
+      "Var1": "Algorithms BigData Analytics DataScience",
+      "Freq": 95
+    },
+    {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience",
       "Freq": 95
     },
     {
-      "Var1": "Algorithms BigData Analytics DataScience",
-      "Freq": 94
-    },
-    {
-      "Var1": "IoT BigData Analytics DataScience AI MachineLearning IIoT",
-      "Freq": 92
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 91
-    },
-    {
       "Var1": "rstats tidyverse",
-      "Freq": 91
+      "Freq": 94
     },
     {
       "Var1": "theinsaneapp ML AI",
       "Freq": 88
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 87
     },
     {
       "Var1": "DataScience programming 100DaysOfCode DevOps Developer",
@@ -65,102 +61,106 @@
       "Freq": 83
     },
     {
+      "Var1": "IoT BigData Analytics DataScience AI MachineLearning IIoT",
+      "Freq": 82
+    },
+    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 82
     },
     {
       "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 72
+      "Freq": 77
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
       "Freq": 63
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 56
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 63
     },
     {
       "Var1": "DataScience Statistics BigData Analytics IoT IIoT Python RStats TensorFlow",
-      "Freq": 55
+      "Freq": 59
     },
     {
-      "Var1": "MachineLearning RaspberryPi BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 55
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 56
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "datasciencebot_",
-      "Freq": 327
+      "Freq": 324
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 231
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 176
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 176
-    },
-    {
-      "Var1": "redianbot",
-      "Freq": 175
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 173
+      "Freq": 213
     },
     {
       "Var1": "NlognHQ",
-      "Freq": 167
+      "Freq": 178
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 174
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 171
+    },
+    {
+      "Var1": "redianbot",
+      "Freq": 169
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 169
     },
     {
       "Var1": "nlognbot",
-      "Freq": 152
+      "Freq": 149
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 146
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 135
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 129
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 127
+      "Freq": 143
     },
     {
       "Var1": "developersbot",
+      "Freq": 130
+    },
+    {
+      "Var1": "CodeGnuts",
       "Freq": 126
     },
     {
-      "Var1": "chidambara09",
+      "Var1": "nodeQuotesBot",
+      "Freq": 119
+    },
+    {
+      "Var1": "Fabriciosx",
       "Freq": 117
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 95
+      "Var1": "chidambara09",
+      "Freq": 114
     },
     {
-      "Var1": "NetworkIndie",
-      "Freq": 84
+      "Var1": "ServerlessFan",
+      "Freq": 98
     },
     {
       "Var1": "hubofml",
-      "Freq": 83
+      "Freq": 84
+    },
+    {
+      "Var1": "NetworkIndie",
+      "Freq": 79
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 82
+      "Freq": 76
     },
     {
       "Var1": "BeakPeakLogic",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 61
+      "Freq": 63
     }
   ],
-  "top10_tweets_like": ["📕🖥💻 #rstats #rstatsES Finalmente!! felices de haber subido la versión entera de “AnalizaR Datos Políticos” el libro online y gratuito sobre el uso de R en #cienciapolitica y #RRII para estudiantes y profesionales de #latinoamerica.🌎 📈📊 Link: https://t.co/HlIjNrgXQl @icp_uc", "Thesis submitted!!!\nAnd with that, a 4.5 year journey comes to an end.\nOver 30k words, 171 pages and over 6k lines of #rstats code. \nThank you to everyone who has supported me along the way!\n#PhDone #phdchat @UOW_CSES https://t.co/MEj088D2Hk", "I only just found out that shift+ctrl+m inserts a pipe operator in R and why. did. I. not. know. this. before. \n#rstats #r4ds @rstudiotips, what's your favorite useful / time saving R tip or shortcut, default or custom?", "This is bioseq: a new #rstats package 📦 to work with biological sequences and which plays nicely with the #tidyverse.\n\n... and yes you can have colored nucleotides! 🧬🌈💻#bioinformatics #DNA https://t.co/or0uZjZ0wt https://t.co/SypsqLngvb", "Generate those 1990s MagicEye images in #rstats with {rstereogram}.\n\nIncludes functions to create autostereograms from images, ggplots, or random dinosaurs.\n\nhttps://t.co/IZx0QipfHN https://t.co/L0bKCqtHQJ", "How to Build a Regression Model in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NwHvj5xaLy https://t.co/PxVinWeMKJ", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #DataScience #AI #IoT #IIoT #Python #RStats #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/v4o1lKbnuQ", "Good god vroom::vroom() is fast https://t.co/FUvLj8EeuK #Rstats https://t.co/puHaEJJ5WR", "Had a great day today learning geocomputation w/ #rstats at @OpenGeoHub SS!\n\n📦 Data cubes by @edzerpebesma\nhttps://t.co/znRQOrn9ay\n\n🛰️ #DeepLearning #Keras &amp; #Tensorflow by @ChKnoth\nhttps://t.co/Fr00XVic9N\n\n⚡️ #MachineLearning &amp; #TidyModels by John Lewis\nhttps://t.co/KD0tmzuFdx https://t.co/3nFNdSNoNs", "🤯 So you're telling me there have been 23 episodes of an #rstats screencast × sports series (@tidy_explained) and I'm *just now* finding out about it?!!\n📼 \"TidyX Episode 23: Mailbag and Expected  Wins\" https://t.co/hu1AQso9yq\n😧 @OSPpatrick, @ellis_hughes, my deepest apologies! https://t.co/E8jT2Vcbkc"],
-  "top10_tweets_retweet": ["📕🖥💻 #rstats #rstatsES Finalmente!! felices de haber subido la versión entera de “AnalizaR Datos Políticos” el libro online y gratuito sobre el uso de R en #cienciapolitica y #RRII para estudiantes y profesionales de #latinoamerica.🌎 📈📊 Link: https://t.co/HlIjNrgXQl @icp_uc", "Thesis submitted!!!\nAnd with that, a 4.5 year journey comes to an end.\nOver 30k words, 171 pages and over 6k lines of #rstats code. \nThank you to everyone who has supported me along the way!\n#PhDone #phdchat @UOW_CSES https://t.co/MEj088D2Hk", "I only just found out that shift+ctrl+m inserts a pipe operator in R and why. did. I. not. know. this. before. \n#rstats #r4ds @rstudiotips, what's your favorite useful / time saving R tip or shortcut, default or custom?", "This is bioseq: a new #rstats package 📦 to work with biological sequences and which plays nicely with the #tidyverse.\n\n... and yes you can have colored nucleotides! 🧬🌈💻#bioinformatics #DNA https://t.co/or0uZjZ0wt https://t.co/SypsqLngvb", "Generate those 1990s MagicEye images in #rstats with {rstereogram}.\n\nIncludes functions to create autostereograms from images, ggplots, or random dinosaurs.\n\nhttps://t.co/IZx0QipfHN https://t.co/L0bKCqtHQJ", "How to Build a Regression Model in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NwHvj5xaLy https://t.co/PxVinWeMKJ", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #DataScience #AI #IoT #IIoT #Python #RStats #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/v4o1lKbnuQ", "Good god vroom::vroom() is fast https://t.co/FUvLj8EeuK #Rstats https://t.co/puHaEJJ5WR", "Had a great day today learning geocomputation w/ #rstats at @OpenGeoHub SS!\n\n📦 Data cubes by @edzerpebesma\nhttps://t.co/znRQOrn9ay\n\n🛰️ #DeepLearning #Keras &amp; #Tensorflow by @ChKnoth\nhttps://t.co/Fr00XVic9N\n\n⚡️ #MachineLearning &amp; #TidyModels by John Lewis\nhttps://t.co/KD0tmzuFdx https://t.co/3nFNdSNoNs", "🤯 So you're telling me there have been 23 episodes of an #rstats screencast × sports series (@tidy_explained) and I'm *just now* finding out about it?!!\n📼 \"TidyX Episode 23: Mailbag and Expected  Wins\" https://t.co/hu1AQso9yq\n😧 @OSPpatrick, @ellis_hughes, my deepest apologies! https://t.co/E8jT2Vcbkc"]
+  "top10_tweets_like": ["📕🖥💻 #rstats #rstatsES Finalmente!! felices de haber subido la versión entera de “AnalizaR Datos Políticos” el libro online y gratuito sobre el uso de R en #cienciapolitica y #RRII para estudiantes y profesionales de #latinoamerica.🌎 📈📊 Link: https://t.co/HlIjNrgXQl @icp_uc", "I only just found out that shift+ctrl+m inserts a pipe operator in R and why. did. I. not. know. this. before. \n#rstats #r4ds @rstudiotips, what's your favorite useful / time saving R tip or shortcut, default or custom?", "This is bioseq: a new #rstats package 📦 to work with biological sequences and which plays nicely with the #tidyverse.\n\n... and yes you can have colored nucleotides! 🧬🌈💻#bioinformatics #DNA https://t.co/or0uZjZ0wt https://t.co/SypsqLngvb", "Generate those 1990s MagicEye images in #rstats with {rstereogram}.\n\nIncludes functions to create autostereograms from images, ggplots, or random dinosaurs.\n\nhttps://t.co/IZx0QipfHN https://t.co/L0bKCqtHQJ", "How to Build a Regression Model in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NwHvj5xaLy https://t.co/PxVinWeMKJ", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #DataScience #AI #IoT #IIoT #Python #RStats #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/v4o1lKbnuQ", "Good god vroom::vroom() is fast https://t.co/FUvLj8EeuK #Rstats https://t.co/puHaEJJ5WR", "Had a great day today learning geocomputation w/ #rstats at @OpenGeoHub SS!\n\n📦 Data cubes by @edzerpebesma\nhttps://t.co/znRQOrn9ay\n\n🛰️ #DeepLearning #Keras &amp; #Tensorflow by @ChKnoth\nhttps://t.co/Fr00XVic9N\n\n⚡️ #MachineLearning &amp; #TidyModels by John Lewis\nhttps://t.co/KD0tmzuFdx https://t.co/3nFNdSNoNs", "🤯 So you're telling me there have been 23 episodes of an #rstats screencast × sports series (@tidy_explained) and I'm *just now* finding out about it?!!\n📼 \"TidyX Episode 23: Mailbag and Expected  Wins\" https://t.co/hu1AQso9yq\n😧 @OSPpatrick, @ellis_hughes, my deepest apologies! https://t.co/E8jT2Vcbkc", "The @R4DScommunity welcomes you to week 34 of #TidyTuesday!  We're exploring Extinct plants!!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/cnlRg5L6up\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/ZPnjjfolvt"],
+  "top10_tweets_retweet": ["📕🖥💻 #rstats #rstatsES Finalmente!! felices de haber subido la versión entera de “AnalizaR Datos Políticos” el libro online y gratuito sobre el uso de R en #cienciapolitica y #RRII para estudiantes y profesionales de #latinoamerica.🌎 📈📊 Link: https://t.co/HlIjNrgXQl @icp_uc", "I only just found out that shift+ctrl+m inserts a pipe operator in R and why. did. I. not. know. this. before. \n#rstats #r4ds @rstudiotips, what's your favorite useful / time saving R tip or shortcut, default or custom?", "This is bioseq: a new #rstats package 📦 to work with biological sequences and which plays nicely with the #tidyverse.\n\n... and yes you can have colored nucleotides! 🧬🌈💻#bioinformatics #DNA https://t.co/or0uZjZ0wt https://t.co/SypsqLngvb", "Generate those 1990s MagicEye images in #rstats with {rstereogram}.\n\nIncludes functions to create autostereograms from images, ggplots, or random dinosaurs.\n\nhttps://t.co/IZx0QipfHN https://t.co/L0bKCqtHQJ", "How to Build a Regression Model in #Python. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NwHvj5xaLy https://t.co/PxVinWeMKJ", "Free eBooks:13 Free Self-Study #Books on #Mathematics. #BigData #Analytics  #DataScience #AI #IoT #IIoT #Python #RStats #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/v4o1lKbnuQ", "Good god vroom::vroom() is fast https://t.co/FUvLj8EeuK #Rstats https://t.co/puHaEJJ5WR", "Had a great day today learning geocomputation w/ #rstats at @OpenGeoHub SS!\n\n📦 Data cubes by @edzerpebesma\nhttps://t.co/znRQOrn9ay\n\n🛰️ #DeepLearning #Keras &amp; #Tensorflow by @ChKnoth\nhttps://t.co/Fr00XVic9N\n\n⚡️ #MachineLearning &amp; #TidyModels by John Lewis\nhttps://t.co/KD0tmzuFdx https://t.co/3nFNdSNoNs", "🤯 So you're telling me there have been 23 episodes of an #rstats screencast × sports series (@tidy_explained) and I'm *just now* finding out about it?!!\n📼 \"TidyX Episode 23: Mailbag and Expected  Wins\" https://t.co/hu1AQso9yq\n😧 @OSPpatrick, @ellis_hughes, my deepest apologies! https://t.co/E8jT2Vcbkc", "The @R4DScommunity welcomes you to week 34 of #TidyTuesday!  We're exploring Extinct plants!!\n\n📂 https://t.co/sElb4fcv3u\n📰 https://t.co/cnlRg5L6up\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/ZPnjjfolvt"]
 }
