@@ -1,20 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6248,
-      "average_tweets_per_hour": 260,
-      "tweeters_today": 1540,
-      "total_likes_today": 5692
+      "total_tweets_today": 6340,
+      "average_tweets_per_hour": 264,
+      "tweeters_today": 1532,
+      "total_likes_today": 5550
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 151
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 132
+      "Freq": 178
     },
     {
       "Var1": "Python 100DaysOfCode IoT",
@@ -22,7 +18,15 @@
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 101
+      "Freq": 99
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 93
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 86
     },
     {
       "Var1": "RStats",
@@ -33,16 +37,12 @@
       "Freq": 84
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 81
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats TensorFlow",
+      "Freq": 73
     },
     {
       "Var1": "BigData",
       "Freq": 70
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats TensorFlow",
-      "Freq": 66
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning MachineLearning IoT",
@@ -50,15 +50,11 @@
     },
     {
       "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "MachineLearning BigData DataScience AI IoT Python RStats javascript",
       "Freq": 61
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 60
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience",
@@ -70,19 +66,23 @@
     },
     {
       "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 54
+      "Freq": 53
     },
     {
-      "Var1": "Azure DeepLearning Analytics",
-      "Freq": 52
+      "Var1": "rstats DataScience",
+      "Freq": 53
     },
     {
       "Var1": "BigData Analytics",
       "Freq": 52
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning BigData DataScience",
-      "Freq": 52
+      "Var1": "Azure DeepLearning Analytics",
+      "Freq": 51
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 49
     },
     {
       "Var1": "IoT BigData Analytics DataScience AI MachineLearning IIoT",
@@ -95,82 +95,82 @@
       "Freq": 268
     },
     {
-      "Var1": "LlnuxBot",
-      "Freq": 214
+      "Var1": "CodebloodedBot",
+      "Freq": 230
     },
     {
-      "Var1": "CodebloodedBot",
-      "Freq": 212
+      "Var1": "LlnuxBot",
+      "Freq": 216
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 182
+      "Freq": 188
     },
     {
       "Var1": "redianbot",
-      "Freq": 174
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 170
+      "Freq": 179
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 163
+      "Freq": 176
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 174
     },
     {
       "Var1": "nlognbot",
-      "Freq": 161
+      "Freq": 164
     },
     {
       "Var1": "chidambara09",
-      "Freq": 145
+      "Freq": 156
     },
     {
       "Var1": "developersbot",
-      "Freq": 137
-    },
-    {
-      "Var1": "NlognHQ",
-      "Freq": 133
+      "Freq": 141
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 133
+      "Freq": 139
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 130
+      "Freq": 131
     },
     {
-      "Var1": "Fabriciosx",
-      "Freq": 119
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 113
+      "Var1": "NlognHQ",
+      "Freq": 127
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 107
+      "Freq": 122
+    },
+    {
+      "Var1": "Fabriciosx",
+      "Freq": 117
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 90
+      "Freq": 116
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 114
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 78
+      "Freq": 76
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 71
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 74
-    },
-    {
-      "Var1": "techtrendingnow",
-      "Freq": 70
+      "Freq": 71
     }
   ],
-  "top10_tweets_like": ["Thanks to @djnavarro, the ggplot2 book now has a new chapter on guides (legends and axes): https://t.co/sgUxcP4EOH 🎉 Please let us know if anything is unclear or we've missed something important 😀 #rstats", "A tale of three Cities? Of wingers past, present, future?\n\nFully expecting Twitter to compress it so better res versions here - https://t.co/js869lriQp. DM for hi-res versions. \n\nCan do a few requests if there is enough interest in specific players.\n\n#TidyTuesday #Rstats https://t.co/6QmQ6VWBPX", "All my recent work was so I could make plots like this. @hadley didn't like it when I proposed this originally, but I think it's pretty nifty. #rstats https://t.co/MtKvDCX3HG", "If you missed my webinar on upcoming testthat 3.0.0 features, you can now watch at https://t.co/RpFSUYC2i9 #rstats", "#RStats #HotTake https://t.co/UL1xDqUcRW", "Germany's impressive railway network at a glance\n\n#railways #rail #Deutschland #deutschenbahn #dataviz #datscience #maps #gis #rstats https://t.co/r0g2oYIpyT", "Mind-blowing skill😯🔥🔥⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/y9ryHDig5F", "How to create an API for your R code  {https://t.co/6BHFJSN2ut} #rstats #DataScience", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Rit2U9t65w https://t.co/0hT4D6uEka", "R &amp; RStudio - The Interoperability Environment for Data Analytics\nFrom design philosophies to current development priorities, R with RStudio is a wonderful environment for anyone who seeks understanding through the analysis of data. \nhttps://t.co/xEzMx68I3O\n#RStats #DataScience"],
-  "top10_tweets_retweet": ["Thanks to @djnavarro, the ggplot2 book now has a new chapter on guides (legends and axes): https://t.co/sgUxcP4EOH 🎉 Please let us know if anything is unclear or we've missed something important 😀 #rstats", "A tale of three Cities? Of wingers past, present, future?\n\nFully expecting Twitter to compress it so better res versions here - https://t.co/js869lriQp. DM for hi-res versions. \n\nCan do a few requests if there is enough interest in specific players.\n\n#TidyTuesday #Rstats https://t.co/6QmQ6VWBPX", "All my recent work was so I could make plots like this. @hadley didn't like it when I proposed this originally, but I think it's pretty nifty. #rstats https://t.co/MtKvDCX3HG", "If you missed my webinar on upcoming testthat 3.0.0 features, you can now watch at https://t.co/RpFSUYC2i9 #rstats", "#RStats #HotTake https://t.co/UL1xDqUcRW", "Germany's impressive railway network at a glance\n\n#railways #rail #Deutschland #deutschenbahn #dataviz #datscience #maps #gis #rstats https://t.co/r0g2oYIpyT", "Mind-blowing skill😯🔥🔥⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/y9ryHDig5F", "How to create an API for your R code  {https://t.co/6BHFJSN2ut} #rstats #DataScience", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Rit2U9t65w https://t.co/0hT4D6uEka", "R &amp; RStudio - The Interoperability Environment for Data Analytics\nFrom design philosophies to current development priorities, R with RStudio is a wonderful environment for anyone who seeks understanding through the analysis of data. \nhttps://t.co/xEzMx68I3O\n#RStats #DataScience"]
+  "top10_tweets_like": ["Thanks to @djnavarro, the ggplot2 book now has a new chapter on guides (legends and axes): https://t.co/sgUxcP4EOH 🎉 Please let us know if anything is unclear or we've missed something important 😀 #rstats", "A tale of three Cities? Of wingers past, present, future?\n\nFully expecting Twitter to compress it so better res versions here - https://t.co/js869lriQp. DM for hi-res versions. \n\nCan do a few requests if there is enough interest in specific players.\n\n#TidyTuesday #Rstats https://t.co/6QmQ6VWBPX", "All my recent work was so I could make plots like this. @hadley didn't like it when I proposed this originally, but I think it's pretty nifty. #rstats https://t.co/MtKvDCX3HG", "If you missed my webinar on upcoming testthat 3.0.0 features, you can now watch at https://t.co/RpFSUYC2i9 #rstats", "#RStats #HotTake https://t.co/UL1xDqUcRW", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Rit2U9t65w https://t.co/0hT4D6uEka", "Germany's impressive railway network at a glance\n\n#railways #rail #Deutschland #deutschenbahn #dataviz #datscience #maps #gis #rstats https://t.co/r0g2oYIpyT", "R &amp; RStudio - The Interoperability Environment for Data Analytics\nFrom design philosophies to current development priorities, R with RStudio is a wonderful environment for anyone who seeks understanding through the analysis of data. \nhttps://t.co/xEzMx68I3O\n#RStats #DataScience", "#TidyTuesday Week 2020/34 🌱 Plants in Danger by @IUCNRedList\n \nInspired by the wonderful #dataviz by Florent, I visualized the threats and actions per continent and species as \n🌿. No network (was hard enough without) and a much more generic but I like the style 🤷‍♂️ #rstats #r4ds https://t.co/AacEB0s0nR", "My submission for this week's #TidyTuesday about global plant extinction. See the #RStats code here: https://t.co/F5gRdA3vnM https://t.co/Srz4IN2X09"],
+  "top10_tweets_retweet": ["Thanks to @djnavarro, the ggplot2 book now has a new chapter on guides (legends and axes): https://t.co/sgUxcP4EOH 🎉 Please let us know if anything is unclear or we've missed something important 😀 #rstats", "A tale of three Cities? Of wingers past, present, future?\n\nFully expecting Twitter to compress it so better res versions here - https://t.co/js869lriQp. DM for hi-res versions. \n\nCan do a few requests if there is enough interest in specific players.\n\n#TidyTuesday #Rstats https://t.co/6QmQ6VWBPX", "All my recent work was so I could make plots like this. @hadley didn't like it when I proposed this originally, but I think it's pretty nifty. #rstats https://t.co/MtKvDCX3HG", "If you missed my webinar on upcoming testthat 3.0.0 features, you can now watch at https://t.co/RpFSUYC2i9 #rstats", "#RStats #HotTake https://t.co/UL1xDqUcRW", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Rit2U9t65w https://t.co/0hT4D6uEka", "Germany's impressive railway network at a glance\n\n#railways #rail #Deutschland #deutschenbahn #dataviz #datscience #maps #gis #rstats https://t.co/r0g2oYIpyT", "R &amp; RStudio - The Interoperability Environment for Data Analytics\nFrom design philosophies to current development priorities, R with RStudio is a wonderful environment for anyone who seeks understanding through the analysis of data. \nhttps://t.co/xEzMx68I3O\n#RStats #DataScience", "#TidyTuesday Week 2020/34 🌱 Plants in Danger by @IUCNRedList\n \nInspired by the wonderful #dataviz by Florent, I visualized the threats and actions per continent and species as \n🌿. No network (was hard enough without) and a much more generic but I like the style 🤷‍♂️ #rstats #r4ds https://t.co/AacEB0s0nR", "My submission for this week's #TidyTuesday about global plant extinction. See the #RStats code here: https://t.co/F5gRdA3vnM https://t.co/Srz4IN2X09"]
 }
