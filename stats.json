@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7510,
-      "average_tweets_per_hour": 313,
-      "tweeters_today": 1433,
-      "total_likes_today": 4970
+      "total_tweets_today": 7413,
+      "average_tweets_per_hour": 309,
+      "tweeters_today": 1413,
+      "total_likes_today": 5062
     }
   ],
   "top20_hashtags": [
@@ -14,7 +14,7 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 150
+      "Freq": 156
     },
     {
       "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience AI",
@@ -30,15 +30,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 109
-    },
-    {
-      "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning Python",
-      "Freq": 103
+      "Freq": 96
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 97
+      "Freq": 92
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -46,7 +42,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 86
+      "Freq": 87
+    },
+    {
+      "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning Python",
+      "Freq": 87
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
@@ -57,11 +57,11 @@
       "Freq": 79
     },
     {
-      "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 78
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 77
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
+      "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 77
     },
     {
@@ -74,6 +74,10 @@
     },
     {
       "Var1": "Books Jupyter MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 74
+    },
+    {
+      "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 72
     },
     {
@@ -83,44 +87,36 @@
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 68
-    },
-    {
-      "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 62
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "datasciencebot_",
-      "Freq": 341
+      "Freq": 332
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 267
+      "Freq": 264
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 237
+      "Freq": 240
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 229
+      "Freq": 223
     },
     {
       "Var1": "nlognbot",
-      "Freq": 220
+      "Freq": 218
     },
     {
       "Var1": "NlognHQ",
-      "Freq": 215
+      "Freq": 218
     },
     {
       "Var1": "redianbot",
-      "Freq": 212
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 205
+      "Freq": 209
     },
     {
       "Var1": "TheSecretJunio1",
@@ -128,31 +124,35 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 203
+      "Freq": 200
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 197
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 174
+      "Freq": 171
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 161
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 157
+      "Freq": 168
     },
     {
       "Var1": "developersbot",
-      "Freq": 156
+      "Freq": 154
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 151
+      "Var1": "Fabriciosx",
+      "Freq": 154
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 150
+      "Freq": 151
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 148
     },
     {
       "Var1": "techtrendingnow",
@@ -160,15 +160,15 @@
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 98
+      "Freq": 100
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 90
+      "Freq": 88
     },
     {
-      "Var1": "JohnEngine_",
-      "Freq": 80
+      "Var1": "rstats4ds",
+      "Freq": 82
     }
   ],
   "top10_tweets_like": ["Galton board now working (in mysterious ways!)\n\nHoping to release {chipmunkcore} package soon - you'll be able to place your own segments and circular bodies for 2d rigid body physics sim.\n\n#RStats @carroll_jono https://t.co/p5QkPQNOuU", "Introducing {sourrr}: a dinky little package for generating 🥖 sourdough 🥖 recipes using baker's percentages with #rstats https://t.co/XZLGgr238w https://t.co/2LGdmrZGfM", "#rstats ggpplot2 mapping:\n\nggplot() +\n  layer_mapbox(spData::cycle_hire_osm) +\n  layer_spatial(spData::cycle_hire_osm,\n                aes(colour = capacity),\n                alpha = 0.75) +\n  scale_colour_viridis_b() +\n  inset_legend_dark(\"bottom-right\") +\n  theme_cropped_map() https://t.co/wNBER53mGF", "Top 4 Python Libraries for Interpreted #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xneon7AUO7 https://t.co/PPM0paYwXU", "My #rstats package for simulating data for factorial designs is now on CRAN (with contributions by @annakrystalli and @andrewheiss)\n\nhttps://t.co/UkJUmHrC3g (website with demos at https://t.co/fCsPDSi0Ye) https://t.co/6Ulg0gyS1X", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #100DaysofCode \nhttps://t.co/UKITQxPeDD https://t.co/mtzn0dvDKo", "✍️▶️ \"How Rmarkdown changed my life  • RStudio\"\n\n👤 Rob J Hyndman @robjhyndman\n\nhttps://t.co/uQVzbaNla9\n#rstats https://t.co/ntNoM77Uwx", "4 #Books with #Jupyter Notebooks for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/DAQJtRrAvP https://t.co/20xha8ImIb", "Not a complete set yet, but a lot of great tidymodels hex logos from @allison_horst, @create_self, @GregSwinehart, Dan Kuhn, and others. \n\n#rstats https://t.co/MGfXPCFJmz", "📦🔤 \"RVerbalExpressions • Create Regular Expressions Easily\"\n\n👤 Tyler Littlefield @tyluRp\n\nhttps://t.co/IPrHVpLE75\n#rstats https://t.co/bQ4vJlJl33"],
