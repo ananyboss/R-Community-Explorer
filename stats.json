@@ -1,23 +1,31 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7101,
-      "average_tweets_per_hour": 296,
-      "tweeters_today": 1423,
-      "total_likes_today": 5035
+      "total_tweets_today": 7213,
+      "average_tweets_per_hour": 301,
+      "tweeters_today": 1401,
+      "total_likes_today": 4633
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 316
+      "Freq": 342
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 143
+      "Freq": 130
     },
     {
       "Var1": "rstats DataScience",
+      "Freq": 124
+    },
+    {
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience AI",
+      "Freq": 120
+    },
+    {
+      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 119
     },
     {
@@ -25,16 +33,8 @@
       "Freq": 118
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience AI",
-      "Freq": 118
-    },
-    {
-      "Var1": "Python Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 118
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 115
+      "Freq": 114
     },
     {
       "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning Python",
@@ -50,14 +50,14 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 86
+      "Freq": 81
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats TensorFlow",
-      "Freq": 78
+      "Freq": 76
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 73
     },
     {
@@ -66,97 +66,97 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch",
-      "Freq": 65
+      "Freq": 72
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 63
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 70
+    },
+    {
+      "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 69
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
+      "Freq": 67
     },
     {
       "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 62
     },
     {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 60
-    },
-    {
       "Var1": "Python DataScience Python RStats",
       "Freq": 59
-    },
-    {
-      "Var1": "DeepLearning Python",
-      "Freq": 58
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "datasciencebot_",
-      "Freq": 326
+      "Freq": 344
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 246
+      "Freq": 252
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 225
+      "Freq": 236
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 215
+      "Freq": 224
     },
     {
       "Var1": "nlognbot",
-      "Freq": 213
+      "Freq": 219
     },
     {
       "Var1": "redianbot",
-      "Freq": 209
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 204
+      "Freq": 215
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 202
+      "Freq": 214
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 209
     },
     {
       "Var1": "NlognHQ",
-      "Freq": 199
+      "Freq": 205
     },
     {
       "Var1": "chidambara09",
-      "Freq": 189
+      "Freq": 193
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 171
+      "Freq": 169
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 155
+      "Freq": 158
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 149
+      "Freq": 151
     },
     {
       "Var1": "developersbot",
-      "Freq": 141
+      "Freq": 148
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 140
+      "Freq": 143
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 122
+      "Freq": 126
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 96
+      "Freq": 98
     },
     {
       "Var1": "TheDeveloperBot",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 81
+      "Freq": 82
     },
     {
       "Var1": "hubofml",
-      "Freq": 78
+      "Freq": 80
     }
   ],
-  "top10_tweets_like": ["I think I need a few more constraints on my galton board :)\n\n#RStats https://t.co/Q7nkdmaz2A", "Introducing {sourrr}: a dinky little package for generating 🥖 sourdough 🥖 recipes using baker's percentages with #rstats https://t.co/XZLGgr238w https://t.co/2LGdmrZGfM", "Galton board now working (in mysterious ways!)\n\nHoping to release {chipmunkcore} package soon - you'll be able to place your own segments and circular bodies for 2d rigid body physics sim.\n\n#RStats @carroll_jono https://t.co/p5QkPQNOuU", "Confused between `colour` or `fill` in #ggplot?\n+ `colour` is for 1D things in your plot, e.g. lines around a boxplot\n+ `fill` is for colour 2D things in your plot, e.g. the insides of a boxplot\n#tidyverse #rstats #r4ds\nMade this mistake 100's times myself as a beginner 😑 https://t.co/6hCDm3Gb0i https://t.co/HrT3JSL2cD", "I pushed myself in a big way for week 34 of #TidyTuesday. It's not perfect - and the code is terrible - but I'm happy with this. Code: https://t.co/GW3xVRukwI #rstats #ggplot #dataviz https://t.co/JBgUaWSRKN", "Top 4 Python Libraries for Interpreted #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xneon7AUO7 https://t.co/PPM0paYwXU", "#rstats ggpplot2 mapping:\n\nggplot() +\n  layer_mapbox(spData::cycle_hire_osm) +\n  layer_spatial(spData::cycle_hire_osm,\n                aes(colour = capacity),\n                alpha = 0.75) +\n  scale_colour_viridis_b() +\n  inset_legend_dark(\"bottom-right\") +\n  theme_cropped_map() https://t.co/wNBER53mGF", "✍️▶️ \"How Rmarkdown changed my life  • RStudio\"\n\n👤 Rob J Hyndman @robjhyndman\n\nhttps://t.co/uQVzbaNla9\n#rstats https://t.co/ntNoM77Uwx", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #100DaysofCode \nhttps://t.co/UKITQxPeDD https://t.co/mtzn0dvDKo", "My #rstats package for simulating data for factorial designs is now on CRAN (with contributions by @annakrystalli and @andrewheiss)\n\nhttps://t.co/UkJUmHrC3g (website with demos at https://t.co/fCsPDSi0Ye) https://t.co/6Ulg0gyS1X"],
-  "top10_tweets_retweet": ["I think I need a few more constraints on my galton board :)\n\n#RStats https://t.co/Q7nkdmaz2A", "Introducing {sourrr}: a dinky little package for generating 🥖 sourdough 🥖 recipes using baker's percentages with #rstats https://t.co/XZLGgr238w https://t.co/2LGdmrZGfM", "Galton board now working (in mysterious ways!)\n\nHoping to release {chipmunkcore} package soon - you'll be able to place your own segments and circular bodies for 2d rigid body physics sim.\n\n#RStats @carroll_jono https://t.co/p5QkPQNOuU", "Confused between `colour` or `fill` in #ggplot?\n+ `colour` is for 1D things in your plot, e.g. lines around a boxplot\n+ `fill` is for colour 2D things in your plot, e.g. the insides of a boxplot\n#tidyverse #rstats #r4ds\nMade this mistake 100's times myself as a beginner 😑 https://t.co/6hCDm3Gb0i https://t.co/HrT3JSL2cD", "I pushed myself in a big way for week 34 of #TidyTuesday. It's not perfect - and the code is terrible - but I'm happy with this. Code: https://t.co/GW3xVRukwI #rstats #ggplot #dataviz https://t.co/JBgUaWSRKN", "Top 4 Python Libraries for Interpreted #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xneon7AUO7 https://t.co/PPM0paYwXU", "#rstats ggpplot2 mapping:\n\nggplot() +\n  layer_mapbox(spData::cycle_hire_osm) +\n  layer_spatial(spData::cycle_hire_osm,\n                aes(colour = capacity),\n                alpha = 0.75) +\n  scale_colour_viridis_b() +\n  inset_legend_dark(\"bottom-right\") +\n  theme_cropped_map() https://t.co/wNBER53mGF", "✍️▶️ \"How Rmarkdown changed my life  • RStudio\"\n\n👤 Rob J Hyndman @robjhyndman\n\nhttps://t.co/uQVzbaNla9\n#rstats https://t.co/ntNoM77Uwx", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #100DaysofCode \nhttps://t.co/UKITQxPeDD https://t.co/mtzn0dvDKo", "My #rstats package for simulating data for factorial designs is now on CRAN (with contributions by @annakrystalli and @andrewheiss)\n\nhttps://t.co/UkJUmHrC3g (website with demos at https://t.co/fCsPDSi0Ye) https://t.co/6Ulg0gyS1X"]
+  "top10_tweets_like": ["Galton board now working (in mysterious ways!)\n\nHoping to release {chipmunkcore} package soon - you'll be able to place your own segments and circular bodies for 2d rigid body physics sim.\n\n#RStats @carroll_jono https://t.co/p5QkPQNOuU", "Introducing {sourrr}: a dinky little package for generating 🥖 sourdough 🥖 recipes using baker's percentages with #rstats https://t.co/XZLGgr238w https://t.co/2LGdmrZGfM", "I pushed myself in a big way for week 34 of #TidyTuesday. It's not perfect - and the code is terrible - but I'm happy with this. Code: https://t.co/GW3xVRukwI #rstats #ggplot #dataviz https://t.co/JBgUaWSRKN", "Top 4 Python Libraries for Interpreted #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xneon7AUO7 https://t.co/PPM0paYwXU", "#rstats ggpplot2 mapping:\n\nggplot() +\n  layer_mapbox(spData::cycle_hire_osm) +\n  layer_spatial(spData::cycle_hire_osm,\n                aes(colour = capacity),\n                alpha = 0.75) +\n  scale_colour_viridis_b() +\n  inset_legend_dark(\"bottom-right\") +\n  theme_cropped_map() https://t.co/wNBER53mGF", "My #rstats package for simulating data for factorial designs is now on CRAN (with contributions by @annakrystalli and @andrewheiss)\n\nhttps://t.co/UkJUmHrC3g (website with demos at https://t.co/fCsPDSi0Ye) https://t.co/6Ulg0gyS1X", "✍️▶️ \"How Rmarkdown changed my life  • RStudio\"\n\n👤 Rob J Hyndman @robjhyndman\n\nhttps://t.co/uQVzbaNla9\n#rstats https://t.co/ntNoM77Uwx", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #100DaysofCode \nhttps://t.co/UKITQxPeDD https://t.co/mtzn0dvDKo", "4 #Books with #Jupyter Notebooks for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/DAQJtRrAvP https://t.co/20xha8ImIb", "Time Series in 5-Minutes, Part 1: Data Wrangling and Rolling Calculations  {https://t.co/bO0A0GPefl} #rstats #DataScience"],
+  "top10_tweets_retweet": ["Galton board now working (in mysterious ways!)\n\nHoping to release {chipmunkcore} package soon - you'll be able to place your own segments and circular bodies for 2d rigid body physics sim.\n\n#RStats @carroll_jono https://t.co/p5QkPQNOuU", "Introducing {sourrr}: a dinky little package for generating 🥖 sourdough 🥖 recipes using baker's percentages with #rstats https://t.co/XZLGgr238w https://t.co/2LGdmrZGfM", "I pushed myself in a big way for week 34 of #TidyTuesday. It's not perfect - and the code is terrible - but I'm happy with this. Code: https://t.co/GW3xVRukwI #rstats #ggplot #dataviz https://t.co/JBgUaWSRKN", "Top 4 Python Libraries for Interpreted #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xneon7AUO7 https://t.co/PPM0paYwXU", "#rstats ggpplot2 mapping:\n\nggplot() +\n  layer_mapbox(spData::cycle_hire_osm) +\n  layer_spatial(spData::cycle_hire_osm,\n                aes(colour = capacity),\n                alpha = 0.75) +\n  scale_colour_viridis_b() +\n  inset_legend_dark(\"bottom-right\") +\n  theme_cropped_map() https://t.co/wNBER53mGF", "My #rstats package for simulating data for factorial designs is now on CRAN (with contributions by @annakrystalli and @andrewheiss)\n\nhttps://t.co/UkJUmHrC3g (website with demos at https://t.co/fCsPDSi0Ye) https://t.co/6Ulg0gyS1X", "✍️▶️ \"How Rmarkdown changed my life  • RStudio\"\n\n👤 Rob J Hyndman @robjhyndman\n\nhttps://t.co/uQVzbaNla9\n#rstats https://t.co/ntNoM77Uwx", "Must-Read Free #Mathematics #Statistics #Books For #DataScientists in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #100DaysofCode \nhttps://t.co/UKITQxPeDD https://t.co/mtzn0dvDKo", "4 #Books with #Jupyter Notebooks for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/DAQJtRrAvP https://t.co/20xha8ImIb", "Time Series in 5-Minutes, Part 1: Data Wrangling and Rolling Calculations  {https://t.co/bO0A0GPefl} #rstats #DataScience"]
 }
