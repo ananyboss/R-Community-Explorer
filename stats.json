@@ -1,51 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7265,
-      "average_tweets_per_hour": 303,
-      "tweeters_today": 1455,
-      "total_likes_today": 4701
+      "total_tweets_today": 7312,
+      "average_tweets_per_hour": 305,
+      "tweeters_today": 1440,
+      "total_likes_today": 4709
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats DataScience",
-      "Freq": 160
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 130
+      "Freq": 156
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 129
+      "Freq": 124
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 122
     },
     {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats TensorFlow",
       "Freq": 119
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 108
-    },
-    {
       "Var1": "ML AI MachineLearning",
-      "Freq": 99
+      "Freq": 100
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 95
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 86
-    },
-    {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 80
+      "Freq": 83
     },
     {
-      "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Var1": "BigData Analytics DataScience",
       "Freq": 80
     },
     {
@@ -53,78 +45,86 @@
       "Freq": 80
     },
     {
+      "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 79
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 73
+    },
+    {
+      "Var1": "MachineLearning ScikitLearn BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 71
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 70
+    },
+    {
       "Var1": "WordPress website ApacheSpark Analytics DataScience MachineLearning Python",
       "Freq": 70
     },
     {
-      "Var1": "MachineLearning ScikitLearn BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 69
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 68
-    },
-    {
       "Var1": "ComputerScience BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 66
+      "Freq": 67
     },
     {
-      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience AI",
-      "Freq": 62
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 58
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 64
     },
     {
       "Var1": "Statistics DataScience BigData Analytics IIoT Python RStats Java",
       "Freq": 57
     },
     {
-      "Var1": "GIS Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 51
+      "Var1": "NLG BigData Analytics DataScience AI MachineLearning IoT IIoT NLProc",
+      "Freq": 55
     },
     {
-      "Var1": "NLG BigData Analytics DataScience AI MachineLearning IoT IIoT NLProc",
-      "Freq": 50
+      "Var1": "Mathematics Statistics Books DataScientists BigData Analytics DataScience AI",
+      "Freq": 54
+    },
+    {
+      "Var1": "GIS Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 52
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "CodebloodedBot",
-      "Freq": 327
+      "Var1": "datasciencebot_",
+      "Freq": 317
     },
     {
-      "Var1": "datasciencebot_",
-      "Freq": 320
+      "Var1": "CodebloodedBot",
+      "Freq": 313
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 262
+      "Freq": 270
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 234
-    },
-    {
-      "Var1": "NlognHQ",
-      "Freq": 220
+      "Freq": 238
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 213
+      "Freq": 226
+    },
+    {
+      "Var1": "NlognHQ",
+      "Freq": 222
     },
     {
       "Var1": "nlognbot",
-      "Freq": 212
+      "Freq": 216
     },
     {
       "Var1": "redianbot",
-      "Freq": 207
+      "Freq": 210
     },
     {
       "Var1": "xaelbot",
-      "Freq": 202
+      "Freq": 204
     },
     {
       "Var1": "chidambara09",
@@ -135,42 +135,42 @@
       "Freq": 187
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 159
-    },
-    {
       "Var1": "Taieb_Bot",
-      "Freq": 158
+      "Freq": 164
     },
     {
       "Var1": "developersbot",
+      "Freq": 155
+    },
+    {
+      "Var1": "CodeGnuts",
       "Freq": 152
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 140
+      "Freq": 136
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 139
+      "Freq": 136
+    },
+    {
+      "Var1": "rstatstweet",
+      "Freq": 106
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 97
+      "Freq": 101
     },
     {
       "Var1": "LinuxDreams",
       "Freq": 93
     },
     {
-      "Var1": "rstatstweet",
-      "Freq": 88
-    },
-    {
-      "Var1": "rstats4ds",
+      "Var1": "TheDeveloperBot",
       "Freq": 73
     }
   ],
-  "top10_tweets_like": ["Introducing {chipmunkcore} - wrapper for 2d rigid body physics sim library\n\nCreate your own Galton Board,or anything else you can think of that involves sticks + circles :)\n\ngithub: https://t.co/ukp5a9HxC0\nblog: https://t.co/5BC4SpqiSi\ndocs: https://t.co/ym1WV3R8en\n\n#RStats https://t.co/nEKYMwMCUI", "What is the best OS for #rstats\n\nWhy Windows may not be it\n\nhttps://t.co/O4rB6lv5Nv", "OMG! Augmented Reality + Machine Learning = Magic 🤯\n\nGithub: https://t.co/M4s4pqDcoK\n\n#ML #AI #MachineLearning \n#AugmentedReality #AR\n#rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #tech #ArtificialIntelligence\n\nCredit: @cyrildiagne https://t.co/OvCo2FG9xD", "If you have to use GAMs with mixed effects, check out the 💯👍 paper \"HGAM in ecology: an intro w/ mgcv\" https://t.co/LdsvtFXcmQ by 🔥 @ericJpedersen @millerdl 🔥 @ucfagls 🔥 @noamross 🔥 I am 🎣 and could fit a GAMM in a few lines of #rstats code to get 📈👇 https://t.co/l4VfDQPE2y", "First time submitting something for #TidyTuesday #rstats \nLooks like train trips are always the most productive data viz time for me 🚄📊🤓 https://t.co/pGmVOSEzHD", "#DataScience #Books You Must Read in 2020. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/SQROQQXDZG https://t.co/RrcJCB4Uut", "Just received my prices from the @rstudio shiny contest 🎉 \n\n#Rstats #shiny https://t.co/qhz5rh6Dfq", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vSkVOUaKgY https://t.co/tcSf1NHK0q", "😱 Netflix Film Recommendation Algorithm\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #DeepLearning #ArtificialIntelligence #Algorithms #Netflix https://t.co/JJ0wBonkoP", "Visualizing the Lorenz attractor in #rstats using #rayrender's new `path()` function. This model (and shape) is one inspiration for the \"butterfly effect:\" a tiny change in the initial parameters will eventually result in a completely different trajectory after enough time. https://t.co/UgQ2BoCTGI"],
-  "top10_tweets_retweet": ["Introducing {chipmunkcore} - wrapper for 2d rigid body physics sim library\n\nCreate your own Galton Board,or anything else you can think of that involves sticks + circles :)\n\ngithub: https://t.co/ukp5a9HxC0\nblog: https://t.co/5BC4SpqiSi\ndocs: https://t.co/ym1WV3R8en\n\n#RStats https://t.co/nEKYMwMCUI", "What is the best OS for #rstats\n\nWhy Windows may not be it\n\nhttps://t.co/O4rB6lv5Nv", "OMG! Augmented Reality + Machine Learning = Magic 🤯\n\nGithub: https://t.co/M4s4pqDcoK\n\n#ML #AI #MachineLearning \n#AugmentedReality #AR\n#rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #tech #ArtificialIntelligence\n\nCredit: @cyrildiagne https://t.co/OvCo2FG9xD", "If you have to use GAMs with mixed effects, check out the 💯👍 paper \"HGAM in ecology: an intro w/ mgcv\" https://t.co/LdsvtFXcmQ by 🔥 @ericJpedersen @millerdl 🔥 @ucfagls 🔥 @noamross 🔥 I am 🎣 and could fit a GAMM in a few lines of #rstats code to get 📈👇 https://t.co/l4VfDQPE2y", "First time submitting something for #TidyTuesday #rstats \nLooks like train trips are always the most productive data viz time for me 🚄📊🤓 https://t.co/pGmVOSEzHD", "#DataScience #Books You Must Read in 2020. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/SQROQQXDZG https://t.co/RrcJCB4Uut", "Just received my prices from the @rstudio shiny contest 🎉 \n\n#Rstats #shiny https://t.co/qhz5rh6Dfq", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vSkVOUaKgY https://t.co/tcSf1NHK0q", "😱 Netflix Film Recommendation Algorithm\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #DeepLearning #ArtificialIntelligence #Algorithms #Netflix https://t.co/JJ0wBonkoP", "Visualizing the Lorenz attractor in #rstats using #rayrender's new `path()` function. This model (and shape) is one inspiration for the \"butterfly effect:\" a tiny change in the initial parameters will eventually result in a completely different trajectory after enough time. https://t.co/UgQ2BoCTGI"]
+  "top10_tweets_like": ["Introducing {chipmunkcore} - wrapper for 2d rigid body physics sim library\n\nCreate your own Galton Board,or anything else you can think of that involves sticks + circles :)\n\ngithub: https://t.co/ukp5a9HxC0\nblog: https://t.co/5BC4SpqiSi\ndocs: https://t.co/ym1WV3R8en\n\n#RStats https://t.co/nEKYMwMCUI", "What is the best OS for #rstats\n\nWhy Windows may not be it\n\nhttps://t.co/O4rB6lv5Nv", "OMG! Augmented Reality + Machine Learning = Magic 🤯\n\nGithub: https://t.co/M4s4pqDcoK\n\n#ML #AI #MachineLearning \n#AugmentedReality #AR\n#rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #tech #ArtificialIntelligence\n\nCredit: @cyrildiagne https://t.co/OvCo2FG9xD", "If you have to use GAMs with mixed effects, check out the 💯👍 paper \"HGAM in ecology: an intro w/ mgcv\" https://t.co/LdsvtFXcmQ by 🔥 @ericJpedersen @millerdl 🔥 @ucfagls 🔥 @noamross 🔥 I am 🎣 and could fit a GAMM in a few lines of #rstats code to get 📈👇 https://t.co/l4VfDQPE2y", "First time submitting something for #TidyTuesday #rstats \nLooks like train trips are always the most productive data viz time for me 🚄📊🤓 https://t.co/pGmVOSEzHD", "#DataScience #Books You Must Read in 2020. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/SQROQQXDZG https://t.co/RrcJCB4Uut", "Just received my prices from the @rstudio shiny contest 🎉 \n\n#Rstats #shiny https://t.co/qhz5rh6Dfq", "😱 Netflix Film Recommendation Algorithm\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #DeepLearning #ArtificialIntelligence #Algorithms #Netflix https://t.co/JJ0wBonkoP", "I've Compiled A List of the Best Machine Learning #Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YCiY4Zv2ML https://t.co/bEd6oK7cBp", "Visualizing the Lorenz attractor in #rstats using #rayrender's new `path()` function. This model (and shape) is one inspiration for the \"butterfly effect:\" a tiny change in the initial parameters will eventually result in a completely different trajectory after enough time. https://t.co/UgQ2BoCTGI"],
+  "top10_tweets_retweet": ["Introducing {chipmunkcore} - wrapper for 2d rigid body physics sim library\n\nCreate your own Galton Board,or anything else you can think of that involves sticks + circles :)\n\ngithub: https://t.co/ukp5a9HxC0\nblog: https://t.co/5BC4SpqiSi\ndocs: https://t.co/ym1WV3R8en\n\n#RStats https://t.co/nEKYMwMCUI", "What is the best OS for #rstats\n\nWhy Windows may not be it\n\nhttps://t.co/O4rB6lv5Nv", "OMG! Augmented Reality + Machine Learning = Magic 🤯\n\nGithub: https://t.co/M4s4pqDcoK\n\n#ML #AI #MachineLearning \n#AugmentedReality #AR\n#rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #tech #ArtificialIntelligence\n\nCredit: @cyrildiagne https://t.co/OvCo2FG9xD", "If you have to use GAMs with mixed effects, check out the 💯👍 paper \"HGAM in ecology: an intro w/ mgcv\" https://t.co/LdsvtFXcmQ by 🔥 @ericJpedersen @millerdl 🔥 @ucfagls 🔥 @noamross 🔥 I am 🎣 and could fit a GAMM in a few lines of #rstats code to get 📈👇 https://t.co/l4VfDQPE2y", "First time submitting something for #TidyTuesday #rstats \nLooks like train trips are always the most productive data viz time for me 🚄📊🤓 https://t.co/pGmVOSEzHD", "#DataScience #Books You Must Read in 2020. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/SQROQQXDZG https://t.co/RrcJCB4Uut", "Just received my prices from the @rstudio shiny contest 🎉 \n\n#Rstats #shiny https://t.co/qhz5rh6Dfq", "😱 Netflix Film Recommendation Algorithm\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #DeepLearning #ArtificialIntelligence #Algorithms #Netflix https://t.co/JJ0wBonkoP", "I've Compiled A List of the Best Machine Learning #Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YCiY4Zv2ML https://t.co/bEd6oK7cBp", "Visualizing the Lorenz attractor in #rstats using #rayrender's new `path()` function. This model (and shape) is one inspiration for the \"butterfly effect:\" a tiny change in the initial parameters will eventually result in a completely different trajectory after enough time. https://t.co/UgQ2BoCTGI"]
 }
