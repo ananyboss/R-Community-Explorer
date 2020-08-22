@@ -1,44 +1,48 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8339,
-      "average_tweets_per_hour": 347,
-      "tweeters_today": 1522,
-      "total_likes_today": 5539
+      "total_tweets_today": 8493,
+      "average_tweets_per_hour": 354,
+      "tweeters_today": 1517,
+      "total_likes_today": 5612
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 177
+      "Freq": 178
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 144
-    },
-    {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 139
-    },
-    {
-      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
-      "Freq": 138
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 117
+      "Freq": 169
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 117
+      "Freq": 155
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 112
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 146
+    },
+    {
+      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
+      "Freq": 141
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 108
+      "Freq": 132
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 123
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 103
+    },
+    {
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 88
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -46,23 +50,19 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 77
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 75
+      "Freq": 81
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
-      "Freq": 72
+      "Freq": 80
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 70
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
       "Freq": 70
-    },
-    {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 68
     },
     {
       "Var1": "speed Optimization ApacheSpark Analytics DataScience MachineLearning",
@@ -70,10 +70,14 @@
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 66
+      "Freq": 67
     },
     {
       "Var1": "DataCenter BigData Analytics DataScience AI MachineLearning",
+      "Freq": 65
+    },
+    {
+      "Var1": "programmer coder developer technology",
       "Freq": 63
     },
     {
@@ -83,94 +87,90 @@
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI",
       "Freq": 61
-    },
-    {
-      "Var1": "programmer coder developer technology",
-      "Freq": 59
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 401
+      "Freq": 393
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 316
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 257
-    },
-    {
-      "Var1": "NlognHQ",
-      "Freq": 253
+      "Freq": 303
     },
     {
       "Var1": "theInfernobot",
+      "Freq": 255
+    },
+    {
+      "Var1": "LlnuxBot",
       "Freq": 253
     },
     {
+      "Var1": "NlognHQ",
+      "Freq": 251
+    },
+    {
       "Var1": "nlognbot",
-      "Freq": 234
+      "Freq": 235
     },
     {
       "Var1": "redianbot",
-      "Freq": 230
+      "Freq": 232
     },
     {
       "Var1": "xaelbot",
-      "Freq": 229
+      "Freq": 232
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 211
-    },
-    {
-      "Var1": "ineelbot",
-      "Freq": 200
+      "Freq": 230
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 195
+      "Freq": 221
     },
     {
-      "Var1": "Taieb_Bot",
-      "Freq": 190
+      "Var1": "ineelbot",
+      "Freq": 202
     },
     {
       "Var1": "developersbot",
-      "Freq": 189
+      "Freq": 191
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 179
+      "Var1": "Taieb_Bot",
+      "Freq": 191
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 179
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 175
+      "Freq": 185
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 169
+      "Freq": 184
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 184
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 174
     },
     {
       "Var1": "NetworkIndie",
       "Freq": 128
     },
     {
-      "Var1": "AlgorithmsB",
-      "Freq": 114
+      "Var1": "ServerlessFan",
+      "Freq": 126
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 109
+      "Var1": "AlgorithmsB",
+      "Freq": 114
     }
   ],
-  "top10_tweets_like": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "TIL from talking with @charliejhadley: If you click the little R button in the Files pane, it takes you back to the root directory of your project. #rstats https://t.co/ocoSzXzL2b", "Sorry, buddy. If you can explain what a confidence interval *is* in one short sentence, then you did not understand it. Same goes for p-value.\n\nOne sentence is enough for what they *do* but not what they *are.*\n\n#DataScience #Statistics #rstats #Analytics", "want to learn python programming???\n\ngo here: https://t.co/EAFYsEjXwo\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python3 #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode https://t.co/2OIlysbpVX", "A script to make ascii #aRt from images in ggplot\n\nhttps://t.co/DH2xFnnLd6\n\n#RStats https://t.co/VwIkVxxpyy", "🔥 A Cheatsheet for all the Data Structures in Python\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #deeplearning #coding #ArtificialIntelligence #programmer https://t.co/8JVbztq8Fd"],
-  "top10_tweets_retweet": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "TIL from talking with @charliejhadley: If you click the little R button in the Files pane, it takes you back to the root directory of your project. #rstats https://t.co/ocoSzXzL2b", "Sorry, buddy. If you can explain what a confidence interval *is* in one short sentence, then you did not understand it. Same goes for p-value.\n\nOne sentence is enough for what they *do* but not what they *are.*\n\n#DataScience #Statistics #rstats #Analytics", "want to learn python programming???\n\ngo here: https://t.co/EAFYsEjXwo\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python3 #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode https://t.co/2OIlysbpVX", "A script to make ascii #aRt from images in ggplot\n\nhttps://t.co/DH2xFnnLd6\n\n#RStats https://t.co/VwIkVxxpyy", "🔥 A Cheatsheet for all the Data Structures in Python\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #deeplearning #coding #ArtificialIntelligence #programmer https://t.co/8JVbztq8Fd"]
+  "top10_tweets_like": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "Sorry, buddy. If you can explain what a confidence interval *is* in one short sentence, then you did not understand it. Same goes for p-value.\n\nOne sentence is enough for what they *do* but not what they *are.*\n\n#DataScience #Statistics #rstats #Analytics", "A script to make ascii #aRt from images in ggplot\n\nhttps://t.co/DH2xFnnLd6\n\n#RStats https://t.co/VwIkVxxpyy", "want to learn python programming???\n\ngo here: https://t.co/EAFYsEjXwo\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python3 #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode https://t.co/2OIlysbpVX", "🔥 A Cheatsheet for all the Data Structures in Python\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #deeplearning #coding #ArtificialIntelligence #programmer https://t.co/8JVbztq8Fd", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/4ktSvcOugt"],
+  "top10_tweets_retweet": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "Sorry, buddy. If you can explain what a confidence interval *is* in one short sentence, then you did not understand it. Same goes for p-value.\n\nOne sentence is enough for what they *do* but not what they *are.*\n\n#DataScience #Statistics #rstats #Analytics", "A script to make ascii #aRt from images in ggplot\n\nhttps://t.co/DH2xFnnLd6\n\n#RStats https://t.co/VwIkVxxpyy", "want to learn python programming???\n\ngo here: https://t.co/EAFYsEjXwo\n\n#BigData #Analytics #DataScience #DeepLearning #MachineLearning #IoT #Python3 #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Programming #Coding #100DaysOfCode https://t.co/2OIlysbpVX", "🔥 A Cheatsheet for all the Data Structures in Python\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #Python #programming #deeplearning #coding #ArtificialIntelligence #programmer https://t.co/8JVbztq8Fd", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/4ktSvcOugt"]
 }
