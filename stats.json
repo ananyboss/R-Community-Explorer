@@ -1,51 +1,51 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7757,
-      "average_tweets_per_hour": 323,
-      "tweeters_today": 1659,
-      "total_likes_today": 6058
+      "total_tweets_today": 8149,
+      "average_tweets_per_hour": 340,
+      "tweeters_today": 1686,
+      "total_likes_today": 6407
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
-      "Freq": 168
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 204
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 155
+      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
+      "Freq": 172
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 151
+      "Freq": 143
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 140
+      "Freq": 119
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 124
-    },
-    {
-      "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning Python",
-      "Freq": 107
+      "Freq": 115
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 103
+      "Freq": 99
     },
     {
       "Var1": "MachineLearning DeepLearning",
       "Freq": 95
     },
     {
-      "Var1": "RStats",
-      "Freq": 76
+      "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning Python",
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 72
+    },
+    {
+      "Var1": "RStats",
       "Freq": 72
     },
     {
@@ -53,27 +53,31 @@
       "Freq": 68
     },
     {
+      "Var1": "MachineLearning DataScience",
+      "Freq": 67
+    },
+    {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 66
     },
     {
-      "Var1": "MachineLearning DataScience",
-      "Freq": 61
-    },
-    {
-      "Var1": "NLProc BigData DataScience AI",
-      "Freq": 59
+      "Var1": "MachineLearning Books BigData Analytics DataScience IoT Python RStats TensorFlow Java",
+      "Freq": 57
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 59
+      "Freq": 56
     },
     {
-      "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 54
+      "Var1": "AI MachineLearning DataScience rstats javascript",
+      "Freq": 53
     },
     {
       "Var1": "ML AI MachineLearning",
+      "Freq": 52
+    },
+    {
+      "Var1": "NLProc BigData DataScience AI",
       "Freq": 52
     },
     {
@@ -83,94 +87,90 @@
     {
       "Var1": "DataCenter BigData Analytics DataScience AI MachineLearning",
       "Freq": 51
-    },
-    {
-      "Var1": "SQL SQLServer BigDataAnalytics DeepLearning",
-      "Freq": 51
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 506
+      "Freq": 512
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 233
+      "Freq": 250
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 225
+      "Freq": 232
     },
     {
       "Var1": "NlognHQ",
-      "Freq": 217
+      "Freq": 230
     },
     {
       "Var1": "xaelbot",
-      "Freq": 217
+      "Freq": 227
     },
     {
       "Var1": "redianbot",
-      "Freq": 215
+      "Freq": 225
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 212
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 184
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 181
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 181
+      "Freq": 223
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 173
+      "Freq": 211
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 171
+      "Var1": "Taieb_Bot",
+      "Freq": 197
     },
     {
-      "Var1": "Fabriciosx",
-      "Freq": 166
+      "Var1": "nlognbot",
+      "Freq": 195
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 189
     },
     {
       "Var1": "nodeQuotesBot",
+      "Freq": 184
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 179
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 172
+    },
+    {
+      "Var1": "ineelbot",
+      "Freq": 167
+    },
+    {
+      "Var1": "Fabriciosx",
       "Freq": 163
     },
     {
       "Var1": "developersbot",
-      "Freq": 151
-    },
-    {
-      "Var1": "ineelbot",
-      "Freq": 146
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 137
+      "Freq": 156
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 104
+      "Freq": 115
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 87
+      "Freq": 93
     },
     {
-      "Var1": "AlgorithmsB",
-      "Freq": 81
+      "Var1": "techtrendingnow",
+      "Freq": 87
     }
   ],
-  "top10_tweets_like": ["Have you ever cursed at your computer trying to get the right sizing of text etc in plots when you render it to a file? This one trick will help you regain sanity! #rstats \n\nhttps://t.co/kELor6SqZH", "Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "⚡️Mastering Machine Learning for Spatial Prediction⚡️\n\nFantastic and clearly delivered lecture by Madlene Nussbaum at @opengeohub! 🛰️🗺️📊\n\n📚 Slides + Practicals: https://t.co/5uxT3bvpTY\n📽️ Video: https://t.co/vKNYAmxq99\n\n#MachineLearning #DataScience #GIS #rstats #rspatial https://t.co/qn2Y98o8fZ", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/TFJSwNFjYx"],
-  "top10_tweets_retweet": ["Have you ever cursed at your computer trying to get the right sizing of text etc in plots when you render it to a file? This one trick will help you regain sanity! #rstats \n\nhttps://t.co/kELor6SqZH", "Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "⚡️Mastering Machine Learning for Spatial Prediction⚡️\n\nFantastic and clearly delivered lecture by Madlene Nussbaum at @opengeohub! 🛰️🗺️📊\n\n📚 Slides + Practicals: https://t.co/5uxT3bvpTY\n📽️ Video: https://t.co/vKNYAmxq99\n\n#MachineLearning #DataScience #GIS #rstats #rspatial https://t.co/qn2Y98o8fZ", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/TFJSwNFjYx"]
+  "top10_tweets_like": ["Have you ever cursed at your computer trying to get the right sizing of text etc in plots when you render it to a file? This one trick will help you regain sanity! #rstats \n\nhttps://t.co/kELor6SqZH", "Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "⚡️Mastering Machine Learning for Spatial Prediction⚡️\n\nFantastic and clearly delivered lecture by Madlene Nussbaum at @opengeohub! 🛰️🗺️📊\n\n📚 Slides + Practicals: https://t.co/5uxT3bvpTY\n📽️ Video: https://t.co/vKNYAmxq99\n\n#MachineLearning #DataScience #GIS #rstats #rspatial https://t.co/qn2Y98o8fZ", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq"],
+  "top10_tweets_retweet": ["Have you ever cursed at your computer trying to get the right sizing of text etc in plots when you render it to a file? This one trick will help you regain sanity! #rstats \n\nhttps://t.co/kELor6SqZH", "Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "⚡️Mastering Machine Learning for Spatial Prediction⚡️\n\nFantastic and clearly delivered lecture by Madlene Nussbaum at @opengeohub! 🛰️🗺️📊\n\n📚 Slides + Practicals: https://t.co/5uxT3bvpTY\n📽️ Video: https://t.co/vKNYAmxq99\n\n#MachineLearning #DataScience #GIS #rstats #rspatial https://t.co/qn2Y98o8fZ", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq"]
 }
