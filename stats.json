@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8602,
-      "average_tweets_per_hour": 358,
-      "tweeters_today": 1716,
-      "total_likes_today": 6016
+      "total_tweets_today": 8539,
+      "average_tweets_per_hour": 356,
+      "tweeters_today": 1684,
+      "total_likes_today": 6095
     }
   ],
   "top20_hashtags": [
@@ -14,11 +14,11 @@
     },
     {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
-      "Freq": 160
+      "Freq": 137
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 130
+      "Freq": 133
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
@@ -26,15 +26,15 @@
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 110
+      "Freq": 116
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 109
+      "Freq": 110
     },
     {
       "Var1": "RStats",
-      "Freq": 102
+      "Freq": 104
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -42,19 +42,19 @@
     },
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 95
-    },
-    {
-      "Var1": "MachineLearning DeepLearning",
-      "Freq": 95
+      "Freq": 100
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 93
+      "Freq": 87
     },
     {
       "Var1": "Datascience BigData DataAnalytics AI MachineLearning IoT IIoT Python RStats JavaScript ReactJS",
       "Freq": 74
+    },
+    {
+      "Var1": "Books Mathematics BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 73
     },
     {
       "Var1": "MachineLearning Books BigData Analytics DataScience IoT Python RStats TensorFlow Java",
@@ -73,104 +73,104 @@
       "Freq": 66
     },
     {
+      "Var1": "ML BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT Python RStats",
+      "Freq": 64
+    },
+    {
       "Var1": "DataCenter BigData Analytics DataScience AI MachineLearning",
       "Freq": 61
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 60
+      "Freq": 61
     },
     {
-      "Var1": "programmer coder developer technology",
-      "Freq": 60
-    },
-    {
-      "Var1": "MachineLearning DataScience",
-      "Freq": 57
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 59
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 460
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 268
+      "Freq": 447
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 262
+      "Freq": 271
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 269
     },
     {
       "Var1": "NlognHQ",
-      "Freq": 249
+      "Freq": 250
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 245
+      "Freq": 246
     },
     {
       "Var1": "xaelbot",
-      "Freq": 229
+      "Freq": 230
     },
     {
       "Var1": "redianbot",
-      "Freq": 227
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 220
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 212
+      "Freq": 228
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 210
+      "Freq": 219
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 213
     },
     {
       "Var1": "Taieb_Bot",
+      "Freq": 206
+    },
+    {
+      "Var1": "TheSecretJunio1",
       "Freq": 205
     },
     {
       "Var1": "ineelbot",
-      "Freq": 204
+      "Freq": 198
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 187
+      "Freq": 190
     },
     {
       "Var1": "developersbot",
-      "Freq": 186
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 179
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 177
+      "Freq": 187
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 164
+      "Freq": 176
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 175
+    },
+    {
+      "Var1": "Fabriciosx",
+      "Freq": 168
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 133
+      "Freq": 135
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 116
+      "Freq": 118
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 92
+      "Freq": 97
     }
   ],
-  "top10_tweets_like": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "Sorry, buddy. If you can explain what a confidence interval *is* in one short sentence, then you did not understand it. Same goes for p-value.\n\nOne sentence is enough for what they *do* but not what they *are.*\n\n#DataScience #Statistics #rstats #Analytics"],
-  "top10_tweets_retweet": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "Sorry, buddy. If you can explain what a confidence interval *is* in one short sentence, then you did not understand it. Same goes for p-value.\n\nOne sentence is enough for what they *do* but not what they *are.*\n\n#DataScience #Statistics #rstats #Analytics"]
+  "top10_tweets_like": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "TIL from talking with @charliejhadley: If you click the little R button in the Files pane, it takes you back to the root directory of your project. #rstats https://t.co/ocoSzXzL2b"],
+  "top10_tweets_retweet": ["Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/INk8hwgxcr", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "{plumber} allows you to create a web API by merely decorating your existing #RStats source code with special comments\n\nThe plumber team is keen for your help releasing v1.0.0 \nCheck out below for where you can play with the release candidate, read the notes, &amp; how you can help. https://t.co/WZvOWhwOeq", "TIL from talking with @charliejhadley: If you click the little R button in the Files pane, it takes you back to the root directory of your project. #rstats https://t.co/ocoSzXzL2b"]
 }
