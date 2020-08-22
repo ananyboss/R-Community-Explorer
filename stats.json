@@ -1,16 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7304,
-      "average_tweets_per_hour": 304,
-      "tweeters_today": 1630,
-      "total_likes_today": 5505
+      "total_tweets_today": 7406,
+      "average_tweets_per_hour": 309,
+      "tweeters_today": 1638,
+      "total_likes_today": 5655
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 182
+      "Freq": 178
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 150
     },
     {
       "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning Python",
@@ -18,39 +22,35 @@
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 126
+      "Freq": 122
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 121
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 110
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 100
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 87
+      "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 88
     },
     {
       "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 86
     },
     {
-      "Var1": "AI MachineLearning BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 83
+      "Var1": "rstats DataScience",
+      "Freq": 85
     },
     {
       "Var1": "RStats",
-      "Freq": 79
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 72
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 65
     },
     {
       "Var1": "NLProc BigData DataScience AI",
@@ -69,12 +69,12 @@
       "Freq": 58
     },
     {
-      "Var1": "AI MachineLearning DataScience rstats javascript",
+      "Var1": "theinsaneapp ML AI MachineLearning rstats 100DaysOfMLCode javascript reactjs",
       "Freq": 55
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning rstats 100DaysOfMLCode javascript reactjs",
-      "Freq": 55
+      "Var1": "MachineLearning DataScience",
+      "Freq": 54
     },
     {
       "Var1": "DeepLearning Analytics",
@@ -85,46 +85,42 @@
       "Freq": 50
     },
     {
-      "Var1": "MachineLearning DataScience",
-      "Freq": 48
+      "Var1": "plugins install ApacheSpark Analytics DataScience MachineLearning",
+      "Freq": 47
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 529
+      "Freq": 521
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 219
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 203
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 188
-    },
-    {
-      "Var1": "NlognHQ",
-      "Freq": 184
-    },
-    {
-      "Var1": "redianbot",
-      "Freq": 184
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 183
+      "Freq": 220
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 175
+      "Freq": 215
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 173
+      "Var1": "theInfernobot",
+      "Freq": 207
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 193
+    },
+    {
+      "Var1": "NlognHQ",
+      "Freq": 188
+    },
+    {
+      "Var1": "redianbot",
+      "Freq": 186
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 186
     },
     {
       "Var1": "nlognbot",
@@ -132,43 +128,47 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 160
+      "Freq": 161
     },
     {
       "Var1": "Taieb_Bot",
       "Freq": 158
     },
     {
+      "Var1": "chidambara09",
+      "Freq": 155
+    },
+    {
       "Var1": "nodeQuotesBot",
-      "Freq": 142
+      "Freq": 146
     },
     {
       "Var1": "developersbot",
-      "Freq": 136
+      "Freq": 138
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 133
+      "Freq": 134
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 127
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 119
+      "Freq": 128
     },
     {
       "Var1": "ineelbot",
-      "Freq": 96
+      "Freq": 109
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 89
+      "Var1": "datasciencebot_",
+      "Freq": 104
     },
     {
       "Var1": "geraldmuvengei2",
-      "Freq": 81
+      "Freq": 94
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 88
     }
   ],
   "top10_tweets_like": ["Have you ever cursed at your computer trying to get the right sizing of text etc in plots when you render it to a file? This one trick will help you regain sanity! #rstats \n\nhttps://t.co/kELor6SqZH", "Since this has been coming up a lot, I've updated my \"Regression in R\" lecture: https://t.co/QZrGzCR4P6 \n\nIt's got everything from OLS to high-dimensional FEs to clustered SEs to regression tables to.. etc. Basically, all the tools I use in my own workflow. \n\n#econtwitter #rstats https://t.co/2JrSGyybIz", "I have updated the *Data Science Course in a Box* resources at https://t.co/N21dyees9Y. If you're teaching introductory data science with #rstats, take a look and feel free to use/adapt as you like. Source code for all materials are linked from the website and licensed CC BY-SA! https://t.co/uw9HrzffkD", "⚡️Mastering Machine Learning for Spatial Prediction⚡️\n\nFantastic and clearly delivered lecture by Madlene Nussbaum at @opengeohub! 🛰️🗺️📊\n\n📚 Slides + Practicals: https://t.co/5uxT3bvpTY\n📽️ Video: https://t.co/vKNYAmxq99\n\n#MachineLearning #DataScience #GIS #rstats #rspatial https://t.co/qn2Y98o8fZ", "Me when computer scientists sh*ttalk R 😡\n\n#rstats https://t.co/c53tTlxuSY", "Graphics in R with ggplot2  {https://t.co/Zip79Pvz19} #rstats #DataScience", "\"Learning Statistics with R\", course notes for teaching R to Psychology students by @djnavarro https://t.co/j1n8mgAw36 #rstats", "{plumber} v1.0.0 release candidate is available!🎊\nMajor external &amp; internal changes: https://t.co/jg7LCoYv5Y\n\n🙏🙏Please test your {plumber} APIs using: `remotes::install_github(\"rstudio/plumber#659\")`\nReport issues on https://t.co/axxnj56vnN\n\nPlan to release Sept. 8th #rstats https://t.co/qXrjogLvhV", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/UrbDZ01sc5 https://t.co/TFJSwNFjYx", "portals747 #generative #rstats #plottertwitter\n\nUnique A3 plot: US$300 + shipping https://t.co/wBM2o3ycf3"],
