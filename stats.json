@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6798,
-      "average_tweets_per_hour": 283,
-      "tweeters_today": 1513,
-      "total_likes_today": 5459
+      "total_tweets_today": 6742,
+      "average_tweets_per_hour": 281,
+      "tweeters_today": 1504,
+      "total_likes_today": 5365
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 180
+      "Freq": 178
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -22,7 +22,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 136
+      "Freq": 140
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI",
@@ -30,31 +30,35 @@
     },
     {
       "Var1": "Python 100DaysOfCode MachineLearning DeepLearning IoT 100DaysOfMLCode",
-      "Freq": 123
+      "Freq": 117
     },
     {
       "Var1": "JavaScript BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 118
-    },
-    {
-      "Var1": "plugins wordpress ApacheSpark Analytics DataScience MachineLearning",
-      "Freq": 92
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 87
+      "Freq": 110
     },
     {
       "Var1": "plugins wordpress DataScience MachineLearning Python RStats Java",
       "Freq": 78
     },
     {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 76
+    },
+    {
       "Var1": "rstats DataScience",
-      "Freq": 78
+      "Freq": 76
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
       "Freq": 74
+    },
+    {
+      "Var1": "plugins wordpress ApacheSpark Analytics DataScience MachineLearning",
+      "Freq": 72
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 63
     },
     {
       "Var1": "BigData Analytics",
@@ -65,12 +69,8 @@
       "Freq": 61
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 59
-    },
-    {
       "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 56
+      "Freq": 60
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience MachineLearning AI IoT",
@@ -78,45 +78,45 @@
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 55
-    },
-    {
-      "Var1": "ArtificialIntelligence 100DaysOfCode udemy",
-      "Freq": 52
+      "Freq": 53
     },
     {
       "Var1": "RStats",
       "Freq": 51
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
+      "Freq": 50
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 566
+      "Freq": 562
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 292
+      "Freq": 289
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 267
+      "Freq": 281
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 214
+      "Freq": 215
     },
     {
       "Var1": "redianbot",
-      "Freq": 205
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 203
+      "Freq": 201
     },
     {
       "Var1": "nlognbot",
-      "Freq": 201
+      "Freq": 199
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 199
     },
     {
       "Var1": "chidambara09",
@@ -124,23 +124,23 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 170
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 164
-    },
-    {
-      "Var1": "Taieb_Bot",
       "Freq": 157
     },
     {
+      "Var1": "nodeQuotesBot",
+      "Freq": 156
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 156
+    },
+    {
       "Var1": "developersbot",
-      "Freq": 124
+      "Freq": 127
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 119
+      "Freq": 117
     },
     {
       "Var1": "NetworkIndie",
@@ -148,7 +148,7 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 93
+      "Freq": 94
     },
     {
       "Var1": "tidyversetweets",
@@ -160,17 +160,17 @@
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 78
+      "Freq": 77
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 77
+      "Freq": 74
     },
     {
       "Var1": "BeakPeakLogic",
       "Freq": 73
     }
   ],
-  "top10_tweets_like": ["Holographic dplyr stickers back in stock at https://t.co/9QTVkdj1kE. Also, new holographic tidyr stickers!! #rstats https://t.co/SUybHpa5Zc", "📦 \"DataEditR • DataEditR\"\n\n👤 Dillon Hammill @dillonhammill \n\n➡️ DataEditR is a lightweight package to interactively view, enter or edit data in R\n\nhttps://t.co/H4rUU7jb74\n#rstats https://t.co/syUHuscdCf", "Enormously satisfying. Galton board made with the chipmunk package in #rstats by @coolbutuseless Had to play a little bit with sizes and number of particles (lots of 2d disk physics involved here), but it works https://t.co/Qbgv0SkhhN", "Another chapter on ggplot2 extensions has been added - this time with a bit of grid and grob focus #rstats https://t.co/OO40a3sTSZ", "😱 Map Of Computer Science 😱\n\nHigh Quality Image: https://t.co/yGje6YpRvF\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #computerscience #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #DeepLearning #ArtificialIntelligence https://t.co/LjiUvGK2Wi", "Free eBook: Python Projects for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LqLSUmbAmi https://t.co/nvhdVs4N4k", "In a shocking turn of events, I have spent more time fighting with ggplot than the actual analysis. #Rstats", "Interested in building #rstats flipbooks? Maybe start with this new 🎉 *easy recipes* cookbook. 👨‍🍳📘  \n\nStep-by-step guidance from package installation to slideshow w code-movie magic! 😊  \n\nContains four simple flipbook📖recipes.  https://t.co/MV7MKCJgeb https://t.co/aL7dlcvcEX", "I put together a list of tips I learnt from @drob weekly screencasts 🎥, in which he analyses #TidyTuesday data he has never seen before (!) w/ R &amp; the #tidyverse https://t.co/VFAaDz8onE I hope these notes are useful to other #RStats folks\n\n🤩 Illustrations @allison_horst https://t.co/uUrJzKP4PC", "Quick shoutout for transport researchers &amp; spatial data scientists in general. We are building a new #rstats package for rapid realistic routing on multimodal transport networks based on R5.  You can installed it from https://t.co/71dD10VGgJ More updates soon. #r5rstats #rspatial"],
-  "top10_tweets_retweet": ["Holographic dplyr stickers back in stock at https://t.co/9QTVkdj1kE. Also, new holographic tidyr stickers!! #rstats https://t.co/SUybHpa5Zc", "📦 \"DataEditR • DataEditR\"\n\n👤 Dillon Hammill @dillonhammill \n\n➡️ DataEditR is a lightweight package to interactively view, enter or edit data in R\n\nhttps://t.co/H4rUU7jb74\n#rstats https://t.co/syUHuscdCf", "Enormously satisfying. Galton board made with the chipmunk package in #rstats by @coolbutuseless Had to play a little bit with sizes and number of particles (lots of 2d disk physics involved here), but it works https://t.co/Qbgv0SkhhN", "Another chapter on ggplot2 extensions has been added - this time with a bit of grid and grob focus #rstats https://t.co/OO40a3sTSZ", "😱 Map Of Computer Science 😱\n\nHigh Quality Image: https://t.co/yGje6YpRvF\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #computerscience #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #DeepLearning #ArtificialIntelligence https://t.co/LjiUvGK2Wi", "Free eBook: Python Projects for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LqLSUmbAmi https://t.co/nvhdVs4N4k", "In a shocking turn of events, I have spent more time fighting with ggplot than the actual analysis. #Rstats", "Interested in building #rstats flipbooks? Maybe start with this new 🎉 *easy recipes* cookbook. 👨‍🍳📘  \n\nStep-by-step guidance from package installation to slideshow w code-movie magic! 😊  \n\nContains four simple flipbook📖recipes.  https://t.co/MV7MKCJgeb https://t.co/aL7dlcvcEX", "I put together a list of tips I learnt from @drob weekly screencasts 🎥, in which he analyses #TidyTuesday data he has never seen before (!) w/ R &amp; the #tidyverse https://t.co/VFAaDz8onE I hope these notes are useful to other #RStats folks\n\n🤩 Illustrations @allison_horst https://t.co/uUrJzKP4PC", "Quick shoutout for transport researchers &amp; spatial data scientists in general. We are building a new #rstats package for rapid realistic routing on multimodal transport networks based on R5.  You can installed it from https://t.co/71dD10VGgJ More updates soon. #r5rstats #rspatial"]
+  "top10_tweets_like": ["Holographic dplyr stickers back in stock at https://t.co/9QTVkdj1kE. Also, new holographic tidyr stickers!! #rstats https://t.co/SUybHpa5Zc", "📦 \"DataEditR • DataEditR\"\n\n👤 Dillon Hammill @dillonhammill \n\n➡️ DataEditR is a lightweight package to interactively view, enter or edit data in R\n\nhttps://t.co/H4rUU7jb74\n#rstats https://t.co/syUHuscdCf", "Enormously satisfying. Galton board made with the chipmunk package in #rstats by @coolbutuseless Had to play a little bit with sizes and number of particles (lots of 2d disk physics involved here), but it works https://t.co/Qbgv0SkhhN", "Another chapter on ggplot2 extensions has been added - this time with a bit of grid and grob focus #rstats https://t.co/OO40a3sTSZ", "Free eBook: Python Projects for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LqLSUmbAmi https://t.co/nvhdVs4N4k", "😱 Map Of Computer Science 😱\n\nHigh Quality Image: https://t.co/yGje6YpRvF\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #computerscience #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #DeepLearning #ArtificialIntelligence https://t.co/LjiUvGK2Wi", "In a shocking turn of events, I have spent more time fighting with ggplot than the actual analysis. #Rstats", "I put together a list of tips I learnt from @drob weekly screencasts 🎥, in which he analyses #TidyTuesday data he has never seen before (!) w/ R &amp; the #tidyverse https://t.co/VFAaDz8onE I hope these notes are useful to other #RStats folks\n\n🤩 Illustrations @allison_horst https://t.co/uUrJzKP4PC", "Our updated #rstats package can solve differential equations 350x faster than others without requiring users to write anything but R code. How? JIT and GPU-acceleration or limited R code via #julialang #sciml. Read the blog post to find out more.\n\nhttps://t.co/8tMh1QEALv", "Quick shoutout for transport researchers &amp; spatial data scientists in general. We are building a new #rstats package for rapid realistic routing on multimodal transport networks based on R5.  You can installed it from https://t.co/71dD10VGgJ More updates soon. #r5rstats #rspatial"],
+  "top10_tweets_retweet": ["Holographic dplyr stickers back in stock at https://t.co/9QTVkdj1kE. Also, new holographic tidyr stickers!! #rstats https://t.co/SUybHpa5Zc", "📦 \"DataEditR • DataEditR\"\n\n👤 Dillon Hammill @dillonhammill \n\n➡️ DataEditR is a lightweight package to interactively view, enter or edit data in R\n\nhttps://t.co/H4rUU7jb74\n#rstats https://t.co/syUHuscdCf", "Enormously satisfying. Galton board made with the chipmunk package in #rstats by @coolbutuseless Had to play a little bit with sizes and number of particles (lots of 2d disk physics involved here), but it works https://t.co/Qbgv0SkhhN", "Another chapter on ggplot2 extensions has been added - this time with a bit of grid and grob focus #rstats https://t.co/OO40a3sTSZ", "Free eBook: Python Projects for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/LqLSUmbAmi https://t.co/nvhdVs4N4k", "😱 Map Of Computer Science 😱\n\nHigh Quality Image: https://t.co/yGje6YpRvF\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #computerscience #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #DeepLearning #ArtificialIntelligence https://t.co/LjiUvGK2Wi", "In a shocking turn of events, I have spent more time fighting with ggplot than the actual analysis. #Rstats", "I put together a list of tips I learnt from @drob weekly screencasts 🎥, in which he analyses #TidyTuesday data he has never seen before (!) w/ R &amp; the #tidyverse https://t.co/VFAaDz8onE I hope these notes are useful to other #RStats folks\n\n🤩 Illustrations @allison_horst https://t.co/uUrJzKP4PC", "Our updated #rstats package can solve differential equations 350x faster than others without requiring users to write anything but R code. How? JIT and GPU-acceleration or limited R code via #julialang #sciml. Read the blog post to find out more.\n\nhttps://t.co/8tMh1QEALv", "Quick shoutout for transport researchers &amp; spatial data scientists in general. We are building a new #rstats package for rapid realistic routing on multimodal transport networks based on R5.  You can installed it from https://t.co/71dD10VGgJ More updates soon. #r5rstats #rspatial"]
 }
