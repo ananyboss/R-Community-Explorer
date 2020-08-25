@@ -1,44 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6929,
-      "average_tweets_per_hour": 289,
-      "tweeters_today": 1604,
-      "total_likes_today": 6234
+      "total_tweets_today": 6914,
+      "average_tweets_per_hour": 288,
+      "tweeters_today": 1621,
+      "total_likes_today": 6240
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 169
+      "Var1": "tidyverse rstats",
+      "Freq": 168
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 167
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 161
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 143
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 121
+      "Freq": 149
     },
     {
       "Var1": "theinsaneapp Mathematics ML AI MachineLearning DataScience",
-      "Freq": 108
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 106
-    },
-    {
-      "Var1": "DataVisualization BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 92
+      "Freq": 123
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 91
+      "Freq": 93
+    },
+    {
+      "Var1": "DataVisualization BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 93
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 93
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -46,7 +42,11 @@
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 84
+      "Freq": 87
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 86
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience MachineLearning AI IoT",
@@ -61,12 +61,8 @@
       "Freq": 67
     },
     {
-      "Var1": "rstats datascience",
-      "Freq": 64
-    },
-    {
       "Var1": "Rstats",
-      "Freq": 61
+      "Freq": 63
     },
     {
       "Var1": "Python 100DaysOfCode",
@@ -74,25 +70,29 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 56
+      "Freq": 60
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 53
+      "Var1": "rstats datascience",
+      "Freq": 60
+    },
+    {
+      "Var1": "Python 100DaysOfCode MachineLearning DeepLearning IoT 100DaysOfMLCode",
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 53
+      "Freq": 55
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Var1": "BigData Analytics DataScience",
       "Freq": 53
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 610
+      "Freq": 612
     },
     {
       "Var1": "datasciencebot_",
@@ -100,31 +100,31 @@
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 229
+      "Freq": 223
     },
     {
       "Var1": "nlognbot",
       "Freq": 205
     },
     {
-      "Var1": "xaelbot",
-      "Freq": 202
+      "Var1": "nodeQuotesBot",
+      "Freq": 200
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 194
+      "Var1": "xaelbot",
+      "Freq": 197
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 189
+      "Freq": 193
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 177
+      "Freq": 182
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 166
+      "Freq": 165
     },
     {
       "Var1": "chidambara09",
@@ -132,45 +132,45 @@
     },
     {
       "Var1": "developersbot",
-      "Freq": 159
-    },
-    {
-      "Var1": "bexxmodd",
-      "Freq": 95
+      "Freq": 157
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 94
+      "Freq": 96
+    },
+    {
+      "Var1": "bexxmodd",
+      "Freq": 85
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 88
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "AlgorithmsB",
       "Freq": 82
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 82
+    },
+    {
       "Var1": "rstats4ds",
-      "Freq": 75
+      "Freq": 76
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 74
+      "Freq": 68
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 65
+      "Freq": 64
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 59
+      "Freq": 60
     }
   ],
-  "top10_tweets_like": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "😱 Augmented Reality will change the way we study Math\n\n#theinsaneapp #Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #AugmentedReality https://t.co/nqmheWDTlx", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "How I’d Start Learning #MachineLearning Again (3-years in). #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ykFFM9AjMe https://t.co/jjoZ2Swcqi", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Books for Data Science and #DataVisualization. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/XF1CMe9PYE", "The 11 Best Python Books Based on Real Reviews. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/b8d10NWEGK https://t.co/cXGsFJpa3s", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8"],
-  "top10_tweets_retweet": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "😱 Augmented Reality will change the way we study Math\n\n#theinsaneapp #Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #AugmentedReality https://t.co/nqmheWDTlx", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "How I’d Start Learning #MachineLearning Again (3-years in). #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ykFFM9AjMe https://t.co/jjoZ2Swcqi", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Books for Data Science and #DataVisualization. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/XF1CMe9PYE", "The 11 Best Python Books Based on Real Reviews. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/b8d10NWEGK https://t.co/cXGsFJpa3s", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8"]
+  "top10_tweets_like": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "😱 Augmented Reality will change the way we study Math\n\n#theinsaneapp #Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #AugmentedReality https://t.co/nqmheWDTlx", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Books for Data Science and #DataVisualization. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/XF1CMe9PYE", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8", "How most statistical tests are linear models  {https://t.co/DAe1B6AyVF} #rstats #DataScience", "26-Layered Deep Convolutional Neural Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oUvvPsWIPx https://t.co/RmHvusD2s3"],
+  "top10_tweets_retweet": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "😱 Augmented Reality will change the way we study Math\n\n#theinsaneapp #Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #AugmentedReality https://t.co/nqmheWDTlx", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Books for Data Science and #DataVisualization. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/XF1CMe9PYE", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8", "How most statistical tests are linear models  {https://t.co/DAe1B6AyVF} #rstats #DataScience", "26-Layered Deep Convolutional Neural Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oUvvPsWIPx https://t.co/RmHvusD2s3"]
 }
