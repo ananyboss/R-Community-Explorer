@@ -1,43 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6478,
-      "average_tweets_per_hour": 270,
-      "tweeters_today": 1718,
-      "total_likes_today": 6921
+      "total_tweets_today": 6368,
+      "average_tweets_per_hour": 265,
+      "tweeters_today": 1736,
+      "total_likes_today": 6917
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats DataScience",
-      "Freq": 188
+      "Freq": 193
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 185
+      "Freq": 192
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 137
+      "Freq": 135
     },
     {
       "Var1": "theinsaneapp Mathematics ML AI MachineLearning DataScience",
-      "Freq": 117
+      "Freq": 118
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 104
+      "Freq": 98
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
       "Freq": 96
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 87
+      "Var1": "RStats",
+      "Freq": 92
     },
     {
-      "Var1": "RStats",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
       "Freq": 87
     },
     {
@@ -45,7 +45,11 @@
       "Freq": 86
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 80
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 79
     },
     {
@@ -53,114 +57,102 @@
       "Freq": 77
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 75
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 74
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 73
+      "Var1": "rstats arte",
+      "Freq": 71
     },
     {
       "Var1": "AI MachineLearning DeepLearning IoT BigData Analytics DataScience IIoT Python",
       "Freq": 68
     },
     {
-      "Var1": "rstats arte",
-      "Freq": 66
-    },
-    {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 65
+      "Var1": "singlecell RNAvelocity",
+      "Freq": 64
     },
     {
       "Var1": "theinsaneapp ML",
-      "Freq": 60
-    },
-    {
-      "Var1": "Python 100DaysOfCode MachineLearning DeepLearning IoT 100DaysOfMLCode",
       "Freq": 59
     },
     {
-      "Var1": "singlecell RNAvelocity",
-      "Freq": 59
+      "Var1": "plugins wordpress DataScience MachineLearning Python RStats Java",
+      "Freq": 58
     },
     {
-      "Var1": "DataVisualization BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Var1": "rstats datascience",
       "Freq": 58
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 630
+      "Freq": 621
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 370
+      "Freq": 376
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 245
+      "Freq": 243
     },
     {
       "Var1": "xaelbot",
-      "Freq": 196
+      "Freq": 189
     },
     {
       "Var1": "nlognbot",
-      "Freq": 192
+      "Freq": 187
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 177
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 172
+      "Freq": 183
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 171
+      "Freq": 172
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 166
     },
     {
       "Var1": "developersbot",
-      "Freq": 108
+      "Freq": 99
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 105
+      "Freq": 96
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 90
-    },
-    {
-      "Var1": "rstats4ds",
       "Freq": 87
     },
     {
-      "Var1": "NetworkIndie",
-      "Freq": 85
+      "Var1": "rstats4ds",
+      "Freq": 86
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 85
+      "Freq": 86
+    },
+    {
+      "Var1": "NetworkIndie",
+      "Freq": 82
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 70
+      "Freq": 77
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 64
-    },
-    {
-      "Var1": "AlgorithmsB",
       "Freq": 62
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 57
     },
     {
       "Var1": "learn__together",
@@ -169,8 +161,16 @@
     {
       "Var1": "anglehernandez",
       "Freq": 53
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 53
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 49
     }
   ],
-  "top10_tweets_like": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Interested in trying out dynamic #singlecell #RNAvelocity analysis via scvelo Python package @VolkerBergen @fabian_theis @falexwolf but want to stay in #Rstats like me? Check out my #bioinformatics tutorial for using scvelo from within R using reticulate: https://t.co/EnCwN2u9fw https://t.co/fQTzw2EQLm", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Want to learn how to deploy an R model and a Shiny app with GitHub Actions? My #rstatsnyc talk is available to watch now: https://t.co/deS68jU3T6 #rstats", "R + Python = Rython  {https://t.co/fhI20rISvn} #rstats #DataScience", "26-Layered Deep Convolutional Neural Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oUvvPsWIPx https://t.co/RmHvusD2s3", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8"],
-  "top10_tweets_retweet": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Interested in trying out dynamic #singlecell #RNAvelocity analysis via scvelo Python package @VolkerBergen @fabian_theis @falexwolf but want to stay in #Rstats like me? Check out my #bioinformatics tutorial for using scvelo from within R using reticulate: https://t.co/EnCwN2u9fw https://t.co/fQTzw2EQLm", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Want to learn how to deploy an R model and a Shiny app with GitHub Actions? My #rstatsnyc talk is available to watch now: https://t.co/deS68jU3T6 #rstats", "R + Python = Rython  {https://t.co/fhI20rISvn} #rstats #DataScience", "26-Layered Deep Convolutional Neural Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oUvvPsWIPx https://t.co/RmHvusD2s3", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8"]
+  "top10_tweets_like": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "Interested in trying out dynamic #singlecell #RNAvelocity analysis via scvelo Python package @VolkerBergen @fabian_theis @falexwolf but want to stay in #Rstats like me? Check out my #bioinformatics tutorial for using scvelo from within R using reticulate: https://t.co/EnCwN2u9fw https://t.co/fQTzw2EQLm", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Want to learn how to deploy an R model and a Shiny app with GitHub Actions? My #rstatsnyc talk is available to watch now: https://t.co/deS68jU3T6 #rstats", "R + Python = Rython  {https://t.co/fhI20rISvn} #rstats #DataScience", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/nRmsGQ6oKn", "26-Layered Deep Convolutional Neural Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oUvvPsWIPx https://t.co/RmHvusD2s3"],
+  "top10_tweets_retweet": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "Interested in trying out dynamic #singlecell #RNAvelocity analysis via scvelo Python package @VolkerBergen @fabian_theis @falexwolf but want to stay in #Rstats like me? Check out my #bioinformatics tutorial for using scvelo from within R using reticulate: https://t.co/EnCwN2u9fw https://t.co/fQTzw2EQLm", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Want to learn how to deploy an R model and a Shiny app with GitHub Actions? My #rstatsnyc talk is available to watch now: https://t.co/deS68jU3T6 #rstats", "R + Python = Rython  {https://t.co/fhI20rISvn} #rstats #DataScience", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/nRmsGQ6oKn", "26-Layered Deep Convolutional Neural Network. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oUvvPsWIPx https://t.co/RmHvusD2s3"]
 }
