@@ -1,40 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6866,
-      "average_tweets_per_hour": 286,
-      "tweeters_today": 1633,
-      "total_likes_today": 6422
+      "total_tweets_today": 6892,
+      "average_tweets_per_hour": 287,
+      "tweeters_today": 1638,
+      "total_likes_today": 6613
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 169
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 157
+      "Freq": 168
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 154
+      "Freq": 166
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 156
     },
     {
       "Var1": "theinsaneapp Mathematics ML AI MachineLearning DataScience",
-      "Freq": 130
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 96
+      "Freq": 131
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 93
     },
     {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 91
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 87
+      "Freq": 85
     },
     {
       "Var1": "DataVisualization BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
@@ -42,11 +42,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 78
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 73
+      "Freq": 80
     },
     {
       "Var1": "Python DataScience",
@@ -57,11 +53,15 @@
       "Freq": 67
     },
     {
-      "Var1": "Rstats",
-      "Freq": 62
+      "Var1": "RStats",
+      "Freq": 66
     },
     {
-      "Var1": "rstats datascience",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 64
+    },
+    {
+      "Var1": "Algorithms BigData Analytics DataScience MachineLearning AI",
       "Freq": 61
     },
     {
@@ -70,11 +70,15 @@
     },
     {
       "Var1": "Python 100DaysOfCode MachineLearning DeepLearning IoT 100DaysOfMLCode",
-      "Freq": 59
+      "Freq": 60
     },
     {
-      "Var1": "RStats",
-      "Freq": 59
+      "Var1": "rstats datascience",
+      "Freq": 60
+    },
+    {
+      "Var1": "Rstats",
+      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -83,28 +87,24 @@
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 53
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI IoT IIoT PyTorch Python",
-      "Freq": 51
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 612
+      "Freq": 622
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 363
+      "Freq": 365
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 220
+      "Freq": 224
     },
     {
       "Var1": "nlognbot",
-      "Freq": 200
+      "Freq": 201
     },
     {
       "Var1": "xaelbot",
@@ -112,7 +112,7 @@
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 192
+      "Freq": 193
     },
     {
       "Var1": "CodeGnuts",
@@ -120,7 +120,7 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 180
+      "Freq": 179
     },
     {
       "Var1": "Taieb_Bot",
@@ -132,43 +132,43 @@
     },
     {
       "Var1": "developersbot",
-      "Freq": 156
+      "Freq": 159
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 93
+      "Freq": 92
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 90
+      "Freq": 91
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "AlgorithmsB",
       "Freq": 82
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 81
+      "Var1": "rstats4ds",
+      "Freq": 82
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 76
+      "Var1": "tidyversetweets",
+      "Freq": 79
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 70
+      "Freq": 72
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 61
+      "Freq": 62
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 59
+      "Freq": 58
     }
   ],
   "top10_tweets_like": ["Ridiculously excited that after graduating I will be joining the Shiny team at RStudio! Dedicating my full effort to expanding and maintaining the #rstats tools that have given me so much is a dream come true. https://t.co/bzGOvtrY3z", "Bivariate color palettes are used to present the values of two variables simultaneously 🎨. However, how to select the best bivariate color palette to use for your map? \n\nI try to answer this question in a blog post at https://t.co/rf9KdbDvts.\n\n#rspatial #map #cartography #rstats https://t.co/9TykV4aKsY", "😱 Augmented Reality will change the way we study Math\n\n#theinsaneapp #Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #AugmentedReality https://t.co/nqmheWDTlx", "More than happy to announce that I'll be joining @rstudio this October as a Solutions Engineer!! \n\nI'm excited and eager to be able to keep contributing to the #rstats community and doing meaningful work in a place that values diversity, horizontality and empathy. \n\n🇵🇷🖤🇵🇷", "Ciencia es arte. Las venas azules de la Tierra. #rstats #arte https://t.co/uKPIlrFs7u", "Cut injuries in Chopped for this week's #TidyTuesday. The idea is basically the same as the instant ramen plot I did 15 months ago (still one of my favorites): https://t.co/66Djxab4OF\n\ncode: https://t.co/f1FgtYdDpU\n\n#RStats #dataviz https://t.co/5cOAzYcEal", "Books for Data Science and #DataVisualization. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/XF1CMe9PYE", "13 Sample Architectures to Kickstart your Google Cloud Journey. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/6b5cpWzGvm https://t.co/cG4psog1v8", "How most statistical tests are linear models  {https://t.co/DAe1B6AyVF} #rstats #DataScience", "R + Python = Rython  {https://t.co/fhI20rISvn} #rstats #DataScience"],
