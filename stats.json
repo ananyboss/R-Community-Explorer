@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5980,
-      "average_tweets_per_hour": 249,
-      "tweeters_today": 1628,
-      "total_likes_today": 5456
+      "total_tweets_today": 5996,
+      "average_tweets_per_hour": 250,
+      "tweeters_today": 1631,
+      "total_likes_today": 5501
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 184
+      "Freq": 186
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 169
+      "Freq": 170
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
@@ -22,113 +22,113 @@
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 112
+      "Freq": 114
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 104
+      "Freq": 102
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 90
+      "Freq": 93
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 80
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 77
+      "Freq": 78
     },
     {
       "Var1": "RStats",
-      "Freq": 77
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 75
-    },
-    {
-      "Var1": "singlecell RNAvelocity",
-      "Freq": 70
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 67
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 65
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
-      "Freq": 65
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 63
+      "Freq": 73
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
       "Freq": 63
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 61
+    },
+    {
+      "Var1": "singlecell RNAvelocity",
+      "Freq": 61
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 58
+    },
+    {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 60
+      "Freq": 54
     },
     {
       "Var1": "AI",
       "Freq": 53
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 42
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 53
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 48
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
+      "Freq": 41
+    },
+    {
+      "Var1": "rstats QGIS",
       "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 617
+      "Freq": 621
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 277
+      "Freq": 275
     },
     {
       "Var1": "nlognbot",
-      "Freq": 217
+      "Freq": 216
     },
     {
       "Var1": "xaelbot",
-      "Freq": 212
+      "Freq": 213
     },
     {
       "Var1": "chidambara09",
-      "Freq": 209
+      "Freq": 205
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 182
+      "Freq": 183
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 162
+      "Freq": 161
     },
     {
       "Var1": "AlgorithmsB",
-      "Freq": 128
+      "Freq": 117
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 109
+      "Freq": 112
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 101
+      "Freq": 98
     },
     {
       "Var1": "learn__together",
@@ -136,27 +136,27 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 82
+      "Freq": 86
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 74
+      "Freq": 83
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 74
+      "Freq": 75
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 59
+      "Freq": 62
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 59
+      "Freq": 57
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 57
+      "Freq": 56
     },
     {
       "Var1": "JohnEngine_",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 49
+      "Freq": 51
     }
   ],
-  "top10_tweets_like": ["We are working on a new implementation of the pipe for the next magrittr release. It:\n\n1) has cleaner backtraces\n2) is much faster\n3) works lazily\n\nOur analysis and testing suggest it should be a drop in replacement for &gt;99.9% of code but we need your help testing it! #rstats https://t.co/2fVFvttsZD", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/nRmsGQ6oKn", "Starting to mute anyone on #rstats who uses more than five hashtags. Simple, but actually very effective https://t.co/rWMoQN0usg", "I've Compiled A List of the Best Machine Learning #Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YCiY4Zv2ML https://t.co/pdI1ENx1aN", "Astonishing imbalance in illiteracy among men (left) &amp; women (right) in the Kingdom of Yugoslavia.\n\nMedian illiteracy (men):  29%\nMedian illiteracy (women): 76%\n\n#literacy #census #gender #history #dataviz #datascience #bigdata #maps #rstats #gis https://t.co/dsqqyCSAzs", "NEW PACKAGE (still in alpha): {runway} for #rstats: A package for evaluating and comparing prediction models.\n\nImplemented:\n☑️ Calibration plots for single and multiple models with 95% CI (adapted from code by @statsepi)\n\nMore coming soon...\n\nGH: https://t.co/axb99gjEzf https://t.co/E1S8oWGqOt", "#rstats maintainer wanted! The {RQGIS3} #QGIS package is in search of a person moving it forward/refactoring it.\n\nSee https://t.co/5eTZMC0wyp.\n\nAre you working in the GIS field but also like to automate things? This is your chance to contribute ;) \n\nFeel free to DM ico questions.", "Had a few hours to spare yesterday evening. Decided to not post it, bc it isn't my sharpest #Rstats #dataviz. \n\nBut then again, what's #TidyTuesday without a little gimmick?🤷‍♀️ https://t.co/gPsZZUpERO", "Hey #RStats Just sharing my experience with a brand new 43 inches curved monitor 😱 😅 🤷‍♂️: from left to right: pkgdown preview / #rstats rstudio preview (1.4.618) with multi column setup / twitter 🤫. More productivity, less headache, less cables (only USB-C + power)🤒 https://t.co/ovBGAA6Wvy", "Linux for Beginners. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dMMCkFAHiP https://t.co/z5cDAe1aW3"],
-  "top10_tweets_retweet": ["We are working on a new implementation of the pipe for the next magrittr release. It:\n\n1) has cleaner backtraces\n2) is much faster\n3) works lazily\n\nOur analysis and testing suggest it should be a drop in replacement for &gt;99.9% of code but we need your help testing it! #rstats https://t.co/2fVFvttsZD", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/nRmsGQ6oKn", "Starting to mute anyone on #rstats who uses more than five hashtags. Simple, but actually very effective https://t.co/rWMoQN0usg", "I've Compiled A List of the Best Machine Learning #Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YCiY4Zv2ML https://t.co/pdI1ENx1aN", "Astonishing imbalance in illiteracy among men (left) &amp; women (right) in the Kingdom of Yugoslavia.\n\nMedian illiteracy (men):  29%\nMedian illiteracy (women): 76%\n\n#literacy #census #gender #history #dataviz #datascience #bigdata #maps #rstats #gis https://t.co/dsqqyCSAzs", "NEW PACKAGE (still in alpha): {runway} for #rstats: A package for evaluating and comparing prediction models.\n\nImplemented:\n☑️ Calibration plots for single and multiple models with 95% CI (adapted from code by @statsepi)\n\nMore coming soon...\n\nGH: https://t.co/axb99gjEzf https://t.co/E1S8oWGqOt", "#rstats maintainer wanted! The {RQGIS3} #QGIS package is in search of a person moving it forward/refactoring it.\n\nSee https://t.co/5eTZMC0wyp.\n\nAre you working in the GIS field but also like to automate things? This is your chance to contribute ;) \n\nFeel free to DM ico questions.", "Had a few hours to spare yesterday evening. Decided to not post it, bc it isn't my sharpest #Rstats #dataviz. \n\nBut then again, what's #TidyTuesday without a little gimmick?🤷‍♀️ https://t.co/gPsZZUpERO", "Hey #RStats Just sharing my experience with a brand new 43 inches curved monitor 😱 😅 🤷‍♂️: from left to right: pkgdown preview / #rstats rstudio preview (1.4.618) with multi column setup / twitter 🤫. More productivity, less headache, less cables (only USB-C + power)🤒 https://t.co/ovBGAA6Wvy", "Linux for Beginners. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dMMCkFAHiP https://t.co/z5cDAe1aW3"]
+  "top10_tweets_like": ["We are working on a new implementation of the pipe for the next magrittr release. It:\n\n1) has cleaner backtraces\n2) is much faster\n3) works lazily\n\nOur analysis and testing suggest it should be a drop in replacement for &gt;99.9% of code but we need your help testing it! #rstats https://t.co/2fVFvttsZD", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/nRmsGQ6oKn", "Starting to mute anyone on #rstats who uses more than five hashtags. Simple, but actually very effective https://t.co/rWMoQN0usg", "I've Compiled A List of the Best Machine Learning #Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YCiY4Zv2ML https://t.co/pdI1ENx1aN", "Astonishing imbalance in illiteracy among men (left) &amp; women (right) in the Kingdom of Yugoslavia.\n\nMedian illiteracy (men):  29%\nMedian illiteracy (women): 76%\n\n#literacy #census #gender #history #dataviz #datascience #bigdata #maps #rstats #gis https://t.co/dsqqyCSAzs", "NEW PACKAGE (still in alpha): {runway} for #rstats: A package for evaluating and comparing prediction models.\n\nImplemented:\n☑️ Calibration plots for single and multiple models with 95% CI (adapted from code by @statsepi)\n\nMore coming soon...\n\nGH: https://t.co/axb99gjEzf https://t.co/E1S8oWGqOt", "#rstats maintainer wanted! The {RQGIS3} #QGIS package is in search of a person moving it forward/refactoring it.\n\nSee https://t.co/5eTZMC0wyp.\n\nAre you working in the GIS field but also like to automate things? This is your chance to contribute ;) \n\nFeel free to DM ico questions.", "Linux for Beginners. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dMMCkFAHiP https://t.co/z5cDAe1aW3", "Hey #RStats Just sharing my experience with a brand new 43 inches curved monitor 😱 😅 🤷‍♂️: from left to right: pkgdown preview / #rstats rstudio preview (1.4.618) with multi column setup / twitter 🤫. More productivity, less headache, less cables (only USB-C + power)🤒 https://t.co/ovBGAA6Wvy", "Had a few hours to spare yesterday evening. Decided to not post it, bc it isn't my sharpest #Rstats #dataviz. \n\nBut then again, what's #TidyTuesday without a little gimmick?🤷‍♀️ https://t.co/gPsZZUpERO"],
+  "top10_tweets_retweet": ["We are working on a new implementation of the pipe for the next magrittr release. It:\n\n1) has cleaner backtraces\n2) is much faster\n3) works lazily\n\nOur analysis and testing suggest it should be a drop in replacement for &gt;99.9% of code but we need your help testing it! #rstats https://t.co/2fVFvttsZD", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/nRmsGQ6oKn", "Starting to mute anyone on #rstats who uses more than five hashtags. Simple, but actually very effective https://t.co/rWMoQN0usg", "I've Compiled A List of the Best Machine Learning #Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YCiY4Zv2ML https://t.co/pdI1ENx1aN", "Astonishing imbalance in illiteracy among men (left) &amp; women (right) in the Kingdom of Yugoslavia.\n\nMedian illiteracy (men):  29%\nMedian illiteracy (women): 76%\n\n#literacy #census #gender #history #dataviz #datascience #bigdata #maps #rstats #gis https://t.co/dsqqyCSAzs", "NEW PACKAGE (still in alpha): {runway} for #rstats: A package for evaluating and comparing prediction models.\n\nImplemented:\n☑️ Calibration plots for single and multiple models with 95% CI (adapted from code by @statsepi)\n\nMore coming soon...\n\nGH: https://t.co/axb99gjEzf https://t.co/E1S8oWGqOt", "#rstats maintainer wanted! The {RQGIS3} #QGIS package is in search of a person moving it forward/refactoring it.\n\nSee https://t.co/5eTZMC0wyp.\n\nAre you working in the GIS field but also like to automate things? This is your chance to contribute ;) \n\nFeel free to DM ico questions.", "Linux for Beginners. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dMMCkFAHiP https://t.co/z5cDAe1aW3", "Hey #RStats Just sharing my experience with a brand new 43 inches curved monitor 😱 😅 🤷‍♂️: from left to right: pkgdown preview / #rstats rstudio preview (1.4.618) with multi column setup / twitter 🤫. More productivity, less headache, less cables (only USB-C + power)🤒 https://t.co/ovBGAA6Wvy", "Had a few hours to spare yesterday evening. Decided to not post it, bc it isn't my sharpest #Rstats #dataviz. \n\nBut then again, what's #TidyTuesday without a little gimmick?🤷‍♀️ https://t.co/gPsZZUpERO"]
 }
