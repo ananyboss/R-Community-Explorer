@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4640,
-      "average_tweets_per_hour": 193,
-      "tweeters_today": 1501,
-      "total_likes_today": 4798
+      "total_tweets_today": 4702,
+      "average_tweets_per_hour": 196,
+      "tweeters_today": 1536,
+      "total_likes_today": 4953
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 212
+      "Freq": 211
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 194
+      "Freq": 202
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
-      "Freq": 74
+      "Freq": 73
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 67
+      "Freq": 66
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
@@ -30,7 +30,7 @@
     },
     {
       "Var1": "JavaScript BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 62
+      "Freq": 63
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -38,7 +38,7 @@
     },
     {
       "Var1": "Python Programming Books BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 56
+      "Freq": 53
     },
     {
       "Var1": "rstats DataScience",
@@ -53,11 +53,11 @@
       "Freq": 45
     },
     {
-      "Var1": "Python 100DaysOfCode",
-      "Freq": 39
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 37
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Var1": "Python 100DaysOfCode",
       "Freq": 37
     },
     {
@@ -73,10 +73,6 @@
       "Freq": 34
     },
     {
-      "Var1": "Python 100DaysOfCode MachineLearning",
-      "Freq": 34
-    },
-    {
       "Var1": "Rstats",
       "Freq": 32
     },
@@ -87,16 +83,24 @@
     {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch RStats TensorFlow Java",
       "Freq": 29
+    },
+    {
+      "Var1": "plugins wordpress DataScience MachineLearning Python RStats Java",
+      "Freq": 28
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 548
+      "Freq": 543
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 213
+      "Freq": 217
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 175
     },
     {
       "Var1": "nlognbot",
@@ -104,50 +108,46 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 163
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 160
+      "Freq": 172
     },
     {
       "Var1": "chidambara09",
-      "Freq": 125
+      "Freq": 133
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 92
+      "Freq": 91
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 79
+      "Freq": 78
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 68
+      "Freq": 66
     },
     {
-      "Var1": "AlgorithmsB",
-      "Freq": 59
+      "Var1": "LinuxDreams",
+      "Freq": 60
     },
     {
       "Var1": "anglehernandez",
       "Freq": 56
     },
     {
-      "Var1": "LinuxDreams",
-      "Freq": 56
-    },
-    {
       "Var1": "TheCuriousLuke",
-      "Freq": 53
+      "Freq": 52
     },
     {
-      "Var1": "femtech_",
-      "Freq": 37
+      "Var1": "AlgorithmsB",
+      "Freq": 51
     },
     {
       "Var1": "_codenewbiebot",
+      "Freq": 37
+    },
+    {
+      "Var1": "femtech_",
       "Freq": 36
     },
     {
@@ -164,11 +164,11 @@
     },
     {
       "Var1": "CRANberriesFeed",
-      "Freq": 30
+      "Freq": 29
     },
     {
       "Var1": "CyberSecurityN8",
-      "Freq": 26
+      "Freq": 28
     }
   ],
   "top10_tweets_like": ["Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP", "Not precisely what I intended, but as #rstats accidents go this was a good way to end a bad day https://t.co/o2M6d7nesj", "New package announcement! Introducing the {friends} package 🙌\n\nIncludes the entire transcript of all the 10 seasons of the beloved American sitcom Friends\n\nPerfect for getting your feet wet with network analysis 🌐 and text analysis 📚\n\nhttps://t.co/0D8DagYqnt\n#rstats #tidytext https://t.co/HUHC02zzUq", "kableExtra 1.2.1 is finally on CRAN. Other than the features that I announced last week, it also has its own inline-plotting solution (works in both html and latex) 😉 https://t.co/nQM3HUeCI2  #rstats https://t.co/sRrmdqtX87", "Mathematics In Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/FPQYgRiQZj https://t.co/GAgvOM106W", "SO EXCITED that {equatiomatic} is on CRAN now! Convert R model code to LaTeX math automatically!! #rstats https://t.co/NlqcMvhW4L", "Ich habe meine Grafiken rund um #Arbeitszeit in Österreich mit den neuesten Daten aktualisiert. \n\nThemen: Entwicklung der Arbeitszeit, Überstunden, Arbeitszeitwünsche, Gründe für Teilzeit, etc.\n\nVielleicht ist ja was interessantes für euch dabei: https://t.co/SJR7HUsXP6 #rstats https://t.co/yd3wPmLUJI", "Best #JavaScript Books for Beginners in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/M50JmTUQsd https://t.co/Uu7Jhn7uaw", "Hey #rstats educators,\n\ngappy code like in this tutorial by @minebocek is such a great teaching tool. Does anyone know of research/blogposts etc. on where to put the gaps? \n\nI’m trying to compile some resources for educators teaching programming to beginners https://t.co/ETT9Fp4mvt", "#rstats people, what do you call R users?\n\nI think #Rtists would be nice, especially when we use #RStudio as an IDE."],
