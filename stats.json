@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4646,
-      "average_tweets_per_hour": 194,
-      "tweeters_today": 1496,
-      "total_likes_today": 4642
+      "total_tweets_today": 4640,
+      "average_tweets_per_hour": 193,
+      "tweeters_today": 1501,
+      "total_likes_today": 4798
     }
   ],
   "top20_hashtags": [
@@ -14,15 +14,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 181
+      "Freq": 194
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
-      "Freq": 76
-    },
-    {
-      "Var1": "Python Programming Books BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
-      "Freq": 69
+      "Freq": 74
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
@@ -33,32 +29,36 @@
       "Freq": 66
     },
     {
+      "Var1": "JavaScript BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 62
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 58
     },
     {
-      "Var1": "JavaScript BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 55
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 52
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 46
+      "Var1": "Python Programming Books BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
+      "Freq": 56
     },
     {
       "Var1": "rstats DataScience",
+      "Freq": 49
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 45
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 41
+      "Var1": "RStats",
+      "Freq": 45
     },
     {
       "Var1": "Python 100DaysOfCode",
       "Freq": 39
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 37
     },
     {
       "Var1": "MachineLearning HPC BigData Analytics DataScience AI IoT",
@@ -78,15 +78,15 @@
     },
     {
       "Var1": "Rstats",
-      "Freq": 34
-    },
-    {
-      "Var1": "UX CX DesignThinking Innovation Books BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 33
+      "Freq": 32
     },
     {
       "Var1": "DataScience programming",
       "Freq": 31
+    },
+    {
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch RStats TensorFlow Java",
+      "Freq": 29
     }
   ],
   "top20_tweeters": [
@@ -96,23 +96,23 @@
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 212
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 176
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 172
+      "Freq": 213
     },
     {
       "Var1": "nlognbot",
-      "Freq": 170
+      "Freq": 174
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 163
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 160
     },
     {
       "Var1": "chidambara09",
-      "Freq": 118
+      "Freq": 125
     },
     {
       "Var1": "tidyversetweets",
@@ -120,11 +120,11 @@
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 81
+      "Freq": 79
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 70
+      "Freq": 68
     },
     {
       "Var1": "AlgorithmsB",
@@ -136,22 +136,22 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 54
+      "Freq": 56
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 54
-    },
-    {
-      "Var1": "_codenewbiebot",
-      "Freq": 35
-    },
-    {
-      "Var1": "CodebloodedBot",
-      "Freq": 35
+      "Freq": 53
     },
     {
       "Var1": "femtech_",
+      "Freq": 37
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 36
+    },
+    {
+      "Var1": "CodebloodedBot",
       "Freq": 35
     },
     {
@@ -171,6 +171,6 @@
       "Freq": 26
     }
   ],
-  "top10_tweets_like": ["Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP", "Not precisely what I intended, but as #rstats accidents go this was a good way to end a bad day https://t.co/o2M6d7nesj", "New package announcement! Introducing the {friends} package 🙌\n\nIncludes the entire transcript of all the 10 seasons of the beloved American sitcom Friends\n\nPerfect for getting your feet wet with network analysis 🌐 and text analysis 📚\n\nhttps://t.co/0D8DagYqnt\n#rstats #tidytext https://t.co/HUHC02zzUq", "kableExtra 1.2.1 is finally on CRAN. Other than the features that I announced last week, it also has its own inline-plotting solution (works in both html and latex) 😉 https://t.co/nQM3HUeCI2  #rstats https://t.co/sRrmdqtX87", "Mathematics In Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/FPQYgRiQZj https://t.co/GAgvOM106W", "Ich habe meine Grafiken rund um #Arbeitszeit in Österreich mit den neuesten Daten aktualisiert. \n\nThemen: Entwicklung der Arbeitszeit, Überstunden, Arbeitszeitwünsche, Gründe für Teilzeit, etc.\n\nVielleicht ist ja was interessantes für euch dabei: https://t.co/SJR7HUsXP6 #rstats https://t.co/yd3wPmLUJI", "SO EXCITED that {equatiomatic} is on CRAN now! Convert R model code to LaTeX math automatically!! #rstats https://t.co/NlqcMvhW4L", "Best #JavaScript Books for Beginners in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/M50JmTUQsd https://t.co/Uu7Jhn7uaw", "Hey #rstats educators,\n\ngappy code like in this tutorial by @minebocek is such a great teaching tool. Does anyone know of research/blogposts etc. on where to put the gaps? \n\nI’m trying to compile some resources for educators teaching programming to beginners https://t.co/ETT9Fp4mvt", "#rstats people, what do you call R users?\n\nI think #Rtists would be nice, especially when we use #RStudio as an IDE."],
-  "top10_tweets_retweet": ["Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP", "Not precisely what I intended, but as #rstats accidents go this was a good way to end a bad day https://t.co/o2M6d7nesj", "New package announcement! Introducing the {friends} package 🙌\n\nIncludes the entire transcript of all the 10 seasons of the beloved American sitcom Friends\n\nPerfect for getting your feet wet with network analysis 🌐 and text analysis 📚\n\nhttps://t.co/0D8DagYqnt\n#rstats #tidytext https://t.co/HUHC02zzUq", "kableExtra 1.2.1 is finally on CRAN. Other than the features that I announced last week, it also has its own inline-plotting solution (works in both html and latex) 😉 https://t.co/nQM3HUeCI2  #rstats https://t.co/sRrmdqtX87", "Mathematics In Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/FPQYgRiQZj https://t.co/GAgvOM106W", "Ich habe meine Grafiken rund um #Arbeitszeit in Österreich mit den neuesten Daten aktualisiert. \n\nThemen: Entwicklung der Arbeitszeit, Überstunden, Arbeitszeitwünsche, Gründe für Teilzeit, etc.\n\nVielleicht ist ja was interessantes für euch dabei: https://t.co/SJR7HUsXP6 #rstats https://t.co/yd3wPmLUJI", "SO EXCITED that {equatiomatic} is on CRAN now! Convert R model code to LaTeX math automatically!! #rstats https://t.co/NlqcMvhW4L", "Best #JavaScript Books for Beginners in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/M50JmTUQsd https://t.co/Uu7Jhn7uaw", "Hey #rstats educators,\n\ngappy code like in this tutorial by @minebocek is such a great teaching tool. Does anyone know of research/blogposts etc. on where to put the gaps? \n\nI’m trying to compile some resources for educators teaching programming to beginners https://t.co/ETT9Fp4mvt", "#rstats people, what do you call R users?\n\nI think #Rtists would be nice, especially when we use #RStudio as an IDE."]
+  "top10_tweets_like": ["Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP", "Not precisely what I intended, but as #rstats accidents go this was a good way to end a bad day https://t.co/o2M6d7nesj", "New package announcement! Introducing the {friends} package 🙌\n\nIncludes the entire transcript of all the 10 seasons of the beloved American sitcom Friends\n\nPerfect for getting your feet wet with network analysis 🌐 and text analysis 📚\n\nhttps://t.co/0D8DagYqnt\n#rstats #tidytext https://t.co/HUHC02zzUq", "kableExtra 1.2.1 is finally on CRAN. Other than the features that I announced last week, it also has its own inline-plotting solution (works in both html and latex) 😉 https://t.co/nQM3HUeCI2  #rstats https://t.co/sRrmdqtX87", "Mathematics In Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/FPQYgRiQZj https://t.co/GAgvOM106W", "SO EXCITED that {equatiomatic} is on CRAN now! Convert R model code to LaTeX math automatically!! #rstats https://t.co/NlqcMvhW4L", "Ich habe meine Grafiken rund um #Arbeitszeit in Österreich mit den neuesten Daten aktualisiert. \n\nThemen: Entwicklung der Arbeitszeit, Überstunden, Arbeitszeitwünsche, Gründe für Teilzeit, etc.\n\nVielleicht ist ja was interessantes für euch dabei: https://t.co/SJR7HUsXP6 #rstats https://t.co/yd3wPmLUJI", "Best #JavaScript Books for Beginners in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/M50JmTUQsd https://t.co/Uu7Jhn7uaw", "Hey #rstats educators,\n\ngappy code like in this tutorial by @minebocek is such a great teaching tool. Does anyone know of research/blogposts etc. on where to put the gaps? \n\nI’m trying to compile some resources for educators teaching programming to beginners https://t.co/ETT9Fp4mvt", "#rstats people, what do you call R users?\n\nI think #Rtists would be nice, especially when we use #RStudio as an IDE."],
+  "top10_tweets_retweet": ["Howdy #rstats peeps! Over the past 2 years I've collected about 100 R-books. \n\nHere they are, in one big library!\n\nThe site still needs work, but hopefully you find something you didn't know existed. \n\nHere we go v1.0 💕📚📚\n\nThe Big Book of R⤵️\n\nhttps://t.co/ejy63YJPGP", "Not precisely what I intended, but as #rstats accidents go this was a good way to end a bad day https://t.co/o2M6d7nesj", "New package announcement! Introducing the {friends} package 🙌\n\nIncludes the entire transcript of all the 10 seasons of the beloved American sitcom Friends\n\nPerfect for getting your feet wet with network analysis 🌐 and text analysis 📚\n\nhttps://t.co/0D8DagYqnt\n#rstats #tidytext https://t.co/HUHC02zzUq", "kableExtra 1.2.1 is finally on CRAN. Other than the features that I announced last week, it also has its own inline-plotting solution (works in both html and latex) 😉 https://t.co/nQM3HUeCI2  #rstats https://t.co/sRrmdqtX87", "Mathematics In Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/FPQYgRiQZj https://t.co/GAgvOM106W", "SO EXCITED that {equatiomatic} is on CRAN now! Convert R model code to LaTeX math automatically!! #rstats https://t.co/NlqcMvhW4L", "Ich habe meine Grafiken rund um #Arbeitszeit in Österreich mit den neuesten Daten aktualisiert. \n\nThemen: Entwicklung der Arbeitszeit, Überstunden, Arbeitszeitwünsche, Gründe für Teilzeit, etc.\n\nVielleicht ist ja was interessantes für euch dabei: https://t.co/SJR7HUsXP6 #rstats https://t.co/yd3wPmLUJI", "Best #JavaScript Books for Beginners in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/M50JmTUQsd https://t.co/Uu7Jhn7uaw", "Hey #rstats educators,\n\ngappy code like in this tutorial by @minebocek is such a great teaching tool. Does anyone know of research/blogposts etc. on where to put the gaps? \n\nI’m trying to compile some resources for educators teaching programming to beginners https://t.co/ETT9Fp4mvt", "#rstats people, what do you call R users?\n\nI think #Rtists would be nice, especially when we use #RStudio as an IDE."]
 }
