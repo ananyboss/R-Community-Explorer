@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4149,
-      "average_tweets_per_hour": 173,
-      "tweeters_today": 1080,
-      "total_likes_today": 3641
+      "total_tweets_today": 4107,
+      "average_tweets_per_hour": 171,
+      "tweeters_today": 1077,
+      "total_likes_today": 3547
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics",
-      "Freq": 104
-    },
-    {
-      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 100
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 79
+      "Freq": 90
+    },
+    {
+      "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 82
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
@@ -29,24 +29,20 @@
       "Freq": 66
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 66
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 64
     },
     {
-      "Var1": "RStats",
-      "Freq": 63
+      "Var1": "tidyverse rstats",
+      "Freq": 60
     },
     {
-      "Var1": "Programming Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 58
+      "Var1": "RStats",
+      "Freq": 59
     },
     {
       "Var1": "BigData Analytics DataScience AI IIoT Python",
-      "Freq": 53
+      "Freq": 57
     },
     {
       "Var1": "DataScience BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
@@ -55,6 +51,10 @@
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT",
       "Freq": 48
+    },
+    {
+      "Var1": "Programming Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 47
     },
     {
       "Var1": "Books DataScience DataVisualization BigData Analytics AI MachineLearning IoT IIoT Python RStats",
@@ -66,49 +66,49 @@
     },
     {
       "Var1": "MachineLearning Algorithms ArtificialIntelligence Analytics DataScience Innovation",
-      "Freq": 35
+      "Freq": 37
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
+      "Freq": 36
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 34
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 34
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
       "Freq": 33
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
-      "Freq": 33
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 32
-    },
-    {
-      "Var1": "Python Books BigData Analytics DataScience IoT IIoT RStats TensorFlow Java",
-      "Freq": 28
+      "Var1": "rstats DataScience",
+      "Freq": 27
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 277
+      "Freq": 275
     },
     {
       "Var1": "nlognbot",
-      "Freq": 226
-    },
-    {
-      "Var1": "rstatstweet",
-      "Freq": 192
+      "Freq": 228
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 180
+      "Freq": 192
+    },
+    {
+      "Var1": "rstatstweet",
+      "Freq": 177
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 166
+      "Freq": 174
     },
     {
       "Var1": "chidambara09",
@@ -116,7 +116,7 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 113
+      "Freq": 111
     },
     {
       "Var1": "Anvith64518557",
@@ -124,7 +124,7 @@
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 91
+      "Freq": 85
     },
     {
       "Var1": "LinuxDreams",
@@ -132,7 +132,7 @@
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 59
+      "Freq": 57
     },
     {
       "Var1": "Spain_EU_Dubai",
@@ -140,37 +140,37 @@
     },
     {
       "Var1": "CyberSecurityN8",
-      "Freq": 43
+      "Freq": 42
     },
     {
       "Var1": "sectest9",
-      "Freq": 43
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 41
+      "Freq": 42
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 35
+      "Freq": 37
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 37
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 31
+      "Freq": 35
     },
     {
       "Var1": "AaronCuddeback",
-      "Freq": 30
+      "Freq": 28
     },
     {
-      "Var1": "andrewmorrisuk",
-      "Freq": 28
+      "Var1": "femtech_",
+      "Freq": 26
     },
     {
       "Var1": "Analytics_699",
       "Freq": 25
     }
   ],
-  "top10_tweets_like": ["I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz", "7 Top #Programming Languages To Learn In the 2020s. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Coding #100DaysofCode \nhttps://t.co/w573yN5qB0 https://t.co/m9nbhLJ8ZZ", "Do you have a friend that doesn't have #rstats, but wants to run your code, and does have #docker? \nHere's a docker one-liner that runs my_script.R 😊 \n\ndocker run --rm \\\n-v $(pwd):/tmp/working_dir \\\n-w /tmp/working_dir \\\nrocker/tidyverse:latest \\\nRscript my_script.R https://t.co/RTxsEpudyz", "Montenegro holds elections today. Don't expect them to be either free or fair.\n\n#Montenegro #CrnaGora #IzboriCG #election #dataviz #DataScience #rstats https://t.co/X0AoL7RhrX", "The Best #Programming #Books of All-Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/kWnTQ2U086 https://t.co/EwYbCepqWJ", "The 11 Best Python Books Based on Real Reviews. #BigData #Analytics #DataScience #AI #MachineLearning#IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/b8d10NWEGK https://t.co/ZVE089fI9Z", "😱 How Uber Works?\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence #Uber #CodeNewbies https://t.co/KTyAaqDmyQ", "#Books for #DataScience and #DataVisualization. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/wJsadMnYZh", "{chipmunkbasic} + {chipmunkcore} updated.  \n\nBody information now includes: position, velocity, force, torque, rotation + angular velocity.\n\nSo you can now plot velocity vectors.\n\ngithub: https://t.co/x48qpXfZ0s\ndocs: https://t.co/PPuZuNfuZf\n\n#RStats @baptnz https://t.co/ttoEfrW2k4", "#AI: A Modern Approach Exercises. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/L66zj51K1k https://t.co/j4lD6k90s2"],
-  "top10_tweets_retweet": ["I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz", "7 Top #Programming Languages To Learn In the 2020s. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Coding #100DaysofCode \nhttps://t.co/w573yN5qB0 https://t.co/m9nbhLJ8ZZ", "Do you have a friend that doesn't have #rstats, but wants to run your code, and does have #docker? \nHere's a docker one-liner that runs my_script.R 😊 \n\ndocker run --rm \\\n-v $(pwd):/tmp/working_dir \\\n-w /tmp/working_dir \\\nrocker/tidyverse:latest \\\nRscript my_script.R https://t.co/RTxsEpudyz", "Montenegro holds elections today. Don't expect them to be either free or fair.\n\n#Montenegro #CrnaGora #IzboriCG #election #dataviz #DataScience #rstats https://t.co/X0AoL7RhrX", "The Best #Programming #Books of All-Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/kWnTQ2U086 https://t.co/EwYbCepqWJ", "The 11 Best Python Books Based on Real Reviews. #BigData #Analytics #DataScience #AI #MachineLearning#IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/b8d10NWEGK https://t.co/ZVE089fI9Z", "😱 How Uber Works?\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence #Uber #CodeNewbies https://t.co/KTyAaqDmyQ", "#Books for #DataScience and #DataVisualization. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/wJsadMnYZh", "{chipmunkbasic} + {chipmunkcore} updated.  \n\nBody information now includes: position, velocity, force, torque, rotation + angular velocity.\n\nSo you can now plot velocity vectors.\n\ngithub: https://t.co/x48qpXfZ0s\ndocs: https://t.co/PPuZuNfuZf\n\n#RStats @baptnz https://t.co/ttoEfrW2k4", "#AI: A Modern Approach Exercises. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/L66zj51K1k https://t.co/j4lD6k90s2"]
+  "top10_tweets_like": ["I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz", "Do you have a friend that doesn't have #rstats, but wants to run your code, and does have #docker? \nHere's a docker one-liner that runs my_script.R 😊 \n\ndocker run --rm \\\n-v $(pwd):/tmp/working_dir \\\n-w /tmp/working_dir \\\nrocker/tidyverse:latest \\\nRscript my_script.R https://t.co/RTxsEpudyz", "Montenegro holds elections today. Don't expect them to be either free or fair.\n\n#Montenegro #CrnaGora #IzboriCG #election #dataviz #DataScience #rstats https://t.co/X0AoL7RhrX", "The 11 Best Python Books Based on Real Reviews. #BigData #Analytics #DataScience #AI #MachineLearning#IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/b8d10NWEGK https://t.co/ZVE089fI9Z", "😱 How Uber Works?\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence #Uber #CodeNewbies https://t.co/KTyAaqDmyQ", "#Books for #DataScience and #DataVisualization. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/wJsadMnYZh", "Free eBook: Architecting for Scale. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/fHBt1HXdHp https://t.co/uS3FcMooA4", "{chipmunkbasic} + {chipmunkcore} updated.  \n\nBody information now includes: position, velocity, force, torque, rotation + angular velocity.\n\nSo you can now plot velocity vectors.\n\ngithub: https://t.co/x48qpXfZ0s\ndocs: https://t.co/PPuZuNfuZf\n\n#RStats @baptnz https://t.co/ttoEfrW2k4", "#AI: A Modern Approach Exercises. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/L66zj51K1k https://t.co/j4lD6k90s2", "#MachineLearning #Algorithms that Learn from Example.\n\n#ArtificialIntelligence #Analytics #DataScience #Innovation #BigData #DeepLearning #serverless #python #RStats #cybersecurity #SelfDrivingCars #DigitalTransformation #javascript #tech #DevOps #Linux #100daysofcode #CodeNewbie https://t.co/G3b4Qlb5vf"],
+  "top10_tweets_retweet": ["I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz", "Do you have a friend that doesn't have #rstats, but wants to run your code, and does have #docker? \nHere's a docker one-liner that runs my_script.R 😊 \n\ndocker run --rm \\\n-v $(pwd):/tmp/working_dir \\\n-w /tmp/working_dir \\\nrocker/tidyverse:latest \\\nRscript my_script.R https://t.co/RTxsEpudyz", "Montenegro holds elections today. Don't expect them to be either free or fair.\n\n#Montenegro #CrnaGora #IzboriCG #election #dataviz #DataScience #rstats https://t.co/X0AoL7RhrX", "The 11 Best Python Books Based on Real Reviews. #BigData #Analytics #DataScience #AI #MachineLearning#IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/b8d10NWEGK https://t.co/ZVE089fI9Z", "😱 How Uber Works?\n\n#theinsaneapp #ML #AI\n#MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence #Uber #CodeNewbies https://t.co/KTyAaqDmyQ", "#Books for #DataScience and #DataVisualization. #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/OpVVER6Zbm https://t.co/wJsadMnYZh", "Free eBook: Architecting for Scale. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/fHBt1HXdHp https://t.co/uS3FcMooA4", "{chipmunkbasic} + {chipmunkcore} updated.  \n\nBody information now includes: position, velocity, force, torque, rotation + angular velocity.\n\nSo you can now plot velocity vectors.\n\ngithub: https://t.co/x48qpXfZ0s\ndocs: https://t.co/PPuZuNfuZf\n\n#RStats @baptnz https://t.co/ttoEfrW2k4", "#AI: A Modern Approach Exercises. #BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/L66zj51K1k https://t.co/j4lD6k90s2", "#MachineLearning #Algorithms that Learn from Example.\n\n#ArtificialIntelligence #Analytics #DataScience #Innovation #BigData #DeepLearning #serverless #python #RStats #cybersecurity #SelfDrivingCars #DigitalTransformation #javascript #tech #DevOps #Linux #100daysofcode #CodeNewbie https://t.co/G3b4Qlb5vf"]
 }
