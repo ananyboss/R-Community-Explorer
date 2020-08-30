@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5046,
-      "average_tweets_per_hour": 210,
-      "tweeters_today": 1170,
-      "total_likes_today": 4380
+      "total_tweets_today": 5087,
+      "average_tweets_per_hour": 212,
+      "tweeters_today": 1192,
+      "total_likes_today": 4416
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "RStats",
-      "Freq": 123
+      "Freq": 124
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
@@ -18,19 +18,19 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 78
+      "Freq": 79
     },
     {
       "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 70
+      "Freq": 75
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 66
+      "Freq": 73
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 62
+      "Freq": 64
     },
     {
       "Var1": "NLProc BigData DataScience AI",
@@ -38,26 +38,30 @@
     },
     {
       "Var1": "Python Books BigData Analytics DataScience IoT IIoT RStats TensorFlow Java",
-      "Freq": 61
+      "Freq": 60
     },
     {
       "Var1": "AI BigData Analytics DataScience MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 52
+      "Freq": 54
     },
     {
       "Var1": "Programming Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 49
+      "Freq": 48
     },
     {
       "Var1": "Programming Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 47
+      "Freq": 48
+    },
+    {
+      "Var1": "DataScience BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 44
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 43
     },
     {
-      "Var1": "DataScience BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Var1": "rstats DataScience",
       "Freq": 43
     },
     {
@@ -69,10 +73,6 @@
       "Freq": 40
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 38
-    },
-    {
       "Var1": "Rmedicine2020 rstats",
       "Freq": 36
     },
@@ -81,42 +81,42 @@
       "Freq": 36
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
       "Freq": 34
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 34
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript",
+      "Freq": 32
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 479
+      "Freq": 489
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 286
+      "Freq": 282
     },
     {
       "Var1": "nlognbot",
-      "Freq": 258
+      "Freq": 249
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 217
+      "Freq": 218
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 193
+      "Freq": 194
     },
     {
       "Var1": "chidambara09",
-      "Freq": 168
+      "Freq": 166
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 127
+      "Freq": 128
     },
     {
       "Var1": "Anvith64518557",
@@ -124,11 +124,11 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 108
+      "Freq": 107
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 92
+      "Freq": 88
     },
     {
       "Var1": "AlgorithmsB",
@@ -136,41 +136,41 @@
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 60
+      "Freq": 61
     },
     {
       "Var1": "CyberSecurityN8",
-      "Freq": 48
+      "Freq": 50
     },
     {
       "Var1": "sectest9",
-      "Freq": 48
+      "Freq": 50
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 47
+      "Freq": 49
     },
     {
       "Var1": "atqzahmd",
-      "Freq": 40
+      "Freq": 44
     },
     {
       "Var1": "AaronCuddeback",
-      "Freq": 39
+      "Freq": 40
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 36
+      "Freq": 37
     },
     {
       "Var1": "femtech_",
-      "Freq": 34
+      "Freq": 33
     },
     {
-      "Var1": "BlkHwk0ps",
-      "Freq": 30
+      "Var1": "andrewmorrisuk",
+      "Freq": 28
     }
   ],
-  "top10_tweets_like": ["✍️ \"Advanced R Markdown\"\n\n👤 Yihui Xie @xieyihui \n\nhttps://t.co/QLs3wFda5r\n#rstats https://t.co/IR1pY1vNwq", "New blog post!\n\nA walkthrough of 2d heatmaps in #RStats w/ NFL data from @ChiefsAnalytics\n\nGuide w/ code to:\n✅ Create 3 types of 2d density plots\n🎨 Use/create custom colors\n🏈 Add plot to NFL field as a function()\n💾 Collect density values w/ #tidyverse\n\nhttps://t.co/XDG7vKnK10", "📦 \"imageclipr • Copy Image from Clipboard into RMarkdown .Rmd file\"\n\n👤 Tonio Liebrand\n\nhttps://t.co/q5PbhjSYKu\n#rstats https://t.co/syihNfW6e9", "Time series cross validation of effective reproduction number nowcasts by @ellis2013nz  {https://t.co/CChh9aKCC2} #rstats #DataScience", "The Best #Programming #Books of All-Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/kWnTQ2U086 https://t.co/EwYbCepqWJ", "7 Top #Programming Languages To Learn In the 2020s. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Coding #100DaysofCode \nhttps://t.co/w573yN5qB0 https://t.co/m9nbhLJ8ZZ", "We just gave this post a massive update — check it out for what we think is the best approach to learning #rstats for data analysis and data science:\n\n(And no, it's not just a sales pitch; this will work regardless of the learning platform you choose)\n\nhttps://t.co/D0DqZuQZMJ", "God knows why, but I made a small #RStats package that simulates the original Game Boy graphics for a given image.  Naturally, I'm now using it on iconic/famous photos (and of course, @hadleywickham twitter profile pic) #tidyverse #ggplot2 Code here https://t.co/eTo5SM6j6N https://t.co/8nTTSXKdMF", "Shout out to @Emil_Hvitfeldt and @juliasilge their new #rstats supervised machine learning for texf analysis book is coming together beautifully and really is one of the most engaging programming books i have seen anywhere.\n\nIts a must bookmark\n\nhttps://t.co/27K0Oikxgp", "I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz"],
-  "top10_tweets_retweet": ["✍️ \"Advanced R Markdown\"\n\n👤 Yihui Xie @xieyihui \n\nhttps://t.co/QLs3wFda5r\n#rstats https://t.co/IR1pY1vNwq", "New blog post!\n\nA walkthrough of 2d heatmaps in #RStats w/ NFL data from @ChiefsAnalytics\n\nGuide w/ code to:\n✅ Create 3 types of 2d density plots\n🎨 Use/create custom colors\n🏈 Add plot to NFL field as a function()\n💾 Collect density values w/ #tidyverse\n\nhttps://t.co/XDG7vKnK10", "📦 \"imageclipr • Copy Image from Clipboard into RMarkdown .Rmd file\"\n\n👤 Tonio Liebrand\n\nhttps://t.co/q5PbhjSYKu\n#rstats https://t.co/syihNfW6e9", "Time series cross validation of effective reproduction number nowcasts by @ellis2013nz  {https://t.co/CChh9aKCC2} #rstats #DataScience", "The Best #Programming #Books of All-Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/kWnTQ2U086 https://t.co/EwYbCepqWJ", "7 Top #Programming Languages To Learn In the 2020s. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Coding #100DaysofCode \nhttps://t.co/w573yN5qB0 https://t.co/m9nbhLJ8ZZ", "We just gave this post a massive update — check it out for what we think is the best approach to learning #rstats for data analysis and data science:\n\n(And no, it's not just a sales pitch; this will work regardless of the learning platform you choose)\n\nhttps://t.co/D0DqZuQZMJ", "God knows why, but I made a small #RStats package that simulates the original Game Boy graphics for a given image.  Naturally, I'm now using it on iconic/famous photos (and of course, @hadleywickham twitter profile pic) #tidyverse #ggplot2 Code here https://t.co/eTo5SM6j6N https://t.co/8nTTSXKdMF", "Shout out to @Emil_Hvitfeldt and @juliasilge their new #rstats supervised machine learning for texf analysis book is coming together beautifully and really is one of the most engaging programming books i have seen anywhere.\n\nIts a must bookmark\n\nhttps://t.co/27K0Oikxgp", "I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz"]
+  "top10_tweets_like": ["✍️ \"Advanced R Markdown\"\n\n👤 Yihui Xie @xieyihui \n\nhttps://t.co/QLs3wFda5r\n#rstats https://t.co/IR1pY1vNwq", "New blog post!\n\nA walkthrough of 2d heatmaps in #RStats w/ NFL data from @ChiefsAnalytics\n\nGuide w/ code to:\n✅ Create 3 types of 2d density plots\n🎨 Use/create custom colors\n🏈 Add plot to NFL field as a function()\n💾 Collect density values w/ #tidyverse\n\nhttps://t.co/XDG7vKnK10", "Time series cross validation of effective reproduction number nowcasts by @ellis2013nz  {https://t.co/CChh9aKCC2} #rstats #DataScience", "7 Top #Programming Languages To Learn In the 2020s. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Coding #100DaysofCode \nhttps://t.co/w573yN5qB0 https://t.co/m9nbhLJ8ZZ", "The Best #Programming #Books of All-Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/kWnTQ2U086 https://t.co/EwYbCepqWJ", "We just gave this post a massive update — check it out for what we think is the best approach to learning #rstats for data analysis and data science:\n\n(And no, it's not just a sales pitch; this will work regardless of the learning platform you choose)\n\nhttps://t.co/D0DqZuQZMJ", "God knows why, but I made a small #RStats package that simulates the original Game Boy graphics for a given image.  Naturally, I'm now using it on iconic/famous photos (and of course, @hadleywickham twitter profile pic) #tidyverse #ggplot2 Code here https://t.co/eTo5SM6j6N https://t.co/8nTTSXKdMF", "I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz", "Shout out to @Emil_Hvitfeldt and @juliasilge their new #rstats supervised machine learning for texf analysis book is coming together beautifully and really is one of the most engaging programming books i have seen anywhere.\n\nIts a must bookmark\n\nhttps://t.co/27K0Oikxgp", "Interesting 5-year median unemployment rate of adult females (left) &amp; males (right) on the regional level in Europe\n\n#unemployment #economy #europe #eu #dataviz #datascience #geospatial #gis #rstats #maps https://t.co/YNBxcTcyPn"],
+  "top10_tweets_retweet": ["✍️ \"Advanced R Markdown\"\n\n👤 Yihui Xie @xieyihui \n\nhttps://t.co/QLs3wFda5r\n#rstats https://t.co/IR1pY1vNwq", "New blog post!\n\nA walkthrough of 2d heatmaps in #RStats w/ NFL data from @ChiefsAnalytics\n\nGuide w/ code to:\n✅ Create 3 types of 2d density plots\n🎨 Use/create custom colors\n🏈 Add plot to NFL field as a function()\n💾 Collect density values w/ #tidyverse\n\nhttps://t.co/XDG7vKnK10", "Time series cross validation of effective reproduction number nowcasts by @ellis2013nz  {https://t.co/CChh9aKCC2} #rstats #DataScience", "7 Top #Programming Languages To Learn In the 2020s. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Coding #100DaysofCode \nhttps://t.co/w573yN5qB0 https://t.co/m9nbhLJ8ZZ", "The Best #Programming #Books of All-Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/kWnTQ2U086 https://t.co/EwYbCepqWJ", "We just gave this post a massive update — check it out for what we think is the best approach to learning #rstats for data analysis and data science:\n\n(And no, it's not just a sales pitch; this will work regardless of the learning platform you choose)\n\nhttps://t.co/D0DqZuQZMJ", "God knows why, but I made a small #RStats package that simulates the original Game Boy graphics for a given image.  Naturally, I'm now using it on iconic/famous photos (and of course, @hadleywickham twitter profile pic) #tidyverse #ggplot2 Code here https://t.co/eTo5SM6j6N https://t.co/8nTTSXKdMF", "I went back and looked at one of the first big #rstats scripts I ever wrote, and woo boy, in addition to loading like 30 libraries and using setwd(\"hard_coded_path\"), it contained this little gem. So basically, don't feel bad about your code, it could be worse https://t.co/PcSXL2lgTz", "Shout out to @Emil_Hvitfeldt and @juliasilge their new #rstats supervised machine learning for texf analysis book is coming together beautifully and really is one of the most engaging programming books i have seen anywhere.\n\nIts a must bookmark\n\nhttps://t.co/27K0Oikxgp", "Interesting 5-year median unemployment rate of adult females (left) &amp; males (right) on the regional level in Europe\n\n#unemployment #economy #europe #eu #dataviz #datascience #geospatial #gis #rstats #maps https://t.co/YNBxcTcyPn"]
 }
