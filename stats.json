@@ -1,47 +1,47 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4168,
+      "total_tweets_today": 4185,
       "average_tweets_per_hour": 174,
-      "tweeters_today": 1180,
-      "total_likes_today": 3828
+      "tweeters_today": 1205,
+      "total_likes_today": 3950
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 155
+      "Freq": 145
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 84
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 68
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 66
+      "Freq": 90
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 65
+      "Freq": 66
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 66
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 62
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 55
+      "Freq": 59
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 56
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
       "Freq": 52
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 50
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Var1": "RStats",
       "Freq": 48
     },
     {
@@ -53,15 +53,19 @@
       "Freq": 45
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 45
+    },
+    {
       "Var1": "JavaScript Books BigData Analytics DataScience",
       "Freq": 45
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python",
-      "Freq": 44
+      "Freq": 45
     },
     {
-      "Var1": "RStats",
+      "Var1": "rstats docker",
       "Freq": 42
     },
     {
@@ -69,12 +73,12 @@
       "Freq": 40
     },
     {
-      "Var1": "rstats docker",
-      "Freq": 40
-    },
-    {
       "Var1": "Algorithms BigData Analytics DataScience",
       "Freq": 38
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
+      "Freq": 37
     },
     {
       "Var1": "DeepLearning",
@@ -83,10 +87,6 @@
     {
       "Var1": "Tensorflow ArtificialIntelligence DeepLearning Analytics",
       "Freq": 32
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 31
     }
   ],
   "top20_tweeters": [
@@ -96,63 +96,67 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 207
+      "Freq": 205
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 190
+      "Freq": 189
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 169
+      "Freq": 168
     },
     {
       "Var1": "chidambara09",
-      "Freq": 111
+      "Freq": 116
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 98
+      "Freq": 100
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 95
+      "Freq": 96
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 73
+      "Freq": 71
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 61
-    },
-    {
-      "Var1": "Anvith64518557",
-      "Freq": 57
+      "Freq": 62
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 55
+      "Freq": 60
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 52
+      "Freq": 51
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 42
-    },
-    {
-      "Var1": "andrewmorrisuk",
-      "Freq": 37
+      "Freq": 45
     },
     {
       "Var1": "AaronCuddeback",
+      "Freq": 38
+    },
+    {
+      "Var1": "andrewmorrisuk",
       "Freq": 36
     },
     {
       "Var1": "PinakiLaskar",
-      "Freq": 36
+      "Freq": 34
+    },
+    {
+      "Var1": "CyberSecurityN8",
+      "Freq": 32
+    },
+    {
+      "Var1": "sectest9",
+      "Freq": 32
     },
     {
       "Var1": "ThejuPaul",
@@ -163,14 +167,10 @@
       "Freq": 30
     },
     {
-      "Var1": "CyberSecurityN8",
-      "Freq": 30
-    },
-    {
       "Var1": "Fisheyebox",
       "Freq": 30
     }
   ],
-  "top10_tweets_like": ["Free eBook: Architecting for Scale. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/fHBt1HXdHp https://t.co/uS3FcMooA4", "🎉🚀📦I am happy to announce a big update on VO2 Kinetics Dashboard. The app now entirely relies on the {whippr} #rstats 📦: https://t.co/d7WCF1xFKl\n✅Speed up and make your VO2 kinetics analyses reproducible!\nGive it a try!\n🔗https://t.co/DHptsPojI5 https://t.co/AkN8XJ0BqO", "After a minimal start followed by a long hiatus, I have a new #rstats blog post! 🤞 I can keep it up.\nhttps://t.co/8J53wNNFdl\nHow I used a job interview as an opportunity to foster new skills for future me in the tidyverse, tidytext, networks, flexdashboard, and shiny.  thank's👇", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MM9uS6QuPR", "New paper out describing #rstats package phyloregion https://t.co/W9N7ipFPJ0, joint work with @Barnabas_Daru and @kaint_w8_karu", "New video out for R on DPLYR! Dplyr is great for data manipulation and it's very important that I decided to split this video into 2 parts with this one covering some of the basics! Hope this helps! :)\n\nhttps://t.co/44F72DdhHZ\n\n#RStats #DataScience #programming #Statistics #dplyr https://t.co/GouGA36yvk", "📦🎥⚽ \"soccerAnimate • R package to create 2D animations of soccer tracking data\"\n\n👤 Dato Fútbol @datofutbol_cl  \n\nhttps://t.co/QwmAxirJPi\n#rstats https://t.co/IgOmDTF4c5", "After one semester of learning #rstats in my intro data science course, Lee and Zeno worked with me over the summer to convert parts of our human assessed assignments to learnr tutorials. Read about their process 👇.\n\nThanks to @EdinUniMaths for sponsoring this project! https://t.co/jNJsPPwHdU", "New post: Data science tutorials with learnr and gradethis\n\n💻 On converting human assessed #rstats assignments to auto-feedback tutorials\n📝 Contributed by @EdinburghUni students Lee Suddaby and Zeno Kujawa \n\n🔗 https://t.co/WUvbI9PqWC\n\ncc @EdinUniMaths\n#datascied #statsed https://t.co/14uUFQey5v", "Best #JavaScript #Books for Beginners in 2020 @gp_pulipaka Featured by @OttLegalRebels. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/yCKItVdH4M https://t.co/Qy1PGi6yEt"],
-  "top10_tweets_retweet": ["Free eBook: Architecting for Scale. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/fHBt1HXdHp https://t.co/uS3FcMooA4", "🎉🚀📦I am happy to announce a big update on VO2 Kinetics Dashboard. The app now entirely relies on the {whippr} #rstats 📦: https://t.co/d7WCF1xFKl\n✅Speed up and make your VO2 kinetics analyses reproducible!\nGive it a try!\n🔗https://t.co/DHptsPojI5 https://t.co/AkN8XJ0BqO", "After a minimal start followed by a long hiatus, I have a new #rstats blog post! 🤞 I can keep it up.\nhttps://t.co/8J53wNNFdl\nHow I used a job interview as an opportunity to foster new skills for future me in the tidyverse, tidytext, networks, flexdashboard, and shiny.  thank's👇", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MM9uS6QuPR", "New paper out describing #rstats package phyloregion https://t.co/W9N7ipFPJ0, joint work with @Barnabas_Daru and @kaint_w8_karu", "New video out for R on DPLYR! Dplyr is great for data manipulation and it's very important that I decided to split this video into 2 parts with this one covering some of the basics! Hope this helps! :)\n\nhttps://t.co/44F72DdhHZ\n\n#RStats #DataScience #programming #Statistics #dplyr https://t.co/GouGA36yvk", "📦🎥⚽ \"soccerAnimate • R package to create 2D animations of soccer tracking data\"\n\n👤 Dato Fútbol @datofutbol_cl  \n\nhttps://t.co/QwmAxirJPi\n#rstats https://t.co/IgOmDTF4c5", "After one semester of learning #rstats in my intro data science course, Lee and Zeno worked with me over the summer to convert parts of our human assessed assignments to learnr tutorials. Read about their process 👇.\n\nThanks to @EdinUniMaths for sponsoring this project! https://t.co/jNJsPPwHdU", "New post: Data science tutorials with learnr and gradethis\n\n💻 On converting human assessed #rstats assignments to auto-feedback tutorials\n📝 Contributed by @EdinburghUni students Lee Suddaby and Zeno Kujawa \n\n🔗 https://t.co/WUvbI9PqWC\n\ncc @EdinUniMaths\n#datascied #statsed https://t.co/14uUFQey5v", "Best #JavaScript #Books for Beginners in 2020 @gp_pulipaka Featured by @OttLegalRebels. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/yCKItVdH4M https://t.co/Qy1PGi6yEt"]
+  "top10_tweets_like": ["Free eBook: Architecting for Scale. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/fHBt1HXdHp https://t.co/uS3FcMooA4", "🎉🚀📦I am happy to announce a big update on VO2 Kinetics Dashboard. The app now entirely relies on the {whippr} #rstats 📦: https://t.co/d7WCF1xFKl\n✅Speed up and make your VO2 kinetics analyses reproducible!\nGive it a try!\n🔗https://t.co/DHptsPojI5 https://t.co/AkN8XJ0BqO", "After a minimal start followed by a long hiatus, I have a new #rstats blog post! 🤞 I can keep it up.\nhttps://t.co/8J53wNNFdl\nHow I used a job interview as an opportunity to foster new skills for future me in the tidyverse, tidytext, networks, flexdashboard, and shiny.  thank's👇", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MM9uS6QuPR", "New video out for R on DPLYR! Dplyr is great for data manipulation and it's very important that I decided to split this video into 2 parts with this one covering some of the basics! Hope this helps! :)\n\nhttps://t.co/44F72DdhHZ\n\n#RStats #DataScience #programming #Statistics #dplyr https://t.co/GouGA36yvk", "📦🎥⚽ \"soccerAnimate • R package to create 2D animations of soccer tracking data\"\n\n👤 Dato Fútbol @datofutbol_cl  \n\nhttps://t.co/QwmAxirJPi\n#rstats https://t.co/IgOmDTF4c5", "After one semester of learning #rstats in my intro data science course, Lee and Zeno worked with me over the summer to convert parts of our human assessed assignments to learnr tutorials. Read about their process 👇.\n\nThanks to @EdinUniMaths for sponsoring this project! https://t.co/jNJsPPwHdU", "New post: Data science tutorials with learnr and gradethis\n\n💻 On converting human assessed #rstats assignments to auto-feedback tutorials\n📝 Contributed by @EdinburghUni students Lee Suddaby and Zeno Kujawa \n\n🔗 https://t.co/WUvbI9PqWC\n\ncc @EdinUniMaths\n#datascied #statsed https://t.co/14uUFQey5v", "Learn Linear Algebra for #MachineLearning from the Best. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/A4CdL5uymr https://t.co/u9hLBoe5Ds", "✍️📦 \"R package xkcd\"\n\n👤 Emilio Torres-Manzanera\n\n➡️ make xkcd style graphs in R! \n\nhttps://t.co/ZPvsswhiPr\n#rstats https://t.co/zdS6sbOyvv"],
+  "top10_tweets_retweet": ["Free eBook: Architecting for Scale. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/fHBt1HXdHp https://t.co/uS3FcMooA4", "🎉🚀📦I am happy to announce a big update on VO2 Kinetics Dashboard. The app now entirely relies on the {whippr} #rstats 📦: https://t.co/d7WCF1xFKl\n✅Speed up and make your VO2 kinetics analyses reproducible!\nGive it a try!\n🔗https://t.co/DHptsPojI5 https://t.co/AkN8XJ0BqO", "After a minimal start followed by a long hiatus, I have a new #rstats blog post! 🤞 I can keep it up.\nhttps://t.co/8J53wNNFdl\nHow I used a job interview as an opportunity to foster new skills for future me in the tidyverse, tidytext, networks, flexdashboard, and shiny.  thank's👇", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MM9uS6QuPR", "New video out for R on DPLYR! Dplyr is great for data manipulation and it's very important that I decided to split this video into 2 parts with this one covering some of the basics! Hope this helps! :)\n\nhttps://t.co/44F72DdhHZ\n\n#RStats #DataScience #programming #Statistics #dplyr https://t.co/GouGA36yvk", "📦🎥⚽ \"soccerAnimate • R package to create 2D animations of soccer tracking data\"\n\n👤 Dato Fútbol @datofutbol_cl  \n\nhttps://t.co/QwmAxirJPi\n#rstats https://t.co/IgOmDTF4c5", "After one semester of learning #rstats in my intro data science course, Lee and Zeno worked with me over the summer to convert parts of our human assessed assignments to learnr tutorials. Read about their process 👇.\n\nThanks to @EdinUniMaths for sponsoring this project! https://t.co/jNJsPPwHdU", "New post: Data science tutorials with learnr and gradethis\n\n💻 On converting human assessed #rstats assignments to auto-feedback tutorials\n📝 Contributed by @EdinburghUni students Lee Suddaby and Zeno Kujawa \n\n🔗 https://t.co/WUvbI9PqWC\n\ncc @EdinUniMaths\n#datascied #statsed https://t.co/14uUFQey5v", "Learn Linear Algebra for #MachineLearning from the Best. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/A4CdL5uymr https://t.co/u9hLBoe5Ds", "✍️📦 \"R package xkcd\"\n\n👤 Emilio Torres-Manzanera\n\n➡️ make xkcd style graphs in R! \n\nhttps://t.co/ZPvsswhiPr\n#rstats https://t.co/zdS6sbOyvv"]
 }
