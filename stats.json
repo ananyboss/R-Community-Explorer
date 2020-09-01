@@ -1,44 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4747,
-      "average_tweets_per_hour": 198,
-      "tweeters_today": 1360,
-      "total_likes_today": 4293
+      "total_tweets_today": 4899,
+      "average_tweets_per_hour": 204,
+      "tweeters_today": 1386,
+      "total_likes_today": 4454
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 139
+      "Freq": 144
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 90
+      "Freq": 91
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 79
+      "Freq": 85
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 78
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 69
+      "Freq": 75
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 63
+      "Freq": 66
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 55
+      "Freq": 58
     },
     {
-      "Var1": "RStats",
-      "Freq": 55
+      "Var1": "BigData Analytics",
+      "Freq": 53
     },
     {
       "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -49,36 +49,36 @@
       "Freq": 50
     },
     {
+      "Var1": "RStats",
+      "Freq": 50
+    },
+    {
       "Var1": "rstats machinelearning",
       "Freq": 49
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 44
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 43
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
+      "Freq": 49
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 42
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
-      "Freq": 41
-    },
-    {
-      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 39
+      "Freq": 45
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 37
+      "Freq": 45
+    },
+    {
+      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 41
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 41
     },
     {
       "Var1": "DeepLearning Analytics",
-      "Freq": 36
+      "Freq": 37
     },
     {
       "Var1": "datagovernance MachineLearning BigData AI IoT Python RStats javascript ReactJS Linux",
@@ -92,63 +92,63 @@
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 247
+      "Freq": 253
     },
     {
       "Var1": "nlognbot",
-      "Freq": 201
+      "Freq": 206
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 166
+      "Freq": 172
     },
     {
       "Var1": "xaelbot",
-      "Freq": 156
+      "Freq": 168
     },
     {
       "Var1": "chidambara09",
-      "Freq": 155
+      "Freq": 160
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 143
+      "Freq": 157
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 140
+      "Freq": 150
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 117
+      "Freq": 124
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 115
+      "Freq": 114
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 99
+      "Freq": 106
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 84
+      "Freq": 85
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 76
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 64
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 61
+      "Freq": 79
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 57
+      "Freq": 72
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 65
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 60
     },
     {
       "Var1": "Maignanamurthy",
@@ -156,21 +156,21 @@
     },
     {
       "Var1": "Analytics_699",
-      "Freq": 46
+      "Freq": 41
     },
     {
       "Var1": "femtech_",
-      "Freq": 42
+      "Freq": 41
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 41
     },
     {
       "Var1": "Anvith64518557",
       "Freq": 40
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 37
     }
   ],
-  "top10_tweets_like": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "👋 Getting back to work on the #RStats Oustanding User Interfaces for Shiny book, after a few months break. Coming soon: chapter reordering, a new practical part related to mobile development, new part on CSS and friends. 👍 https://t.co/a0BhuRAVvT Any feedback appreciated 🙏", "We're hiring for a Research Team Lead!\n\nAt CNO, we use R, RMarkdown and git and have made our first few Shiny apps and are excited to make more. You would be in charge of leading the day-to-day activities of the team. DM me for more!\n\n#rstats\n\nhttps://t.co/qPKhCufvWc", "Les presento mi emprendimiento Futbolytics. Analizamos data de jugadores en una plataforma simple y amigable. \n\n#startup #futbolanalytics #sportsanalytics #rstats #futbolchileno https://t.co/rwXfdB1Zcj", "Time-Series Forecasting with GRU and LSTM in #TensorFlow. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats \n#Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/l83sWnfbjk https://t.co/VdbLA5cmLU", "Get FREE e-books from @SASsoftware at https://t.co/RV1DlNoEcF\n…covers #DataScience #AI #ComputerVision #BigData #MachineLearning #FraudAnalytics #DataViz #Forecasting #Statistics #TextAnalytics &amp; more!\n\n#SASVisionary #Rstats #DataScientists #StatisticalLiteracy #VisualAnalytics https://t.co/l3rkWE5VMq", "I love it when an #Rstats plan comes together...\n\nThere are those evenings, when you have this idea and all the #coding just runs smoothly. Doesn't happen too often though...\n\n#TidyTuesday #corn https://t.co/7rQDtiqjV4"],
-  "top10_tweets_retweet": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "👋 Getting back to work on the #RStats Oustanding User Interfaces for Shiny book, after a few months break. Coming soon: chapter reordering, a new practical part related to mobile development, new part on CSS and friends. 👍 https://t.co/a0BhuRAVvT Any feedback appreciated 🙏", "We're hiring for a Research Team Lead!\n\nAt CNO, we use R, RMarkdown and git and have made our first few Shiny apps and are excited to make more. You would be in charge of leading the day-to-day activities of the team. DM me for more!\n\n#rstats\n\nhttps://t.co/qPKhCufvWc", "Les presento mi emprendimiento Futbolytics. Analizamos data de jugadores en una plataforma simple y amigable. \n\n#startup #futbolanalytics #sportsanalytics #rstats #futbolchileno https://t.co/rwXfdB1Zcj", "Time-Series Forecasting with GRU and LSTM in #TensorFlow. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats \n#Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/l83sWnfbjk https://t.co/VdbLA5cmLU", "Get FREE e-books from @SASsoftware at https://t.co/RV1DlNoEcF\n…covers #DataScience #AI #ComputerVision #BigData #MachineLearning #FraudAnalytics #DataViz #Forecasting #Statistics #TextAnalytics &amp; more!\n\n#SASVisionary #Rstats #DataScientists #StatisticalLiteracy #VisualAnalytics https://t.co/l3rkWE5VMq", "I love it when an #Rstats plan comes together...\n\nThere are those evenings, when you have this idea and all the #coding just runs smoothly. Doesn't happen too often though...\n\n#TidyTuesday #corn https://t.co/7rQDtiqjV4"]
+  "top10_tweets_like": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "We're hiring for a Research Team Lead!\n\nAt CNO, we use R, RMarkdown and git and have made our first few Shiny apps and are excited to make more. You would be in charge of leading the day-to-day activities of the team. DM me for more!\n\n#rstats\n\nhttps://t.co/qPKhCufvWc", "Les presento mi emprendimiento Futbolytics. Analizamos data de jugadores en una plataforma simple y amigable. \n\n#startup #futbolanalytics #sportsanalytics #rstats #futbolchileno https://t.co/rwXfdB1Zcj", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "Time-Series Forecasting with GRU and LSTM in #TensorFlow. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats \n#Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/l83sWnfbjk https://t.co/VdbLA5cmLU", "Get FREE e-books from @SASsoftware at https://t.co/RV1DlNoEcF\n…covers #DataScience #AI #ComputerVision #BigData #MachineLearning #FraudAnalytics #DataViz #Forecasting #Statistics #TextAnalytics &amp; more!\n\n#SASVisionary #Rstats #DataScientists #StatisticalLiteracy #VisualAnalytics https://t.co/l3rkWE5VMq", "Everything on #DataCamp is 100% FREE from now through September 9. Join us for #DataCampFreeWeek! https://t.co/jsMwd6lAMH #datascience #dataanalytics #python #sql #rstats #rprogramming #learnpython #learnsql https://t.co/IcIR471O0E"],
+  "top10_tweets_retweet": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "We're hiring for a Research Team Lead!\n\nAt CNO, we use R, RMarkdown and git and have made our first few Shiny apps and are excited to make more. You would be in charge of leading the day-to-day activities of the team. DM me for more!\n\n#rstats\n\nhttps://t.co/qPKhCufvWc", "Les presento mi emprendimiento Futbolytics. Analizamos data de jugadores en una plataforma simple y amigable. \n\n#startup #futbolanalytics #sportsanalytics #rstats #futbolchileno https://t.co/rwXfdB1Zcj", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "Time-Series Forecasting with GRU and LSTM in #TensorFlow. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats \n#Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/l83sWnfbjk https://t.co/VdbLA5cmLU", "Get FREE e-books from @SASsoftware at https://t.co/RV1DlNoEcF\n…covers #DataScience #AI #ComputerVision #BigData #MachineLearning #FraudAnalytics #DataViz #Forecasting #Statistics #TextAnalytics &amp; more!\n\n#SASVisionary #Rstats #DataScientists #StatisticalLiteracy #VisualAnalytics https://t.co/l3rkWE5VMq", "Everything on #DataCamp is 100% FREE from now through September 9. Join us for #DataCampFreeWeek! https://t.co/jsMwd6lAMH #datascience #dataanalytics #python #sql #rstats #rprogramming #learnpython #learnsql https://t.co/IcIR471O0E"]
 }
