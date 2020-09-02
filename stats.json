@@ -1,56 +1,52 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5401,
-      "average_tweets_per_hour": 225,
-      "tweeters_today": 1564,
-      "total_likes_today": 5935
+      "total_tweets_today": 5353,
+      "average_tweets_per_hour": 223,
+      "tweeters_today": 1562,
+      "total_likes_today": 5985
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 137
+      "Freq": 139
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 120
+      "Freq": 113
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 95
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 94
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 93
+      "Var1": "MachineLearning BigData Analytics DataScience IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 81
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 76
+      "Freq": 73
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "rstats machinelearning",
-      "Freq": 60
+      "Freq": 61
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
       "Freq": 57
-    },
-    {
-      "Var1": "BigData Analytics",
-      "Freq": 55
     },
     {
       "Var1": "DataScience Engineering BigData Analytics AI MachineLearning IoT IIoT Python RStats",
@@ -61,15 +57,19 @@
       "Freq": 54
     },
     {
+      "Var1": "BigData Analytics",
+      "Freq": 50
+    },
+    {
       "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 50
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 48
+      "Var1": "DataCamp DataCampFreeWeek",
+      "Freq": 49
     },
     {
-      "Var1": "DataCamp DataCampFreeWeek",
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
       "Freq": 48
     },
     {
@@ -77,11 +77,11 @@
       "Freq": 46
     },
     {
-      "Var1": "RStats",
-      "Freq": 46
+      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 45
     },
     {
-      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT",
+      "Var1": "RStats",
       "Freq": 45
     },
     {
@@ -92,55 +92,55 @@
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 248
+      "Freq": 246
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 215
+      "Freq": 214
     },
     {
       "Var1": "xaelbot",
-      "Freq": 211
+      "Freq": 210
     },
     {
       "Var1": "nlognbot",
-      "Freq": 198
+      "Freq": 196
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 168
+      "Freq": 164
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 161
+      "Freq": 150
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 154
+      "Freq": 146
     },
     {
       "Var1": "chidambara09",
       "Freq": 144
     },
     {
-      "Var1": "NetworkIndie",
-      "Freq": 105
+      "Var1": "anglehernandez",
+      "Freq": 106
     },
     {
-      "Var1": "anglehernandez",
-      "Freq": 103
+      "Var1": "NetworkIndie",
+      "Freq": 102
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 95
+      "Freq": 96
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 91
+      "Freq": 89
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 89
+      "Freq": 86
     },
     {
       "Var1": "tidyversetweets",
@@ -152,7 +152,7 @@
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 56
+      "Freq": 53
     },
     {
       "Var1": "Maignanamurthy",
@@ -160,15 +160,15 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 46
+      "Freq": 45
+    },
+    {
+      "Var1": "_reactdev",
+      "Freq": 39
     },
     {
       "Var1": "Anvith64518557",
       "Freq": 39
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 38
     }
   ],
   "top10_tweets_like": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "1/4‼️New blog post! Did you know there's more to a Plinko/Galton board than the Central Limit Theorem? Learn about bias, bootstrapping, hypothesis testing, linear models &amp; interaction effects: all rendered in stunning #rayrender 3D, w/ #rstats code!\n\nPost:\nhttps://t.co/X4BWG0Gmf8 https://t.co/2NLtJ2gpdt", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Les presento mi emprendimiento Futbolytics. Analizamos data de jugadores en una plataforma simple y amigable. \n\n#startup #futbolanalytics #sportsanalytics #rstats #futbolchileno https://t.co/rwXfdB1Zcj"],
