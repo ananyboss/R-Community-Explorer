@@ -1,76 +1,68 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4475,
-      "average_tweets_per_hour": 186,
-      "tweeters_today": 1452,
-      "total_likes_today": 4489
+      "total_tweets_today": 4431,
+      "average_tweets_per_hour": 185,
+      "tweeters_today": 1444,
+      "total_likes_today": 4634
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 138
+      "Freq": 143
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 131
+      "Freq": 128
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 100
+      "Freq": 97
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 83
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 53
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 49
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 53
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 47
+      "Freq": 53
+    },
+    {
+      "Var1": "DataCamp DataCampFreeWeek",
+      "Freq": 43
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 42
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 42
-    },
-    {
-      "Var1": "DataCamp DataCampFreeWeek",
-      "Freq": 42
-    },
-    {
       "Var1": "RStats",
-      "Freq": 41
+      "Freq": 42
     },
     {
       "Var1": "tidyverse",
-      "Freq": 41
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 40
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 36
+      "Freq": 42
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 35
+      "Freq": 41
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 34
+      "Freq": 36
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 36
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
@@ -85,42 +77,50 @@
       "Freq": 32
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
+      "Var1": "CyberSecurity Books BigData Analytics DataScience IoT IIoT PyTorch Python",
       "Freq": 31
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python",
+      "Freq": 31
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 30
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 188
+      "Freq": 186
     },
     {
       "Var1": "nlognbot",
-      "Freq": 169
+      "Freq": 168
     },
     {
       "Var1": "xaelbot",
-      "Freq": 165
+      "Freq": 167
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 154
+      "Freq": 142
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 138
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 136
+      "Freq": 140
     },
     {
       "Var1": "chidambara09",
-      "Freq": 124
+      "Freq": 126
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 122
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 92
+      "Freq": 97
     },
     {
       "Var1": "anglehernandez",
@@ -128,27 +128,27 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 78
+      "Freq": 77
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 73
+      "Freq": 69
     },
     {
       "Var1": "hubofml",
-      "Freq": 65
+      "Freq": 62
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 59
+      "Freq": 56
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 52
+      "Freq": 49
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 43
+      "Freq": 44
     },
     {
       "Var1": "TheCuriousLuke",
@@ -156,11 +156,11 @@
     },
     {
       "Var1": "DeepSingularity",
-      "Freq": 38
+      "Freq": 37
     },
     {
       "Var1": "RaymondWSA460",
-      "Freq": 38
+      "Freq": 37
     },
     {
       "Var1": "_reactdev",
@@ -171,6 +171,6 @@
       "Freq": 29
     }
   ],
-  "top10_tweets_like": ["Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "I'm thrilled to share that I am now an official RStudio Certified Trainer in the #tidyverse! HUGE thanks to @gvwilson and the @RStudioEDU team for providing this invaluable opportunity 🙏\n\nMore info here: \n🔗https://t.co/67ut46jnno\n\n#rstats #certified #rstudio", "100 Time Series Data Mining Questions (with answers!) – Part 1  {https://t.co/LK9bsyvZ9M} #rstats #DataScience", "Bootstrap confidence intervals and confidence distritbutions – application on X-men data u  {https://t.co/2L8dAMVxKD} #rstats #DataScience"],
-  "top10_tweets_retweet": ["Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "I'm thrilled to share that I am now an official RStudio Certified Trainer in the #tidyverse! HUGE thanks to @gvwilson and the @RStudioEDU team for providing this invaluable opportunity 🙏\n\nMore info here: \n🔗https://t.co/67ut46jnno\n\n#rstats #certified #rstudio", "100 Time Series Data Mining Questions (with answers!) – Part 1  {https://t.co/LK9bsyvZ9M} #rstats #DataScience", "Bootstrap confidence intervals and confidence distritbutions – application on X-men data u  {https://t.co/2L8dAMVxKD} #rstats #DataScience"]
+  "top10_tweets_like": ["Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "I'm thrilled to share that I am now an official RStudio Certified Trainer in the #tidyverse! HUGE thanks to @gvwilson and the @RStudioEDU team for providing this invaluable opportunity 🙏\n\nMore info here: \n🔗https://t.co/67ut46jnno\n\n#rstats #certified #rstudio", "I wrote a little post about possibly() and safely() from #purrr for handling errors.  For whatever reason I've never found tryCatch() very easy to use, and these functions make the task a lot easier for me. 👍 #rstats\nhttps://t.co/TBrXamnWW5", "100 Time Series Data Mining Questions (with answers!) – Part 1  {https://t.co/LK9bsyvZ9M} #rstats #DataScience"],
+  "top10_tweets_retweet": ["Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "I'm thrilled to share that I am now an official RStudio Certified Trainer in the #tidyverse! HUGE thanks to @gvwilson and the @RStudioEDU team for providing this invaluable opportunity 🙏\n\nMore info here: \n🔗https://t.co/67ut46jnno\n\n#rstats #certified #rstudio", "I wrote a little post about possibly() and safely() from #purrr for handling errors.  For whatever reason I've never found tryCatch() very easy to use, and these functions make the task a lot easier for me. 👍 #rstats\nhttps://t.co/TBrXamnWW5", "100 Time Series Data Mining Questions (with answers!) – Part 1  {https://t.co/LK9bsyvZ9M} #rstats #DataScience"]
 }
