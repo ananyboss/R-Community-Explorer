@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4650,
-      "average_tweets_per_hour": 194,
-      "tweeters_today": 1470,
-      "total_likes_today": 5158
+      "total_tweets_today": 4590,
+      "average_tweets_per_hour": 191,
+      "tweeters_today": 1438,
+      "total_likes_today": 4925
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats DataScience",
-      "Freq": 157
+      "Freq": 151
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 134
+      "Freq": 133
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 103
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 87
+      "Freq": 84
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -42,6 +42,10 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 48
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
       "Freq": 47
     },
     {
@@ -49,15 +53,11 @@
       "Freq": 43
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
-      "Freq": 43
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 42
     },
     {
-      "Var1": "DataCamp DataCampFreeWeek",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 42
     },
     {
@@ -65,90 +65,90 @@
       "Freq": 41
     },
     {
+      "Var1": "DataCamp DataCampFreeWeek",
+      "Freq": 39
+    },
+    {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 38
-    },
-    {
-      "Var1": "AI DeepLearning rstats",
-      "Freq": 36
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 36
+      "Freq": 35
     },
     {
       "Var1": "RStats",
-      "Freq": 36
+      "Freq": 35
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 34
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
+      "Freq": 35
     },
     {
       "Var1": "Blockchain Books BigData Analytics DataScience AI MachineLearning FinTech IoT IIoT Python",
       "Freq": 34
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python",
+      "Freq": 33
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 208
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 176
+      "Freq": 204
     },
     {
       "Var1": "nlognbot",
-      "Freq": 175
+      "Freq": 174
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 155
+      "Var1": "xaelbot",
+      "Freq": 172
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 149
+      "Freq": 153
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 140
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 139
+      "Freq": 123
     },
     {
       "Var1": "chidambara09",
-      "Freq": 115
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 91
+      "Freq": 106
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 88
+      "Freq": 91
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 89
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 86
+      "Freq": 77
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 84
+      "Freq": 72
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 70
+      "Freq": 66
     },
     {
       "Var1": "hubofml",
-      "Freq": 63
+      "Freq": 62
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 52
+      "Freq": 55
     },
     {
       "Var1": "BeakPeakLogic",
-      "Freq": 50
+      "Freq": 53
     },
     {
       "Var1": "LinuxDreams",
@@ -156,21 +156,21 @@
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 45
+      "Freq": 46
     },
     {
-      "Var1": "AaronCuddeback",
-      "Freq": 36
+      "Var1": "DeepSingularity",
+      "Freq": 39
     },
     {
-      "Var1": "CRANberriesFeed",
-      "Freq": 36
+      "Var1": "RaymondWSA460",
+      "Freq": 39
     },
     {
-      "Var1": "_reactdev",
+      "Var1": "JohnEngine_",
       "Freq": 35
     }
   ],
-  "top10_tweets_like": ["Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "📦 \"remedy • RStudio Addins to Simplify Markdown Writing\"\n\n👤 Colin Fay 🤘 @_colinfay; ThinkR @thinkr_fr \n\nhttps://t.co/jHCOTlClKK\n#rstats https://t.co/op1VTRVBcV", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "How to Impute Missing Values in R  {https://t.co/mUvSodmOO1} #rstats #DataScience"],
-  "top10_tweets_retweet": ["Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "📦 \"remedy • RStudio Addins to Simplify Markdown Writing\"\n\n👤 Colin Fay 🤘 @_colinfay; ThinkR @thinkr_fr \n\nhttps://t.co/jHCOTlClKK\n#rstats https://t.co/op1VTRVBcV", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "How to Impute Missing Values in R  {https://t.co/mUvSodmOO1} #rstats #DataScience"]
+  "top10_tweets_like": ["Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "📦 \"remedy • RStudio Addins to Simplify Markdown Writing\"\n\n👤 Colin Fay 🤘 @_colinfay; ThinkR @thinkr_fr \n\nhttps://t.co/jHCOTlClKK\n#rstats https://t.co/op1VTRVBcV", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "How to Impute Missing Values in R  {https://t.co/mUvSodmOO1} #rstats #DataScience", "Evaluation of #MachineLearning #Algorithms for Health and Wellness Apps. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/fA8VxNUxOf https://t.co/QEyAd5zl0s"],
+  "top10_tweets_retweet": ["Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Well this was a new R warning message for me; I guess my data are just too perfect! #RStats #Nonsense https://t.co/MbDv2oqsg7", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "Free #rstats package idea: {figr}. Insert placeholder figures in an R Markdown document, but the images are randomly chosen from the USDA's library of pomological watercolor paintings of figs here: https://t.co/T7o1c2QywW https://t.co/SWGTVbIcih", "Feeling very excited + grateful to be doing a #postdoc w/ @adaptive_plant working alongside @JenRichmondPhD and many more @UNSWScience collaborators. We will be developing #Rstats packages together so everyone can do better #science! 👩‍💻🌏📊 Bring on 2021! ✌️#WomenInSTEM", "📦 \"remedy • RStudio Addins to Simplify Markdown Writing\"\n\n👤 Colin Fay 🤘 @_colinfay; ThinkR @thinkr_fr \n\nhttps://t.co/jHCOTlClKK\n#rstats https://t.co/op1VTRVBcV", "Exploratory Data Analysis Guide  {https://t.co/SMip1FoEww} #rstats #DataScience", "How to Impute Missing Values in R  {https://t.co/mUvSodmOO1} #rstats #DataScience", "Evaluation of #MachineLearning #Algorithms for Health and Wellness Apps. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/fA8VxNUxOf https://t.co/QEyAd5zl0s"]
 }
