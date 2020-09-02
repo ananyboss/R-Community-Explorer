@@ -1,84 +1,72 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5175,
-      "average_tweets_per_hour": 216,
-      "tweeters_today": 1599,
-      "total_likes_today": 6113
+      "total_tweets_today": 4992,
+      "average_tweets_per_hour": 208,
+      "tweeters_today": 1603,
+      "total_likes_today": 5852
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 147
+      "Freq": 149
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 119
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 103
+      "Freq": 130
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 90
+      "Freq": 88
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 68
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 82
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
       "Freq": 67
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 67
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 65
-    },
-    {
       "Var1": "rstats machinelearning",
       "Freq": 65
     },
     {
-      "Var1": "TensorFlow BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 56
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 64
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 62
     },
     {
       "Var1": "DataCamp DataCampFreeWeek",
       "Freq": 55
     },
     {
-      "Var1": "DataScience Engineering BigData Analytics AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 54
+      "Var1": "MachineLearning BigData Analytics DataScience IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 55
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
       "Freq": 52
     },
     {
-      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 49
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 48
-    },
-    {
       "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT",
       "Freq": 47
     },
     {
-      "Var1": "RStats",
-      "Freq": 45
-    },
-    {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 43
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 43
+    },
+    {
+      "Var1": "AI 100DaysOfCode",
+      "Freq": 42
     },
     {
       "Var1": "AI DeepLearning rstats",
@@ -87,68 +75,80 @@
     {
       "Var1": "AI Analytics MachineLearning IoT CloudComputing Python",
       "Freq": 39
+    },
+    {
+      "Var1": "STARTUP BigData Analytics DataScience AI",
+      "Freq": 39
+    },
+    {
+      "Var1": "Mathematics Books BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 38
+    },
+    {
+      "Var1": "python DataScience Business ArtificialIntelligence DataAnalytics MachineLearning",
+      "Freq": 38
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 237
+      "Freq": 225
     },
     {
       "Var1": "xaelbot",
-      "Freq": 205
+      "Freq": 194
     },
     {
       "Var1": "nlognbot",
-      "Freq": 191
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 160
+      "Freq": 186
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 158
+      "Freq": 148
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 155
+      "Var1": "CodeGnuts",
+      "Freq": 142
     },
     {
       "Var1": "chidambara09",
-      "Freq": 152
+      "Freq": 140
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 132
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 113
+      "Freq": 117
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 101
+      "Freq": 95
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 96
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 90
+      "Freq": 89
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 89
     },
     {
+      "Var1": "TheDeveloperBot",
+      "Freq": 84
+    },
+    {
       "Var1": "BeakPeakLogic",
-      "Freq": 79
+      "Freq": 72
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 64
+      "Freq": 62
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 53
+      "Freq": 51
     },
     {
       "Var1": "Maignanamurthy",
@@ -156,21 +156,21 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 46
+      "Freq": 47
     },
     {
       "Var1": "_reactdev",
-      "Freq": 42
+      "Freq": 41
     },
     {
       "Var1": "hubofml",
-      "Freq": 40
+      "Freq": 41
     },
     {
       "Var1": "Anvith64518557",
       "Freq": 39
     }
   ],
-  "top10_tweets_like": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "1/4‼️New blog post! Did you know there's more to a Plinko/Galton board than the Central Limit Theorem? Learn about bias, bootstrapping, hypothesis testing, linear models &amp; interaction effects: all rendered in stunning #rayrender 3D, w/ #rstats code!\n\nPost:\nhttps://t.co/X4BWG0Gmf8 https://t.co/2NLtJ2gpdt", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Everything on #DataCamp is 100% FREE from now through September 9. Join us for #DataCampFreeWeek! https://t.co/jsMwd6lAMH #datascience #dataanalytics #python #sql #rstats #rprogramming #learnpython #learnsql https://t.co/IcIR471O0E"],
-  "top10_tweets_retweet": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dkcmMQODC2 https://t.co/MlbPIVT4fU", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "1/4‼️New blog post! Did you know there's more to a Plinko/Galton board than the Central Limit Theorem? Learn about bias, bootstrapping, hypothesis testing, linear models &amp; interaction effects: all rendered in stunning #rayrender 3D, w/ #rstats code!\n\nPost:\nhttps://t.co/X4BWG0Gmf8 https://t.co/2NLtJ2gpdt", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Everything on #DataCamp is 100% FREE from now through September 9. Join us for #DataCampFreeWeek! https://t.co/jsMwd6lAMH #datascience #dataanalytics #python #sql #rstats #rprogramming #learnpython #learnsql https://t.co/IcIR471O0E"]
+  "top10_tweets_like": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "1/4‼️New blog post! Did you know there's more to a Plinko/Galton board than the Central Limit Theorem? Learn about bias, bootstrapping, hypothesis testing, linear models &amp; interaction effects: all rendered in stunning #rayrender 3D, w/ #rstats code!\n\nPost:\nhttps://t.co/X4BWG0Gmf8 https://t.co/2NLtJ2gpdt", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "Everything on #DataCamp is 100% FREE from now through September 9. Join us for #DataCampFreeWeek! https://t.co/jsMwd6lAMH #datascience #dataanalytics #python #sql #rstats #rprogramming #learnpython #learnsql https://t.co/IcIR471O0E"],
+  "top10_tweets_retweet": ["Making one of my #rstats courses open, inc. desc/ inferential stats + intro to #machinelearning, in case this is helpful in preparation for the next year of remote #teaching! Site here: https://t.co/cRlnPyGHdU &amp; #github repo here: https://t.co/YEpSrNzF5m  Feedback is very welcome https://t.co/KazcLKXxXv", "Hey #rstats, your periodic reminder that `glue::glue()` is vectorized: https://t.co/N5sNIBDA04", "New on the @rstudio #AI blog: An introduction to weather prediction with #DeepLearning https://t.co/AgjliiLlqj #rstats", "1/4‼️New blog post! Did you know there's more to a Plinko/Galton board than the Central Limit Theorem? Learn about bias, bootstrapping, hypothesis testing, linear models &amp; interaction effects: all rendered in stunning #rayrender 3D, w/ #rstats code!\n\nPost:\nhttps://t.co/X4BWG0Gmf8 https://t.co/2NLtJ2gpdt", "My love for for loop 💯💯\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/pFU8rvBSCv", "Have you ever spent *forever* working on xaringan slides and then been bummed when you share them on the twitter and all you see is a boring text description of your awesome slides?\n\nHere are my tips for sharing your #rstats xaringan slides online!\nhttps://t.co/OAbjy6wt3h", "OUT or notOUT? Wanna find OUT? checkOUT our latest OUTlier detection paper: \"Anomaly Detection in High Dimensional Data\", now online @ JCGS: https://t.co/GkiZGwpZ4E. Co-authored with my awesome supervisors @robjhyndman &amp; Kate Smith-Miles. Companion #rstats 📦 stray is on CRAN 🐶 https://t.co/du6PfbVxHH", "🤓Finding rando #rstats/open source stats TikTok vids makes my little heart swell... \n🎓 back-to-school special by  @juli_tkotz (TT handle: rismyfavouriteletter)\nhttps://t.co/czXFU4xWco https://t.co/2ORBLundb9", "Here's ten practical examples of new ways of doing common data tasks in the #tidyverse.   With recent updates to #dplyr and #tidyr there's more flexibility and more control. Thanks @allison_horst for {palmerpenguins}.  #rstats #r4ds #tidyverse #datascience https://t.co/i0UlpXDOeJ", "Everything on #DataCamp is 100% FREE from now through September 9. Join us for #DataCampFreeWeek! https://t.co/jsMwd6lAMH #datascience #dataanalytics #python #sql #rstats #rprogramming #learnpython #learnsql https://t.co/IcIR471O0E"]
 }
