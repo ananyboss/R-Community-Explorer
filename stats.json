@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4634,
-      "average_tweets_per_hour": 193,
-      "tweeters_today": 1371,
-      "total_likes_today": 4507
+      "total_tweets_today": 4583,
+      "average_tweets_per_hour": 191,
+      "tweeters_today": 1352,
+      "total_likes_today": 4485
     }
   ],
   "top20_hashtags": [
@@ -14,34 +14,26 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 107
+      "Freq": 116
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 87
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 74
+      "Freq": 88
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 69
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 60
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python",
-      "Freq": 58
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 53
+      "Freq": 60
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 50
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python",
       "Freq": 50
     },
     {
@@ -49,12 +41,16 @@
       "Freq": 48
     },
     {
-      "Var1": "RStats",
-      "Freq": 48
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow Java",
       "Freq": 46
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 46
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 45
     },
     {
       "Var1": "Rstats",
@@ -66,61 +62,65 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 42
+      "Freq": 41
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 41
     },
     {
       "Var1": "DataCamp DataCampFreeWeek",
-      "Freq": 40
+      "Freq": 39
     },
     {
       "Var1": "AI 100DaysOfCode MachineLearning DeepLearning IoT",
       "Freq": 38
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Var1": "Python JavaScript BigData Analytics DataScience AI",
       "Freq": 36
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 33
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 32
     },
     {
-      "Var1": "ThinkChain AI",
+      "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
       "Freq": 32
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 228
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 187
+      "Freq": 227
     },
     {
       "Var1": "xaelbot",
-      "Freq": 178
+      "Freq": 181
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 179
     },
     {
       "Var1": "chidambara09",
-      "Freq": 158
+      "Freq": 163
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 156
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 155
+      "Freq": 156
     },
     {
       "Var1": "Taieb_Bot",
       "Freq": 155
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 154
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 102
+      "Freq": 100
     },
     {
       "Var1": "anglehernandez",
@@ -128,49 +128,49 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 93
+      "Freq": 88
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 80
+      "Freq": 83
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 66
+      "Freq": 70
     },
     {
       "Var1": "hubofml",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "rstats4ds",
       "Freq": 47
     },
     {
-      "Var1": "JohnEngine_",
-      "Freq": 42
+      "Var1": "TheCuriousLuke",
+      "Freq": 40
     },
     {
-      "Var1": "TheCuriousLuke",
-      "Freq": 41
+      "Var1": "JohnEngine_",
+      "Freq": 38
     },
     {
       "Var1": "femtech_",
       "Freq": 37
     },
     {
-      "Var1": "DeepSingularity",
-      "Freq": 33
-    },
-    {
-      "Var1": "RaymondWSA460",
+      "Var1": "CRANberriesFeed",
       "Freq": 32
     },
     {
-      "Var1": "CRANberriesFeed",
-      "Freq": 31
+      "Var1": "AaronCuddeback",
+      "Freq": 29
+    },
+    {
+      "Var1": "Analytics_699",
+      "Freq": 27
     }
   ],
-  "top10_tweets_like": ["My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "I wrote a little post about possibly() and safely() from #purrr for handling errors.  For whatever reason I've never found tryCatch() very easy to use, and these functions make the task a lot easier for me. 👍 #rstats\nhttps://t.co/TBrXamnWW5", "In this #tidytuesday screencast, we analyzed global crop yields from @OurWorldInData \n\nShows how to build a quick interactive Shiny+@plotlygraphs dashboard to explore countries and crops over time!\n\nhttps://t.co/7TXi7hcToi #rstats https://t.co/wXdbdT7Lep", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "Version 2.0 of our #MODIStsp package for MODIS data processing is now on CRAN. The new version introduces a new and improved GUI based on #shiny and enhances support for CLI usage. https://t.co/9eLo0JOak5\n#RStats #rspatial https://t.co/eQQ8wui3TE", "Best Machine Learning #Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT  #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/iV9Y9Hy0I7", "National composition of Montenegro, according to the 2011 population census\n\n#nationality #census #CrnaGora #BigData #dataviz #datascience #maps #gis #rstats https://t.co/bRA04CJn8T", "Need to apply the same transformations to multiple columns in your data? I put together a short slide deck that shows how using 1⃣ scoped verbs, e.g. summarize_at(), _if(), etc. and 2⃣ the fancy new dplyr::across() from ✨ #dplyr 1.0.0 ✨ #rstats (1/5)\n\n🔗 https://t.co/I8SiglZt6A", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 31 days, overall median represented by a blue asterisk. #auspol #cleanenergy #rstats #gganimate https://t.co/uvvPBbnS88", "Putting together the slidedeck for a talk on improving data visualisation. Here's my favourite tip for finding #Rstats scripts for your plots: Google image search! https://t.co/UFt6DFLph3"],
-  "top10_tweets_retweet": ["My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "I wrote a little post about possibly() and safely() from #purrr for handling errors.  For whatever reason I've never found tryCatch() very easy to use, and these functions make the task a lot easier for me. 👍 #rstats\nhttps://t.co/TBrXamnWW5", "In this #tidytuesday screencast, we analyzed global crop yields from @OurWorldInData \n\nShows how to build a quick interactive Shiny+@plotlygraphs dashboard to explore countries and crops over time!\n\nhttps://t.co/7TXi7hcToi #rstats https://t.co/wXdbdT7Lep", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "Version 2.0 of our #MODIStsp package for MODIS data processing is now on CRAN. The new version introduces a new and improved GUI based on #shiny and enhances support for CLI usage. https://t.co/9eLo0JOak5\n#RStats #rspatial https://t.co/eQQ8wui3TE", "Best Machine Learning #Books (Updated for 2020). #BigData #Analytics #DataScience #IoT #IIoT  #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/iV9Y9Hy0I7", "National composition of Montenegro, according to the 2011 population census\n\n#nationality #census #CrnaGora #BigData #dataviz #datascience #maps #gis #rstats https://t.co/bRA04CJn8T", "Need to apply the same transformations to multiple columns in your data? I put together a short slide deck that shows how using 1⃣ scoped verbs, e.g. summarize_at(), _if(), etc. and 2⃣ the fancy new dplyr::across() from ✨ #dplyr 1.0.0 ✨ #rstats (1/5)\n\n🔗 https://t.co/I8SiglZt6A", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 31 days, overall median represented by a blue asterisk. #auspol #cleanenergy #rstats #gganimate https://t.co/uvvPBbnS88", "Putting together the slidedeck for a talk on improving data visualisation. Here's my favourite tip for finding #Rstats scripts for your plots: Google image search! https://t.co/UFt6DFLph3"]
+  "top10_tweets_like": ["My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "I wrote a little post about possibly() and safely() from #purrr for handling errors.  For whatever reason I've never found tryCatch() very easy to use, and these functions make the task a lot easier for me. 👍 #rstats\nhttps://t.co/TBrXamnWW5", "In this #tidytuesday screencast, we analyzed global crop yields from @OurWorldInData \n\nShows how to build a quick interactive Shiny+@plotlygraphs dashboard to explore countries and crops over time!\n\nhttps://t.co/7TXi7hcToi #rstats https://t.co/wXdbdT7Lep", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "Version 2.0 of our #MODIStsp package for MODIS data processing is now on CRAN. The new version introduces a new and improved GUI based on #shiny and enhances support for CLI usage. https://t.co/9eLo0JOak5\n#RStats #rspatial https://t.co/eQQ8wui3TE", "Need to apply the same transformations to multiple columns in your data? I put together a short slide deck that shows how using 1⃣ scoped verbs, e.g. summarize_at(), _if(), etc. and 2⃣ the fancy new dplyr::across() from ✨ #dplyr 1.0.0 ✨ #rstats (1/5)\n\n🔗 https://t.co/I8SiglZt6A", "National composition of Montenegro, according to the 2011 population census\n\n#nationality #census #CrnaGora #BigData #dataviz #datascience #maps #gis #rstats https://t.co/bRA04CJn8T", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 31 days, overall median represented by a blue asterisk. #auspol #cleanenergy #rstats #gganimate https://t.co/uvvPBbnS88", "🪙 The difference between Bayesian and Frequentist #statistics explained in a way you won't forget... 🪙\n\nBehold! A coin toss to diagnose which way of thinking comes more naturally to you...\n\n#Statistics #rstats #DataScience #philosophy\n\nhttps://t.co/3BYzLw3ORs", "Putting together the slidedeck for a talk on improving data visualisation. Here's my favourite tip for finding #Rstats scripts for your plots: Google image search! https://t.co/UFt6DFLph3"],
+  "top10_tweets_retweet": ["My favorite part about the new Palmer penguins dataset for #rstats is the built-in Simpson's Paradox https://t.co/3o2oynB56Q https://t.co/MOCpWXPiWG", "I wrote a little post about possibly() and safely() from #purrr for handling errors.  For whatever reason I've never found tryCatch() very easy to use, and these functions make the task a lot easier for me. 👍 #rstats\nhttps://t.co/TBrXamnWW5", "In this #tidytuesday screencast, we analyzed global crop yields from @OurWorldInData \n\nShows how to build a quick interactive Shiny+@plotlygraphs dashboard to explore countries and crops over time!\n\nhttps://t.co/7TXi7hcToi #rstats https://t.co/wXdbdT7Lep", "Time Series in 5-Minutes, Part 5: Anomaly Detection  {https://t.co/mSqQSWndqA} #rstats #DataScience", "Version 2.0 of our #MODIStsp package for MODIS data processing is now on CRAN. The new version introduces a new and improved GUI based on #shiny and enhances support for CLI usage. https://t.co/9eLo0JOak5\n#RStats #rspatial https://t.co/eQQ8wui3TE", "Need to apply the same transformations to multiple columns in your data? I put together a short slide deck that shows how using 1⃣ scoped verbs, e.g. summarize_at(), _if(), etc. and 2⃣ the fancy new dplyr::across() from ✨ #dplyr 1.0.0 ✨ #rstats (1/5)\n\n🔗 https://t.co/I8SiglZt6A", "National composition of Montenegro, according to the 2011 population census\n\n#nationality #census #CrnaGora #BigData #dataviz #datascience #maps #gis #rstats https://t.co/bRA04CJn8T", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 31 days, overall median represented by a blue asterisk. #auspol #cleanenergy #rstats #gganimate https://t.co/uvvPBbnS88", "🪙 The difference between Bayesian and Frequentist #statistics explained in a way you won't forget... 🪙\n\nBehold! A coin toss to diagnose which way of thinking comes more naturally to you...\n\n#Statistics #rstats #DataScience #philosophy\n\nhttps://t.co/3BYzLw3ORs", "Putting together the slidedeck for a talk on improving data visualisation. Here's my favourite tip for finding #Rstats scripts for your plots: Google image search! https://t.co/UFt6DFLph3"]
 }
