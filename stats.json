@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4595,
-      "average_tweets_per_hour": 191,
-      "tweeters_today": 1217,
-      "total_likes_today": 4407
+      "total_tweets_today": 4702,
+      "average_tweets_per_hour": 196,
+      "tweeters_today": 1223,
+      "total_likes_today": 4464
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "DataScientists",
-      "Freq": 109
+      "Freq": 110
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 86
+      "Freq": 97
     },
     {
       "Var1": "rstats DataScience",
@@ -22,15 +22,15 @@
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 70
+      "Freq": 69
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Freq": 69
     },
     {
       "Var1": "Python 100DaysOfCode",
       "Freq": 55
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 54
     },
     {
       "Var1": "iNTERNETofThings IoT Startups Telecom INDUSTRY bigdata AI IOT",
@@ -38,38 +38,38 @@
     },
     {
       "Var1": "MachineLearning Algorithms BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 50
+      "Freq": 51
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 50
+      "Var1": "tidyverse rstats",
+      "Freq": 49
     },
     {
-      "Var1": "MachineLearning Yellowbrick BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode",
       "Freq": 46
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 45
     },
     {
       "Var1": "theinsaneapp CodeNewbies matlab PHP Swift Java Ruby lisp Scala HTML",
       "Freq": 45
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode",
+      "Var1": "MachineLearning BigData Analytics DataScience AI FinTech IoT IIoT Python RStats",
       "Freq": 44
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 42
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 42
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 41
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 40
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI FinTech IoT IIoT Python RStats",
+      "Var1": "MachineLearning Yellowbrick BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 40
     },
     {
@@ -81,54 +81,54 @@
       "Freq": 37
     },
     {
-      "Var1": "cybersecurity bigdata AI IOT Tech DATA USA",
-      "Freq": 35
+      "Var1": "Algorithms BigData Analytics DataScience MachineLearning AI",
+      "Freq": 36
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience IoT Python",
+      "Var1": "cybersecurity bigdata AI IOT Tech DATA USA",
       "Freq": 35
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 232
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 199
+      "Freq": 238
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 196
+      "Freq": 222
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 206
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 173
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 148
+      "Freq": 178
     },
     {
       "Var1": "chidambara09",
-      "Freq": 142
+      "Freq": 147
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 146
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 80
+      "Freq": 89
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 74
+      "Freq": 81
     },
     {
       "Var1": "hubofml",
-      "Freq": 67
+      "Freq": 71
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 65
+      "Freq": 70
     },
     {
       "Var1": "anglehernandez",
@@ -136,23 +136,27 @@
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 60
+      "Freq": 63
     },
     {
       "Var1": "femtech_",
-      "Freq": 58
+      "Freq": 60
     },
     {
       "Var1": "learn__together",
-      "Freq": 58
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 50
+      "Freq": 55
     },
     {
       "Var1": "busuulwa_mark",
-      "Freq": 46
+      "Freq": 48
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 48
+    },
+    {
+      "Var1": "bountyhunter_fr",
+      "Freq": 39
     },
     {
       "Var1": "sectest9",
@@ -163,14 +167,10 @@
       "Freq": 39
     },
     {
-      "Var1": "bountyhunter_fr",
-      "Freq": 38
-    },
-    {
-      "Var1": "CyberSecurityN8",
+      "Var1": "cybersec_feeds",
       "Freq": 37
     }
   ],
-  "top10_tweets_like": ["modelsummary 0.6.0 is out! Regression tables, coef plots, balance/table 1, data summaries, multilevel crosstabs. Save or knit to HTML, Word, LaTeX, TXT, PDF or JPG. Compatible and customizable with kableExtra, gt, flextable, huxtable. Examples in🧵#RStats https://t.co/4LH3FkSjRw https://t.co/qvrbsMxXZK", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n——————\n👇👇\nhttps://t.co/SMSd0KsA9M https://t.co/7LCGzFVoih", "New blogpost/guide continuing my series on #rstats tables w/ {gt} !\n\n✅ Adaptation of @jschwabish 's 10 Guidelines for Better Tables\n✅ Reproducible code to create 25(!) tables w/ #TidyTuesday data\n✅ 1700 lines of {gt} + #tidyverse code and commentary\n\nhttps://t.co/ClIzTLx0cb", "Programming with Google vs programming without Google' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/f6V8Igw4Nt", "😱 Hello World in 30 Different Languages\n\n#theinsaneapp #CodeNewbies\n#matlab #PHP #Swift #Java #Ruby\n#lisp #Scala #HTML #TypeScript #Fortran #CoBOL #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding\n\nCredits: @PrasoonPratham https://t.co/rMotYs2Ky6", "I adore this package and everyone should use it. #rstats https://t.co/Rth6ObOexg", "🎉 \"A Data Wrangling Reference with Dynamic Examples\" #rstats  Made spring quarter for 🤩 students. https://t.co/QPWjO2FBHw:\n\n- 🔍 Find example that maps to wrangling goal\n- 🤔 Watch action unfold\n- ⚒️ Implement w/ your data\n\nNow w/ navigation bars from @grrrck's🤯xaringanExtra! https://t.co/Jx3FGAFHF5", "I've teamed up with @alekswritescode to create the interactive map of Yugoslavia in 1931 with key info from the population census on the county/town level. Map and data coming soon\n\n#history #census #DataScience #dataviz #maps #javascript #d3 #rstats #qgis https://t.co/fnbu4waT5g", "A little #rstats blogging tip - create a ✨#Github note box ✨ for easily sharing #opensource code. Another great use case for custom note boxes (aka \"div tips\") in #rmarkdown posts, courtesy of @dcossyle. It only takes a few lines of code to implement! 🙌 https://t.co/un6yAfrRw3", "Look what came in the mail today!\n\n#rstats @create_self https://t.co/QCCR6KGoza"],
-  "top10_tweets_retweet": ["modelsummary 0.6.0 is out! Regression tables, coef plots, balance/table 1, data summaries, multilevel crosstabs. Save or knit to HTML, Word, LaTeX, TXT, PDF or JPG. Compatible and customizable with kableExtra, gt, flextable, huxtable. Examples in🧵#RStats https://t.co/4LH3FkSjRw https://t.co/qvrbsMxXZK", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n——————\n👇👇\nhttps://t.co/SMSd0KsA9M https://t.co/7LCGzFVoih", "New blogpost/guide continuing my series on #rstats tables w/ {gt} !\n\n✅ Adaptation of @jschwabish 's 10 Guidelines for Better Tables\n✅ Reproducible code to create 25(!) tables w/ #TidyTuesday data\n✅ 1700 lines of {gt} + #tidyverse code and commentary\n\nhttps://t.co/ClIzTLx0cb", "Programming with Google vs programming without Google' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/f6V8Igw4Nt", "😱 Hello World in 30 Different Languages\n\n#theinsaneapp #CodeNewbies\n#matlab #PHP #Swift #Java #Ruby\n#lisp #Scala #HTML #TypeScript #Fortran #CoBOL #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding\n\nCredits: @PrasoonPratham https://t.co/rMotYs2Ky6", "I adore this package and everyone should use it. #rstats https://t.co/Rth6ObOexg", "🎉 \"A Data Wrangling Reference with Dynamic Examples\" #rstats  Made spring quarter for 🤩 students. https://t.co/QPWjO2FBHw:\n\n- 🔍 Find example that maps to wrangling goal\n- 🤔 Watch action unfold\n- ⚒️ Implement w/ your data\n\nNow w/ navigation bars from @grrrck's🤯xaringanExtra! https://t.co/Jx3FGAFHF5", "I've teamed up with @alekswritescode to create the interactive map of Yugoslavia in 1931 with key info from the population census on the county/town level. Map and data coming soon\n\n#history #census #DataScience #dataviz #maps #javascript #d3 #rstats #qgis https://t.co/fnbu4waT5g", "A little #rstats blogging tip - create a ✨#Github note box ✨ for easily sharing #opensource code. Another great use case for custom note boxes (aka \"div tips\") in #rmarkdown posts, courtesy of @dcossyle. It only takes a few lines of code to implement! 🙌 https://t.co/un6yAfrRw3", "Look what came in the mail today!\n\n#rstats @create_self https://t.co/QCCR6KGoza"]
+  "top10_tweets_like": ["modelsummary 0.6.0 is out! Regression tables, coef plots, balance/table 1, data summaries, multilevel crosstabs. Save or knit to HTML, Word, LaTeX, TXT, PDF or JPG. Compatible and customizable with kableExtra, gt, flextable, huxtable. Examples in🧵#RStats https://t.co/4LH3FkSjRw https://t.co/qvrbsMxXZK", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n——————\n👇👇\nhttps://t.co/SMSd0KsA9M https://t.co/7LCGzFVoih", "New blogpost/guide continuing my series on #rstats tables w/ {gt} !\n\n✅ Adaptation of @jschwabish 's 10 Guidelines for Better Tables\n✅ Reproducible code to create 25(!) tables w/ #TidyTuesday data\n✅ 1700 lines of {gt} + #tidyverse code and commentary\n\nhttps://t.co/ClIzTLx0cb", "Programming with Google vs programming without Google' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/f6V8Igw4Nt", "I adore this package and everyone should use it. #rstats https://t.co/Rth6ObOexg", "😱 Hello World in 30 Different Languages\n\n#theinsaneapp #CodeNewbies\n#matlab #PHP #Swift #Java #Ruby\n#lisp #Scala #HTML #TypeScript #Fortran #CoBOL #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding\n\nCredits: @PrasoonPratham https://t.co/rMotYs2Ky6", "🎉 \"A Data Wrangling Reference with Dynamic Examples\" #rstats  Made spring quarter for 🤩 students. https://t.co/QPWjO2FBHw:\n\n- 🔍 Find example that maps to wrangling goal\n- 🤔 Watch action unfold\n- ⚒️ Implement w/ your data\n\nNow w/ navigation bars from @grrrck's🤯xaringanExtra! https://t.co/Jx3FGAFHF5", "A little #rstats blogging tip - create a ✨#Github note box ✨ for easily sharing #opensource code. Another great use case for custom note boxes (aka \"div tips\") in #rmarkdown posts, courtesy of @dcossyle. It only takes a few lines of code to implement! 🙌 https://t.co/un6yAfrRw3", "I've teamed up with @alekswritescode to create the interactive map of Yugoslavia in 1931 with key info from the population census on the county/town level. Map and data coming soon\n\n#history #census #DataScience #dataviz #maps #javascript #d3 #rstats #qgis https://t.co/fnbu4waT5g", "Look what came in the mail today!\n\n#rstats @create_self https://t.co/QCCR6KGoza"],
+  "top10_tweets_retweet": ["modelsummary 0.6.0 is out! Regression tables, coef plots, balance/table 1, data summaries, multilevel crosstabs. Save or knit to HTML, Word, LaTeX, TXT, PDF or JPG. Compatible and customizable with kableExtra, gt, flextable, huxtable. Examples in🧵#RStats https://t.co/4LH3FkSjRw https://t.co/qvrbsMxXZK", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n——————\n👇👇\nhttps://t.co/SMSd0KsA9M https://t.co/7LCGzFVoih", "New blogpost/guide continuing my series on #rstats tables w/ {gt} !\n\n✅ Adaptation of @jschwabish 's 10 Guidelines for Better Tables\n✅ Reproducible code to create 25(!) tables w/ #TidyTuesday data\n✅ 1700 lines of {gt} + #tidyverse code and commentary\n\nhttps://t.co/ClIzTLx0cb", "Programming with Google vs programming without Google' 😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/f6V8Igw4Nt", "I adore this package and everyone should use it. #rstats https://t.co/Rth6ObOexg", "😱 Hello World in 30 Different Languages\n\n#theinsaneapp #CodeNewbies\n#matlab #PHP #Swift #Java #Ruby\n#lisp #Scala #HTML #TypeScript #Fortran #CoBOL #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding\n\nCredits: @PrasoonPratham https://t.co/rMotYs2Ky6", "🎉 \"A Data Wrangling Reference with Dynamic Examples\" #rstats  Made spring quarter for 🤩 students. https://t.co/QPWjO2FBHw:\n\n- 🔍 Find example that maps to wrangling goal\n- 🤔 Watch action unfold\n- ⚒️ Implement w/ your data\n\nNow w/ navigation bars from @grrrck's🤯xaringanExtra! https://t.co/Jx3FGAFHF5", "A little #rstats blogging tip - create a ✨#Github note box ✨ for easily sharing #opensource code. Another great use case for custom note boxes (aka \"div tips\") in #rmarkdown posts, courtesy of @dcossyle. It only takes a few lines of code to implement! 🙌 https://t.co/un6yAfrRw3", "I've teamed up with @alekswritescode to create the interactive map of Yugoslavia in 1931 with key info from the population census on the county/town level. Map and data coming soon\n\n#history #census #DataScience #dataviz #maps #javascript #d3 #rstats #qgis https://t.co/fnbu4waT5g", "Look what came in the mail today!\n\n#rstats @create_self https://t.co/QCCR6KGoza"]
 }
