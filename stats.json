@@ -1,32 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5387,
-      "average_tweets_per_hour": 224,
-      "tweeters_today": 1360,
-      "total_likes_today": 4154
+      "total_tweets_today": 5235,
+      "average_tweets_per_hour": 218,
+      "tweeters_today": 1377,
+      "total_likes_today": 4233
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning Algorithms BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 115
+      "Freq": 116
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 112
+      "Freq": 113
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 110
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 107
+      "Freq": 112
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 91
+      "Freq": 108
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 99
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -34,19 +38,15 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT",
-      "Freq": 54
+      "Freq": 51
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 54
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 51
     },
     {
       "Var1": "DiGiTAL technologies medical device industry bigdata AI IOT",
-      "Freq": 51
+      "Freq": 50
     },
     {
       "Var1": "AUTOMATION MachineLearning AI DataScience tech Coding RStats fintech Smartcity IoT 4IR",
@@ -54,7 +54,7 @@
     },
     {
       "Var1": "rstats ggplot2 dataviz",
-      "Freq": 49
+      "Freq": 48
     },
     {
       "Var1": "rstats DataScience",
@@ -77,54 +77,50 @@
       "Freq": 43
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 42
+      "Var1": "BigData Analytics",
+      "Freq": 41
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 40
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 41
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 39
+      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 259
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 206
+      "Freq": 254
     },
     {
       "Var1": "xaelbot",
-      "Freq": 203
+      "Freq": 196
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 164
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 163
+      "Var1": "nodeQuotesBot",
+      "Freq": 182
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 160
+      "Freq": 156
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 93
+      "Var1": "CodeGnuts",
+      "Freq": 149
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 141
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 88
+      "Freq": 91
     },
     {
-      "Var1": "LinuxDreams",
-      "Freq": 84
+      "Var1": "TheDeveloperBot",
+      "Freq": 83
     },
     {
       "Var1": "hubofml",
@@ -135,16 +131,20 @@
       "Freq": 81
     },
     {
+      "Var1": "LinuxDreams",
+      "Freq": 78
+    },
+    {
       "Var1": "NetworkIndie",
-      "Freq": 77
+      "Freq": 74
     },
     {
       "Var1": "nlognbot",
-      "Freq": 63
+      "Freq": 68
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 61
+      "Freq": 63
     },
     {
       "Var1": "Maignanamurthy",
@@ -155,22 +155,22 @@
       "Freq": 55
     },
     {
-      "Var1": "cybersec_feeds",
-      "Freq": 50
+      "Var1": "rstats4ds",
+      "Freq": 51
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 47
+      "Var1": "cybersec_feeds",
+      "Freq": 49
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 43
+      "Freq": 45
     },
     {
-      "Var1": "AaronCuddeback",
+      "Var1": "Anvith64518557",
       "Freq": 41
     }
   ],
-  "top10_tweets_like": ["Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/GiHFBvG8nf https://t.co/t29m1NzPB7", "Check out this #rstats post by @scac1041 on how to create partial dependence plots for tidymodels + xgboost results! 🤩\nhttps://t.co/NhgSr30l7B https://t.co/hy8LmlUG1n", "📦📚 \"BigBookofR • The biggest collection of R books (and maybe later some other resources too)\"\n\n👤 Oscar Baruffa @OscarBaruffa\n\nhttps://t.co/XMHYtfSOak\n#rstats https://t.co/ZBo0JmmR5n", "Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/ndUMlWLxq6", "WhiteboxTools v1.4.0 with 447 tools for #geospatial analysis has been released Dr. John Lindsay. I have updated its #Python, #R, and #ArcGIS frontends. 👇\n\nhttps://t.co/eZbTkrBaCi\n\n#whitebox #GIS #remotesensing #geopython #opensource #python #rstats #qgis #hydrology #lidar https://t.co/AoiqBPMVZX", "Very happy to see gfortran progress in Apple’s new hardware! This this very important for #JuliaLang, #NumPy and #RStats https://t.co/dGMPEOqmGs", "📦⇆ \"funneljoin • Join tables based on events occurring in sequence in a funnel.\"\n\n👤 Emily Robinson @robinson_es \n\nhttps://t.co/bNj2NOfFyv\n#rstats https://t.co/Obshry3X3F", "#AUTOMATION in practice.\n\n#MachineLearning #AI #DataScience #tech #Coding #RStats #fintech #Smartcity #IoT #4IR #DataAnalytics #JavaScript #ReactJS #Serverless #Linux #Python #cybersecurity #100DaysOfCode #Analytics #robotics #100DaysOfCode #futureofwork #Industry40 #innovation https://t.co/vmYPbxWGJd"],
-  "top10_tweets_retweet": ["Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/GiHFBvG8nf https://t.co/t29m1NzPB7", "Check out this #rstats post by @scac1041 on how to create partial dependence plots for tidymodels + xgboost results! 🤩\nhttps://t.co/NhgSr30l7B https://t.co/hy8LmlUG1n", "📦📚 \"BigBookofR • The biggest collection of R books (and maybe later some other resources too)\"\n\n👤 Oscar Baruffa @OscarBaruffa\n\nhttps://t.co/XMHYtfSOak\n#rstats https://t.co/ZBo0JmmR5n", "Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/ndUMlWLxq6", "WhiteboxTools v1.4.0 with 447 tools for #geospatial analysis has been released Dr. John Lindsay. I have updated its #Python, #R, and #ArcGIS frontends. 👇\n\nhttps://t.co/eZbTkrBaCi\n\n#whitebox #GIS #remotesensing #geopython #opensource #python #rstats #qgis #hydrology #lidar https://t.co/AoiqBPMVZX", "Very happy to see gfortran progress in Apple’s new hardware! This this very important for #JuliaLang, #NumPy and #RStats https://t.co/dGMPEOqmGs", "📦⇆ \"funneljoin • Join tables based on events occurring in sequence in a funnel.\"\n\n👤 Emily Robinson @robinson_es \n\nhttps://t.co/bNj2NOfFyv\n#rstats https://t.co/Obshry3X3F", "#AUTOMATION in practice.\n\n#MachineLearning #AI #DataScience #tech #Coding #RStats #fintech #Smartcity #IoT #4IR #DataAnalytics #JavaScript #ReactJS #Serverless #Linux #Python #cybersecurity #100DaysOfCode #Analytics #robotics #100DaysOfCode #futureofwork #Industry40 #innovation https://t.co/vmYPbxWGJd"]
+  "top10_tweets_like": ["Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/GiHFBvG8nf https://t.co/t29m1NzPB7", "Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/ndUMlWLxq6", "Check out this #rstats post by @scac1041 on how to create partial dependence plots for tidymodels + xgboost results! 🤩\nhttps://t.co/NhgSr30l7B https://t.co/hy8LmlUG1n", "📦📚 \"BigBookofR • The biggest collection of R books (and maybe later some other resources too)\"\n\n👤 Oscar Baruffa @OscarBaruffa\n\nhttps://t.co/XMHYtfSOak\n#rstats https://t.co/ZBo0JmmR5n", "WhiteboxTools v1.4.0 with 447 tools for #geospatial analysis has been released Dr. John Lindsay. I have updated its #Python, #R, and #ArcGIS frontends. 👇\n\nhttps://t.co/eZbTkrBaCi\n\n#whitebox #GIS #remotesensing #geopython #opensource #python #rstats #qgis #hydrology #lidar https://t.co/AoiqBPMVZX", "Very happy to see gfortran progress in Apple’s new hardware! This this very important for #JuliaLang, #NumPy and #RStats https://t.co/dGMPEOqmGs", "📦⇆ \"funneljoin • Join tables based on events occurring in sequence in a funnel.\"\n\n👤 Emily Robinson @robinson_es \n\nhttps://t.co/bNj2NOfFyv\n#rstats https://t.co/Obshry3X3F", "#AUTOMATION in practice.\n\n#MachineLearning #AI #DataScience #tech #Coding #RStats #fintech #Smartcity #IoT #4IR #DataAnalytics #JavaScript #ReactJS #Serverless #Linux #Python #cybersecurity #100DaysOfCode #Analytics #robotics #100DaysOfCode #futureofwork #Industry40 #innovation https://t.co/vmYPbxWGJd"],
+  "top10_tweets_retweet": ["Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/GiHFBvG8nf https://t.co/t29m1NzPB7", "Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/OD7ZlN9g5O https://t.co/ndUMlWLxq6", "Check out this #rstats post by @scac1041 on how to create partial dependence plots for tidymodels + xgboost results! 🤩\nhttps://t.co/NhgSr30l7B https://t.co/hy8LmlUG1n", "📦📚 \"BigBookofR • The biggest collection of R books (and maybe later some other resources too)\"\n\n👤 Oscar Baruffa @OscarBaruffa\n\nhttps://t.co/XMHYtfSOak\n#rstats https://t.co/ZBo0JmmR5n", "WhiteboxTools v1.4.0 with 447 tools for #geospatial analysis has been released Dr. John Lindsay. I have updated its #Python, #R, and #ArcGIS frontends. 👇\n\nhttps://t.co/eZbTkrBaCi\n\n#whitebox #GIS #remotesensing #geopython #opensource #python #rstats #qgis #hydrology #lidar https://t.co/AoiqBPMVZX", "Very happy to see gfortran progress in Apple’s new hardware! This this very important for #JuliaLang, #NumPy and #RStats https://t.co/dGMPEOqmGs", "📦⇆ \"funneljoin • Join tables based on events occurring in sequence in a funnel.\"\n\n👤 Emily Robinson @robinson_es \n\nhttps://t.co/bNj2NOfFyv\n#rstats https://t.co/Obshry3X3F", "#AUTOMATION in practice.\n\n#MachineLearning #AI #DataScience #tech #Coding #RStats #fintech #Smartcity #IoT #4IR #DataAnalytics #JavaScript #ReactJS #Serverless #Linux #Python #cybersecurity #100DaysOfCode #Analytics #robotics #100DaysOfCode #futureofwork #Industry40 #innovation https://t.co/vmYPbxWGJd"]
 }
