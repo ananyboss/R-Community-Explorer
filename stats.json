@@ -1,32 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5103,
-      "average_tweets_per_hour": 213,
-      "tweeters_today": 1288,
-      "total_likes_today": 4497
+      "total_tweets_today": 5042,
+      "average_tweets_per_hour": 210,
+      "tweeters_today": 1302,
+      "total_likes_today": 4425
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 145
+      "Freq": 151
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 116
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT",
-      "Freq": 93
+      "Freq": 95
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 92
+      "Freq": 95
     },
     {
       "Var1": "Code DataScience programming 100DaysOfCode DevOps DevJokes TechHumor girlswhocode",
-      "Freq": 54
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics",
@@ -34,30 +34,30 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 50
+      "Freq": 53
     },
     {
       "Var1": "MachineLearning BigData Analytics",
       "Freq": 46
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning rstats",
-      "Freq": 46
+      "Var1": "AI Ethics NLP MachineLearning BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 43
     },
     {
-      "Var1": "NLP MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow JavaScript",
-      "Freq": 44
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Freq": 43
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 40
     },
     {
       "Var1": "rstats ggplot2 dataviz",
       "Freq": 40
     },
     {
-      "Var1": "AI Ethics NLP MachineLearning BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 39
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Var1": "DeepLearning Analytics",
       "Freq": 38
     },
     {
@@ -65,19 +65,15 @@
       "Freq": 37
     },
     {
-      "Var1": "DeepLearning Analytics",
+      "Var1": "Python 100DaysOfCode",
       "Freq": 37
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 37
+      "Var1": "RapidMiner MachineLearning BigData Analytics DataScience AI IoT",
+      "Freq": 35
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 36
-    },
-    {
-      "Var1": "Python 100DaysOfCode",
       "Freq": 35
     },
     {
@@ -87,48 +83,52 @@
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 32
+    },
+    {
+      "Var1": "BigData",
+      "Freq": 31
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 259
+      "Freq": 253
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 222
+      "Freq": 232
     },
     {
       "Var1": "xaelbot",
-      "Freq": 196
-    },
-    {
-      "Var1": "Taieb_Bot",
-      "Freq": 176
+      "Freq": 188
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 163
+      "Freq": 177
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 171
     },
     {
       "Var1": "chidambara09",
-      "Freq": 133
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 105
+      "Freq": 127
     },
     {
       "Var1": "NetworkIndie",
+      "Freq": 98
+    },
+    {
+      "Var1": "TheDeveloperBot",
       "Freq": 96
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 92
+      "Freq": 89
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 90
+      "Freq": 84
     },
     {
       "Var1": "hubofml",
@@ -147,19 +147,19 @@
       "Freq": 48
     },
     {
-      "Var1": "AaronCuddeback",
+      "Var1": "tidyversetweets",
       "Freq": 47
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 44
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 44
-    },
-    {
       "Var1": "JohnEngine_",
+      "Freq": 45
+    },
+    {
+      "Var1": "AaronCuddeback",
+      "Freq": 44
+    },
+    {
+      "Var1": "cybersec_feeds",
       "Freq": 43
     },
     {
@@ -167,10 +167,10 @@
       "Freq": 43
     },
     {
-      "Var1": "cybersec_feeds",
-      "Freq": 41
+      "Var1": "rstats4ds",
+      "Freq": 42
     }
   ],
-  "top10_tweets_like": ["Wow. The beta version of @rstudio has a \"visual editing\" mode for Rmarkdown files. Basically converts Rstudio to a Word-like editor that makes it easy to do Markdown formatting/insert images/equations/bunch of other stuff. Download: https://t.co/7lpLuRdN0y #rstats https://t.co/9vNjRYmJjs", "I love spatio-temporal patterns🤩Smoothed daily maximum temperature throughout the year in Australia. #rstats #ggplot2 #dataviz #climate https://t.co/S6KKBCkhDZ", "Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Luego de unos meses de trabajo damos a conocer un paquete de R del que estamos muy contentos. Es bien simple, pero potente y útil. Al menos eso es lo que creemos! #rstats (Antonio Cardarello @Zatopek_1871  y Diego Luján son los otros dos amigos-colegas con los que hice esto)", "⚠️ Have a personal #rstats website or blog?  Make sure your audience can subscribe and follow along with you by ensuring your RSS feed is both visible and working.  Here's how to check.... &lt;short thread&gt;", "⭕ #Code never lies, comments do\n\n#DataScience #programming #100DaysOfCode #DevOps #DevJokes #TechHumor #girlswhocode #CodeNewbie #stackoverflow #debugging #javascript #Linux #RStats https://t.co/WFzf08quMJ", "Had fun today creating a #map in #Rstats #ggplot2 that shows a part of my hometown. My present neighbourhood is highlighted and you see the road and railway infrastructure. Not sure about the color choice but I like it as a first draft :). Cheers.\n#tidyverse\n#rspatial https://t.co/YKEmYDDfR2", "My map shows European railway network\n\n#railway #Railways #transport #infrastructure #europe #DataScience #dataviz #maps #rstats #gis https://t.co/5j4LFrtPoo", "Oh my! #rstats https://t.co/GVsKo0Adtg", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy"],
-  "top10_tweets_retweet": ["Wow. The beta version of @rstudio has a \"visual editing\" mode for Rmarkdown files. Basically converts Rstudio to a Word-like editor that makes it easy to do Markdown formatting/insert images/equations/bunch of other stuff. Download: https://t.co/7lpLuRdN0y #rstats https://t.co/9vNjRYmJjs", "I love spatio-temporal patterns🤩Smoothed daily maximum temperature throughout the year in Australia. #rstats #ggplot2 #dataviz #climate https://t.co/S6KKBCkhDZ", "Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Luego de unos meses de trabajo damos a conocer un paquete de R del que estamos muy contentos. Es bien simple, pero potente y útil. Al menos eso es lo que creemos! #rstats (Antonio Cardarello @Zatopek_1871  y Diego Luján son los otros dos amigos-colegas con los que hice esto)", "⚠️ Have a personal #rstats website or blog?  Make sure your audience can subscribe and follow along with you by ensuring your RSS feed is both visible and working.  Here's how to check.... &lt;short thread&gt;", "⭕ #Code never lies, comments do\n\n#DataScience #programming #100DaysOfCode #DevOps #DevJokes #TechHumor #girlswhocode #CodeNewbie #stackoverflow #debugging #javascript #Linux #RStats https://t.co/WFzf08quMJ", "Had fun today creating a #map in #Rstats #ggplot2 that shows a part of my hometown. My present neighbourhood is highlighted and you see the road and railway infrastructure. Not sure about the color choice but I like it as a first draft :). Cheers.\n#tidyverse\n#rspatial https://t.co/YKEmYDDfR2", "My map shows European railway network\n\n#railway #Railways #transport #infrastructure #europe #DataScience #dataviz #maps #rstats #gis https://t.co/5j4LFrtPoo", "Oh my! #rstats https://t.co/GVsKo0Adtg", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy"]
+  "top10_tweets_like": ["Wow. The beta version of @rstudio has a \"visual editing\" mode for Rmarkdown files. Basically converts Rstudio to a Word-like editor that makes it easy to do Markdown formatting/insert images/equations/bunch of other stuff. Download: https://t.co/7lpLuRdN0y #rstats https://t.co/9vNjRYmJjs", "I love spatio-temporal patterns🤩Smoothed daily maximum temperature throughout the year in Australia. #rstats #ggplot2 #dataviz #climate https://t.co/S6KKBCkhDZ", "Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Luego de unos meses de trabajo damos a conocer un paquete de R del que estamos muy contentos. Es bien simple, pero potente y útil. Al menos eso es lo que creemos! #rstats (Antonio Cardarello @Zatopek_1871  y Diego Luján son los otros dos amigos-colegas con los que hice esto)", "⚠️ Have a personal #rstats website or blog?  Make sure your audience can subscribe and follow along with you by ensuring your RSS feed is both visible and working.  Here's how to check.... &lt;short thread&gt;", "⭕ #Code never lies, comments do\n\n#DataScience #programming #100DaysOfCode #DevOps #DevJokes #TechHumor #girlswhocode #CodeNewbie #stackoverflow #debugging #javascript #Linux #RStats https://t.co/WFzf08quMJ", "Had fun today creating a #map in #Rstats #ggplot2 that shows a part of my hometown. My present neighbourhood is highlighted and you see the road and railway infrastructure. Not sure about the color choice but I like it as a first draft :). Cheers.\n#tidyverse\n#rspatial https://t.co/YKEmYDDfR2", "My map shows European railway network\n\n#railway #Railways #transport #infrastructure #europe #DataScience #dataviz #maps #rstats #gis https://t.co/5j4LFrtPoo", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy", "Oh my! #rstats https://t.co/GVsKo0Adtg"],
+  "top10_tweets_retweet": ["Wow. The beta version of @rstudio has a \"visual editing\" mode for Rmarkdown files. Basically converts Rstudio to a Word-like editor that makes it easy to do Markdown formatting/insert images/equations/bunch of other stuff. Download: https://t.co/7lpLuRdN0y #rstats https://t.co/9vNjRYmJjs", "I love spatio-temporal patterns🤩Smoothed daily maximum temperature throughout the year in Australia. #rstats #ggplot2 #dataviz #climate https://t.co/S6KKBCkhDZ", "Trying to figure out all the buttons in SPSS after years of using only #rstats https://t.co/ntYo2MaXkL", "Luego de unos meses de trabajo damos a conocer un paquete de R del que estamos muy contentos. Es bien simple, pero potente y útil. Al menos eso es lo que creemos! #rstats (Antonio Cardarello @Zatopek_1871  y Diego Luján son los otros dos amigos-colegas con los que hice esto)", "⚠️ Have a personal #rstats website or blog?  Make sure your audience can subscribe and follow along with you by ensuring your RSS feed is both visible and working.  Here's how to check.... &lt;short thread&gt;", "⭕ #Code never lies, comments do\n\n#DataScience #programming #100DaysOfCode #DevOps #DevJokes #TechHumor #girlswhocode #CodeNewbie #stackoverflow #debugging #javascript #Linux #RStats https://t.co/WFzf08quMJ", "Had fun today creating a #map in #Rstats #ggplot2 that shows a part of my hometown. My present neighbourhood is highlighted and you see the road and railway infrastructure. Not sure about the color choice but I like it as a first draft :). Cheers.\n#tidyverse\n#rspatial https://t.co/YKEmYDDfR2", "My map shows European railway network\n\n#railway #Railways #transport #infrastructure #europe #DataScience #dataviz #maps #rstats #gis https://t.co/5j4LFrtPoo", "Inspired by @SwampThingPaul - I made a #sphagnum #rstats colour palette #PeatTwitter https://t.co/yCuDdg8JHy", "Oh my! #rstats https://t.co/GVsKo0Adtg"]
 }
