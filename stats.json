@@ -1,35 +1,31 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5307,
-      "average_tweets_per_hour": 221,
-      "tweeters_today": 1385,
-      "total_likes_today": 4728
+      "total_tweets_today": 5562,
+      "average_tweets_per_hour": 232,
+      "tweeters_today": 1402,
+      "total_likes_today": 4995
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 105
+      "Freq": 134
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 104
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 96
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 66
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 64
+      "Freq": 93
     },
     {
       "Var1": "DeepLearning Analytics",
+      "Freq": 61
+    },
+    {
+      "Var1": "RStats",
       "Freq": 61
     },
     {
@@ -37,7 +33,19 @@
       "Freq": 60
     },
     {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 53
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 47
+    },
+    {
       "Var1": "100DaysOfCode DeepLearning",
+      "Freq": 45
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
       "Freq": 45
     },
     {
@@ -49,10 +57,6 @@
       "Freq": 43
     },
     {
-      "Var1": "physics math MachineLearning AI DataScience Coding RStats fintech Smartcity IoT",
-      "Freq": 42
-    },
-    {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
       "Freq": 42
     },
@@ -61,16 +65,12 @@
       "Freq": 40
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 40
+      "Var1": "DataScience",
+      "Freq": 38
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 39
-    },
-    {
-      "Var1": "DataScience",
-      "Freq": 38
+      "Freq": 36
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning",
@@ -85,92 +85,92 @@
       "Freq": 32
     },
     {
-      "Var1": "AI Masterclass World Applications bigdata Analytics IOT Tech",
-      "Freq": 31
+      "Var1": "udemy DataScience artificialintelligence machinelearning datasciencecourse",
+      "Freq": 32
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 254
+      "Freq": 274
     },
     {
       "Var1": "nlognbot",
-      "Freq": 222
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 208
+      "Freq": 232
     },
     {
       "Var1": "xaelbot",
-      "Freq": 204
+      "Freq": 215
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 202
     },
     {
       "Var1": "chidambara09",
-      "Freq": 173
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 171
+      "Freq": 185
     },
     {
       "Var1": "js_bot_code",
-      "Freq": 166
+      "Freq": 183
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 170
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 157
+      "Freq": 169
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 100
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 89
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 81
+      "Freq": 101
     },
     {
       "Var1": "learn__together",
-      "Freq": 80
+      "Freq": 92
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 85
     },
     {
       "Var1": "hubofml",
-      "Freq": 73
+      "Freq": 81
     },
     {
-      "Var1": "LinuxDreams",
-      "Freq": 62
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 59
+      "Var1": "TheDeveloperBot",
+      "Freq": 79
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 58
+      "Freq": 66
+    },
+    {
+      "Var1": "LinuxDreams",
+      "Freq": 65
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 55
     },
     {
       "Var1": "femtech_",
-      "Freq": 42
+      "Freq": 43
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 41
+      "Freq": 42
     },
     {
       "Var1": "Majorexxt",
       "Freq": 39
     },
     {
-      "Var1": "cybersec_feeds",
-      "Freq": 36
+      "Var1": "Kiilla3sUp",
+      "Freq": 37
     }
   ],
-  "top10_tweets_like": ["Everybody - at every level - sometimes. #rstats https://t.co/LxrBWJj377", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Si te interesa #RStats, #Python o algunos Métodos cualitativos como la Etnografía digital o grupos focales, te invitamos a la #EscueladeMétodos del @LNPP_MX.\n\nConsulta aquí los cursos disponibles:\n👉 https://t.co/bD6O8LTtCe\n \nℹ️ Informes: escuelademetodos@lnpp.mx https://t.co/kMpKy5pJhG", "Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "Introducing {snowcrash} - encode arbitrary R objects as PNGs + rasters\n\nNamed after sci-fi classic \"Snow Crash\"\n\nThis pkg is going to be important for covert data transfer in non-standard graphics devices with {devout}.\n\nhttps://t.co/4ZwX2D4w0A\nhttps://t.co/DxDoFzwuMs\n\n#RStats https://t.co/h1ekUNiKy0", "🚨🚨🚨New Blogpost!🚨🚨🚨\n\nDue to popular demand, I made another #rspatial post:\n\n\"Kriging with #rstats: exploring {gstat}\"\n\n{gstat} is THE R-package for Kriging, but the interface is verbose. See how we can make it work with modern data structures!\n\nhttps://t.co/T9W9xHJMdx https://t.co/FXiaIaWvMR", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Software Engineering Tips and Best Practices for Data Science.\n\nhttps://t.co/lfKTJEdc5H\n\n#100DaysOfCode #DeepLearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity", "new blog post: Enhancement of scRNAseq heatmap using complexheatmap https://t.co/ddZAXo9aGh #rstats"],
-  "top10_tweets_retweet": ["Everybody - at every level - sometimes. #rstats https://t.co/LxrBWJj377", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Si te interesa #RStats, #Python o algunos Métodos cualitativos como la Etnografía digital o grupos focales, te invitamos a la #EscueladeMétodos del @LNPP_MX.\n\nConsulta aquí los cursos disponibles:\n👉 https://t.co/bD6O8LTtCe\n \nℹ️ Informes: escuelademetodos@lnpp.mx https://t.co/kMpKy5pJhG", "Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "Introducing {snowcrash} - encode arbitrary R objects as PNGs + rasters\n\nNamed after sci-fi classic \"Snow Crash\"\n\nThis pkg is going to be important for covert data transfer in non-standard graphics devices with {devout}.\n\nhttps://t.co/4ZwX2D4w0A\nhttps://t.co/DxDoFzwuMs\n\n#RStats https://t.co/h1ekUNiKy0", "🚨🚨🚨New Blogpost!🚨🚨🚨\n\nDue to popular demand, I made another #rspatial post:\n\n\"Kriging with #rstats: exploring {gstat}\"\n\n{gstat} is THE R-package for Kriging, but the interface is verbose. See how we can make it work with modern data structures!\n\nhttps://t.co/T9W9xHJMdx https://t.co/FXiaIaWvMR", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Software Engineering Tips and Best Practices for Data Science.\n\nhttps://t.co/lfKTJEdc5H\n\n#100DaysOfCode #DeepLearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity", "new blog post: Enhancement of scRNAseq heatmap using complexheatmap https://t.co/ddZAXo9aGh #rstats"]
+  "top10_tweets_like": ["Everybody - at every level - sometimes. #rstats https://t.co/LxrBWJj377", "Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Si te interesa #RStats, #Python o algunos Métodos cualitativos como la Etnografía digital o grupos focales, te invitamos a la #EscueladeMétodos del @LNPP_MX.\n\nConsulta aquí los cursos disponibles:\n👉 https://t.co/bD6O8LTtCe\n \nℹ️ Informes: escuelademetodos@lnpp.mx https://t.co/kMpKy5pJhG", "🚨🚨🚨New Blogpost!🚨🚨🚨\n\nDue to popular demand, I made another #rspatial post:\n\n\"Kriging with #rstats: exploring {gstat}\"\n\n{gstat} is THE R-package for Kriging, but the interface is verbose. See how we can make it work with modern data structures!\n\nhttps://t.co/T9W9xHJMdx https://t.co/FXiaIaWvMR", "Introducing {snowcrash} - encode arbitrary R objects as PNGs + rasters\n\nNamed after sci-fi classic \"Snow Crash\"\n\nThis pkg is going to be important for covert data transfer in non-standard graphics devices with {devout}.\n\nhttps://t.co/4ZwX2D4w0A\nhttps://t.co/DxDoFzwuMs\n\n#RStats https://t.co/h1ekUNiKy0", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Software Engineering Tips and Best Practices for Data Science.\n\nhttps://t.co/lfKTJEdc5H\n\n#100DaysOfCode #DeepLearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity", "new blog post: Enhancement of scRNAseq heatmap using complexheatmap https://t.co/ddZAXo9aGh #rstats"],
+  "top10_tweets_retweet": ["Everybody - at every level - sometimes. #rstats https://t.co/LxrBWJj377", "Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Si te interesa #RStats, #Python o algunos Métodos cualitativos como la Etnografía digital o grupos focales, te invitamos a la #EscueladeMétodos del @LNPP_MX.\n\nConsulta aquí los cursos disponibles:\n👉 https://t.co/bD6O8LTtCe\n \nℹ️ Informes: escuelademetodos@lnpp.mx https://t.co/kMpKy5pJhG", "🚨🚨🚨New Blogpost!🚨🚨🚨\n\nDue to popular demand, I made another #rspatial post:\n\n\"Kriging with #rstats: exploring {gstat}\"\n\n{gstat} is THE R-package for Kriging, but the interface is verbose. See how we can make it work with modern data structures!\n\nhttps://t.co/T9W9xHJMdx https://t.co/FXiaIaWvMR", "Introducing {snowcrash} - encode arbitrary R objects as PNGs + rasters\n\nNamed after sci-fi classic \"Snow Crash\"\n\nThis pkg is going to be important for covert data transfer in non-standard graphics devices with {devout}.\n\nhttps://t.co/4ZwX2D4w0A\nhttps://t.co/DxDoFzwuMs\n\n#RStats https://t.co/h1ekUNiKy0", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Software Engineering Tips and Best Practices for Data Science.\n\nhttps://t.co/lfKTJEdc5H\n\n#100DaysOfCode #DeepLearning #IoT #100DaysOfMLCode #Python #javascript #Nodejs #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity", "new blog post: Enhancement of scRNAseq heatmap using complexheatmap https://t.co/ddZAXo9aGh #rstats"]
 }
