@@ -1,75 +1,79 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5189,
+      "total_tweets_today": 5194,
       "average_tweets_per_hour": 216,
-      "tweeters_today": 1272,
-      "total_likes_today": 3800
+      "tweeters_today": 1264,
+      "total_likes_today": 3863
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 160
+      "Freq": 158
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 110
+      "Freq": 113
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 93
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 64
+      "Freq": 97
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 63
+      "Freq": 69
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Freq": 68
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 60
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 59
     },
     {
-      "Var1": "RStats",
-      "Freq": 58
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
+      "Freq": 55
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
       "Freq": 54
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
-      "Freq": 53
-    },
-    {
       "Var1": "bigdata AI IOT Tech DATA USA",
       "Freq": 52
+    },
+    {
+      "Var1": "100DaysOfCode DeepLearning",
+      "Freq": 51
     },
     {
       "Var1": "bigdata AI IOT Tech DATA USA Defstar5 FemTech womenWhoCode UK",
       "Freq": 51
     },
     {
-      "Var1": "100DaysOfCode DeepLearning",
-      "Freq": 50
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 51
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 46
+      "Freq": 44
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 46
+      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Freq": 43
     },
     {
       "Var1": "DataScientists BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 39
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Var1": "WORLD innovative Economies bigdata AI IOT",
       "Freq": 34
     },
     {
@@ -83,36 +87,32 @@
     {
       "Var1": "DataScience MachineLearning RStats Python",
       "Freq": 32
-    },
-    {
-      "Var1": "NASA Moon rocks private companies bigdata AI IOT",
-      "Freq": 32
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 250
+      "Freq": 248
     },
     {
       "Var1": "nlognbot",
-      "Freq": 219
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 205
+      "Freq": 221
     },
     {
       "Var1": "xaelbot",
-      "Freq": 204
+      "Freq": 206
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 199
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 180
+      "Freq": 172
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 161
+      "Freq": 164
     },
     {
       "Var1": "chidambara09",
@@ -123,28 +123,28 @@
       "Freq": 128
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 84
+    },
+    {
       "Var1": "learn__together",
       "Freq": 82
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 82
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 82
-    },
-    {
-      "Var1": "NetworkIndie",
-      "Freq": 77
+      "Freq": 81
     },
     {
       "Var1": "hubofml",
       "Freq": 76
     },
     {
+      "Var1": "NetworkIndie",
+      "Freq": 73
+    },
+    {
       "Var1": "ServerlessFan",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "LinuxDreams",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 50
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 50
+      "Freq": 52
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 45
+      "Freq": 47
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 47
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 45
+      "Freq": 46
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 41
+      "Freq": 40
     }
   ],
-  "top10_tweets_like": ["Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "#MachineLearning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oA3Yuezywi https://t.co/02NGRTH9dI", "There's a new easier-to-use syntax for building #shiny modules! Here's a quick demo using it to make a module  to add interactive annotations to (almost) any ggplot figure using @slowkow's ggrepel.  #rstats #dataviz \nhttps://t.co/y5Mkx7EF6Y https://t.co/iul70Pl0H2", "COVID-19. MUERTES DIARIAS (+ media 7 días). El pico actual de casos detectados (Tw: 2) en 🇦🇷 es superior a los peores picos de  🇪🇸 e 🇮🇹. Sin embargo, la cantidad de muertes en 🇦🇷 es muy inferior!! La importancia de \"achatar\" la curva! #COVID19 #Argentina #Espana #Italia #RStats https://t.co/MnDHGmjri7", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Still a \"Work-In-Progress\" but some new viz to go alongside the ⚽️ shot timelines + shot-maps (the one shown here is still the old version)! All made with #rstats. Data from https://t.co/7sdJUOpkKm as per.\n\nI want to do some stuff with FBref data but that'll be for later... https://t.co/I9uAeZlTcW", "From R Views - Fake Data with R\nSimulation is central to computational stats &amp; #RStats.\nBut while many sim tasks are trivial in R, creating adequate synthetic data is challenging. Explore a few of the many R packages that are useful for simulating data.\nhttps://t.co/8OS6RIAqKg https://t.co/2WW6yGrS6f", "Y'all today was the first time I was doing something in ArcMap and I was like f**k it, i can do this in R way quicker...is this what it feels like to not hate R?! Omg!!! I know this is a tiny thing but I am proud of myself!! #RStats #Gradschool #conferenceprep #spatialdata"],
-  "top10_tweets_retweet": ["Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "#MachineLearning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oA3Yuezywi https://t.co/02NGRTH9dI", "There's a new easier-to-use syntax for building #shiny modules! Here's a quick demo using it to make a module  to add interactive annotations to (almost) any ggplot figure using @slowkow's ggrepel.  #rstats #dataviz \nhttps://t.co/y5Mkx7EF6Y https://t.co/iul70Pl0H2", "COVID-19. MUERTES DIARIAS (+ media 7 días). El pico actual de casos detectados (Tw: 2) en 🇦🇷 es superior a los peores picos de  🇪🇸 e 🇮🇹. Sin embargo, la cantidad de muertes en 🇦🇷 es muy inferior!! La importancia de \"achatar\" la curva! #COVID19 #Argentina #Espana #Italia #RStats https://t.co/MnDHGmjri7", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Still a \"Work-In-Progress\" but some new viz to go alongside the ⚽️ shot timelines + shot-maps (the one shown here is still the old version)! All made with #rstats. Data from https://t.co/7sdJUOpkKm as per.\n\nI want to do some stuff with FBref data but that'll be for later... https://t.co/I9uAeZlTcW", "From R Views - Fake Data with R\nSimulation is central to computational stats &amp; #RStats.\nBut while many sim tasks are trivial in R, creating adequate synthetic data is challenging. Explore a few of the many R packages that are useful for simulating data.\nhttps://t.co/8OS6RIAqKg https://t.co/2WW6yGrS6f", "Y'all today was the first time I was doing something in ArcMap and I was like f**k it, i can do this in R way quicker...is this what it feels like to not hate R?! Omg!!! I know this is a tiny thing but I am proud of myself!! #RStats #Gradschool #conferenceprep #spatialdata"]
+  "top10_tweets_like": ["#MachineLearning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oA3Yuezywi https://t.co/02NGRTH9dI", "Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "COVID-19. MUERTES DIARIAS (+ media 7 días). El pico actual de casos detectados (Tw: 2) en 🇦🇷 es superior a los peores picos de  🇪🇸 e 🇮🇹. Sin embargo, la cantidad de muertes en 🇦🇷 es muy inferior!! La importancia de \"achatar\" la curva! #COVID19 #Argentina #Espana #Italia #RStats https://t.co/MnDHGmjri7", "There's a new easier-to-use syntax for building #shiny modules! Here's a quick demo using it to make a module  to add interactive annotations to (almost) any ggplot figure using @slowkow's ggrepel.  #rstats #dataviz \nhttps://t.co/y5Mkx7EF6Y https://t.co/iul70Pl0H2", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Still a \"Work-In-Progress\" but some new viz to go alongside the ⚽️ shot timelines + shot-maps (the one shown here is still the old version)! All made with #rstats. Data from https://t.co/7sdJUOpkKm as per.\n\nI want to do some stuff with FBref data but that'll be for later... https://t.co/I9uAeZlTcW", "From R Views - Fake Data with R\nSimulation is central to computational stats &amp; #RStats.\nBut while many sim tasks are trivial in R, creating adequate synthetic data is challenging. Explore a few of the many R packages that are useful for simulating data.\nhttps://t.co/8OS6RIAqKg https://t.co/2WW6yGrS6f", "Y'all today was the first time I was doing something in ArcMap and I was like f**k it, i can do this in R way quicker...is this what it feels like to not hate R?! Omg!!! I know this is a tiny thing but I am proud of myself!! #RStats #Gradschool #conferenceprep #spatialdata"],
+  "top10_tweets_retweet": ["#MachineLearning From Scratch. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/oA3Yuezywi https://t.co/02NGRTH9dI", "Watch \"Bridging the gap between SQL and R: Introducing queryparser and tidyquery\"\nfrom @ianmcook at #rstudioconf-2020\n🎦 https://t.co/RKICexHhAD\n#rstats", "COVID-19. MUERTES DIARIAS (+ media 7 días). El pico actual de casos detectados (Tw: 2) en 🇦🇷 es superior a los peores picos de  🇪🇸 e 🇮🇹. Sin embargo, la cantidad de muertes en 🇦🇷 es muy inferior!! La importancia de \"achatar\" la curva! #COVID19 #Argentina #Espana #Italia #RStats https://t.co/MnDHGmjri7", "There's a new easier-to-use syntax for building #shiny modules! Here's a quick demo using it to make a module  to add interactive annotations to (almost) any ggplot figure using @slowkow's ggrepel.  #rstats #dataviz \nhttps://t.co/y5Mkx7EF6Y https://t.co/iul70Pl0H2", "Nearly 80,000 people killed in terrorist attacks in the 17-year period BEFORE 9/11 (top)\n\nNearly 200,000 people killed in the 17-year period AFTER 9/11 (bottom)\n\nThis world is on fire!\n\n#terrorism #September11 #NeverForget #bigdata #DataScience #dataviz #rstats #maps https://t.co/TwcGGFI943", "Text2Code for Jupyter Notebook. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats # #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/dozP2hkMxo https://t.co/Ywkdw8KIMa", "A hallmark of functional programming languages is the lack of assignment statements. Once a variable is defined its value cannot be changed. I was wondering how to make #RStats act that way and came up with this solution. Fun to see this actually working. https://t.co/mpD2vFV7Wy", "Still a \"Work-In-Progress\" but some new viz to go alongside the ⚽️ shot timelines + shot-maps (the one shown here is still the old version)! All made with #rstats. Data from https://t.co/7sdJUOpkKm as per.\n\nI want to do some stuff with FBref data but that'll be for later... https://t.co/I9uAeZlTcW", "From R Views - Fake Data with R\nSimulation is central to computational stats &amp; #RStats.\nBut while many sim tasks are trivial in R, creating adequate synthetic data is challenging. Explore a few of the many R packages that are useful for simulating data.\nhttps://t.co/8OS6RIAqKg https://t.co/2WW6yGrS6f", "Y'all today was the first time I was doing something in ArcMap and I was like f**k it, i can do this in R way quicker...is this what it feels like to not hate R?! Omg!!! I know this is a tiny thing but I am proud of myself!! #RStats #Gradschool #conferenceprep #spatialdata"]
 }
