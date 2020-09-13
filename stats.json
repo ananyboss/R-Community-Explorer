@@ -1,36 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4264,
-      "average_tweets_per_hour": 178,
-      "tweeters_today": 1161,
-      "total_likes_today": 3632
+      "total_tweets_today": 4180,
+      "average_tweets_per_hour": 174,
+      "tweeters_today": 1169,
+      "total_likes_today": 3523
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 94
-    },
-    {
-      "Var1": "Mathematics BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 91
+      "Freq": 78
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 70
+      "Freq": 68
+    },
+    {
+      "Var1": "DataScientists",
+      "Freq": 66
+    },
+    {
+      "Var1": "Mathematics BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 66
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 63
-    },
-    {
-      "Var1": "DataScientists",
-      "Freq": 62
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 58
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -41,31 +37,27 @@
       "Freq": 56
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 54
+    },
+    {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 55
+      "Freq": 53
     },
     {
       "Var1": "100DaysOfCode MachineLearning",
-      "Freq": 53
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 53
-    },
-    {
-      "Var1": "100DaysOfCode",
-      "Freq": 49
+      "Freq": 50
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 46
+      "Freq": 47
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript",
-      "Freq": 42
+      "Freq": 47
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 41
     },
     {
@@ -77,7 +69,7 @@
       "Freq": 40
     },
     {
-      "Var1": "BigData Analytics",
+      "Var1": "100DaysOfCode",
       "Freq": 38
     },
     {
@@ -85,14 +77,22 @@
       "Freq": 38
     },
     {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Freq": 38
+    },
+    {
       "Var1": "Deeplearning AI artificialintelligence datascience machinelearning python Bias",
+      "Freq": 37
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing",
       "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 208
+      "Freq": 199
     },
     {
       "Var1": "nlognbot",
@@ -100,43 +100,39 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 185
+      "Freq": 179
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 168
+      "Freq": 170
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 159
+      "Freq": 164
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 148
+      "Freq": 141
     },
     {
       "Var1": "chidambara09",
-      "Freq": 116
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 72
+      "Freq": 117
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 70
+      "Freq": 73
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 59
+      "Freq": 62
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 61
     },
     {
       "Var1": "learn__together",
-      "Freq": 53
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 51
+      "Freq": 49
     },
     {
       "Var1": "tidyversetweets",
@@ -144,33 +140,37 @@
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 46
+      "Freq": 48
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 46
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 42
+      "Var1": "ServerlessFan",
+      "Freq": 48
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 42
+      "Freq": 47
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 45
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 40
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 41
+      "Freq": 38
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 41
+      "Freq": 38
     },
     {
       "Var1": "CyberSecurityN8",
-      "Freq": 32
+      "Freq": 30
     }
   ],
-  "top10_tweets_like": ["#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/tHVJMYJm4I", "The #Mathematics Behind Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/wLSsGJpQy6 https://t.co/N5hmUEgMOa", "pkgdown 1.6.0 out now! Now uses ragg for higher quality plots, new downlit package for syntax highlighting, and includes a bunch of bug fixes: https://t.co/3dWyCPPb3X #rstats", "Need some advice: what is your favorite color palette for #rstats ggplot2. Needs to be color blind friendly and suitable for scientific publications", "📦 {htmldf} submitted to CRAN 🤞 #rstats \n\nhttps://t.co/h9o22laoif https://t.co/7TiO0i2roh", "✍️ \"The Mockup Blog • 10+ Guidelines for Better Tables in R\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/hvWT3BRodS\n#rstats https://t.co/ziYdiFZWxd", "Python Books You Must Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YwYra4vzL9 https://t.co/neMFeHl4AX", "✍️🧹 \"PCA tidyverse style | Claus O. Wilke\"\n\n👤 Claus Wilke @clauswilke \n\nhttps://t.co/C61z9olqft\n#rstats https://t.co/cGoPrXDrVW", "Time to package this baby up into the {skynet} package--might as well bring 2020 to it's foregone conclusion!\n\nRendered in #rstats with #rayrender https://t.co/M75GlNqKBQ", "I've been using the new #dplyr for a couple months now and combined with last years #tidyr updates I feel like there's a whole bunch of new ways of doing things.  I've illustrated using {palmerpenguins}.   #rstats #r4ds #tidyverse #datascience #analytics https://t.co/i0UlpXDOeJ"],
-  "top10_tweets_retweet": ["#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/tHVJMYJm4I", "The #Mathematics Behind Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/wLSsGJpQy6 https://t.co/N5hmUEgMOa", "pkgdown 1.6.0 out now! Now uses ragg for higher quality plots, new downlit package for syntax highlighting, and includes a bunch of bug fixes: https://t.co/3dWyCPPb3X #rstats", "Need some advice: what is your favorite color palette for #rstats ggplot2. Needs to be color blind friendly and suitable for scientific publications", "📦 {htmldf} submitted to CRAN 🤞 #rstats \n\nhttps://t.co/h9o22laoif https://t.co/7TiO0i2roh", "✍️ \"The Mockup Blog • 10+ Guidelines for Better Tables in R\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/hvWT3BRodS\n#rstats https://t.co/ziYdiFZWxd", "Python Books You Must Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YwYra4vzL9 https://t.co/neMFeHl4AX", "✍️🧹 \"PCA tidyverse style | Claus O. Wilke\"\n\n👤 Claus Wilke @clauswilke \n\nhttps://t.co/C61z9olqft\n#rstats https://t.co/cGoPrXDrVW", "Time to package this baby up into the {skynet} package--might as well bring 2020 to it's foregone conclusion!\n\nRendered in #rstats with #rayrender https://t.co/M75GlNqKBQ", "I've been using the new #dplyr for a couple months now and combined with last years #tidyr updates I feel like there's a whole bunch of new ways of doing things.  I've illustrated using {palmerpenguins}.   #rstats #r4ds #tidyverse #datascience #analytics https://t.co/i0UlpXDOeJ"]
+  "top10_tweets_like": ["#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/tHVJMYJm4I", "pkgdown 1.6.0 out now! Now uses ragg for higher quality plots, new downlit package for syntax highlighting, and includes a bunch of bug fixes: https://t.co/3dWyCPPb3X #rstats", "Need some advice: what is your favorite color palette for #rstats ggplot2. Needs to be color blind friendly and suitable for scientific publications", "📦 {htmldf} submitted to CRAN 🤞 #rstats \n\nhttps://t.co/h9o22laoif https://t.co/7TiO0i2roh", "✍️ \"The Mockup Blog • 10+ Guidelines for Better Tables in R\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/hvWT3BRodS\n#rstats https://t.co/ziYdiFZWxd", "Python Books You Must Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YwYra4vzL9 https://t.co/neMFeHl4AX", "✍️🧹 \"PCA tidyverse style | Claus O. Wilke\"\n\n👤 Claus Wilke @clauswilke \n\nhttps://t.co/C61z9olqft\n#rstats https://t.co/cGoPrXDrVW", "I've been using the new #dplyr for a couple months now and combined with last years #tidyr updates I feel like there's a whole bunch of new ways of doing things.  I've illustrated using {palmerpenguins}.   #rstats #r4ds #tidyverse #datascience #analytics https://t.co/i0UlpXDOeJ", "Time to package this baby up into the {skynet} package--might as well bring 2020 to it's foregone conclusion!\n\nRendered in #rstats with #rayrender https://t.co/M75GlNqKBQ", "Exploring the Simple Math Behind Regularization. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/TzdivoUSw3 https://t.co/dV863Wk5KC"],
+  "top10_tweets_retweet": ["#DataScientists — *follow links* to download FREE PDF eBooks:\n1)Intro to Statistical Learning, with Applications in R.\n2)Elements of Statistical Learning.\n→ https://t.co/BkCzi2DBwU\n————\n#abdsc #BigData #DataScience #DataMining #Statistics #MachineLearning #AI #Algorithms #Rstats https://t.co/tHVJMYJm4I", "pkgdown 1.6.0 out now! Now uses ragg for higher quality plots, new downlit package for syntax highlighting, and includes a bunch of bug fixes: https://t.co/3dWyCPPb3X #rstats", "Need some advice: what is your favorite color palette for #rstats ggplot2. Needs to be color blind friendly and suitable for scientific publications", "📦 {htmldf} submitted to CRAN 🤞 #rstats \n\nhttps://t.co/h9o22laoif https://t.co/7TiO0i2roh", "✍️ \"The Mockup Blog • 10+ Guidelines for Better Tables in R\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/hvWT3BRodS\n#rstats https://t.co/ziYdiFZWxd", "Python Books You Must Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/YwYra4vzL9 https://t.co/neMFeHl4AX", "✍️🧹 \"PCA tidyverse style | Claus O. Wilke\"\n\n👤 Claus Wilke @clauswilke \n\nhttps://t.co/C61z9olqft\n#rstats https://t.co/cGoPrXDrVW", "I've been using the new #dplyr for a couple months now and combined with last years #tidyr updates I feel like there's a whole bunch of new ways of doing things.  I've illustrated using {palmerpenguins}.   #rstats #r4ds #tidyverse #datascience #analytics https://t.co/i0UlpXDOeJ", "Time to package this baby up into the {skynet} package--might as well bring 2020 to it's foregone conclusion!\n\nRendered in #rstats with #rayrender https://t.co/M75GlNqKBQ", "Exploring the Simple Math Behind Regularization. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/TzdivoUSw3 https://t.co/dV863Wk5KC"]
 }
