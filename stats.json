@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5105,
-      "average_tweets_per_hour": 213,
-      "tweeters_today": 1528,
-      "total_likes_today": 4287
+      "total_tweets_today": 5092,
+      "average_tweets_per_hour": 212,
+      "tweeters_today": 1523,
+      "total_likes_today": 4316
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "",
-      "Freq": 277
+      "Freq": 284
     },
     {
       "Var1": "tidyverse rstats",
@@ -30,7 +30,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 67
+      "Freq": 66
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -41,28 +41,28 @@
       "Freq": 54
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 53
-    },
-    {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 52
+      "Freq": 54
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 52
+      "Freq": 51
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 50
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode",
       "Freq": 48
     },
     {
-      "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 46
-    },
-    {
       "Var1": "AI IoT Industry40 Time",
       "Freq": 44
+    },
+    {
+      "Var1": "Books Java BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 43
     },
     {
       "Var1": "ReinforcementLearning MachineLearning artificialintelligence",
@@ -73,46 +73,46 @@
       "Freq": 41
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript",
-      "Freq": 40
+      "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
+      "Freq": 37
     },
     {
       "Var1": "ArtificialIntelligence Python BigData Analytics RStats",
       "Freq": 36
     },
     {
-      "Var1": "Books Java BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 36
+      "Var1": "CodeNewbie MachineLearning BigData Analytics DataScience AI IoT Python RStats Java JavaScript ReactJS",
+      "Freq": 35
     },
     {
-      "Var1": "CodeNewbie MachineLearning BigData Analytics DataScience AI IoT Python RStats Java JavaScript ReactJS",
+      "Var1": "NLProc BigData DataScience AI",
       "Freq": 35
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 234
+      "Freq": 232
     },
     {
       "Var1": "nlognbot",
-      "Freq": 213
+      "Freq": 209
     },
     {
       "Var1": "xaelbot",
-      "Freq": 198
+      "Freq": 196
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 175
+      "Freq": 170
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 169
+      "Freq": 160
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 160
+      "Freq": 159
     },
     {
       "Var1": "chidambara09",
@@ -124,15 +124,15 @@
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 80
+      "Freq": 79
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 78
+      "Freq": 79
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 77
+      "Freq": 76
     },
     {
       "Var1": "hubofml",
@@ -140,7 +140,7 @@
     },
     {
       "Var1": "learn__together",
-      "Freq": 67
+      "Freq": 68
     },
     {
       "Var1": "cybersec_feeds",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 55
+      "Freq": 58
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 40
     },
     {
       "Var1": "TheCuriousLuke",
       "Freq": 39
     },
     {
-      "Var1": "femtech_",
-      "Freq": 38
-    },
-    {
       "Var1": "cyscol",
-      "Freq": 36
+      "Freq": 37
     },
     {
-      "Var1": "busuulwa_mark",
-      "Freq": 34
+      "Var1": "_reactdev",
+      "Freq": 32
     }
   ],
-  "top10_tweets_like": ["Just learned an amazing #rstats trick: You can embed #learnr apps using `knitr::include_app()` for live coding demos *inside* #xaringan slides! 🤯 This way you don't have to switch b/w slides and #rstudio IDE for live demos, reducing cognitive load. #rmarkdown knows no bounds! 🤩 https://t.co/WAYxyKoWLd", "One of the best #rstats workflow tips I’ve encountered and then adopted was naming R Markdown chunks after the most important object that’s created in them, e.g.\n\n```{r sampled_letters}\nsampled_letters &lt;- sample(letters)\n```", "My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "📣 Recordings of all keynote, regular, and lightning talks from R/Medicine 2020 are up on YouTube! 📣 https://t.co/oPD24BRmcO #rstats #rmedicine #rmed2020", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "Ladies and gentleman, I present you my map of motorways &amp; motorway links in Europe. 🛣️\n\n#motorway #roads #infrastructure #geospatial #datascience #bigdata #dataviz #maps #rstats #gis https://t.co/JLxSNcfMqA", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats"],
-  "top10_tweets_retweet": ["Just learned an amazing #rstats trick: You can embed #learnr apps using `knitr::include_app()` for live coding demos *inside* #xaringan slides! 🤯 This way you don't have to switch b/w slides and #rstudio IDE for live demos, reducing cognitive load. #rmarkdown knows no bounds! 🤩 https://t.co/WAYxyKoWLd", "One of the best #rstats workflow tips I’ve encountered and then adopted was naming R Markdown chunks after the most important object that’s created in them, e.g.\n\n```{r sampled_letters}\nsampled_letters &lt;- sample(letters)\n```", "My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "📣 Recordings of all keynote, regular, and lightning talks from R/Medicine 2020 are up on YouTube! 📣 https://t.co/oPD24BRmcO #rstats #rmedicine #rmed2020", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "Ladies and gentleman, I present you my map of motorways &amp; motorway links in Europe. 🛣️\n\n#motorway #roads #infrastructure #geospatial #datascience #bigdata #dataviz #maps #rstats #gis https://t.co/JLxSNcfMqA", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats"]
+  "top10_tweets_like": ["Just learned an amazing #rstats trick: You can embed #learnr apps using `knitr::include_app()` for live coding demos *inside* #xaringan slides! 🤯 This way you don't have to switch b/w slides and #rstudio IDE for live demos, reducing cognitive load. #rmarkdown knows no bounds! 🤩 https://t.co/WAYxyKoWLd", "My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "📣 Recordings of all keynote, regular, and lightning talks from R/Medicine 2020 are up on YouTube! 📣 https://t.co/oPD24BRmcO #rstats #rmedicine #rmed2020", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "Ladies and gentleman, I present you my map of motorways &amp; motorway links in Europe. 🛣️\n\n#motorway #roads #infrastructure #geospatial #datascience #bigdata #dataviz #maps #rstats #gis https://t.co/JLxSNcfMqA", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4", "Só para a turma de #rstats: qual o jeito mais rápido de extrair a última palavra de uma string? Já tentei a função word dos pacotes  stringi e o stringr, mas continua muito lento. São 65 milhões de observações."],
+  "top10_tweets_retweet": ["Just learned an amazing #rstats trick: You can embed #learnr apps using `knitr::include_app()` for live coding demos *inside* #xaringan slides! 🤯 This way you don't have to switch b/w slides and #rstudio IDE for live demos, reducing cognitive load. #rmarkdown knows no bounds! 🤩 https://t.co/WAYxyKoWLd", "My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "📣 Recordings of all keynote, regular, and lightning talks from R/Medicine 2020 are up on YouTube! 📣 https://t.co/oPD24BRmcO #rstats #rmedicine #rmed2020", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "Ladies and gentleman, I present you my map of motorways &amp; motorway links in Europe. 🛣️\n\n#motorway #roads #infrastructure #geospatial #datascience #bigdata #dataviz #maps #rstats #gis https://t.co/JLxSNcfMqA", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4", "Só para a turma de #rstats: qual o jeito mais rápido de extrair a última palavra de uma string? Já tentei a função word dos pacotes  stringi e o stringr, mas continua muito lento. São 65 milhões de observações."]
 }
