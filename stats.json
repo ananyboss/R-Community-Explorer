@@ -1,68 +1,60 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5313,
-      "average_tweets_per_hour": 221,
-      "tweeters_today": 1481,
-      "total_likes_today": 4837
+      "total_tweets_today": 5259,
+      "average_tweets_per_hour": 219,
+      "tweeters_today": 1497,
+      "total_likes_today": 4948
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "ReinforcementLearning MachineLearning artificialintelligence algorithms deeplearning",
-      "Freq": 218
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 99
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 92
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 79
-    },
-    {
-      "Var1": "100DaysOfCode DeepLearning IoT",
-      "Freq": 78
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 73
+      "Freq": 203
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 69
+      "Freq": 108
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 103
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 89
+    },
+    {
+      "Var1": "100DaysOfCode DeepLearning IoT",
+      "Freq": 83
+    },
+    {
+      "Var1": "DataScientists",
+      "Freq": 77
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 73
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 72
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 72
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT RecSys Python",
       "Freq": 69
     },
     {
-      "Var1": "DataScientists",
-      "Freq": 69
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
-      "Freq": 63
-    },
-    {
       "Var1": "Books Java BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 62
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 59
-    },
-    {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
-      "Freq": 59
-    },
-    {
-      "Var1": "Azure BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 58
+      "Freq": 60
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
@@ -73,10 +65,6 @@
       "Freq": 55
     },
     {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 53
-    },
-    {
       "Var1": "100DaysOfCode",
       "Freq": 51
     },
@@ -85,18 +73,30 @@
       "Freq": 50
     },
     {
-      "Var1": "MachineLearning COVID19 BigData Analytics DataScience AI HealthTech IoT",
-      "Freq": 46
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 45
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats JavaScript",
+      "Freq": 43
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 41
+    },
+    {
+      "Var1": "Azure BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 39
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 241
+      "Freq": 231
     },
     {
       "Var1": "nlognbot",
-      "Freq": 210
+      "Freq": 207
     },
     {
       "Var1": "xaelbot",
@@ -104,73 +104,73 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 176
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 174
+      "Freq": 157
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 173
+      "Freq": 156
     },
     {
-      "Var1": "Taieb_Bot",
+      "Var1": "chidambara09",
       "Freq": 152
     },
     {
+      "Var1": "Taieb_Bot",
+      "Freq": 150
+    },
+    {
       "Var1": "ServerlessFan",
-      "Freq": 101
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 91
-    },
-    {
-      "Var1": "CodebloodedBot",
-      "Freq": 88
+      "Freq": 104
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 83
+      "Freq": 87
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 86
+    },
+    {
+      "Var1": "CodebloodedBot",
+      "Freq": 85
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 80
+      "Freq": 85
     },
     {
       "Var1": "hubofml",
-      "Freq": 79
+      "Freq": 82
     },
     {
       "Var1": "learn__together",
-      "Freq": 77
-    },
-    {
-      "Var1": "LinuxDreams",
-      "Freq": 65
+      "Freq": 79
     },
     {
       "Var1": "rstats4ds",
       "Freq": 62
     },
     {
+      "Var1": "LinuxDreams",
+      "Freq": 59
+    },
+    {
       "Var1": "cybersec_feeds",
-      "Freq": 55
+      "Freq": 54
     },
     {
       "Var1": "cyscol",
-      "Freq": 41
+      "Freq": 44
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 37
+      "Freq": 39
     },
     {
-      "Var1": "sectest9",
-      "Freq": 36
+      "Var1": "femtech_",
+      "Freq": 38
     }
   ],
-  "top10_tweets_like": ["My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "New adventure 🎉 \n\nI've joined @rstudio where I'll combine two things I ❤️, teaching &amp; #rstats. I'm excited to get creative as a data science educator! \n\nMade this ⛵️🌞 to celebrate! https://t.co/9WpBstdhX4", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n—————\nGo here: https://t.co/SMSd0KaZie https://t.co/LpwwkQ9kkB", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "{plumber} v1.0.0 is now on CRAN!!🎉🎊🎉\n{plumber} allows you to create web APIs using roxygen2-like comments\n\nMajor updates:\n- Works with promises\n- Body parsing\n- Friendlier route argument matching\n- OpenAPI v3\n- Visual Documentation options\nNEWS: https://t.co/dik1nFChhl\n#rstats", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4", "Ladies and gentleman, I present you my map of motorways &amp; motorway links in Europe. 🛣️\n\n#motorway #roads #infrastructure #geospatial #datascience #bigdata #dataviz #maps #rstats #gis https://t.co/JLxSNcfMqA"],
-  "top10_tweets_retweet": ["My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "New adventure 🎉 \n\nI've joined @rstudio where I'll combine two things I ❤️, teaching &amp; #rstats. I'm excited to get creative as a data science educator! \n\nMade this ⛵️🌞 to celebrate! https://t.co/9WpBstdhX4", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n—————\nGo here: https://t.co/SMSd0KaZie https://t.co/LpwwkQ9kkB", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "{plumber} v1.0.0 is now on CRAN!!🎉🎊🎉\n{plumber} allows you to create web APIs using roxygen2-like comments\n\nMajor updates:\n- Works with promises\n- Body parsing\n- Friendlier route argument matching\n- OpenAPI v3\n- Visual Documentation options\nNEWS: https://t.co/dik1nFChhl\n#rstats", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4", "Ladies and gentleman, I present you my map of motorways &amp; motorway links in Europe. 🛣️\n\n#motorway #roads #infrastructure #geospatial #datascience #bigdata #dataviz #maps #rstats #gis https://t.co/JLxSNcfMqA"]
+  "top10_tweets_like": ["New adventure 🎉 \n\nI've joined @rstudio where I'll combine two things I ❤️, teaching &amp; #rstats. I'm excited to get creative as a data science educator! \n\nMade this ⛵️🌞 to celebrate! https://t.co/9WpBstdhX4", "My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n—————\nGo here: https://t.co/SMSd0KaZie https://t.co/LpwwkQ9kkB", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "{plumber} v1.0.0 is now on CRAN!!🎉🎊🎉\n{plumber} allows you to create web APIs using roxygen2-like comments\n\nMajor updates:\n- Works with promises\n- Body parsing\n- Friendlier route argument matching\n- OpenAPI v3\n- Visual Documentation options\nNEWS: https://t.co/dik1nFChhl\n#rstats", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats", "Free Online Classes You Can Take at Harvard Right Now. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qzLpFoQqxg https://t.co/TiJu0UgfW5", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4"],
+  "top10_tweets_retweet": ["New adventure 🎉 \n\nI've joined @rstudio where I'll combine two things I ❤️, teaching &amp; #rstats. I'm excited to get creative as a data science educator! \n\nMade this ⛵️🌞 to celebrate! https://t.co/9WpBstdhX4", "My title is \"data scientist\" but 90% of my work is writing #rstats software for other data scientists to use to do data science. Are there people in your organization who do this? What are they called?", "Have you ever wanted to use R's colors in your {xaringan} slides or other R Markdown HTML docs? (Yes, this tweet is for a very niche #rstats audience.) \n\nIf you said YES! then I've put together some CSS files just for you\nhttps://t.co/mZaS4fYKsa", "One of my all-time favorites &gt;&gt; The Most Complete List of the Best Cheat Sheets for #DataScientists — great learning resources for #BigData #DataScience #AI #NeuralNetworks #MachineLearning #DeepLearning #DataViz #Python #Rstats #Coding etc.\n—————\nGo here: https://t.co/SMSd0KaZie https://t.co/LpwwkQ9kkB", "Introducing collapse: Advanced and Fast Data Transformation in R  {https://t.co/RzYGtBwbLN} #rstats #DataScience", "Redid my NFL DataViz guide to work w/ @nflfastr !\n\nExamples/code for:\n\n- Most Common plots (scatter, bar, line, distributions, team logo)\n- Descriptive stats w/ #Tidyverse\n- Tables w/ {gt}\n\nhttps://t.co/0TpbNxNFwo\n\nCheck it out for some tips &amp; tricks for #rstats + NFL data viz. https://t.co/bFQgeRc2tb", "{plumber} v1.0.0 is now on CRAN!!🎉🎊🎉\n{plumber} allows you to create web APIs using roxygen2-like comments\n\nMajor updates:\n- Works with promises\n- Body parsing\n- Friendlier route argument matching\n- OpenAPI v3\n- Visual Documentation options\nNEWS: https://t.co/dik1nFChhl\n#rstats", "The complete book, R Programming for Data Science by @rdpeng, is available online at https://t.co/jMza23SrkQ #rstats", "Free Online Classes You Can Take at Harvard Right Now. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qzLpFoQqxg https://t.co/TiJu0UgfW5", "🤔 Useful pedagogical tool, and a nice peek into how others think about #rstats and related ideas…\n🗺 “Concept Maps” by @gvwilson https://t.co/0a61KCuNZr\n(more at: https://t.co/C78ZzHJ3oB) https://t.co/e4qHetTSR4"]
 }
