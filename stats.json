@@ -1,52 +1,56 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5653,
+      "total_tweets_today": 5662,
       "average_tweets_per_hour": 236,
-      "tweeters_today": 1594,
-      "total_likes_today": 5404
+      "tweeters_today": 1581,
+      "total_likes_today": 5458
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 145
+      "Freq": 142
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 139
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 122
+      "Freq": 136
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 121
+      "Freq": 124
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
-      "Freq": 91
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 82
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 117
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 74
+      "Freq": 97
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
+      "Freq": 92
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 83
+    },
+    {
+      "Var1": "100DaysOfCode DeepLearning IoT",
+      "Freq": 59
     },
     {
       "Var1": "DataScientists",
-      "Freq": 53
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 51
+      "Freq": 50
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
       "Freq": 50
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 49
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
@@ -54,15 +58,7 @@
     },
     {
       "Var1": "ReinforcementLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 48
-    },
-    {
-      "Var1": "100DaysOfCode DeepLearning IoT",
-      "Freq": 46
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 46
+      "Freq": 49
     },
     {
       "Var1": "BigData",
@@ -73,11 +69,11 @@
       "Freq": 42
     },
     {
-      "Var1": "ReinforcementLearning MachineLearning artificialintelligence algorithms deeplearning",
-      "Freq": 38
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 40
     },
     {
-      "Var1": "rstats DataScience",
+      "Var1": "100DaysOfCode DeepLearning IoT 100DaysOfMLCode Python",
       "Freq": 35
     },
     {
@@ -85,66 +81,70 @@
       "Freq": 34
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Var1": "COVID19 bigdata AI IOT",
+      "Freq": 34
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 34
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 257
+      "Freq": 264
     },
     {
       "Var1": "xaelbot",
-      "Freq": 224
+      "Freq": 231
     },
     {
       "Var1": "nlognbot",
-      "Freq": 223
+      "Freq": 229
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 178
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 162
+      "Freq": 169
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 154
+      "Freq": 157
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 156
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 103
+      "Freq": 104
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 103
+      "Freq": 100
     },
     {
       "Var1": "chidambara09",
       "Freq": 99
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 94
+      "Var1": "ServerlessFan",
+      "Freq": 96
     },
     {
-      "Var1": "ServerlessFan",
+      "Var1": "TheDeveloperBot",
       "Freq": 93
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 84
+      "Freq": 83
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 80
+      "Freq": 78
     },
     {
       "Var1": "hubofml",
-      "Freq": 69
+      "Freq": 72
     },
     {
       "Var1": "learn__together",
@@ -152,23 +152,23 @@
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 58
+      "Freq": 59
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 56
-    },
-    {
-      "Var1": "iotvishal",
-      "Freq": 54
+      "Freq": 53
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 49
+      "Freq": 52
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 51
     },
     {
       "Var1": "cyscol",
-      "Freq": 48
+      "Freq": 49
     }
   ],
   "top10_tweets_like": ["Pick your fave table-making package (many more than shown), and do it up!\n🎉 “Announcing the 2020 RStudio Table Contest”\nhttps://t.co/suurLyeq3N #rstats\n/* imgs: @DavidGohel, Greg Lin, @davidhughjones, @riannone */ https://t.co/kCsmssJ6CM", "Do you want to learn more about quantitative text analysis?\n\n@koheiw7 and I have revised and extended https://t.co/zcDpZKCRx8, our step-by-step introduction to quantitative text analysis using #quanteda. \n\n@quantedainit #rstats #textasdata #nlp https://t.co/PPS3EiITdT", "✨Excited to announce {shinyjs}💡 v2.0 is on CRAN!\n\n2.5 years in the making, loaded with new features and improvements\n\nCommercial license was removed so that anyone can use it😎\n\nhttps://t.co/riUJfT4qD5\n\n💻#productivelockdown project #6 #rstats", "I'm so proud of all the effort my team and I have poured into our second COVID-19 tool for US county-level detection of COVID-19 outbreaks \n\n🖥️Tool (on the right): https://t.co/d0FBDXiXiQ \n📰Press: https://t.co/OOyeZYLrh3\n\nPowered by #rstats and #rshiny! https://t.co/zXFaCPdokc", "So excited for the @rstudio #rstats Table Contest!!\n\nhttps://t.co/oWlv30exen\n\nDeadline = Oct 31 2020\n\n3 Types:\n1⃣Single Table Ex\n2⃣Tutorial\n3⃣Other\n\n4 Categories:\n1⃣Static HTML\n2⃣Interactive HTML\n3⃣Static print\n4⃣Interactive Shiny\n\nNeed inspiration? \n\nhttps://t.co/JVjQMiQeTn https://t.co/zO7FAuzpSK", "periodic reminder you can use #SQL against a #CSV with {sf}\n\n#rstats #read_sf\n\n(also, FID a special variable to use like a row number) https://t.co/uf8lN2hC43", "Tired: Matching argument by position  \n\nWired: Matching argument by name\n\nInspired: Putting commas until you reach the position of the argument you want to specify without naming it \n\n#RStats https://t.co/VhiL7Xj6fh", "Announcing the RStudio Table Contest\nOne thing we love about the #RStats community is how open &amp; generous it is. We hope this contest encourages more sharing, &amp; helps to recognize the many outstanding ways people work with and display data in R.\nhttps://t.co/xNeK88ZkzP", "Change in public spending on libraries for this week’s #TidyTuesday. Inspiration from the plot at https://t.co/yb2lpcNINN\n\ncode: https://t.co/Mu8U5lp7kE\n\n#dataviz #RStats https://t.co/Silr9BjX7C", "Best ML #Books You Should Read: 2020 Edition. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/RNLHuXpijj https://t.co/DbjlXbJpiT"],
