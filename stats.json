@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5578,
-      "average_tweets_per_hour": 232,
-      "tweeters_today": 1576,
-      "total_likes_today": 5455
+      "total_tweets_today": 5618,
+      "average_tweets_per_hour": 234,
+      "tweeters_today": 1604,
+      "total_likes_today": 5602
     }
   ],
   "top20_hashtags": [
@@ -14,19 +14,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 131
+      "Freq": 126
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 117
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 96
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 97
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 95
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 96
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
@@ -37,11 +37,11 @@
       "Freq": 73
     },
     {
-      "Var1": "theinsaneapp ProgrammersDay rstats 100DaysOfMLCode javascript reactjs serverless",
-      "Freq": 71
+      "Var1": "100DaysOfCode",
+      "Freq": 64
     },
     {
-      "Var1": "100DaysOfCode",
+      "Var1": "CodeNewbie MachineLearning BigData Analytics DataScience AI IoT Python RStats Java",
       "Freq": 64
     },
     {
@@ -49,19 +49,11 @@
       "Freq": 62
     },
     {
-      "Var1": "CodeNewbie MachineLearning BigData Analytics DataScience AI IoT Python RStats Java",
-      "Freq": 60
-    },
-    {
       "Var1": "DeepLearning Analytics",
       "Freq": 60
     },
     {
-      "Var1": "ArtificialIntelligence MachineLearning BigData DataScience AI IoT Python RStats Java JavaScript ReactJS",
-      "Freq": 59
-    },
-    {
-      "Var1": "Statistics Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
       "Freq": 58
     },
     {
@@ -69,11 +61,15 @@
       "Freq": 57
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 54
+      "Var1": "ArtificialIntelligence MachineLearning BigData DataScience AI IoT Python RStats Java JavaScript ReactJS",
+      "Freq": 56
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Var1": "rstats DataScience",
+      "Freq": 55
+    },
+    {
+      "Var1": "theinsaneapp ProgrammersDay rstats 100DaysOfMLCode javascript reactjs serverless",
       "Freq": 54
     },
     {
@@ -87,6 +83,10 @@
     {
       "Var1": "theinsaneapp ML AI MachineLearning rstats 100DaysOfMLCode",
       "Freq": 50
+    },
+    {
+      "Var1": "Statistics Books BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 48
     }
   ],
   "top20_tweeters": [
@@ -96,35 +96,35 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 235
+      "Freq": 233
     },
     {
       "Var1": "xaelbot",
-      "Freq": 234
+      "Freq": 231
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 197
+      "Freq": 185
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 189
+      "Freq": 184
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 171
-    },
-    {
-      "Var1": "NetworkIndie",
-      "Freq": 105
+      "Freq": 170
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 105
+      "Freq": 106
+    },
+    {
+      "Var1": "NetworkIndie",
+      "Freq": 103
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 101
+      "Freq": 100
     },
     {
       "Var1": "chidambara09",
@@ -132,31 +132,31 @@
     },
     {
       "Var1": "hubofml",
-      "Freq": 92
+      "Freq": 96
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 86
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 80
+      "Freq": 83
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 79
+      "Freq": 80
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 78
     },
     {
       "Var1": "femtech_",
-      "Freq": 59
+      "Freq": 62
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 59
+      "Freq": 61
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 57
+      "Freq": 56
     },
     {
       "Var1": "cyscol",
@@ -171,6 +171,6 @@
       "Freq": 54
     }
   ],
-  "top10_tweets_like": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Using this week's #TidyTuesday to finally have a go with the {gt} 📦. Still want to tinker more with table and dig deeper into {gt}, but this will do for now! Big thanks to @thomas_mock for his tutorial 👍 #rstats https://t.co/1VsypDQW4U", "workflows 0.2.0 is on CRAN!\n\nworkflows is a #rstats 📦 for bundling a model specification from parsnip with a preprocessor, such as a formula or recipe.\n\nThis new release includes `add_variables()`, which lets you specify model terms using tidyselect.\n\nhttps://t.co/UjX3PqdYp8", "11 Best Bayesian #Statistics #Books To Read In 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LZ0v2qMyAF https://t.co/89BwwL3hr2", "The Essential Amazon #AWS Books for Cloud Professionals. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/NpkiD0DAkg https://t.co/d2mJiArMKW", "The Current State of Machine Intelligence 3.0\n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence\n\nCredits: Shivonjillis https://t.co/3bdsfHqyPx", "✨ANOTHER major📦update: {shinyalert} v2.0\n\nMost exciting feature: You can now have ANY shiny inputs/outputs inside the modal!\n\nhttps://t.co/ouPQ3augx0\n\nIt's come a long way since v1. Try it out if you want to use pretty modals in shiny\n\n💻#productivelockdown project #7 #rstats https://t.co/dqRe5yvIk0", "Learn more at https://t.co/RMFhESbOsY\n#rstats #DataScience #tidymodels https://t.co/oW10cCAGRW https://t.co/Ourh99fo78"],
-  "top10_tweets_retweet": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Using this week's #TidyTuesday to finally have a go with the {gt} 📦. Still want to tinker more with table and dig deeper into {gt}, but this will do for now! Big thanks to @thomas_mock for his tutorial 👍 #rstats https://t.co/1VsypDQW4U", "workflows 0.2.0 is on CRAN!\n\nworkflows is a #rstats 📦 for bundling a model specification from parsnip with a preprocessor, such as a formula or recipe.\n\nThis new release includes `add_variables()`, which lets you specify model terms using tidyselect.\n\nhttps://t.co/UjX3PqdYp8", "11 Best Bayesian #Statistics #Books To Read In 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LZ0v2qMyAF https://t.co/89BwwL3hr2", "The Essential Amazon #AWS Books for Cloud Professionals. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/NpkiD0DAkg https://t.co/d2mJiArMKW", "The Current State of Machine Intelligence 3.0\n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence\n\nCredits: Shivonjillis https://t.co/3bdsfHqyPx", "✨ANOTHER major📦update: {shinyalert} v2.0\n\nMost exciting feature: You can now have ANY shiny inputs/outputs inside the modal!\n\nhttps://t.co/ouPQ3augx0\n\nIt's come a long way since v1. Try it out if you want to use pretty modals in shiny\n\n💻#productivelockdown project #7 #rstats https://t.co/dqRe5yvIk0", "Learn more at https://t.co/RMFhESbOsY\n#rstats #DataScience #tidymodels https://t.co/oW10cCAGRW https://t.co/Ourh99fo78"]
+  "top10_tweets_like": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Using this week's #TidyTuesday to finally have a go with the {gt} 📦. Still want to tinker more with table and dig deeper into {gt}, but this will do for now! Big thanks to @thomas_mock for his tutorial 👍 #rstats https://t.co/1VsypDQW4U", "workflows 0.2.0 is on CRAN!\n\nworkflows is a #rstats 📦 for bundling a model specification from parsnip with a preprocessor, such as a formula or recipe.\n\nThis new release includes `add_variables()`, which lets you specify model terms using tidyselect.\n\nhttps://t.co/UjX3PqdYp8", "The Essential Amazon #AWS Books for Cloud Professionals. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/NpkiD0DAkg https://t.co/d2mJiArMKW", "The Current State of Machine Intelligence 3.0\n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence\n\nCredits: Shivonjillis https://t.co/3bdsfHqyPx", "I'm looking for a #PostDoc with interest in large scale #metabolomics data analysis and/or #rstats software development.\n\nLocation: Bolzano, Italy - in the ❤️ of the Alps\n\nDetails: https://t.co/76RqQbw2fK\n\nPlease spread the word! https://t.co/ZTnukIDx1c", "Learn more at https://t.co/RMFhESbOsY\n#rstats #DataScience #tidymodels https://t.co/oW10cCAGRW https://t.co/Ourh99fo78", "An attempt was made. 😆😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/yeLBtqFQUY"],
+  "top10_tweets_retweet": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Using this week's #TidyTuesday to finally have a go with the {gt} 📦. Still want to tinker more with table and dig deeper into {gt}, but this will do for now! Big thanks to @thomas_mock for his tutorial 👍 #rstats https://t.co/1VsypDQW4U", "workflows 0.2.0 is on CRAN!\n\nworkflows is a #rstats 📦 for bundling a model specification from parsnip with a preprocessor, such as a formula or recipe.\n\nThis new release includes `add_variables()`, which lets you specify model terms using tidyselect.\n\nhttps://t.co/UjX3PqdYp8", "The Essential Amazon #AWS Books for Cloud Professionals. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/NpkiD0DAkg https://t.co/d2mJiArMKW", "The Current State of Machine Intelligence 3.0\n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #coding #ArtificialIntelligence\n\nCredits: Shivonjillis https://t.co/3bdsfHqyPx", "I'm looking for a #PostDoc with interest in large scale #metabolomics data analysis and/or #rstats software development.\n\nLocation: Bolzano, Italy - in the ❤️ of the Alps\n\nDetails: https://t.co/76RqQbw2fK\n\nPlease spread the word! https://t.co/ZTnukIDx1c", "Learn more at https://t.co/RMFhESbOsY\n#rstats #DataScience #tidymodels https://t.co/oW10cCAGRW https://t.co/Ourh99fo78", "An attempt was made. 😆😂⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode⁣ https://t.co/yeLBtqFQUY"]
 }
