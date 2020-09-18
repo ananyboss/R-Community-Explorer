@@ -1,44 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5380,
-      "average_tweets_per_hour": 224,
+      "total_tweets_today": 5464,
+      "average_tweets_per_hour": 228,
       "tweeters_today": 1796,
-      "total_likes_today": 6583
+      "total_likes_today": 6676
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 131
+      "Freq": 130
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 98
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 96
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 89
+      "Freq": 88
     },
     {
       "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
-      "Freq": 80
+      "Freq": 82
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 73
     },
     {
-      "Var1": "RStats",
-      "Freq": 63
+      "Var1": "DeepLearning Analytics",
+      "Freq": 61
     },
     {
-      "Var1": "DeepLearning Analytics",
-      "Freq": 58
+      "Var1": "RStats",
+      "Freq": 61
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -49,7 +49,11 @@
       "Freq": 54
     },
     {
-      "Var1": "CodeNewbie MachineLearning BigData Analytics DataScience AI IoT Python RStats Java",
+      "Var1": "Mathematics MachineLearning BigData Analytics DataScience IoT IIoT Python",
+      "Freq": 54
+    },
+    {
+      "Var1": "PostDoc metabolomics rstats",
       "Freq": 53
     },
     {
@@ -57,28 +61,20 @@
       "Freq": 52
     },
     {
-      "Var1": "PostDoc metabolomics rstats",
+      "Var1": "Programming MachineLearning Algorithms BigData Analytics",
       "Freq": 52
     },
     {
-      "Var1": "AWS BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 51
-    },
-    {
-      "Var1": "Mathematics MachineLearning BigData Analytics DataScience IoT IIoT Python",
-      "Freq": 51
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 49
-    },
-    {
-      "Var1": "Programming MachineLearning Algorithms BigData Analytics",
-      "Freq": 48
+      "Var1": "CodeNewbie MachineLearning BigData Analytics DataScience AI IoT Python RStats Java",
+      "Freq": 47
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 45
+      "Freq": 47
+    },
+    {
+      "Var1": "AWS BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 44
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience",
@@ -87,90 +83,94 @@
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
       "Freq": 44
+    },
+    {
+      "Var1": "100DaysOfCode",
+      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 226
+      "Freq": 237
     },
     {
       "Var1": "nlognbot",
-      "Freq": 208
+      "Freq": 214
     },
     {
       "Var1": "xaelbot",
-      "Freq": 195
+      "Freq": 203
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 179
+      "Freq": 182
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 147
+      "Freq": 148
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 114
+      "Freq": 118
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 97
+      "Freq": 101
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 94
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 93
+      "Freq": 92
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 87
     },
     {
       "Var1": "rstatstweet",
       "Freq": 84
     },
     {
-      "Var1": "hubofml",
-      "Freq": 81
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 77
-    },
-    {
       "Var1": "ServerlessFan",
-      "Freq": 73
+      "Freq": 76
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 64
+      "Freq": 62
     },
     {
       "Var1": "femtech_",
-      "Freq": 59
+      "Freq": 62
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 58
+      "Freq": 61
     },
     {
-      "Var1": "NetworkIndie",
-      "Freq": 57
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 52
-    },
-    {
-      "Var1": "cyscol",
-      "Freq": 51
+      "Var1": "LinuxDreams",
+      "Freq": 54
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 49
+      "Freq": 54
     },
     {
-      "Var1": "iotvishal",
-      "Freq": 46
+      "Var1": "cyscol",
+      "Freq": 53
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 53
+    },
+    {
+      "Var1": "NetworkIndie",
+      "Freq": 51
     }
   ],
-  "top10_tweets_like": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Ok...my sister showed me these palettes from the @USFWS Instagram and they are unburlliiiievably beautiful. Who has made the R package? I beg of you! 😭🎨🐟🏕🏞 @NatlParkService #rstats https://t.co/l6DmCVYSZQ", "Three Month Plan to Learn #Mathematics Behind #MachineLearning. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/x2vhO3GtTd https://t.co/I90TzJ9il7", "I asked @danrobinson why cryptocurrency Twitter is so weird and combative. Him:\n\n\"Imagine data science Twitter, except that if #JuliaLang  beats out #rstats then everyone who ever used it becomes a millionaire\"", "Today, I had a chance to share the joy of working in R with data volunteers at @COVID19Tracking. A question came up that I’d love help answering from #rstats community: \n\n“What resources would you suggest for someone new to R + the #tidyverse?” \n\nSlides: https://t.co/ijSLNhMc5F https://t.co/FsqNfNXL5F", "I'm looking for a #PostDoc with interest in large scale #metabolomics data analysis and/or #rstats software development.\n\nLocation: Bolzano, Italy - in the ❤️ of the Alps\n\nDetails: https://t.co/76RqQbw2fK\n\nPlease spread the word! https://t.co/ZTnukIDx1c", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vhacfVNmhJ https://t.co/82KJCRhnnJ", "How to Scrape Word Documents with R  {https://t.co/jNylSlhDEz} #rstats #DataScience"],
-  "top10_tweets_retweet": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Ok...my sister showed me these palettes from the @USFWS Instagram and they are unburlliiiievably beautiful. Who has made the R package? I beg of you! 😭🎨🐟🏕🏞 @NatlParkService #rstats https://t.co/l6DmCVYSZQ", "Three Month Plan to Learn #Mathematics Behind #MachineLearning. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/x2vhO3GtTd https://t.co/I90TzJ9il7", "I asked @danrobinson why cryptocurrency Twitter is so weird and combative. Him:\n\n\"Imagine data science Twitter, except that if #JuliaLang  beats out #rstats then everyone who ever used it becomes a millionaire\"", "Today, I had a chance to share the joy of working in R with data volunteers at @COVID19Tracking. A question came up that I’d love help answering from #rstats community: \n\n“What resources would you suggest for someone new to R + the #tidyverse?” \n\nSlides: https://t.co/ijSLNhMc5F https://t.co/FsqNfNXL5F", "I'm looking for a #PostDoc with interest in large scale #metabolomics data analysis and/or #rstats software development.\n\nLocation: Bolzano, Italy - in the ❤️ of the Alps\n\nDetails: https://t.co/76RqQbw2fK\n\nPlease spread the word! https://t.co/ZTnukIDx1c", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vhacfVNmhJ https://t.co/82KJCRhnnJ", "How to Scrape Word Documents with R  {https://t.co/jNylSlhDEz} #rstats #DataScience"]
+  "top10_tweets_like": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Ok...my sister showed me these palettes from the @USFWS Instagram and they are unburlliiiievably beautiful. Who has made the R package? I beg of you! 😭🎨🐟🏕🏞 @NatlParkService #rstats https://t.co/l6DmCVYSZQ", "Three Month Plan to Learn #Mathematics Behind #MachineLearning. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/x2vhO3GtTd https://t.co/I90TzJ9il7", "I asked @danrobinson why cryptocurrency Twitter is so weird and combative. Him:\n\n\"Imagine data science Twitter, except that if #JuliaLang  beats out #rstats then everyone who ever used it becomes a millionaire\"", "Today, I had a chance to share the joy of working in R with data volunteers at @COVID19Tracking. A question came up that I’d love help answering from #rstats community: \n\n“What resources would you suggest for someone new to R + the #tidyverse?” \n\nSlides: https://t.co/ijSLNhMc5F https://t.co/FsqNfNXL5F", "I'm looking for a #PostDoc with interest in large scale #metabolomics data analysis and/or #rstats software development.\n\nLocation: Bolzano, Italy - in the ❤️ of the Alps\n\nDetails: https://t.co/76RqQbw2fK\n\nPlease spread the word! https://t.co/ZTnukIDx1c", "New #rstats blog post: \"The many flavours of missing values\" where I discuss the variants of {NA} - {NA_character_} and friends, and how this comes up with {dplyr::if_else} and {dplyr::case_when}\n  https://t.co/wghuttnZ0G", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vhacfVNmhJ https://t.co/82KJCRhnnJ"],
+  "top10_tweets_retweet": ["Today @topepos and I are so happy to announce our new book 📖on modeling in #rstats, 💫Tidy Modeling with R💫\n\nhttps://t.co/CCygC2v9jY https://t.co/YhmwvOqXRK", "@juliasilge and I are chuffed to show off the first 11 chapters of our book \"Tidy Models with R\".\n\nhttps://t.co/NtN1jwjSW2\n\nCC license. Sources at https://t.co/koe17JOdY4\n\nSpecial thanks to @dcossyle! \n\n#rstats https://t.co/ly0benWaET", "📦🗞️📊 \"bbplot • R package that helps create and export ggplot2 charts in the style used by the BBC News data team\"\n\n👤 BBC News Graphics @BBCNewsGraphics\n\nhttps://t.co/YZbobg4dW9\n#rstats https://t.co/2p40OAtRK4", "Ok...my sister showed me these palettes from the @USFWS Instagram and they are unburlliiiievably beautiful. Who has made the R package? I beg of you! 😭🎨🐟🏕🏞 @NatlParkService #rstats https://t.co/l6DmCVYSZQ", "Three Month Plan to Learn #Mathematics Behind #MachineLearning. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/x2vhO3GtTd https://t.co/I90TzJ9il7", "I asked @danrobinson why cryptocurrency Twitter is so weird and combative. Him:\n\n\"Imagine data science Twitter, except that if #JuliaLang  beats out #rstats then everyone who ever used it becomes a millionaire\"", "Today, I had a chance to share the joy of working in R with data volunteers at @COVID19Tracking. A question came up that I’d love help answering from #rstats community: \n\n“What resources would you suggest for someone new to R + the #tidyverse?” \n\nSlides: https://t.co/ijSLNhMc5F https://t.co/FsqNfNXL5F", "I'm looking for a #PostDoc with interest in large scale #metabolomics data analysis and/or #rstats software development.\n\nLocation: Bolzano, Italy - in the ❤️ of the Alps\n\nDetails: https://t.co/76RqQbw2fK\n\nPlease spread the word! https://t.co/ZTnukIDx1c", "New #rstats blog post: \"The many flavours of missing values\" where I discuss the variants of {NA} - {NA_character_} and friends, and how this comes up with {dplyr::if_else} and {dplyr::case_when}\n  https://t.co/wghuttnZ0G", "Machine Learning Books You Must Read in 2020. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vhacfVNmhJ https://t.co/82KJCRhnnJ"]
 }
