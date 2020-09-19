@@ -1,23 +1,23 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5281,
-      "average_tweets_per_hour": 220,
-      "tweeters_today": 1187,
-      "total_likes_today": 4278
+      "total_tweets_today": 5243,
+      "average_tweets_per_hour": 218,
+      "tweeters_today": 1182,
+      "total_likes_today": 4249
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 105
+      "Freq": 104
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 89
+      "Freq": 99
     },
     {
-      "Var1": "100DaysOfCode",
+      "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 86
     },
     {
@@ -25,23 +25,27 @@
       "Freq": 85
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 80
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 77
+      "Var1": "100DaysOfCode",
+      "Freq": 81
     },
     {
       "Var1": "DataMining BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 73
     },
     {
-      "Var1": "CyberSecurity Ransomware BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 63
+      "Var1": "rstats DataScience",
+      "Freq": 71
     },
     {
       "Var1": "100DaysOfCode MachineLearning DeepLearning Python IoT 100DaysOfMLCode Serverless",
+      "Freq": 64
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 63
+    },
+    {
+      "Var1": "CyberSecurity Ransomware BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 60
     },
     {
@@ -57,6 +61,10 @@
       "Freq": 53
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 50
+    },
+    {
       "Var1": "Amazon MachineLearning",
       "Freq": 49
     },
@@ -66,49 +74,41 @@
     },
     {
       "Var1": "theinsaneapp CodeNewbie code",
-      "Freq": 46
-    },
-    {
-      "Var1": "Python ScikitLearn BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 45
-    },
-    {
-      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT RStats",
-      "Freq": 44
-    },
-    {
-      "Var1": "NeuralNetworks BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 44
-    },
-    {
-      "Var1": "Python 100DaysOfCode MachineLearning",
-      "Freq": 44
+      "Freq": 48
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 43
+      "Freq": 46
+    },
+    {
+      "Var1": "NeuralNetworks BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 46
+    },
+    {
+      "Var1": "Python 100DaysOfCode MachineLearning",
+      "Freq": 45
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "LlnuxBot",
-      "Freq": 252
+      "Var1": "nlognbot",
+      "Freq": 242
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 245
+      "Var1": "LlnuxBot",
+      "Freq": 240
     },
     {
       "Var1": "xaelbot",
-      "Freq": 244
+      "Freq": 238
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 203
+      "Freq": 197
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 173
+      "Freq": 166
     },
     {
       "Var1": "rstatstweet",
@@ -116,51 +116,47 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 154
+      "Freq": 158
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 116
+      "Freq": 108
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 96
+      "Freq": 93
     },
     {
       "Var1": "hubofml",
-      "Freq": 84
+      "Freq": 85
     },
     {
       "Var1": "LinuxDreams",
-      "Freq": 79
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 77
+      "Freq": 75
     },
     {
       "Var1": "cybersec_feeds",
       "Freq": 74
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 70
+      "Var1": "TheSecretJunio1",
+      "Freq": 72
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 68
+      "Var1": "rstats_tweets",
+      "Freq": 71
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 71
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 55
-    },
-    {
-      "Var1": "femtech_",
       "Freq": 54
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 51
+      "Var1": "femtech_",
+      "Freq": 52
     },
     {
       "Var1": "TheCuriousLuke",
@@ -168,9 +164,13 @@
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 49
+      "Freq": 48
+    },
+    {
+      "Var1": "iotvishal",
+      "Freq": 48
     }
   ],
-  "top10_tweets_like": ["SciML is now an official NumFOCUS sponsored organization! https://t.co/d7SohCYibq We will continue to develop and support sustainable software for scientific simulation and scientific machine learning #sciml in #julialang #python and #RStats. Thank you everyone for your support!", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/ACx6KsASkr", "@RogerBivand, @paleolimbot, @tom_hengl, @robinlovelace and @Paula_Moraga_  will talk about the most exciting among existing or forthcoming tools in #rspatial for #rstats. (27.09.2020, 12:00-12:45 PM GMT+2). Submit questions as answers to this tweet till 24.09. https://t.co/2jwyR70YUK", "Reason 102 to use Terminal.\n\n#100DaysOfCode #MachineLearning #DeepLearning #Python #IoT #100DaysOfMLCode #Serverless #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/uVW0arga0G", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "Made a {gt} table with the data I used for my #TidyTuesday plot. I started by copying the code from @thomas_mock's tutorial but couldn't map the sparklines to the right state, so I also copied @committedtotape's code: https://t.co/GDovtuTwGy\n\n#TidyTuesdayTable #RStats https://t.co/PVnlkF610H", "Amazing Python Project Ideas for Beginners - Comment the Project You did as a Beginner\n\n#theinsaneapp #CodeNewbie #code #pythonprogramming\n #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding https://t.co/iHKC2dQysO", "Free eBook: The #AWS #MachineLearning Journey. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6OIjbq9QhP https://t.co/qFxwGS1bE9", "#MachineLearning  Pipelines with Kubeflow. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/4v43Ttx25x https://t.co/hd7ssvOqRo"],
-  "top10_tweets_retweet": ["SciML is now an official NumFOCUS sponsored organization! https://t.co/d7SohCYibq We will continue to develop and support sustainable software for scientific simulation and scientific machine learning #sciml in #julialang #python and #RStats. Thank you everyone for your support!", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/ACx6KsASkr", "@RogerBivand, @paleolimbot, @tom_hengl, @robinlovelace and @Paula_Moraga_  will talk about the most exciting among existing or forthcoming tools in #rspatial for #rstats. (27.09.2020, 12:00-12:45 PM GMT+2). Submit questions as answers to this tweet till 24.09. https://t.co/2jwyR70YUK", "Reason 102 to use Terminal.\n\n#100DaysOfCode #MachineLearning #DeepLearning #Python #IoT #100DaysOfMLCode #Serverless #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/uVW0arga0G", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "Made a {gt} table with the data I used for my #TidyTuesday plot. I started by copying the code from @thomas_mock's tutorial but couldn't map the sparklines to the right state, so I also copied @committedtotape's code: https://t.co/GDovtuTwGy\n\n#TidyTuesdayTable #RStats https://t.co/PVnlkF610H", "Amazing Python Project Ideas for Beginners - Comment the Project You did as a Beginner\n\n#theinsaneapp #CodeNewbie #code #pythonprogramming\n #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding https://t.co/iHKC2dQysO", "Free eBook: The #AWS #MachineLearning Journey. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6OIjbq9QhP https://t.co/qFxwGS1bE9", "#MachineLearning  Pipelines with Kubeflow. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/4v43Ttx25x https://t.co/hd7ssvOqRo"]
+  "top10_tweets_like": ["SciML is now an official NumFOCUS sponsored organization! https://t.co/d7SohCYibq We will continue to develop and support sustainable software for scientific simulation and scientific machine learning #sciml in #julialang #python and #RStats. Thank you everyone for your support!", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/ACx6KsASkr", "@RogerBivand, @paleolimbot, @tom_hengl, @robinlovelace and @Paula_Moraga_  will talk about the most exciting among existing or forthcoming tools in #rspatial for #rstats. (27.09.2020, 12:00-12:45 PM GMT+2). Submit questions as answers to this tweet till 24.09. https://t.co/2jwyR70YUK", "Reason 102 to use Terminal.\n\n#100DaysOfCode #MachineLearning #DeepLearning #Python #IoT #100DaysOfMLCode #Serverless #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/uVW0arga0G", "I've been working on a chapter about R package licenses at https://t.co/SKZfKCgIsk and I'd love to get your feedback. What important questions have I left unanswered? Where could I be more clear? What mistakes have I made? #rstats", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "Made a {gt} table with the data I used for my #TidyTuesday plot. I started by copying the code from @thomas_mock's tutorial but couldn't map the sparklines to the right state, so I also copied @committedtotape's code: https://t.co/GDovtuTwGy\n\n#TidyTuesdayTable #RStats https://t.co/PVnlkF610H", "Amazing Python Project Ideas for Beginners - Comment the Project You did as a Beginner\n\n#theinsaneapp #CodeNewbie #code #pythonprogramming\n #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding https://t.co/iHKC2dQysO", "Free eBook: The #AWS #MachineLearning Journey. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6OIjbq9QhP https://t.co/qFxwGS1bE9"],
+  "top10_tweets_retweet": ["SciML is now an official NumFOCUS sponsored organization! https://t.co/d7SohCYibq We will continue to develop and support sustainable software for scientific simulation and scientific machine learning #sciml in #julialang #python and #RStats. Thank you everyone for your support!", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/ACx6KsASkr", "@RogerBivand, @paleolimbot, @tom_hengl, @robinlovelace and @Paula_Moraga_  will talk about the most exciting among existing or forthcoming tools in #rspatial for #rstats. (27.09.2020, 12:00-12:45 PM GMT+2). Submit questions as answers to this tweet till 24.09. https://t.co/2jwyR70YUK", "Reason 102 to use Terminal.\n\n#100DaysOfCode #MachineLearning #DeepLearning #Python #IoT #100DaysOfMLCode #Serverless #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity https://t.co/uVW0arga0G", "I've been working on a chapter about R package licenses at https://t.co/SKZfKCgIsk and I'd love to get your feedback. What important questions have I left unanswered? Where could I be more clear? What mistakes have I made? #rstats", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "Made a {gt} table with the data I used for my #TidyTuesday plot. I started by copying the code from @thomas_mock's tutorial but couldn't map the sparklines to the right state, so I also copied @committedtotape's code: https://t.co/GDovtuTwGy\n\n#TidyTuesdayTable #RStats https://t.co/PVnlkF610H", "Amazing Python Project Ideas for Beginners - Comment the Project You did as a Beginner\n\n#theinsaneapp #CodeNewbie #code #pythonprogramming\n #rstats #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #Coding https://t.co/iHKC2dQysO", "Free eBook: The #AWS #MachineLearning Journey. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6OIjbq9QhP https://t.co/qFxwGS1bE9"]
 }
