@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4685,
-      "average_tweets_per_hour": 195,
-      "tweeters_today": 1151,
-      "total_likes_today": 4097
+      "total_tweets_today": 4698,
+      "average_tweets_per_hour": 196,
+      "tweeters_today": 1161,
+      "total_likes_today": 4129
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 135
+      "Freq": 139
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 123
+      "Freq": 126
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -22,18 +22,22 @@
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 107
+      "Freq": 111
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 72
+      "Freq": 79
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 68
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 66
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 65
     },
     {
@@ -41,15 +45,11 @@
       "Freq": 64
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 62
+      "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
+      "Freq": 61
     },
     {
       "Var1": "Programming Probability Statistics BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 56
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
       "Freq": 56
     },
     {
@@ -57,23 +57,19 @@
       "Freq": 53
     },
     {
+      "Var1": "100DaysOfCode MachineLearning DeepLearning Python IoT",
+      "Freq": 42
+    },
+    {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode",
       "Freq": 42
     },
     {
-      "Var1": "100DaysOfCode MachineLearning DeepLearning Python IoT",
-      "Freq": 41
-    },
-    {
       "Var1": "rstats DataScience",
-      "Freq": 40
+      "Freq": 39
     },
     {
       "Var1": "CyberSecurity Ransomware BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 38
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing",
       "Freq": 38
     },
     {
@@ -85,22 +81,26 @@
       "Freq": 37
     },
     {
-      "Var1": "programming",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 36
+    },
+    {
+      "Var1": "DataScience AI",
       "Freq": 34
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 251
+      "Freq": 250
     },
     {
       "Var1": "nlognbot",
-      "Freq": 219
+      "Freq": 216
     },
     {
       "Var1": "xaelbot",
-      "Freq": 218
+      "Freq": 216
     },
     {
       "Var1": "nodeQuotesBot",
@@ -108,11 +108,11 @@
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 129
+      "Freq": 130
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 125
+      "Freq": 127
     },
     {
       "Var1": "CodebloodedBot",
@@ -120,38 +120,42 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 86
+      "Freq": 83
     },
     {
       "Var1": "hubofml",
-      "Freq": 81
+      "Freq": 78
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 70
+      "Freq": 68
     },
     {
-      "Var1": "cybersec_feeds",
-      "Freq": 53
+      "Var1": "iotvishal",
+      "Freq": 59
     },
     {
-      "Var1": "TheDeveloperBot",
-      "Freq": 53
+      "Var1": "_codenewbiebot",
+      "Freq": 52
     },
     {
       "Var1": "Akshay02349360",
       "Freq": 52
     },
     {
-      "Var1": "LinuxDreams",
+      "Var1": "cybersec_feeds",
       "Freq": 52
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 51
+      "Var1": "TheDeveloperBot",
+      "Freq": 52
     },
     {
       "Var1": "cyscol",
+      "Freq": 50
+    },
+    {
+      "Var1": "LinuxDreams",
       "Freq": 50
     },
     {
@@ -159,18 +163,14 @@
       "Freq": 50
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 50
-    },
-    {
       "Var1": "TheCuriousLuke",
       "Freq": 48
     },
     {
-      "Var1": "tidyversetweets",
+      "Var1": "rstats4ds",
       "Freq": 46
     }
   ],
-  "top10_tweets_like": ["I've been working on a chapter about R package licenses at https://t.co/SKZfKCgIsk and I'd love to get your feedback. What important questions have I left unanswered? Where could I be more clear? What mistakes have I made? #rstats", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/AuM8TviyfA", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "Mathematics for Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/HnKj4imJ3l https://t.co/zpJRZB9we2", "A #Programming Guide w/ #Probability and #Statistics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless # #DataScientist #Linux #Books #Coding #100DaysofCode\nhttps://t.co/JCAp5SrFuP https://t.co/8UxnbDKRya", "📦📊 \"patchwork • Wrap plots into a patchwork — wrap_plots\"\n\n👤 Thomas Lin Pedersen @thomasp85 \n\nhttps://t.co/WW5aHAwzIj\n#rstats https://t.co/7oaiUNCNzF", "Adding support of referencesProvider to #rstats language server https://t.co/80CuZcLoMV. Go to references or find references of a symbol in the entire workspace. https://t.co/Qp668LfpqG", "Deep Learning with R. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Ck8RAlceNe https://t.co/U3wSvyVXW9", "The 10 Best Data Modeling Books Based on Real User Reviews. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DEApV8Op0k https://t.co/woCV6zQfZp"],
-  "top10_tweets_retweet": ["I've been working on a chapter about R package licenses at https://t.co/SKZfKCgIsk and I'd love to get your feedback. What important questions have I left unanswered? Where could I be more clear? What mistakes have I made? #rstats", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/AuM8TviyfA", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "Mathematics for Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/HnKj4imJ3l https://t.co/zpJRZB9we2", "A #Programming Guide w/ #Probability and #Statistics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless # #DataScientist #Linux #Books #Coding #100DaysofCode\nhttps://t.co/JCAp5SrFuP https://t.co/8UxnbDKRya", "📦📊 \"patchwork • Wrap plots into a patchwork — wrap_plots\"\n\n👤 Thomas Lin Pedersen @thomasp85 \n\nhttps://t.co/WW5aHAwzIj\n#rstats https://t.co/7oaiUNCNzF", "Adding support of referencesProvider to #rstats language server https://t.co/80CuZcLoMV. Go to references or find references of a symbol in the entire workspace. https://t.co/Qp668LfpqG", "Deep Learning with R. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Ck8RAlceNe https://t.co/U3wSvyVXW9", "The 10 Best Data Modeling Books Based on Real User Reviews. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DEApV8Op0k https://t.co/woCV6zQfZp"]
+  "top10_tweets_like": ["I've been working on a chapter about R package licenses at https://t.co/SKZfKCgIsk and I'd love to get your feedback. What important questions have I left unanswered? Where could I be more clear? What mistakes have I made? #rstats", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/AuM8TviyfA", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "Mathematics for Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/HnKj4imJ3l https://t.co/zpJRZB9we2", "A #Programming Guide w/ #Probability and #Statistics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless # #DataScientist #Linux #Books #Coding #100DaysofCode\nhttps://t.co/JCAp5SrFuP https://t.co/8UxnbDKRya", "📦📊 \"patchwork • Wrap plots into a patchwork — wrap_plots\"\n\n👤 Thomas Lin Pedersen @thomasp85 \n\nhttps://t.co/WW5aHAwzIj\n#rstats https://t.co/7oaiUNCNzF", "Deep Learning with R. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Ck8RAlceNe https://t.co/U3wSvyVXW9", "Adding support of referencesProvider to #rstats language server https://t.co/80CuZcLoMV. Go to references or find references of a symbol in the entire workspace. https://t.co/Qp668LfpqG", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/1oy3wvHGNT"],
+  "top10_tweets_retweet": ["I've been working on a chapter about R package licenses at https://t.co/SKZfKCgIsk and I'd love to get your feedback. What important questions have I left unanswered? Where could I be more clear? What mistakes have I made? #rstats", "Did you know that it is easy &amp; fun to extract colors from images in #rstats? I built these palettes in less than 5 minutes. Plus, the number of colors can be scaled (&amp; the extraction method can be changed)!\n\n🎨colorfindr: https://t.co/Lmh4UBwkpo\n🖋️@dataandme &amp; @DavidZumbach https://t.co/cmSFYwQ31A", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/AuM8TviyfA", "Formation matchups are a common point of discussion in soccer. Voronoi tessellations indicate that a 4-3-3 with a false 9 generally is the \"best\" against other structures.\n\nData (and idea): @SamGoldberg1882 \nCC: @accidental__aRt\n\n#rstats https://t.co/zwuLsMtAQU", "Mathematics for Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/HnKj4imJ3l https://t.co/zpJRZB9we2", "A #Programming Guide w/ #Probability and #Statistics. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless # #DataScientist #Linux #Books #Coding #100DaysofCode\nhttps://t.co/JCAp5SrFuP https://t.co/8UxnbDKRya", "📦📊 \"patchwork • Wrap plots into a patchwork — wrap_plots\"\n\n👤 Thomas Lin Pedersen @thomasp85 \n\nhttps://t.co/WW5aHAwzIj\n#rstats https://t.co/7oaiUNCNzF", "Deep Learning with R. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Ck8RAlceNe https://t.co/U3wSvyVXW9", "Adding support of referencesProvider to #rstats language server https://t.co/80CuZcLoMV. Go to references or find references of a symbol in the entire workspace. https://t.co/Qp668LfpqG", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/1oy3wvHGNT"]
 }
