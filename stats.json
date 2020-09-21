@@ -1,48 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6991,
-      "average_tweets_per_hour": 291,
-      "tweeters_today": 1438,
-      "total_likes_today": 4448
+      "total_tweets_today": 6677,
+      "average_tweets_per_hour": 278,
+      "tweeters_today": 1431,
+      "total_likes_today": 4067
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 311
+      "Freq": 336
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 214
+      "Freq": 212
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
-      "Freq": 165
+      "Freq": 148
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 137
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 109
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 96
+      "Freq": 111
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 91
+      "Freq": 96
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
       "Freq": 79
     },
     {
-      "Var1": "tidyverse rstats",
+      "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 76
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 74
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -50,11 +46,11 @@
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 69
+      "Freq": 67
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 69
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Freq": 67
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
@@ -69,10 +65,6 @@
       "Freq": 55
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode",
-      "Freq": 55
-    },
-    {
       "Var1": "DataScience BigData Analytics AI RStats Python",
       "Freq": 54
     },
@@ -81,96 +73,104 @@
       "Freq": 53
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode",
       "Freq": 53
     },
     {
-      "Var1": "DataVisualization ArtificialIntelligence MachineLearning BigData DataScience IoT",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 52
+    },
+    {
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 48
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning MachineLearning IoT",
+      "Freq": 47
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 277
+      "Freq": 261
     },
     {
       "Var1": "dailyvigour",
-      "Freq": 252
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 228
+      "Freq": 240
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 221
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 221
+      "Freq": 210
     },
     {
       "Var1": "nlognbot",
-      "Freq": 220
+      "Freq": 209
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 209
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 218
+      "Freq": 206
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 188
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 185
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 147
+      "Freq": 179
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 132
-    },
-    {
-      "Var1": "bexxmodd",
-      "Freq": 124
+      "Freq": 128
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 122
+      "Freq": 127
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 124
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 122
+      "Freq": 121
     },
     {
       "Var1": "chidambara09",
       "Freq": 113
     },
     {
-      "Var1": "codeislife2",
-      "Freq": 112
+      "Var1": "ineelbot",
+      "Freq": 110
     },
     {
-      "Var1": "ineelbot",
-      "Freq": 104
+      "Var1": "bexxmodd",
+      "Freq": 109
+    },
+    {
+      "Var1": "codeislife2",
+      "Freq": 99
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 96
-    },
-    {
-      "Var1": "cloudnewbie",
-      "Freq": 95
+      "Freq": 86
     },
     {
       "Var1": "hubofml",
-      "Freq": 87
+      "Freq": 84
+    },
+    {
+      "Var1": "cloudnewbie",
+      "Freq": 81
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 78
+      "Freq": 79
     }
   ],
-  "top10_tweets_like": ["An analysis of transcripts from all of the YMH vids available on YouTube, done via #rstats. \n\nhttps://t.co/9Yvd1rylLW\n\nKeep featherin' it, brothers.\n\n@YMHstudios @tomsegura  @ChristinaP", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/1oy3wvHGNT", "I don't know who needs to hear this, but if you need a in-memory database to play with in #rstats, DuckDB has a more robust feature set than SQLite and is just as easy to use 🤓\n\n🦆https://t.co/i3zpPd4eUE", "Mathematics-for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PxXV2ifXn2 https://t.co/6J8BE98MiQ", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/BNYxD4lkaK", "This breaks my brain. Same data, different axes, different error and bias estimates. How do you make validation plots for your regression models? Best practice is the one on the left. Read more here: https://t.co/2V4Om8aLDT \n#rstats #EarthEngine #DataScience https://t.co/1VOeIJdmSh", "Top Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/GNDBKguvVx https://t.co/ZeVtjDzGWo", "group_by(X) %&gt;% slice_max(Y) may be my new favorite function combo #dplyr #rstats https://t.co/ZuZjOzOd5Z", "#TidyTuesday Week 2020/38 💊 US Spending on Public Health Efforts for Children 1997–2016\n\nNo need to explain my inspiration.\n#r4ds #rstats #tidyverse #ggplot2 #dataviz #datavis #DataVisualization #USA https://t.co/qypCl5ooFB", "Deep Learning with R. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Ck8RAlceNe https://t.co/U3wSvyVXW9"],
-  "top10_tweets_retweet": ["An analysis of transcripts from all of the YMH vids available on YouTube, done via #rstats. \n\nhttps://t.co/9Yvd1rylLW\n\nKeep featherin' it, brothers.\n\n@YMHstudios @tomsegura  @ChristinaP", "The Best #Python Books to Consider Reading Right Now.  #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/1oy3wvHGNT", "I don't know who needs to hear this, but if you need a in-memory database to play with in #rstats, DuckDB has a more robust feature set than SQLite and is just as easy to use 🤓\n\n🦆https://t.co/i3zpPd4eUE", "Mathematics-for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PxXV2ifXn2 https://t.co/6J8BE98MiQ", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/BNYxD4lkaK", "This breaks my brain. Same data, different axes, different error and bias estimates. How do you make validation plots for your regression models? Best practice is the one on the left. Read more here: https://t.co/2V4Om8aLDT \n#rstats #EarthEngine #DataScience https://t.co/1VOeIJdmSh", "Top Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/GNDBKguvVx https://t.co/ZeVtjDzGWo", "group_by(X) %&gt;% slice_max(Y) may be my new favorite function combo #dplyr #rstats https://t.co/ZuZjOzOd5Z", "#TidyTuesday Week 2020/38 💊 US Spending on Public Health Efforts for Children 1997–2016\n\nNo need to explain my inspiration.\n#r4ds #rstats #tidyverse #ggplot2 #dataviz #datavis #DataVisualization #USA https://t.co/qypCl5ooFB", "Deep Learning with R. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Books #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Ck8RAlceNe https://t.co/U3wSvyVXW9"]
+  "top10_tweets_like": ["An analysis of transcripts from all of the YMH vids available on YouTube, done via #rstats. \n\nhttps://t.co/9Yvd1rylLW\n\nKeep featherin' it, brothers.\n\n@YMHstudios @tomsegura  @ChristinaP", "I don't know who needs to hear this, but if you need a in-memory database to play with in #rstats, DuckDB has a more robust feature set than SQLite and is just as easy to use 🤓\n\n🦆https://t.co/i3zpPd4eUE", "Mathematics-for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PxXV2ifXn2 https://t.co/6J8BE98MiQ", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/BNYxD4lkaK", "This breaks my brain. Same data, different axes, different error and bias estimates. How do you make validation plots for your regression models? Best practice is the one on the left. Read more here: https://t.co/2V4Om8aLDT \n#rstats #EarthEngine #DataScience https://t.co/1VOeIJdmSh", "Top Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/GNDBKguvVx https://t.co/ZeVtjDzGWo", "group_by(X) %&gt;% slice_max(Y) may be my new favorite function combo #dplyr #rstats https://t.co/ZuZjOzOd5Z", "#TidyTuesday Week 2020/38 💊 US Spending on Public Health Efforts for Children 1997–2016\n\nNo need to explain my inspiration.\n#r4ds #rstats #tidyverse #ggplot2 #dataviz #datavis #DataVisualization #USA https://t.co/qypCl5ooFB", "Well, this blew up! \n\nWould people be interested in reading a blog post where I show step by step how to make your very own favorite color palettes plus some cute ggplot #dataviz?\n\n#rstats #WeAreRLadies 🎨 https://t.co/P9J2x9MLBb", "GPSupernova (AIM ID): A Deep Learning Platform. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/BCgTqLKhhY https://t.co/u9KnILZKcX"],
+  "top10_tweets_retweet": ["An analysis of transcripts from all of the YMH vids available on YouTube, done via #rstats. \n\nhttps://t.co/9Yvd1rylLW\n\nKeep featherin' it, brothers.\n\n@YMHstudios @tomsegura  @ChristinaP", "I don't know who needs to hear this, but if you need a in-memory database to play with in #rstats, DuckDB has a more robust feature set than SQLite and is just as easy to use 🤓\n\n🦆https://t.co/i3zpPd4eUE", "Mathematics-for Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/PxXV2ifXn2 https://t.co/6J8BE98MiQ", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/BNYxD4lkaK", "This breaks my brain. Same data, different axes, different error and bias estimates. How do you make validation plots for your regression models? Best practice is the one on the left. Read more here: https://t.co/2V4Om8aLDT \n#rstats #EarthEngine #DataScience https://t.co/1VOeIJdmSh", "Top Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/GNDBKguvVx https://t.co/ZeVtjDzGWo", "group_by(X) %&gt;% slice_max(Y) may be my new favorite function combo #dplyr #rstats https://t.co/ZuZjOzOd5Z", "#TidyTuesday Week 2020/38 💊 US Spending on Public Health Efforts for Children 1997–2016\n\nNo need to explain my inspiration.\n#r4ds #rstats #tidyverse #ggplot2 #dataviz #datavis #DataVisualization #USA https://t.co/qypCl5ooFB", "Well, this blew up! \n\nWould people be interested in reading a blog post where I show step by step how to make your very own favorite color palettes plus some cute ggplot #dataviz?\n\n#rstats #WeAreRLadies 🎨 https://t.co/P9J2x9MLBb", "GPSupernova (AIM ID): A Deep Learning Platform. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/BCgTqLKhhY https://t.co/u9KnILZKcX"]
 }
