@@ -1,79 +1,83 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8061,
-      "average_tweets_per_hour": 336,
-      "tweeters_today": 1696,
-      "total_likes_today": 5693
+      "total_tweets_today": 8319,
+      "average_tweets_per_hour": 347,
+      "tweeters_today": 1679,
+      "total_likes_today": 5479
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 179
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 145
+      "Var1": "DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 159
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 137
+      "Freq": 131
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 133
+      "Freq": 126
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT PyTorch Python RStats",
-      "Freq": 124
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 120
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 112
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 105
+      "Freq": 110
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 101
+      "Freq": 103
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT PyTorch Python RStats",
+      "Freq": 102
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 94
     },
     {
       "Var1": "100DaysOfCode",
       "Freq": 87
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 83
-    },
-    {
       "Var1": "rstats DataScience",
-      "Freq": 82
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 76
+      "Freq": 86
     },
     {
       "Var1": "MachineLearning Python ScikitLearn BigData Analytics DataScience AI IoT IIoT RStats",
-      "Freq": 76
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 68
+      "Freq": 70
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 67
     },
     {
       "Var1": "DataScience BigData Analytics IoT IIoT Python RStats",
       "Freq": 66
     },
     {
-      "Var1": "RStats",
-      "Freq": 64
+      "Var1": "theinsaneapp ML AI MachineLearning rstats 100DaysOfMLCode",
+      "Freq": 63
     },
     {
-      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Var1": "DeepLearning DataScience BigData Analytics",
+      "Freq": 62
+    },
+    {
+      "Var1": "Rstats",
       "Freq": 61
     },
     {
@@ -81,96 +85,92 @@
       "Freq": 60
     },
     {
-      "Var1": "Rstats",
-      "Freq": 60
-    },
-    {
       "Var1": "DeepLearning Analytics DataScience AI",
-      "Freq": 59
+      "Freq": 60
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 410
+      "Freq": 464
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 276
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 231
+      "Freq": 291
     },
     {
       "Var1": "xaelbot",
-      "Freq": 227
+      "Freq": 236
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 224
+      "Var1": "nlognbot",
+      "Freq": 233
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 220
+      "Freq": 232
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 214
+      "Freq": 229
     },
     {
       "Var1": "chidambara09",
-      "Freq": 198
+      "Freq": 224
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 173
+      "Var1": "CodeGnuts",
+      "Freq": 213
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 161
+      "Freq": 180
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 157
+      "Freq": 160
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 158
     },
     {
       "Var1": "AlgorithmsB",
-      "Freq": 130
+      "Freq": 131
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 126
+      "Freq": 129
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 125
+      "Freq": 123
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 119
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 115
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 112
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 108
-    },
-    {
-      "Var1": "ineelbot",
-      "Freq": 106
+      "Freq": 121
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 101
+      "Freq": 118
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 114
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 110
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 107
+    },
+    {
+      "Var1": "codeislife2",
+      "Freq": 104
     }
   ],
-  "top10_tweets_like": ["#Rstats tip: Use a 'system()' call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)\n\ni.e. system('cal 2020') https://t.co/67UePG4fVz", "I swear the #rstats script is practically done...👀 #statsTikTok https://t.co/p6cDIcAPmk", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "I saw @coolbutuseless's totally useful #rstats tip below for printing a calendar in the R console using a system util called `cal` and thought it'd be neat to recreate in R\n\nhttps://t.co/I6qNZtCGPH https://t.co/k5b8HsJxZF https://t.co/zeoea1oJTn", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "📦🎨 \"rtist • Color palettes from famous artists and paintings.\"\n\n👤 Tomáš Okáľ @tomasokal\n\nhttps://t.co/yxBhnWLdnF\n#rstats https://t.co/6pPF1aTBh7", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "My lab is looking for a new post-doc to join us this fall @psyc_concordia. If you’re interested in bilingual development, are keen on #OpenScience and #rstats, and are looking for a welcoming and supportive lab environment, please apply: https://t.co/dCIRybsvK8. Please R/T!", "Bon bah voilà la question est vite répondue #rstats https://t.co/PH6vBm7Vs1"],
-  "top10_tweets_retweet": ["#Rstats tip: Use a 'system()' call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)\n\ni.e. system('cal 2020') https://t.co/67UePG4fVz", "I swear the #rstats script is practically done...👀 #statsTikTok https://t.co/p6cDIcAPmk", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "I saw @coolbutuseless's totally useful #rstats tip below for printing a calendar in the R console using a system util called `cal` and thought it'd be neat to recreate in R\n\nhttps://t.co/I6qNZtCGPH https://t.co/k5b8HsJxZF https://t.co/zeoea1oJTn", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "📦🎨 \"rtist • Color palettes from famous artists and paintings.\"\n\n👤 Tomáš Okáľ @tomasokal\n\nhttps://t.co/yxBhnWLdnF\n#rstats https://t.co/6pPF1aTBh7", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "My lab is looking for a new post-doc to join us this fall @psyc_concordia. If you’re interested in bilingual development, are keen on #OpenScience and #rstats, and are looking for a welcoming and supportive lab environment, please apply: https://t.co/dCIRybsvK8. Please R/T!", "Bon bah voilà la question est vite répondue #rstats https://t.co/PH6vBm7Vs1"]
+  "top10_tweets_like": ["#Rstats tip: Use a 'system()' call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)\n\ni.e. system('cal 2020') https://t.co/67UePG4fVz", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "I saw @coolbutuseless's totally useful #rstats tip below for printing a calendar in the R console using a system util called `cal` and thought it'd be neat to recreate in R\n\nhttps://t.co/I6qNZtCGPH https://t.co/k5b8HsJxZF https://t.co/zeoea1oJTn", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "📦🎨 \"rtist • Color palettes from famous artists and paintings.\"\n\n👤 Tomáš Okáľ @tomasokal\n\nhttps://t.co/yxBhnWLdnF\n#rstats https://t.co/6pPF1aTBh7", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "Bon bah voilà la question est vite répondue #rstats https://t.co/PH6vBm7Vs1", "Computed Parameters in PyTorch - A Hack. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/CwjnuXBGeW https://t.co/7epvy59p0e", "What’s New in Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LRcl9Wlzy4 https://t.co/eoYWdBt4tb"],
+  "top10_tweets_retweet": ["#Rstats tip: Use a 'system()' call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)\n\ni.e. system('cal 2020') https://t.co/67UePG4fVz", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "I saw @coolbutuseless's totally useful #rstats tip below for printing a calendar in the R console using a system util called `cal` and thought it'd be neat to recreate in R\n\nhttps://t.co/I6qNZtCGPH https://t.co/k5b8HsJxZF https://t.co/zeoea1oJTn", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "📦🎨 \"rtist • Color palettes from famous artists and paintings.\"\n\n👤 Tomáš Okáľ @tomasokal\n\nhttps://t.co/yxBhnWLdnF\n#rstats https://t.co/6pPF1aTBh7", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "Bon bah voilà la question est vite répondue #rstats https://t.co/PH6vBm7Vs1", "Computed Parameters in PyTorch - A Hack. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/CwjnuXBGeW https://t.co/7epvy59p0e", "What’s New in Machine Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LRcl9Wlzy4 https://t.co/eoYWdBt4tb"]
 }
