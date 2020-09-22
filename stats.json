@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7689,
-      "average_tweets_per_hour": 320,
-      "tweeters_today": 1698,
-      "total_likes_today": 5287
+      "total_tweets_today": 7810,
+      "average_tweets_per_hour": 325,
+      "tweeters_today": 1710,
+      "total_likes_today": 5054
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 337
+      "Freq": 333
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -18,15 +18,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 142
+      "Freq": 141
     },
     {
       "Var1": "DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 123
+      "Freq": 135
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT PyTorch Python RStats",
-      "Freq": 110
+      "Freq": 113
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 111
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -37,28 +41,24 @@
       "Freq": 87
     },
     {
+      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 80
+    },
+    {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
       "Freq": 77
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 76
+      "Freq": 75
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 73
     },
     {
-      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 71
-    },
-    {
       "Var1": "DeepLearning Analytics DataScience AI",
-      "Freq": 68
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 67
+      "Freq": 72
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT Python",
@@ -66,19 +66,15 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 65
+      "Freq": 64
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 64
+      "Freq": 60
     },
     {
       "Var1": "MachineLearning BigData",
       "Freq": 55
-    },
-    {
-      "Var1": "DataScience AI",
-      "Freq": 52
     },
     {
       "Var1": "Infographics SoftwareEngineer Developer makeyourownlane",
@@ -87,64 +83,68 @@
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 49
+    },
+    {
+      "Var1": "DeepLearning Analytics",
+      "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 350
+      "Freq": 351
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 288
+      "Freq": 292
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 247
+      "Freq": 250
     },
     {
       "Var1": "nlognbot",
-      "Freq": 241
+      "Freq": 245
     },
     {
       "Var1": "xaelbot",
-      "Freq": 236
+      "Freq": 241
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 232
+      "Freq": 238
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 215
+      "Freq": 223
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 181
+      "Freq": 184
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 162
+      "Freq": 166
+    },
+    {
+      "Var1": "Taieb_Bot",
+      "Freq": 152
     },
     {
       "Var1": "techopcode",
       "Freq": 152
     },
     {
-      "Var1": "Taieb_Bot",
+      "Var1": "TheNosProgramer",
       "Freq": 150
     },
     {
-      "Var1": "TheNosProgramer",
-      "Freq": 149
+      "Var1": "ineelbot",
+      "Freq": 137
     },
     {
       "Var1": "chidambara09",
-      "Freq": 136
-    },
-    {
-      "Var1": "ineelbot",
-      "Freq": 136
+      "Freq": 135
     },
     {
       "Var1": "bexxmodd",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 117
+      "Freq": 116
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 111
+      "Freq": 115
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 102
+      "Freq": 107
     },
     {
       "Var1": "hubofml",
-      "Freq": 89
+      "Freq": 91
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 88
+      "Freq": 91
     }
   ],
-  "top10_tweets_like": ["An analysis of transcripts from all of the YMH vids available on YouTube, done via #rstats. \n\nhttps://t.co/9Yvd1rylLW\n\nKeep featherin' it, brothers.\n\n@YMHstudios @tomsegura  @ChristinaP", "I swear the #rstats script is practically done...👀 #statsTikTok https://t.co/p6cDIcAPmk", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/VxlOgpvUDs", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "Notícia boa para quem for fazer matérias e pesquisas relacionadas às eleições 2020.\n\nBaixe dados de estrutura de despesas e receitas e gastos por função da União, estados e municípios usando nosso novo produto.\nhttps://t.co/3eVoaTjgKP\n#RStats #dataviz \n(+) https://t.co/DQ60iFwuIn", "Anyone interested in helping to push spatial modeling in #rstats forwards? \n\nWe have a proof of concept for speeding up raster predictions with {mlr3}: https://t.co/sLmurlIirx. \n\nWe’re lacking time though 🙄️\n\nPlease PM me if you’re interested!\n\n#rspatial", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "✍️⭐ \"A predictive modeling case study (with Tidymodels) | Get Started\"\n\n👤 RStudio @rstudio \n\nhttps://t.co/AQfiuoBHOa\n#rstats https://t.co/UfGtSj0WRV", "Machine Learning for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/x1CuuVnPao https://t.co/M9ljU5BHir", "😱  Client Expectations - Developers Code 😂 - Budget is Missing 🤔\n\nHave you faced this type of Scenario in the past or in anytime?\n\n#theinsaneapp #memes\n #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #coding https://t.co/QqHDjRHO1R"],
-  "top10_tweets_retweet": ["An analysis of transcripts from all of the YMH vids available on YouTube, done via #rstats. \n\nhttps://t.co/9Yvd1rylLW\n\nKeep featherin' it, brothers.\n\n@YMHstudios @tomsegura  @ChristinaP", "I swear the #rstats script is practically done...👀 #statsTikTok https://t.co/p6cDIcAPmk", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/VxlOgpvUDs", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "Notícia boa para quem for fazer matérias e pesquisas relacionadas às eleições 2020.\n\nBaixe dados de estrutura de despesas e receitas e gastos por função da União, estados e municípios usando nosso novo produto.\nhttps://t.co/3eVoaTjgKP\n#RStats #dataviz \n(+) https://t.co/DQ60iFwuIn", "Anyone interested in helping to push spatial modeling in #rstats forwards? \n\nWe have a proof of concept for speeding up raster predictions with {mlr3}: https://t.co/sLmurlIirx. \n\nWe’re lacking time though 🙄️\n\nPlease PM me if you’re interested!\n\n#rspatial", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "✍️⭐ \"A predictive modeling case study (with Tidymodels) | Get Started\"\n\n👤 RStudio @rstudio \n\nhttps://t.co/AQfiuoBHOa\n#rstats https://t.co/UfGtSj0WRV", "Machine Learning for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/x1CuuVnPao https://t.co/M9ljU5BHir", "😱  Client Expectations - Developers Code 😂 - Budget is Missing 🤔\n\nHave you faced this type of Scenario in the past or in anytime?\n\n#theinsaneapp #memes\n #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #coding https://t.co/QqHDjRHO1R"]
+  "top10_tweets_like": ["I swear the #rstats script is practically done...👀 #statsTikTok https://t.co/p6cDIcAPmk", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/VxlOgpvUDs", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "Notícia boa para quem for fazer matérias e pesquisas relacionadas às eleições 2020.\n\nBaixe dados de estrutura de despesas e receitas e gastos por função da União, estados e municípios usando nosso novo produto.\nhttps://t.co/3eVoaTjgKP\n#RStats #dataviz \n(+) https://t.co/DQ60iFwuIn", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "Anyone interested in helping to push spatial modeling in #rstats forwards? \n\nWe have a proof of concept for speeding up raster predictions with {mlr3}: https://t.co/sLmurlIirx. \n\nWe’re lacking time though 🙄️\n\nPlease PM me if you’re interested!\n\n#rspatial", "✍️⭐ \"A predictive modeling case study (with Tidymodels) | Get Started\"\n\n👤 RStudio @rstudio \n\nhttps://t.co/AQfiuoBHOa\n#rstats https://t.co/UfGtSj0WRV", "#Rstats tip: Use a 'system()' call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)\n\ni.e. system('cal 2020') https://t.co/67UePG4fVz", "Machine Learning for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/x1CuuVnPao https://t.co/M9ljU5BHir", "😱  Client Expectations - Developers Code 😂 - Budget is Missing 🤔\n\nHave you faced this type of Scenario in the past or in anytime?\n\n#theinsaneapp #memes\n #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #coding https://t.co/QqHDjRHO1R"],
+  "top10_tweets_retweet": ["I swear the #rstats script is practically done...👀 #statsTikTok https://t.co/p6cDIcAPmk", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/VxlOgpvUDs", "Today is \"the start of a new phase for me\" as an Investigator at @LieberInstitute @JohnsHopkins &amp; I'm now @lcolladotor on Twitter. Thx for your support!🤗🇲🇽\n\nhttps://t.co/YIhRHlZJar\n\nI'm actively building: R/@Bioconductor-powered Team Data Science https://t.co/xAOi4NCVhG\n\n#rstats https://t.co/TpABpNNVVW", "Notícia boa para quem for fazer matérias e pesquisas relacionadas às eleições 2020.\n\nBaixe dados de estrutura de despesas e receitas e gastos por função da União, estados e municípios usando nosso novo produto.\nhttps://t.co/3eVoaTjgKP\n#RStats #dataviz \n(+) https://t.co/DQ60iFwuIn", "What is optimism for you? To me is to believe I will pick up Python in less than a week if needed. @AcademicChatter  #RStats", "Anyone interested in helping to push spatial modeling in #rstats forwards? \n\nWe have a proof of concept for speeding up raster predictions with {mlr3}: https://t.co/sLmurlIirx. \n\nWe’re lacking time though 🙄️\n\nPlease PM me if you’re interested!\n\n#rspatial", "✍️⭐ \"A predictive modeling case study (with Tidymodels) | Get Started\"\n\n👤 RStudio @rstudio \n\nhttps://t.co/AQfiuoBHOa\n#rstats https://t.co/UfGtSj0WRV", "#Rstats tip: Use a 'system()' call to output a compact calendar for the month/year - I use this all the time to plan without having to leave R :)\n\ni.e. system('cal 2020') https://t.co/67UePG4fVz", "Machine Learning for Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/x1CuuVnPao https://t.co/M9ljU5BHir", "😱  Client Expectations - Developers Code 😂 - Budget is Missing 🤔\n\nHave you faced this type of Scenario in the past or in anytime?\n\n#theinsaneapp #memes\n #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #coding https://t.co/QqHDjRHO1R"]
 }
