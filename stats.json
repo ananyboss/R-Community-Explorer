@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8353,
-      "average_tweets_per_hour": 348,
-      "tweeters_today": 1638,
-      "total_likes_today": 5509
+      "total_tweets_today": 8179,
+      "average_tweets_per_hour": 341,
+      "tweeters_today": 1606,
+      "total_likes_today": 5335
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 164
+      "Freq": 167
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
@@ -18,19 +18,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 133
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 122
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
       "Freq": 118
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 111
+      "Freq": 117
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 115
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Freq": 115
     },
     {
       "Var1": "100DaysOfCode",
@@ -50,7 +50,7 @@
     },
     {
       "Var1": "Bigdata Analytics DataScience AI",
-      "Freq": 86
+      "Freq": 89
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -66,111 +66,111 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT Python",
-      "Freq": 83
+      "Freq": 84
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 78
-    },
-    {
-      "Var1": "DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 73
+      "Freq": 83
     },
     {
       "Var1": "DeepLearning Analytics DataScience AI",
-      "Freq": 71
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 69
+      "Freq": 66
     },
     {
       "Var1": "CyberSecurity Ransomware BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 66
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 65
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 355
+      "Freq": 376
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 261
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 234
+      "Freq": 246
     },
     {
       "Var1": "rstatstweet",
       "Freq": 228
     },
     {
+      "Var1": "javascript_bot_",
+      "Freq": 218
+    },
+    {
       "Var1": "nlognbot",
-      "Freq": 221
+      "Freq": 218
     },
     {
       "Var1": "xaelbot",
-      "Freq": 219
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 217
+      "Freq": 215
     },
     {
       "Var1": "theInfernobot",
-      "Freq": 217
+      "Freq": 214
     },
     {
-      "Var1": "javascript_bot_",
-      "Freq": 207
+      "Var1": "datasciencebot_",
+      "Freq": 212
     },
     {
-      "Var1": "redianbot",
-      "Freq": 179
+      "Var1": "CodeGnuts",
+      "Freq": 200
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 178
+      "Freq": 180
+    },
+    {
+      "Var1": "redianbot",
+      "Freq": 164
     },
     {
       "Var1": "chidambara09",
-      "Freq": 172
+      "Freq": 163
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 167
+      "Freq": 162
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 158
+      "Freq": 156
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 134
-    },
-    {
-      "Var1": "NetworkIndie",
-      "Freq": 124
+      "Freq": 126
     },
     {
       "Var1": "techtrendingnow",
       "Freq": 122
     },
     {
-      "Var1": "codeislife2",
-      "Freq": 114
+      "Var1": "NetworkIndie",
+      "Freq": 117
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 114
+      "Freq": 115
+    },
+    {
+      "Var1": "codeislife2",
+      "Freq": 112
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 109
+      "Freq": 104
     }
   ],
-  "top10_tweets_like": ["I saw @coolbutuseless's totally useful #rstats tip below for printing a calendar in the R console using a system util called `cal` and thought it'd be neat to recreate in R\n\nhttps://t.co/I6qNZtCGPH https://t.co/k5b8HsJxZF https://t.co/zeoea1oJTn", "Y'all, the {tidygeocoder} #rstats package by @JesseCambon makes geocoding addresses *jaw-droppingly* trivial! (h/t @asmae_toumi) (code here: https://t.co/LOv858tCbI) https://t.co/SR8Oy6VVrd", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "😱 Clear Demonstration of Reinforcement Learning \n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #Coding #ArtificialIntelligence \n\nCredits: @DrIsaPantami https://t.co/1aO1ZTRA4M", "I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "How to Automate PowerPoint Slidedecks with R  {https://t.co/s2KjZauFB9} #rstats #DataScience", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "Computed Parameters in PyTorch - A Hack. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/CwjnuXBGeW https://t.co/7epvy59p0e"],
-  "top10_tweets_retweet": ["I saw @coolbutuseless's totally useful #rstats tip below for printing a calendar in the R console using a system util called `cal` and thought it'd be neat to recreate in R\n\nhttps://t.co/I6qNZtCGPH https://t.co/k5b8HsJxZF https://t.co/zeoea1oJTn", "Y'all, the {tidygeocoder} #rstats package by @JesseCambon makes geocoding addresses *jaw-droppingly* trivial! (h/t @asmae_toumi) (code here: https://t.co/LOv858tCbI) https://t.co/SR8Oy6VVrd", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "😱 Clear Demonstration of Reinforcement Learning \n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #Coding #ArtificialIntelligence \n\nCredits: @DrIsaPantami https://t.co/1aO1ZTRA4M", "I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "How to Automate PowerPoint Slidedecks with R  {https://t.co/s2KjZauFB9} #rstats #DataScience", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "Computed Parameters in PyTorch - A Hack. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/CwjnuXBGeW https://t.co/7epvy59p0e"]
+  "top10_tweets_like": ["Y'all, the {tidygeocoder} #rstats package by @JesseCambon makes geocoding addresses *jaw-droppingly* trivial! (h/t @asmae_toumi) (code here: https://t.co/LOv858tCbI) https://t.co/SR8Oy6VVrd", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "😱 Clear Demonstration of Reinforcement Learning \n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #Coding #ArtificialIntelligence \n\nCredits: @DrIsaPantami https://t.co/1aO1ZTRA4M", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "How to Automate PowerPoint Slidedecks with R  {https://t.co/s2KjZauFB9} #rstats #DataScience", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "Computed Parameters in PyTorch - A Hack. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/CwjnuXBGeW https://t.co/7epvy59p0e", "Bon bah voilà la question est vite répondue #rstats https://t.co/PH6vBm7Vs1"],
+  "top10_tweets_retweet": ["Y'all, the {tidygeocoder} #rstats package by @JesseCambon makes geocoding addresses *jaw-droppingly* trivial! (h/t @asmae_toumi) (code here: https://t.co/LOv858tCbI) https://t.co/SR8Oy6VVrd", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "😱 Clear Demonstration of Reinforcement Learning \n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #Coding #ArtificialIntelligence \n\nCredits: @DrIsaPantami https://t.co/1aO1ZTRA4M", "Multi-Core #MachineLearning in #Python With #ScikitLearn. #BigData #Analytics #DataScience #AI #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/JyEYzfbhT2 https://t.co/mrk1ZMqpwS", "5 Free Books To Take Your #DataScience Skills to The Next Level. #BigData #Analytics #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/KfH9fxU0Ex https://t.co/4L7UFrpLz7", "How to Automate PowerPoint Slidedecks with R  {https://t.co/s2KjZauFB9} #rstats #DataScience", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "Computed Parameters in PyTorch - A Hack. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/CwjnuXBGeW https://t.co/7epvy59p0e", "Bon bah voilà la question est vite répondue #rstats https://t.co/PH6vBm7Vs1"]
 }
