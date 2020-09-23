@@ -1,32 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7210,
-      "average_tweets_per_hour": 300,
-      "tweeters_today": 1453,
-      "total_likes_today": 4538
+      "total_tweets_today": 7125,
+      "average_tweets_per_hour": 297,
+      "tweeters_today": 1463,
+      "total_likes_today": 4487
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 173
+      "Freq": 162
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 117
-    },
-    {
-      "Var1": "Bigdata Analytics DataScience AI",
-      "Freq": 115
+      "Freq": 132
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 111
+      "Freq": 121
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning rstats 100DaysOfMLCode",
-      "Freq": 102
+      "Freq": 107
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -34,27 +30,31 @@
     },
     {
       "Var1": "100DaysOfCode",
-      "Freq": 87
+      "Freq": 93
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT Python",
-      "Freq": 82
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
+      "Freq": 90
+    },
+    {
+      "Var1": "Bigdata Analytics DataScience AI",
+      "Freq": 86
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 80
+      "Freq": 85
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning CyberSecurity IoT IIoT Python",
+      "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 77
+      "Freq": 76
     },
     {
       "Var1": "DeepLearning Analytics",
       "Freq": 75
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 72
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -65,12 +65,16 @@
       "Freq": 66
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 62
+      "Var1": "Algorithms BigData Analytics DataScience",
+      "Freq": 59
     },
     {
       "Var1": "DataAnalytics mobile cloudcomputing AI IoT IaaS",
       "Freq": 58
+    },
+    {
+      "Var1": "BigData Analytics",
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -81,11 +85,7 @@
       "Freq": 55
     },
     {
-      "Var1": "Algorithms BigData Analytics DataScience",
-      "Freq": 54
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
+      "Var1": "BigData Analytics DataScience",
       "Freq": 52
     }
   ],
@@ -96,81 +96,81 @@
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 228
+      "Freq": 227
     },
     {
       "Var1": "LlnuxBot",
       "Freq": 225
     },
     {
+      "Var1": "theInfernobot",
+      "Freq": 223
+    },
+    {
       "Var1": "nlognbot",
       "Freq": 219
     },
     {
-      "Var1": "theInfernobot",
-      "Freq": 219
-    },
-    {
       "Var1": "xaelbot",
-      "Freq": 218
-    },
-    {
-      "Var1": "rstatstweet",
-      "Freq": 204
+      "Freq": 217
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 183
+      "Freq": 195
+    },
+    {
+      "Var1": "rstatstweet",
+      "Freq": 171
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 162
+      "Freq": 163
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 153
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 144
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 143
+      "Freq": 147
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 141
+      "Freq": 143
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 130
+      "Freq": 138
     },
     {
-      "Var1": "CodebloodedBot",
+      "Var1": "Fabriciosx",
+      "Freq": 137
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 125
+    },
+    {
+      "Var1": "bexxmodd",
       "Freq": 122
     },
     {
+      "Var1": "CodebloodedBot",
+      "Freq": 120
+    },
+    {
       "Var1": "ineelbot",
-      "Freq": 119
+      "Freq": 120
     },
     {
       "Var1": "chidambara09",
       "Freq": 118
     },
     {
-      "Var1": "bexxmodd",
-      "Freq": 114
-    },
-    {
       "Var1": "NetworkIndie",
-      "Freq": 103
+      "Freq": 104
     },
     {
       "Var1": "codeislife2",
-      "Freq": 96
+      "Freq": 93
     }
   ],
-  "top10_tweets_like": ["I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "Anyone whose talk *wasn’t* accepted for @rstudio ::global(2021) — I feel you. ALSO I run the stats programming DC meetup and we’d love to have you come talk about #rstats, #python, #DataScience, wherever! It’s not as glam, but it’s a great group! reply/dm to get things going!", "Week 39 of #TidyTuesday: I'm looking at Everest, but what I'm really doing is imitating @ysamano28's graphic from 2020, week 24... and thank you @r_rabbit_y for pointing me to that graphic! #RStats\n\nCode: https://t.co/C7t1UzylnH https://t.co/T0zRlgFwng", "✍️🗺 \"concept-maps • Concept maps for all things data science\"\n\n👤 Greg Wilson @gvwilson; RStudio @rstudio \n\nhttps://t.co/Rj2y6LZPBy\n#rstats https://t.co/Zv8ORF6q3z", "Using R on Google Colab with {tidyverse} – Video  {https://t.co/acpn68dGyw} #rstats #DataScience", "✍️🎓 \"Statistics 431: Advanced Statistical Computing with R\"\n\n👤 Hunter Glanz @hglanz; Kelly Bodwin @kellybodwin \n\nhttps://t.co/xGLben9rhn\n#rstats https://t.co/t1ycb3s59q", "I am building an R tutorial Youtube series. \n\nRight now it is named 'How to R' but should I rename it to 'Get R Done'?\n\n@AcademicChatter #AcademicTwitter #RStats", "Finally rebooted the pen plotter and did a couple experiments with flow fields and colored pens, made with #rstats of course 🙂 #plottertwitter https://t.co/oBIleA0jTb"],
-  "top10_tweets_retweet": ["I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "Anyone whose talk *wasn’t* accepted for @rstudio ::global(2021) — I feel you. ALSO I run the stats programming DC meetup and we’d love to have you come talk about #rstats, #python, #DataScience, wherever! It’s not as glam, but it’s a great group! reply/dm to get things going!", "Week 39 of #TidyTuesday: I'm looking at Everest, but what I'm really doing is imitating @ysamano28's graphic from 2020, week 24... and thank you @r_rabbit_y for pointing me to that graphic! #RStats\n\nCode: https://t.co/C7t1UzylnH https://t.co/T0zRlgFwng", "✍️🗺 \"concept-maps • Concept maps for all things data science\"\n\n👤 Greg Wilson @gvwilson; RStudio @rstudio \n\nhttps://t.co/Rj2y6LZPBy\n#rstats https://t.co/Zv8ORF6q3z", "Using R on Google Colab with {tidyverse} – Video  {https://t.co/acpn68dGyw} #rstats #DataScience", "✍️🎓 \"Statistics 431: Advanced Statistical Computing with R\"\n\n👤 Hunter Glanz @hglanz; Kelly Bodwin @kellybodwin \n\nhttps://t.co/xGLben9rhn\n#rstats https://t.co/t1ycb3s59q", "I am building an R tutorial Youtube series. \n\nRight now it is named 'How to R' but should I rename it to 'Get R Done'?\n\n@AcademicChatter #AcademicTwitter #RStats", "Finally rebooted the pen plotter and did a couple experiments with flow fields and colored pens, made with #rstats of course 🙂 #plottertwitter https://t.co/oBIleA0jTb"]
+  "top10_tweets_like": ["I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "Week 39 of #TidyTuesday: I'm looking at Everest, but what I'm really doing is imitating @ysamano28's graphic from 2020, week 24... and thank you @r_rabbit_y for pointing me to that graphic! #RStats\n\nCode: https://t.co/C7t1UzylnH https://t.co/T0zRlgFwng", "Anyone whose talk *wasn’t* accepted for @rstudio ::global(2021) — I feel you. ALSO I run the stats programming DC meetup and we’d love to have you come talk about #rstats, #python, #DataScience, wherever! It’s not as glam, but it’s a great group! reply/dm to get things going!", "✍️🎓 \"Statistics 431: Advanced Statistical Computing with R\"\n\n👤 Hunter Glanz @hglanz; Kelly Bodwin @kellybodwin \n\nhttps://t.co/xGLben9rhn\n#rstats https://t.co/t1ycb3s59q", "Not going to lie; felt good that people liked my attempt at rayshading the beautiful geologic map of Miyakejima. 😊 \n\nSo here's Japan's iconic volcano—the symmetric beauty that is Mount Fuji, 富士山. By the Geological Survey of Japan, 2016.\n\n#rayshader adventures, an #rstats tale https://t.co/2Gdu0pNGj9", "Using R on Google Colab with {tidyverse} – Video  {https://t.co/acpn68dGyw} #rstats #DataScience", "Whether you're a football/soccer fan or not, this is a great walk-through of basic class construction, validation, etc…\n⚽️ “S3 Classes and {vctrs} to Create a Soccer Pitch Control Model” by @TonyElHabr \nhttps://t.co/6VIEno8n3l #rstats", "r5r is a computational package for rapid realistic routing on multimodal transport networks based on R5\n👉https://t.co/2zBvxzethH\n\nr5r is currently available for #rstats on CRAN🎉\nThis thread will periodically bring updates of the📦. RT or Like this tweet to stay tuned! #r5rstats https://t.co/fuvrxyGiJC", "I am building an R tutorial Youtube series. \n\nRight now it is named 'How to R' but should I rename it to 'Get R Done'?\n\n@AcademicChatter #AcademicTwitter #RStats"],
+  "top10_tweets_retweet": ["I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "Week 39 of #TidyTuesday: I'm looking at Everest, but what I'm really doing is imitating @ysamano28's graphic from 2020, week 24... and thank you @r_rabbit_y for pointing me to that graphic! #RStats\n\nCode: https://t.co/C7t1UzylnH https://t.co/T0zRlgFwng", "Anyone whose talk *wasn’t* accepted for @rstudio ::global(2021) — I feel you. ALSO I run the stats programming DC meetup and we’d love to have you come talk about #rstats, #python, #DataScience, wherever! It’s not as glam, but it’s a great group! reply/dm to get things going!", "✍️🎓 \"Statistics 431: Advanced Statistical Computing with R\"\n\n👤 Hunter Glanz @hglanz; Kelly Bodwin @kellybodwin \n\nhttps://t.co/xGLben9rhn\n#rstats https://t.co/t1ycb3s59q", "Not going to lie; felt good that people liked my attempt at rayshading the beautiful geologic map of Miyakejima. 😊 \n\nSo here's Japan's iconic volcano—the symmetric beauty that is Mount Fuji, 富士山. By the Geological Survey of Japan, 2016.\n\n#rayshader adventures, an #rstats tale https://t.co/2Gdu0pNGj9", "Using R on Google Colab with {tidyverse} – Video  {https://t.co/acpn68dGyw} #rstats #DataScience", "Whether you're a football/soccer fan or not, this is a great walk-through of basic class construction, validation, etc…\n⚽️ “S3 Classes and {vctrs} to Create a Soccer Pitch Control Model” by @TonyElHabr \nhttps://t.co/6VIEno8n3l #rstats", "r5r is a computational package for rapid realistic routing on multimodal transport networks based on R5\n👉https://t.co/2zBvxzethH\n\nr5r is currently available for #rstats on CRAN🎉\nThis thread will periodically bring updates of the📦. RT or Like this tweet to stay tuned! #r5rstats https://t.co/fuvrxyGiJC", "I am building an R tutorial Youtube series. \n\nRight now it is named 'How to R' but should I rename it to 'Get R Done'?\n\n@AcademicChatter #AcademicTwitter #RStats"]
 }
