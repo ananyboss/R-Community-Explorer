@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7726,
-      "average_tweets_per_hour": 322,
-      "tweeters_today": 1546,
-      "total_likes_today": 4890
+      "total_tweets_today": 7621,
+      "average_tweets_per_hour": 318,
+      "tweeters_today": 1537,
+      "total_likes_today": 4971
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 192
+      "Freq": 187
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 162
+      "Freq": 163
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning rstats 100DaysOfMLCode",
-      "Freq": 139
+      "Freq": 145
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 129
+      "Freq": 120
     },
     {
       "Var1": "rstats DataScience",
@@ -38,23 +38,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 95
+      "Freq": 96
+    },
+    {
+      "Var1": "100DaysOfCode",
+      "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 76
+      "Freq": 71
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
       "Freq": 71
-    },
-    {
-      "Var1": "DeepLearning Analytics DataScience AI",
-      "Freq": 70
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 69
     },
     {
       "Var1": "BigData Analytics",
@@ -69,30 +65,34 @@
       "Freq": 61
     },
     {
-      "Var1": "100DaysOfCode",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 60
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Freq": 58
+    },
+    {
+      "Var1": "Algorithms BigData Analytics DataScience",
+      "Freq": 56
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 56
     },
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT Python RStats",
       "Freq": 56
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
+      "Var1": "programmingmemes 100DaysOfCode MachineLearning IoT",
       "Freq": 55
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 53
-    },
-    {
-      "Var1": "DeepLearning DataScience BigData Analytics",
-      "Freq": 52
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 278
+      "Freq": 279
     },
     {
       "Var1": "rstatstweet",
@@ -100,75 +100,75 @@
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 234
+      "Freq": 238
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 231
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 223
+      "Freq": 237
     },
     {
       "Var1": "nlognbot",
-      "Freq": 221
+      "Freq": 227
+    },
+    {
+      "Var1": "theInfernobot",
+      "Freq": 226
     },
     {
       "Var1": "xaelbot",
-      "Freq": 218
+      "Freq": 220
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 204
+      "Freq": 206
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 183
-    },
-    {
-      "Var1": "TheNosProgramer",
-      "Freq": 162
+      "Freq": 184
     },
     {
       "Var1": "chidambara09",
-      "Freq": 143
+      "Freq": 157
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 142
+      "Var1": "TheNosProgramer",
+      "Freq": 155
     },
     {
       "Var1": "Taieb_Bot",
-      "Freq": 142
+      "Freq": 140
+    },
+    {
+      "Var1": "nodeQuotesBot",
+      "Freq": 131
     },
     {
       "Var1": "CodebloodedBot",
-      "Freq": 122
+      "Freq": 129
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 114
-    },
-    {
-      "Var1": "NetworkIndie",
-      "Freq": 110
+      "Freq": 120
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 109
+      "Freq": 112
     },
     {
-      "Var1": "redianbot",
-      "Freq": 106
+      "Var1": "NetworkIndie",
+      "Freq": 108
     },
     {
       "Var1": "anglehernandez",
       "Freq": 105
     },
     {
+      "Var1": "ineelbot",
+      "Freq": 103
+    },
+    {
       "Var1": "codeislife2",
-      "Freq": 101
+      "Freq": 94
     }
   ],
   "top10_tweets_like": ["😱 Clear Demonstration of Reinforcement Learning \n\n#theinsaneapp #ML #AI\n#MachineLearning #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning #Coding #ArtificialIntelligence \n\nCredits: @DrIsaPantami https://t.co/1aO1ZTRA4M", "Y'all, the {tidygeocoder} #rstats package by @JesseCambon makes geocoding addresses *jaw-droppingly* trivial! (h/t @asmae_toumi) (code here: https://t.co/LOv858tCbI) https://t.co/SR8Oy6VVrd", "I'm so happy that my submission on humanitarian data science with #rstats was accepted for the next #rstudioconf \nLooking forward to discussing this topic and thanks @Shel_Kariuki\nfor encouraging me", "R View's \"Top 40\" New CRAN Packages - August 2020\n146 new #rstats packages joined CRAN in Aug \nCheck out R View's top picks in Computational Methods, Genomics, Insurance, ML, Maths, Medicine, Time Series, Utilities, &amp; Visualization\nhttps://t.co/yfc2juxrpS\n#rstats #DataScience https://t.co/dBnYsttlqx", "How to Automate PowerPoint Slidedecks with R  {https://t.co/s2KjZauFB9} #rstats #DataScience", "Bayesian Methods for Hackers. #BigData #Analytics #DataScience #AI #MachineLearning #CyberSecurity #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/9gzY1WqPWJ https://t.co/l3nhdc5cTW", "Tidy Modeling with R, a book on using the tidymodels package for statistical analysis by @topepos and @juliasilge, available online at https://t.co/qH7bA8tpR8 #rstats", "✍️🗺 \"concept-maps • Concept maps for all things data science\"\n\n👤 Greg Wilson @gvwilson; RStudio @rstudio \n\nhttps://t.co/Rj2y6LZPBy\n#rstats https://t.co/Zv8ORF6q3z", "Opened up #rstats for the first time in 3 months to do some actual work (rather than quickly simulating something for a review or a student question), and I missed it so much. \n\nTo future Eiko: code more, do other stuff less in 2021. https://t.co/JDTZlCgyF2", "Using R on Google Colab with {tidyverse} – Video  {https://t.co/acpn68dGyw} #rstats #DataScience"],
