@@ -1,72 +1,76 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8130,
-      "average_tweets_per_hour": 339,
-      "tweeters_today": 1573,
-      "total_likes_today": 5351
+      "total_tweets_today": 8213,
+      "average_tweets_per_hour": 342,
+      "tweeters_today": 1589,
+      "total_likes_today": 5402
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 232
+      "Freq": 240
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 222
+      "Freq": 227
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 206
+      "Freq": 200
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 178
+      "Freq": 177
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 158
+      "Freq": 159
     },
     {
       "Var1": "100DaysOfCode",
-      "Freq": 127
+      "Freq": 140
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 123
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 92
-    },
-    {
       "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 91
+      "Freq": 103
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT",
-      "Freq": 87
+      "Freq": 90
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 83
+      "Var1": "rstats DataScience",
+      "Freq": 88
     },
     {
       "Var1": "Mathematics MachineLearning BigData Analytics DataScience IoT IIoT Python",
       "Freq": 80
     },
     {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 76
+    },
+    {
       "Var1": "Mathematics FPGA BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 65
+    },
+    {
+      "Var1": "Programming Probability Statistics BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 64
     },
     {
       "Var1": "IoT BigData Analytics DataScience AI MachineLearning",
       "Freq": 63
     },
     {
-      "Var1": "Programming Probability Statistics BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 62
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 60
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python",
@@ -74,103 +78,99 @@
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 59
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 58
+      "Freq": 57
     },
     {
       "Var1": "Algorithms BigData Analytics",
       "Freq": 54
     },
     {
-      "Var1": "DataSets LifeSciences ScienceTwitter DataScience phdchat",
-      "Freq": 53
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "LlnuxBot",
-      "Freq": 328
+      "Var1": "dailyvigour",
+      "Freq": 356
     },
     {
-      "Var1": "dailyvigour",
-      "Freq": 305
+      "Var1": "LlnuxBot",
+      "Freq": 337
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 262
-    },
-    {
-      "Var1": "javascript_bot_",
-      "Freq": 247
+      "Freq": 261
     },
     {
       "Var1": "nlognbot",
-      "Freq": 245
+      "Freq": 253
+    },
+    {
+      "Var1": "javascript_bot_",
+      "Freq": 251
     },
     {
       "Var1": "xaelbot",
-      "Freq": 242
+      "Freq": 243
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 208
+      "Freq": 232
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 189
+      "Freq": 193
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 183
+      "Freq": 184
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 169
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 158
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 154
+      "Freq": 164
     },
     {
       "Var1": "codeislife2",
-      "Freq": 147
+      "Freq": 151
+    },
+    {
+      "Var1": "datasciencebot_",
+      "Freq": 148
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 145
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 143
-    },
-    {
-      "Var1": "ineelbot",
-      "Freq": 125
-    },
-    {
-      "Var1": "theInfernobot",
-      "Freq": 118
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 117
-    },
-    {
-      "Var1": "rstatstweet",
-      "Freq": 117
+      "Freq": 142
     },
     {
       "Var1": "AlgorithmsB",
-      "Freq": 112
+      "Freq": 131
+    },
+    {
+      "Var1": "ineelbot",
+      "Freq": 121
     },
     {
       "Var1": "adelabdelmene10",
       "Freq": 111
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 109
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 108
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 107
     }
   ],
-  "top10_tweets_like": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "Whether you're a football/soccer fan or not, this is a great walk-through of basic class construction, validation, etc…\n⚽️ “S3 Classes and {vctrs} to Create a Soccer Pitch Control Model” by @TonyElHabr \nhttps://t.co/6VIEno8n3l #rstats", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/ZLjoxCWdEc", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "I'm using the {patchwork} package more and more to stitch together plots. Here's a viz I just made (using the {gganonymize} package to remove confidential info). #rstats \n\n{patchwork}: https://t.co/NyjKC0uSXQ ( @thomasp85) \n{gganonymize}: https://t.co/FIFkz8rPjO (@Emil_Hvitfeldt) https://t.co/RmnhEgHau0", "How to write your own R package and publish it on CRAN  {https://t.co/mCveNFFtE6} #rstats #DataScience", "r5r is a computational package for rapid realistic routing on multimodal transport networks based on R5\n👉https://t.co/2zBvxzethH\n\nr5r is currently available for #rstats on CRAN🎉\nThis thread will periodically bring updates of the📦. RT or Like this tweet to stay tuned! #r5rstats https://t.co/fuvrxyGiJC"],
-  "top10_tweets_retweet": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "Whether you're a football/soccer fan or not, this is a great walk-through of basic class construction, validation, etc…\n⚽️ “S3 Classes and {vctrs} to Create a Soccer Pitch Control Model” by @TonyElHabr \nhttps://t.co/6VIEno8n3l #rstats", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/ZLjoxCWdEc", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "I'm using the {patchwork} package more and more to stitch together plots. Here's a viz I just made (using the {gganonymize} package to remove confidential info). #rstats \n\n{patchwork}: https://t.co/NyjKC0uSXQ ( @thomasp85) \n{gganonymize}: https://t.co/FIFkz8rPjO (@Emil_Hvitfeldt) https://t.co/RmnhEgHau0", "How to write your own R package and publish it on CRAN  {https://t.co/mCveNFFtE6} #rstats #DataScience", "r5r is a computational package for rapid realistic routing on multimodal transport networks based on R5\n👉https://t.co/2zBvxzethH\n\nr5r is currently available for #rstats on CRAN🎉\nThis thread will periodically bring updates of the📦. RT or Like this tweet to stay tuned! #r5rstats https://t.co/fuvrxyGiJC"]
+  "top10_tweets_like": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "Whether you're a football/soccer fan or not, this is a great walk-through of basic class construction, validation, etc…\n⚽️ “S3 Classes and {vctrs} to Create a Soccer Pitch Control Model” by @TonyElHabr \nhttps://t.co/6VIEno8n3l #rstats", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/ZLjoxCWdEc", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "I'm using the {patchwork} package more and more to stitch together plots. Here's a viz I just made (using the {gganonymize} package to remove confidential info). #rstats \n\n{patchwork}: https://t.co/NyjKC0uSXQ ( @thomasp85) \n{gganonymize}: https://t.co/FIFkz8rPjO (@Emil_Hvitfeldt) https://t.co/RmnhEgHau0", "How to write your own R package and publish it on CRAN  {https://t.co/mCveNFFtE6} #rstats #DataScience", "r5r is a computational package for rapid realistic routing on multimodal transport networks based on R5\n👉https://t.co/2zBvxzethH\n\nr5r is currently available for #rstats on CRAN🎉\nThis thread will periodically bring updates of the📦. RT or Like this tweet to stay tuned! #r5rstats https://t.co/fuvrxyGiJC"],
+  "top10_tweets_retweet": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "Whether you're a football/soccer fan or not, this is a great walk-through of basic class construction, validation, etc…\n⚽️ “S3 Classes and {vctrs} to Create a Soccer Pitch Control Model” by @TonyElHabr \nhttps://t.co/6VIEno8n3l #rstats", "Learn Python 3 in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/AZfAzA3WUK https://t.co/ZLjoxCWdEc", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "I'm using the {patchwork} package more and more to stitch together plots. Here's a viz I just made (using the {gganonymize} package to remove confidential info). #rstats \n\n{patchwork}: https://t.co/NyjKC0uSXQ ( @thomasp85) \n{gganonymize}: https://t.co/FIFkz8rPjO (@Emil_Hvitfeldt) https://t.co/RmnhEgHau0", "How to write your own R package and publish it on CRAN  {https://t.co/mCveNFFtE6} #rstats #DataScience", "r5r is a computational package for rapid realistic routing on multimodal transport networks based on R5\n👉https://t.co/2zBvxzethH\n\nr5r is currently available for #rstats on CRAN🎉\nThis thread will periodically bring updates of the📦. RT or Like this tweet to stay tuned! #r5rstats https://t.co/fuvrxyGiJC"]
 }
