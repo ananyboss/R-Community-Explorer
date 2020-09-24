@@ -1,52 +1,48 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8019,
-      "average_tweets_per_hour": 334,
-      "tweeters_today": 1698,
-      "total_likes_today": 5838
+      "total_tweets_today": 8305,
+      "average_tweets_per_hour": 346,
+      "tweeters_today": 1759,
+      "total_likes_today": 6311
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 331
+      "Freq": 348
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 209
+      "Freq": 205
     },
     {
       "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 149
+      "Freq": 160
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 146
+      "Freq": 155
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT",
-      "Freq": 129
+      "Freq": 131
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 108
+      "Freq": 105
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 103
+      "Freq": 102
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 98
     },
     {
       "Var1": "Mathematics MachineLearning BigData Analytics DataScience IoT IIoT Python",
       "Freq": 94
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 82
-    },
-    {
-      "Var1": "100DaysOfCode",
-      "Freq": 81
     },
     {
       "Var1": "MachineLearning Statistics BigData DataScience",
@@ -57,16 +53,28 @@
       "Freq": 77
     },
     {
+      "Var1": "Books BigData Analytics DataScience RPA IoT IIoT",
+      "Freq": 77
+    },
+    {
+      "Var1": "100DaysOfCode",
+      "Freq": 71
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 70
     },
     {
-      "Var1": "Books BigData Analytics DataScience RPA IoT IIoT",
-      "Freq": 69
+      "Var1": "Cybersecurity BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 70
     },
     {
-      "Var1": "Cybersecurity BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 66
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 68
+    },
+    {
+      "Var1": "MachineLearning Books BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 63
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT RStats",
@@ -77,22 +85,14 @@
       "Freq": 62
     },
     {
-      "Var1": "MachineLearning Books BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 61
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
+      "Var1": "Azure DRaaS BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 60
-    },
-    {
-      "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 59
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 314
+      "Freq": 341
     },
     {
       "Var1": "LlnuxBot",
@@ -100,77 +100,77 @@
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 273
+      "Freq": 279
     },
     {
       "Var1": "nlognbot",
-      "Freq": 261
+      "Freq": 257
     },
     {
       "Var1": "xaelbot",
-      "Freq": 255
+      "Freq": 256
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 248
+      "Freq": 251
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 207
+      "Freq": 217
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 204
+      "Freq": 212
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 199
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 170
+      "Freq": 202
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 160
+      "Freq": 197
     },
     {
-      "Var1": "codeislife2",
-      "Freq": 154
+      "Var1": "CodeGnuts",
+      "Freq": 164
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 154
+      "Freq": 160
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 149
+      "Freq": 159
+    },
+    {
+      "Var1": "codeislife2",
+      "Freq": 158
     },
     {
       "Var1": "AlgorithmsB",
-      "Freq": 119
+      "Freq": 129
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 114
+      "Freq": 119
     },
     {
       "Var1": "ineelbot",
-      "Freq": 110
+      "Freq": 118
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 108
+      "Freq": 109
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 95
+      "Freq": 96
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 94
     }
   ],
-  "top10_tweets_like": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "#rstats do you ever get to a point of coding in R where you actually remember pch symbols or do you always have to google them? I'm at the point where I want to print this on a t-shirt https://t.co/ZbnFw5j7Xi", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "The average day of me as PhD student. #RStats #phdchat #phdlife #AcademicChatter #AcademicTwitter. Current mood: 🥱. https://t.co/nuKLwe9SRo"],
-  "top10_tweets_retweet": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "#rstats do you ever get to a point of coding in R where you actually remember pch symbols or do you always have to google them? I'm at the point where I want to print this on a t-shirt https://t.co/ZbnFw5j7Xi", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "The average day of me as PhD student. #RStats #phdchat #phdlife #AcademicChatter #AcademicTwitter. Current mood: 🥱. https://t.co/nuKLwe9SRo"]
+  "top10_tweets_like": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "#rstats do you ever get to a point of coding in R where you actually remember pch symbols or do you always have to google them? I'm at the point where I want to print this on a t-shirt https://t.co/ZbnFw5j7Xi", "What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "I've Compiled A List of the Best #MachineLearning #Books. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YuXgKs7JP7 https://t.co/UBtO6JsuF8"],
+  "top10_tweets_retweet": ["Harvard Is Offering Free Online Courses for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DjN8FYzd5b https://t.co/9b680hv10r", "I’m all in, #rstats fam! Please honk and wave if you see me around Cleveland! 😊 https://t.co/ys9L1A9flL", "Free #Calculus Book from MIT. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/j6GKav6C1P https://t.co/loCIRKD7Hk", "If you are in the mood for some #rstats modeling, this week's #TidyTuesday data on Himalayan climbing expeditions 🏔 is really interesting! \n\nIn this screencast, I walk through how to predict the probability of surviving 😬 on one of these expeditions.\nhttps://t.co/TTQbbRJUzI", "#rstats do you ever get to a point of coding in R where you actually remember pch symbols or do you always have to google them? I'm at the point where I want to print this on a t-shirt https://t.co/ZbnFw5j7Xi", "What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "A Colossal Collection of Cheat Sheets for AI, NumPy, and Neural Networks, #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/ZEoA3nZTSJ https://t.co/i7JVM8MNgn", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "I've Compiled A List of the Best #MachineLearning #Books. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YuXgKs7JP7 https://t.co/UBtO6JsuF8"]
 }
