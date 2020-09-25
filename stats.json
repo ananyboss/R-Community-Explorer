@@ -1,48 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8139,
-      "average_tweets_per_hour": 339,
-      "tweeters_today": 1866,
-      "total_likes_today": 5909
+      "total_tweets_today": 6946,
+      "average_tweets_per_hour": 289,
+      "tweeters_today": 1658,
+      "total_likes_today": 5324
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 328
+      "Freq": 254
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 173
+      "Freq": 153
     },
     {
       "Var1": "RStats",
-      "Freq": 146
+      "Freq": 138
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 114
-    },
-    {
-      "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 112
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 111
+      "Freq": 107
     },
     {
       "Var1": "MachineLearning Books BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 101
+      "Freq": 102
     },
     {
       "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
-      "Freq": 90
+      "Freq": 99
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 83
+      "Var1": "rstats DataScience",
+      "Freq": 99
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT PyTorch RStats",
@@ -57,11 +49,11 @@
       "Freq": 75
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT",
+      "Var1": "Calculus BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
       "Freq": 72
     },
     {
-      "Var1": "100DaysOfCode",
+      "Var1": "AWS BigData",
       "Freq": 70
     },
     {
@@ -73,8 +65,8 @@
       "Freq": 68
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 67
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 66
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
@@ -82,95 +74,103 @@
     },
     {
       "Var1": "lidR rstats",
-      "Freq": 64
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 61
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 61
+    },
+    {
+      "Var1": "CloudComputing BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 56
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "dailyvigour",
-      "Freq": 330
+      "Var1": "rstatstweet",
+      "Freq": 289
     },
     {
-      "Var1": "LlnuxBot",
-      "Freq": 285
+      "Var1": "dailyvigour",
+      "Freq": 275
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 272
+      "Freq": 241
     },
     {
-      "Var1": "rstatstweet",
-      "Freq": 272
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 257
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 246
-    },
-    {
-      "Var1": "javascript_bot_",
+      "Var1": "LlnuxBot",
       "Freq": 239
     },
     {
+      "Var1": "xaelbot",
+      "Freq": 207
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 196
+    },
+    {
+      "Var1": "javascript_bot_",
+      "Freq": 189
+    },
+    {
       "Var1": "rstats_tweets",
-      "Freq": 222
+      "Freq": 189
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 199
-    },
-    {
-      "Var1": "TheNosProgramer",
-      "Freq": 184
+      "Freq": 170
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 178
+      "Freq": 149
+    },
+    {
+      "Var1": "TheNosProgramer",
+      "Freq": 130
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 148
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 142
+      "Freq": 127
     },
     {
       "Var1": "codeislife2",
-      "Freq": 141
+      "Freq": 119
+    },
+    {
+      "Var1": "Fabriciosx",
+      "Freq": 117
     },
     {
       "Var1": "ineelbot",
-      "Freq": 115
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 104
+      "Freq": 97
     },
     {
       "Var1": "chidambara09",
-      "Freq": 103
-    },
-    {
-      "Var1": "techtrendingnow",
-      "Freq": 101
+      "Freq": 94
     },
     {
       "Var1": "AlgorithmsB",
-      "Freq": 99
+      "Freq": 87
+    },
+    {
+      "Var1": "techtrendingnow",
+      "Freq": 85
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 77
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 97
+      "Freq": 73
     }
   ],
-  "top10_tweets_like": ["What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "Fall is here and a lot of students are starting their journey as #rstats users. This can be tough, especially with all the barriers to learning that 2020 is throwing at us. Here are some tips (almost all from @jennybryan!) I wish I’d followed from the start of my #rstats career", "I've Compiled A List of the Best #MachineLearning #Books. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YuXgKs7JP7 https://t.co/UBtO6JsuF8", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "when Hasenhüttl's press met Tanguy Ndombele\n\nmade using soccerAnimate by @DatoFutbol_cl \n\n#rstats https://t.co/PhEeBRoQXq", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/pq4sNia6L0", "The average day of me as PhD student. #RStats #phdchat #phdlife #AcademicChatter #AcademicTwitter. Current mood: 🥱. https://t.co/nuKLwe9SRo", "During the last 2 years I have created a lot of #dataviz. This has almost exclusively been done using #rstats and #ggplot2. I am not the best coder, but I would like to make this code available online so it can be used and improved. Can I have suggestions for best way to do this. https://t.co/Ectq1dk0aZ", "I've been feeling particularly inspired by this week's #TidyTuesday so I made another plot! This is a simple scatterplot of peak height by year of first ascent, but with a twist: each point is also represented by the peak of a randomly generated mountain! #rstats https://t.co/CqNQjdMYXP"],
-  "top10_tweets_retweet": ["What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "Fall is here and a lot of students are starting their journey as #rstats users. This can be tough, especially with all the barriers to learning that 2020 is throwing at us. Here are some tips (almost all from @jennybryan!) I wish I’d followed from the start of my #rstats career", "I've Compiled A List of the Best #MachineLearning #Books. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YuXgKs7JP7 https://t.co/UBtO6JsuF8", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "when Hasenhüttl's press met Tanguy Ndombele\n\nmade using soccerAnimate by @DatoFutbol_cl \n\n#rstats https://t.co/PhEeBRoQXq", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/pq4sNia6L0", "The average day of me as PhD student. #RStats #phdchat #phdlife #AcademicChatter #AcademicTwitter. Current mood: 🥱. https://t.co/nuKLwe9SRo", "During the last 2 years I have created a lot of #dataviz. This has almost exclusively been done using #rstats and #ggplot2. I am not the best coder, but I would like to make this code available online so it can be used and improved. Can I have suggestions for best way to do this. https://t.co/Ectq1dk0aZ", "I've been feeling particularly inspired by this week's #TidyTuesday so I made another plot! This is a simple scatterplot of peak height by year of first ascent, but with a twist: each point is also represented by the peak of a randomly generated mountain! #rstats https://t.co/CqNQjdMYXP"]
+  "top10_tweets_like": ["Fall is here and a lot of students are starting their journey as #rstats users. This can be tough, especially with all the barriers to learning that 2020 is throwing at us. Here are some tips (almost all from @jennybryan!) I wish I’d followed from the start of my #rstats career", "What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "I've Compiled A List of the Best #MachineLearning #Books. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YuXgKs7JP7 https://t.co/UBtO6JsuF8", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "when Hasenhüttl's press met Tanguy Ndombele\n\nmade using soccerAnimate by @DatoFutbol_cl \n\n#rstats https://t.co/PhEeBRoQXq", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/pq4sNia6L0", "The average day of me as PhD student. #RStats #phdchat #phdlife #AcademicChatter #AcademicTwitter. Current mood: 🥱. https://t.co/nuKLwe9SRo", "I've been feeling particularly inspired by this week's #TidyTuesday so I made another plot! This is a simple scatterplot of peak height by year of first ascent, but with a twist: each point is also represented by the peak of a randomly generated mountain! #rstats https://t.co/CqNQjdMYXP", "During the last 2 years I have created a lot of #dataviz. This has almost exclusively been done using #rstats and #ggplot2. I am not the best coder, but I would like to make this code available online so it can be used and improved. Can I have suggestions for best way to do this. https://t.co/Ectq1dk0aZ"],
+  "top10_tweets_retweet": ["Fall is here and a lot of students are starting their journey as #rstats users. This can be tough, especially with all the barriers to learning that 2020 is throwing at us. Here are some tips (almost all from @jennybryan!) I wish I’d followed from the start of my #rstats career", "What the hell!? WHEN DID THIS HAPPEN!?\n\nThis is gonna get interesting..\n\n #RStats https://t.co/0X2U10GlfY", "I've Compiled A List of the Best #MachineLearning #Books. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/YuXgKs7JP7 https://t.co/UBtO6JsuF8", "A big thanks to everyone who submitted to rstudio::global()! This year was particularly tough because we received more submissions than ever (240!!) and had fewer talks slots than usual (just 30). #rstats", "The peer-reviewed manuscript for the #lidR #rstats package is finally out! I'm proud to be part of this international, truly collaborative, effort facilitating #lidar analyses for everyone, transparent and reproducible science, and it's #free!\nhttps://t.co/OSGviTa2Os", "when Hasenhüttl's press met Tanguy Ndombele\n\nmade using soccerAnimate by @DatoFutbol_cl \n\n#rstats https://t.co/PhEeBRoQXq", "13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/pq4sNia6L0", "The average day of me as PhD student. #RStats #phdchat #phdlife #AcademicChatter #AcademicTwitter. Current mood: 🥱. https://t.co/nuKLwe9SRo", "I've been feeling particularly inspired by this week's #TidyTuesday so I made another plot! This is a simple scatterplot of peak height by year of first ascent, but with a twist: each point is also represented by the peak of a randomly generated mountain! #rstats https://t.co/CqNQjdMYXP", "During the last 2 years I have created a lot of #dataviz. This has almost exclusively been done using #rstats and #ggplot2. I am not the best coder, but I would like to make this code available online so it can be used and improved. Can I have suggestions for best way to do this. https://t.co/Ectq1dk0aZ"]
 }
