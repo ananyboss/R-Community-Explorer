@@ -1,44 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8595,
-      "average_tweets_per_hour": 358,
-      "tweeters_today": 1623,
-      "total_likes_today": 4717
+      "total_tweets_today": 8132,
+      "average_tweets_per_hour": 339,
+      "tweeters_today": 1573,
+      "total_likes_today": 4094
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
-      "Freq": 236
+      "Var1": "tidyverse rstats",
+      "Freq": 198
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 204
+      "Var1": "DataScience MachineLearning BigData Analytics AI IoT IIoT Python RStats",
+      "Freq": 193
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 180
+      "Freq": 192
     },
     {
       "Var1": "RStats",
-      "Freq": 173
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 136
+      "Freq": 170
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 120
+      "Freq": 126
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 119
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
+      "Freq": 120
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 112
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 109
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -49,14 +49,6 @@
       "Freq": 83
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 80
-    },
-    {
-      "Var1": "InfoSec BigData Analytics DataScience CyberSecurity IoT IIoT Python RStats",
-      "Freq": 79
-    },
-    {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 79
     },
@@ -65,8 +57,16 @@
       "Freq": 76
     },
     {
+      "Var1": "rstats DataScience",
+      "Freq": 74
+    },
+    {
       "Var1": "DataScience Books BigData Analytics IoT IIoT Python RStats JavaScript TensorFlow Java",
-      "Freq": 64
+      "Freq": 69
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience",
+      "Freq": 59
     },
     {
       "Var1": "DataScience BigData Analytics AI MachineLearning IoT",
@@ -77,86 +77,86 @@
       "Freq": 53
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience",
-      "Freq": 51
-    },
-    {
       "Var1": "BigData Analytics DataScience",
       "Freq": 50
     },
     {
-      "Var1": "Python",
+      "Var1": "InfoSec BigData Analytics DataScience CyberSecurity IoT IIoT Python RStats",
       "Freq": 49
+    },
+    {
+      "Var1": "DeepLearning Analytics",
+      "Freq": 48
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "dailyvigour",
-      "Freq": 415
+      "Var1": "rstatstweet",
+      "Freq": 362
     },
     {
-      "Var1": "rstatstweet",
-      "Freq": 369
+      "Var1": "dailyvigour",
+      "Freq": 344
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 345
+      "Freq": 322
     },
     {
       "Var1": "xaelbot",
-      "Freq": 317
+      "Freq": 298
     },
     {
       "Var1": "nlognbot",
-      "Freq": 307
+      "Freq": 293
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 303
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 277
+      "Freq": 288
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 273
+      "Freq": 265
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 243
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 208
+      "Freq": 201
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 178
+      "Freq": 174
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 173
-    },
-    {
-      "Var1": "Fabriciosx",
-      "Freq": 158
+      "Freq": 162
     },
     {
       "Var1": "ineelbot",
-      "Freq": 158
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 155
-    },
-    {
-      "Var1": "codeislife2",
-      "Freq": 153
+      "Freq": 149
     },
     {
       "Var1": "AlgorithmsB",
       "Freq": 147
     },
     {
+      "Var1": "codeislife2",
+      "Freq": 146
+    },
+    {
+      "Var1": "Fabriciosx",
+      "Freq": 146
+    },
+    {
       "Var1": "TheSecretJunio1",
-      "Freq": 138
+      "Freq": 133
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 128
     },
     {
       "Var1": "Rahul_RPandya",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 120
+      "Freq": 121
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 91
+      "Freq": 90
     }
   ],
-  "top10_tweets_like": ["13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/pq4sNia6L0", "\"Build an entire language around data analysis and machine learning. What could go wrong?\"🤔\n\nSkynet is coming... and it runs on R 🔥🤖(sound on)\n\n1/5‼️#rayrender updated with new features that made this trailer possible! \n\nFull #rstats animation code: https://t.co/dwLhqjdxmQ https://t.co/zaGygFGX66", "\"Boxes\" is one of the series I made during my twitter break. I'm not sure why, but I find this collection oddly soothing #rstats #generative https://t.co/VRBaeWX9qV", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/uvrN1nlP8s https://t.co/xh9Fla7m2X", "Just released the \"SC2API\" package for the R programming language. The package is a wrapper for Blizzard's Starcraft 2 API and is now officially published on CRAN! #rstats\n\nHere is a small vignette demonstrating its use in obtaining MMR distributions:\n\nhttps://t.co/rJibX66z9s", "i'm completely starstruck, even on zoom. the #rstats tidyverse quite literally changed my life https://t.co/92QKZNY7dy", "This week I learned a little SQL to deal with spatial datasets that are unwieldy to work with in #rstats or straight up too big to load into memory. If working with spatial data has ever brought your computer to a crawl, this guide is for you:\nhttps://t.co/GTGJtcmkQh", "📦📈 \"slider • Sliding Window Functions\"\n\n👤 Davis Vaughan @dvaughan32\n\n➡️ compute rolling averages, cumulative sums, rolling regressions, or other “window” based computations\n\nhttps://t.co/1p0vcJniDu\n#rstats https://t.co/CtoVeGFTvV", "📢NEW PAPER! lidR: An R package for analysis of Airborne Laser Scanning (ALS) data\n\n📖(#openaccess): https://t.co/q5sARZUhev\n\n#R #rstats #ALS #LIDAR #LidR \n#RPackage\n\n@AlexisAchim @bi0m3trics @GoodbodyT @PiotrTompalski https://t.co/7wsyNCvu81", "It became increasingly clear to me why #rstats wins and will keep winning: the community that upholds it is just extraordinary. Not just the developers - it's all of us"],
-  "top10_tweets_retweet": ["13 Python #DataScience and #MachineLearning Libraries You Need to Know. #BigData #Analytics #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/BlIlVqimZo https://t.co/pq4sNia6L0", "\"Build an entire language around data analysis and machine learning. What could go wrong?\"🤔\n\nSkynet is coming... and it runs on R 🔥🤖(sound on)\n\n1/5‼️#rayrender updated with new features that made this trailer possible! \n\nFull #rstats animation code: https://t.co/dwLhqjdxmQ https://t.co/zaGygFGX66", "\"Boxes\" is one of the series I made during my twitter break. I'm not sure why, but I find this collection oddly soothing #rstats #generative https://t.co/VRBaeWX9qV", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/uvrN1nlP8s https://t.co/xh9Fla7m2X", "Just released the \"SC2API\" package for the R programming language. The package is a wrapper for Blizzard's Starcraft 2 API and is now officially published on CRAN! #rstats\n\nHere is a small vignette demonstrating its use in obtaining MMR distributions:\n\nhttps://t.co/rJibX66z9s", "i'm completely starstruck, even on zoom. the #rstats tidyverse quite literally changed my life https://t.co/92QKZNY7dy", "This week I learned a little SQL to deal with spatial datasets that are unwieldy to work with in #rstats or straight up too big to load into memory. If working with spatial data has ever brought your computer to a crawl, this guide is for you:\nhttps://t.co/GTGJtcmkQh", "📦📈 \"slider • Sliding Window Functions\"\n\n👤 Davis Vaughan @dvaughan32\n\n➡️ compute rolling averages, cumulative sums, rolling regressions, or other “window” based computations\n\nhttps://t.co/1p0vcJniDu\n#rstats https://t.co/CtoVeGFTvV", "📢NEW PAPER! lidR: An R package for analysis of Airborne Laser Scanning (ALS) data\n\n📖(#openaccess): https://t.co/q5sARZUhev\n\n#R #rstats #ALS #LIDAR #LidR \n#RPackage\n\n@AlexisAchim @bi0m3trics @GoodbodyT @PiotrTompalski https://t.co/7wsyNCvu81", "It became increasingly clear to me why #rstats wins and will keep winning: the community that upholds it is just extraordinary. Not just the developers - it's all of us"]
+  "top10_tweets_like": ["\"Build an entire language around data analysis and machine learning. What could go wrong?\"🤔\n\nSkynet is coming... and it runs on R 🔥🤖(sound on)\n\n1/5‼️#rayrender updated with new features that made this trailer possible! \n\nFull #rstats animation code: https://t.co/dwLhqjdxmQ https://t.co/zaGygFGX66", "\"Boxes\" is one of the series I made during my twitter break. I'm not sure why, but I find this collection oddly soothing #rstats #generative https://t.co/VRBaeWX9qV", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/uvrN1nlP8s https://t.co/xh9Fla7m2X", "i'm completely starstruck, even on zoom. the #rstats tidyverse quite literally changed my life https://t.co/92QKZNY7dy", "Just released the \"SC2API\" package for the R programming language. The package is a wrapper for Blizzard's Starcraft 2 API and is now officially published on CRAN! #rstats\n\nHere is a small vignette demonstrating its use in obtaining MMR distributions:\n\nhttps://t.co/rJibX66z9s", "This week I learned a little SQL to deal with spatial datasets that are unwieldy to work with in #rstats or straight up too big to load into memory. If working with spatial data has ever brought your computer to a crawl, this guide is for you:\nhttps://t.co/GTGJtcmkQh", "📢NEW PAPER! lidR: An R package for analysis of Airborne Laser Scanning (ALS) data\n\n📖(#openaccess): https://t.co/q5sARZUhev\n\n#R #rstats #ALS #LIDAR #LidR \n#RPackage\n\n@AlexisAchim @bi0m3trics @GoodbodyT @PiotrTompalski https://t.co/7wsyNCvu81", "📦📈 \"slider • Sliding Window Functions\"\n\n👤 Davis Vaughan @dvaughan32\n\n➡️ compute rolling averages, cumulative sums, rolling regressions, or other “window” based computations\n\nhttps://t.co/1p0vcJniDu\n#rstats https://t.co/CtoVeGFTvV", "It became increasingly clear to me why #rstats wins and will keep winning: the community that upholds it is just extraordinary. Not just the developers - it's all of us", "Convolution Neural Network Maths Intuition. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/B5G9Vak2W0 https://t.co/4xIsXmQXX3"],
+  "top10_tweets_retweet": ["\"Build an entire language around data analysis and machine learning. What could go wrong?\"🤔\n\nSkynet is coming... and it runs on R 🔥🤖(sound on)\n\n1/5‼️#rayrender updated with new features that made this trailer possible! \n\nFull #rstats animation code: https://t.co/dwLhqjdxmQ https://t.co/zaGygFGX66", "\"Boxes\" is one of the series I made during my twitter break. I'm not sure why, but I find this collection oddly soothing #rstats #generative https://t.co/VRBaeWX9qV", "Free Springer 65 #DataScience #Books. #BigData #Analytics #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/uvrN1nlP8s https://t.co/xh9Fla7m2X", "i'm completely starstruck, even on zoom. the #rstats tidyverse quite literally changed my life https://t.co/92QKZNY7dy", "Just released the \"SC2API\" package for the R programming language. The package is a wrapper for Blizzard's Starcraft 2 API and is now officially published on CRAN! #rstats\n\nHere is a small vignette demonstrating its use in obtaining MMR distributions:\n\nhttps://t.co/rJibX66z9s", "This week I learned a little SQL to deal with spatial datasets that are unwieldy to work with in #rstats or straight up too big to load into memory. If working with spatial data has ever brought your computer to a crawl, this guide is for you:\nhttps://t.co/GTGJtcmkQh", "📢NEW PAPER! lidR: An R package for analysis of Airborne Laser Scanning (ALS) data\n\n📖(#openaccess): https://t.co/q5sARZUhev\n\n#R #rstats #ALS #LIDAR #LidR \n#RPackage\n\n@AlexisAchim @bi0m3trics @GoodbodyT @PiotrTompalski https://t.co/7wsyNCvu81", "📦📈 \"slider • Sliding Window Functions\"\n\n👤 Davis Vaughan @dvaughan32\n\n➡️ compute rolling averages, cumulative sums, rolling regressions, or other “window” based computations\n\nhttps://t.co/1p0vcJniDu\n#rstats https://t.co/CtoVeGFTvV", "It became increasingly clear to me why #rstats wins and will keep winning: the community that upholds it is just extraordinary. Not just the developers - it's all of us", "Convolution Neural Network Maths Intuition. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode\nhttps://t.co/B5G9Vak2W0 https://t.co/4xIsXmQXX3"]
 }
