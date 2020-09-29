@@ -1,40 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7957,
-      "average_tweets_per_hour": 332,
-      "tweeters_today": 1648,
-      "total_likes_today": 5380
+      "total_tweets_today": 7898,
+      "average_tweets_per_hour": 329,
+      "tweeters_today": 1651,
+      "total_likes_today": 5448
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 268
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 220
+      "Freq": 271
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 213
+      "Freq": 212
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 202
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 165
-    },
-    {
-      "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python javascript Nodejs",
-      "Freq": 140
+      "Freq": 156
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 131
     },
     {
+      "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python javascript Nodejs",
+      "Freq": 123
+    },
+    {
       "Var1": "rstats DataScience",
-      "Freq": 117
+      "Freq": 116
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 80
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
@@ -57,7 +61,11 @@
       "Freq": 71
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 70
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 69
     },
     {
@@ -65,58 +73,50 @@
       "Freq": 66
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 65
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 65
-    },
-    {
       "Var1": "Python Algorithms BigData Analytics DataScience IoT IIoT PyTorch",
-      "Freq": 65
+      "Freq": 66
     },
     {
       "Var1": "RStats",
-      "Freq": 63
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 61
+      "Freq": 64
     },
     {
       "Var1": "C CPP MachineLearning DataScientists BigData Analytics DataScience AI IoT",
+      "Freq": 60
+    },
+    {
+      "Var1": "MachineLearning artificialintelligence algorithms deeplearning",
       "Freq": 60
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 438
+      "Freq": 451
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 384
+      "Freq": 382
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 295
+      "Freq": 294
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 267
+      "Freq": 265
     },
     {
       "Var1": "nlognbot",
-      "Freq": 263
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 226
+      "Freq": 262
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 210
+      "Freq": 207
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 204
     },
     {
       "Var1": "nodeQuotesBot",
@@ -124,39 +124,39 @@
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 183
+      "Freq": 181
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 169
-    },
-    {
-      "Var1": "AlgorithmsB",
-      "Freq": 158
+      "Freq": 167
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 150
+      "Freq": 148
+    },
+    {
+      "Var1": "AlgorithmsB",
+      "Freq": 147
     },
     {
       "Var1": "codeislife2",
-      "Freq": 146
+      "Freq": 145
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 133
+      "Freq": 132
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 127
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 122
+      "Freq": 123
     },
     {
       "Var1": "ineelbot",
-      "Freq": 118
+      "Freq": 121
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 115
     },
     {
       "Var1": "TheSecretJunio1",
@@ -171,6 +171,6 @@
       "Freq": 79
     }
   ],
-  "top10_tweets_like": ["#rstats educators, if you've been looking for a no-frills guide for creating a 📦package for learnr tutorials, then I've got just the @RStudioEDU blog post for you! 🧑‍💻\n\nHere's how you make that R package for interactive tutorials: \n\n💻 https://t.co/4lj8FMRtVB https://t.co/6ZCJ1aSJQA", "Blog post about the new {usemodels} 📦!\n\nhttps://t.co/dzDyNLV4Lx\n\nUse it to write out tidymodels templates for your analyses. \n\n#rstats https://t.co/6zNNnj3Zm5", "New blogpost on reusable functions and custom themes for {gt} tables!\n\nIncludes example tables and my recreations w/ #rstats code for:\n- ESPN\n- PFF\n- FiveThirtyEight\n\nThemes/functions can save you lots of time when creating beautiful tables!\n\nhttps://t.co/4BD335VfXc", "A simple {gt} table with the Himalayan expeditions data, trying out the inline histograms of {skimr}\n\ncode: https://t.co/g8ZsMoPck6\n\n#RStats #TidyTuesday #TidyTuesdayTable https://t.co/UdqX2hDoJW", "I came across this cool resource while browsing #rstats. It's really nice to have many of the R books in one place! https://t.co/FmJ4leDB77", "Basics of Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/XJ76hpSnQq https://t.co/XEtVDxgFlo", "When I started learning R, I thought it was just for stats. \n\nI've since come to see it as a workflow tool (https://t.co/2qnRYxwSUs). \n\nHere's a thread about how I recently used R that is a great example of its power to improve your workflow. \n\n#rstats", "🙃 Salio el 4to curso 🆓 en @eanttech \n⏰Si tenes 3hs y queres resolver un caso basado en el mapa del delito con #R 👉 entonces te recomiendo el curso 🆓 de Data Analytics para Ciencias Sociales. L@s creadores🖌️ de esta magia🌟 son 🙋‍♀️@guadag12 y 🙋‍♂️@ramaol \n#RStats #DataAnalytics https://t.co/Hbrt8ZIgD3", "New on CRAN today: tidycensus v. 0.10.2, which includes support for and tools to work with @uscensusbureau ACS microdata.  Many thanks to @StatSteph and @buddyherms for their key contributions.  Read more here: https://t.co/5Rt5ah0kko  #rstats https://t.co/45T5VDm0Fb", "High Performance Python for Data Analytics. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/EipMVF0nIp https://t.co/w9ov64izYl"],
-  "top10_tweets_retweet": ["#rstats educators, if you've been looking for a no-frills guide for creating a 📦package for learnr tutorials, then I've got just the @RStudioEDU blog post for you! 🧑‍💻\n\nHere's how you make that R package for interactive tutorials: \n\n💻 https://t.co/4lj8FMRtVB https://t.co/6ZCJ1aSJQA", "Blog post about the new {usemodels} 📦!\n\nhttps://t.co/dzDyNLV4Lx\n\nUse it to write out tidymodels templates for your analyses. \n\n#rstats https://t.co/6zNNnj3Zm5", "New blogpost on reusable functions and custom themes for {gt} tables!\n\nIncludes example tables and my recreations w/ #rstats code for:\n- ESPN\n- PFF\n- FiveThirtyEight\n\nThemes/functions can save you lots of time when creating beautiful tables!\n\nhttps://t.co/4BD335VfXc", "A simple {gt} table with the Himalayan expeditions data, trying out the inline histograms of {skimr}\n\ncode: https://t.co/g8ZsMoPck6\n\n#RStats #TidyTuesday #TidyTuesdayTable https://t.co/UdqX2hDoJW", "I came across this cool resource while browsing #rstats. It's really nice to have many of the R books in one place! https://t.co/FmJ4leDB77", "Basics of Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/XJ76hpSnQq https://t.co/XEtVDxgFlo", "When I started learning R, I thought it was just for stats. \n\nI've since come to see it as a workflow tool (https://t.co/2qnRYxwSUs). \n\nHere's a thread about how I recently used R that is a great example of its power to improve your workflow. \n\n#rstats", "🙃 Salio el 4to curso 🆓 en @eanttech \n⏰Si tenes 3hs y queres resolver un caso basado en el mapa del delito con #R 👉 entonces te recomiendo el curso 🆓 de Data Analytics para Ciencias Sociales. L@s creadores🖌️ de esta magia🌟 son 🙋‍♀️@guadag12 y 🙋‍♂️@ramaol \n#RStats #DataAnalytics https://t.co/Hbrt8ZIgD3", "New on CRAN today: tidycensus v. 0.10.2, which includes support for and tools to work with @uscensusbureau ACS microdata.  Many thanks to @StatSteph and @buddyherms for their key contributions.  Read more here: https://t.co/5Rt5ah0kko  #rstats https://t.co/45T5VDm0Fb", "High Performance Python for Data Analytics. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/EipMVF0nIp https://t.co/w9ov64izYl"]
+  "top10_tweets_like": ["#rstats educators, if you've been looking for a no-frills guide for creating a 📦package for learnr tutorials, then I've got just the @RStudioEDU blog post for you! 🧑‍💻\n\nHere's how you make that R package for interactive tutorials: \n\n💻 https://t.co/4lj8FMRtVB https://t.co/6ZCJ1aSJQA", "Blog post about the new {usemodels} 📦!\n\nhttps://t.co/dzDyNLV4Lx\n\nUse it to write out tidymodels templates for your analyses. \n\n#rstats https://t.co/6zNNnj3Zm5", "New blogpost on reusable functions and custom themes for {gt} tables!\n\nIncludes example tables and my recreations w/ #rstats code for:\n- ESPN\n- PFF\n- FiveThirtyEight\n\nThemes/functions can save you lots of time when creating beautiful tables!\n\nhttps://t.co/4BD335VfXc", "A simple {gt} table with the Himalayan expeditions data, trying out the inline histograms of {skimr}\n\ncode: https://t.co/g8ZsMoPck6\n\n#RStats #TidyTuesday #TidyTuesdayTable https://t.co/UdqX2hDoJW", "Basics of Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/XJ76hpSnQq https://t.co/XEtVDxgFlo", "I came across this cool resource while browsing #rstats. It's really nice to have many of the R books in one place! https://t.co/FmJ4leDB77", "When I started learning R, I thought it was just for stats. \n\nI've since come to see it as a workflow tool (https://t.co/2qnRYxwSUs). \n\nHere's a thread about how I recently used R that is a great example of its power to improve your workflow. \n\n#rstats", "🙃 Salio el 4to curso 🆓 en @eanttech \n⏰Si tenes 3hs y queres resolver un caso basado en el mapa del delito con #R 👉 entonces te recomiendo el curso 🆓 de Data Analytics para Ciencias Sociales. L@s creadores🖌️ de esta magia🌟 son 🙋‍♀️@guadag12 y 🙋‍♂️@ramaol \n#RStats #DataAnalytics https://t.co/Hbrt8ZIgD3", "High Performance Python for Data Analytics. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/EipMVF0nIp https://t.co/w9ov64izYl", "New on CRAN today: tidycensus v. 0.10.2, which includes support for and tools to work with @uscensusbureau ACS microdata.  Many thanks to @StatSteph and @buddyherms for their key contributions.  Read more here: https://t.co/5Rt5ah0kko  #rstats https://t.co/45T5VDm0Fb"],
+  "top10_tweets_retweet": ["#rstats educators, if you've been looking for a no-frills guide for creating a 📦package for learnr tutorials, then I've got just the @RStudioEDU blog post for you! 🧑‍💻\n\nHere's how you make that R package for interactive tutorials: \n\n💻 https://t.co/4lj8FMRtVB https://t.co/6ZCJ1aSJQA", "Blog post about the new {usemodels} 📦!\n\nhttps://t.co/dzDyNLV4Lx\n\nUse it to write out tidymodels templates for your analyses. \n\n#rstats https://t.co/6zNNnj3Zm5", "New blogpost on reusable functions and custom themes for {gt} tables!\n\nIncludes example tables and my recreations w/ #rstats code for:\n- ESPN\n- PFF\n- FiveThirtyEight\n\nThemes/functions can save you lots of time when creating beautiful tables!\n\nhttps://t.co/4BD335VfXc", "A simple {gt} table with the Himalayan expeditions data, trying out the inline histograms of {skimr}\n\ncode: https://t.co/g8ZsMoPck6\n\n#RStats #TidyTuesday #TidyTuesdayTable https://t.co/UdqX2hDoJW", "Basics of Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/XJ76hpSnQq https://t.co/XEtVDxgFlo", "I came across this cool resource while browsing #rstats. It's really nice to have many of the R books in one place! https://t.co/FmJ4leDB77", "When I started learning R, I thought it was just for stats. \n\nI've since come to see it as a workflow tool (https://t.co/2qnRYxwSUs). \n\nHere's a thread about how I recently used R that is a great example of its power to improve your workflow. \n\n#rstats", "🙃 Salio el 4to curso 🆓 en @eanttech \n⏰Si tenes 3hs y queres resolver un caso basado en el mapa del delito con #R 👉 entonces te recomiendo el curso 🆓 de Data Analytics para Ciencias Sociales. L@s creadores🖌️ de esta magia🌟 son 🙋‍♀️@guadag12 y 🙋‍♂️@ramaol \n#RStats #DataAnalytics https://t.co/Hbrt8ZIgD3", "High Performance Python for Data Analytics. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/EipMVF0nIp https://t.co/w9ov64izYl", "New on CRAN today: tidycensus v. 0.10.2, which includes support for and tools to work with @uscensusbureau ACS microdata.  Many thanks to @StatSteph and @buddyherms for their key contributions.  Read more here: https://t.co/5Rt5ah0kko  #rstats https://t.co/45T5VDm0Fb"]
 }
