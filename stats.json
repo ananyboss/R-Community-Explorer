@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7509,
-      "average_tweets_per_hour": 313,
-      "tweeters_today": 1701,
-      "total_likes_today": 6055
+      "total_tweets_today": 7442,
+      "average_tweets_per_hour": 310,
+      "tweeters_today": 1695,
+      "total_likes_today": 5985
     }
   ],
   "top20_hashtags": [
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 233
-    },
     {
       "Var1": "tidyverse rstats",
       "Freq": 198
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 189
+    },
+    {
       "Var1": "rstats DataScience",
-      "Freq": 187
+      "Freq": 189
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -26,35 +26,39 @@
     },
     {
       "Var1": "100DaysOfCode",
-      "Freq": 132
+      "Freq": 129
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 105
+      "Freq": 111
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 101
+      "Freq": 103
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 98
-    },
-    {
-      "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python",
-      "Freq": 79
+      "Freq": 96
     },
     {
       "Var1": "AI rstats",
-      "Freq": 76
+      "Freq": 77
     },
     {
       "Var1": "rstats rtorch",
-      "Freq": 75
+      "Freq": 76
+    },
+    {
+      "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python",
+      "Freq": 72
+    },
+    {
+      "Var1": "WebDev BigData CyberSecurity IoT IIoT PyTorch Python RStats",
+      "Freq": 72
     },
     {
       "Var1": "Algorithms BigData Analytics DataScience",
-      "Freq": 73
+      "Freq": 70
     },
     {
       "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
@@ -69,23 +73,19 @@
       "Freq": 61
     },
     {
-      "Var1": "rstats datascience",
-      "Freq": 58
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 57
-    },
-    {
       "Var1": "DeepLearning BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 56
+      "Freq": 59
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 55
     },
     {
-      "Var1": "AI Mathematics MachineLearning BigData Analytics",
+      "Var1": "RStats",
+      "Freq": 54
+    },
+    {
+      "Var1": "100DaysOfCode Machinelearning AI IoT 100DaysOfMLCode Python javascript",
       "Freq": 51
     }
   ],
@@ -96,39 +96,39 @@
     },
     {
       "Var1": "dailyvigour",
-      "Freq": 338
+      "Freq": 335
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 231
+      "Freq": 240
     },
     {
       "Var1": "nlognbot",
-      "Freq": 231
-    },
-    {
-      "Var1": "javascript_bot_",
-      "Freq": 229
+      "Freq": 225
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 225
+      "Freq": 224
+    },
+    {
+      "Var1": "javascript_bot_",
+      "Freq": 223
     },
     {
       "Var1": "rstats_tweets",
       "Freq": 220
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 171
+      "Var1": "CodeGnuts",
+      "Freq": 174
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 170
+      "Freq": 161
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 163
+      "Var1": "nodeQuotesBot",
+      "Freq": 154
     },
     {
       "Var1": "Fabriciosx",
@@ -136,7 +136,7 @@
     },
     {
       "Var1": "codeislife2",
-      "Freq": 119
+      "Freq": 120
     },
     {
       "Var1": "chidambara09",
@@ -144,33 +144,33 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 111
+      "Freq": 110
     },
     {
       "Var1": "ServerlessFan",
       "Freq": 108
     },
     {
-      "Var1": "techtrendingnow",
-      "Freq": 101
+      "Var1": "AlgorithmsB",
+      "Freq": 105
     },
     {
       "Var1": "ineelbot",
-      "Freq": 100
+      "Freq": 93
     },
     {
-      "Var1": "AlgorithmsB",
-      "Freq": 92
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 82
+      "Var1": "techtrendingnow",
+      "Freq": 89
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 82
+      "Freq": 83
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 81
     }
   ],
-  "top10_tweets_like": ["bringing this gif back so maybe I will remember it this time #rstats https://t.co/KtL7tfUqeQ", "New on the @rstudio #AI blog: Please allow me to introduce myself: Torch for R https://t.co/LrIZnJuhhH #rstats @PyTorch", "The torch package (native R bindings for the Torch ML framework) is now on CRAN: https://t.co/8fZi4vdkS5 #rstats #rtorch https://t.co/cRoPw1KktX", "We are proud that torch 0.1.0 is now on CRAN. This is the result of almost a year of work. Looking forward to see what are the incredible things the R community will build with it 😀 #rstats https://t.co/3Ma090KJDq", "I wish I had known about this when I worked in Powerpoint a few months back! I definitely have this bookmarked!\n\nExporting editable ggplot graphics to PowerPoint with officer and purrr by @pipinghotdata. #RLadies #RStats\n\nhttps://t.co/9Fo2pTOlc1", "Time Series Classification with Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/bNHJJlgCT1 https://t.co/RbBy1PceNh", "Exploratory data analysis with categorical data  {https://t.co/PF3UgQ2cMZ} #rstats #DataScience", "My new map shows the length of railways on the regional level adjusted by the region size\n\n#railway #europe #transport #DataScience #dataviz #bigdata #rstats #maps https://t.co/fJfFFBizzu", "How to Automate Machine Learning Tasks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/ygTF1jy2R9 https://t.co/vOMxdCjGXx", "A Brief History of Neural Nets and Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/ZgywjbEKlO https://t.co/gIngCvfF6m"],
-  "top10_tweets_retweet": ["bringing this gif back so maybe I will remember it this time #rstats https://t.co/KtL7tfUqeQ", "New on the @rstudio #AI blog: Please allow me to introduce myself: Torch for R https://t.co/LrIZnJuhhH #rstats @PyTorch", "The torch package (native R bindings for the Torch ML framework) is now on CRAN: https://t.co/8fZi4vdkS5 #rstats #rtorch https://t.co/cRoPw1KktX", "We are proud that torch 0.1.0 is now on CRAN. This is the result of almost a year of work. Looking forward to see what are the incredible things the R community will build with it 😀 #rstats https://t.co/3Ma090KJDq", "I wish I had known about this when I worked in Powerpoint a few months back! I definitely have this bookmarked!\n\nExporting editable ggplot graphics to PowerPoint with officer and purrr by @pipinghotdata. #RLadies #RStats\n\nhttps://t.co/9Fo2pTOlc1", "Time Series Classification with Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/bNHJJlgCT1 https://t.co/RbBy1PceNh", "Exploratory data analysis with categorical data  {https://t.co/PF3UgQ2cMZ} #rstats #DataScience", "My new map shows the length of railways on the regional level adjusted by the region size\n\n#railway #europe #transport #DataScience #dataviz #bigdata #rstats #maps https://t.co/fJfFFBizzu", "How to Automate Machine Learning Tasks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/ygTF1jy2R9 https://t.co/vOMxdCjGXx", "A Brief History of Neural Nets and Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/ZgywjbEKlO https://t.co/gIngCvfF6m"]
+  "top10_tweets_like": ["bringing this gif back so maybe I will remember it this time #rstats https://t.co/KtL7tfUqeQ", "New on the @rstudio #AI blog: Please allow me to introduce myself: Torch for R https://t.co/LrIZnJuhhH #rstats @PyTorch", "The torch package (native R bindings for the Torch ML framework) is now on CRAN: https://t.co/8fZi4vdkS5 #rstats #rtorch https://t.co/cRoPw1KktX", "We are proud that torch 0.1.0 is now on CRAN. This is the result of almost a year of work. Looking forward to see what are the incredible things the R community will build with it 😀 #rstats https://t.co/3Ma090KJDq", "I wish I had known about this when I worked in Powerpoint a few months back! I definitely have this bookmarked!\n\nExporting editable ggplot graphics to PowerPoint with officer and purrr by @pipinghotdata. #RLadies #RStats\n\nhttps://t.co/9Fo2pTOlc1", "Time Series Classification with Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/bNHJJlgCT1 https://t.co/RbBy1PceNh", "Exploratory data analysis with categorical data  {https://t.co/PF3UgQ2cMZ} #rstats #DataScience", "My new map shows the length of railways on the regional level adjusted by the region size\n\n#railway #europe #transport #DataScience #dataviz #bigdata #rstats #maps https://t.co/fJfFFBizzu", "How to Automate Machine Learning Tasks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/ygTF1jy2R9 https://t.co/vOMxdCjGXx", "#TidyTuesday Sentiment of Beyonce albums! Using the beyonce package (https://t.co/XSsb876vZk)! #rstats code: https://t.co/xtGVLFKbP1 https://t.co/pVVLtmOQKk"],
+  "top10_tweets_retweet": ["bringing this gif back so maybe I will remember it this time #rstats https://t.co/KtL7tfUqeQ", "New on the @rstudio #AI blog: Please allow me to introduce myself: Torch for R https://t.co/LrIZnJuhhH #rstats @PyTorch", "The torch package (native R bindings for the Torch ML framework) is now on CRAN: https://t.co/8fZi4vdkS5 #rstats #rtorch https://t.co/cRoPw1KktX", "We are proud that torch 0.1.0 is now on CRAN. This is the result of almost a year of work. Looking forward to see what are the incredible things the R community will build with it 😀 #rstats https://t.co/3Ma090KJDq", "I wish I had known about this when I worked in Powerpoint a few months back! I definitely have this bookmarked!\n\nExporting editable ggplot graphics to PowerPoint with officer and purrr by @pipinghotdata. #RLadies #RStats\n\nhttps://t.co/9Fo2pTOlc1", "Time Series Classification with Deep Learning. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/bNHJJlgCT1 https://t.co/RbBy1PceNh", "Exploratory data analysis with categorical data  {https://t.co/PF3UgQ2cMZ} #rstats #DataScience", "My new map shows the length of railways on the regional level adjusted by the region size\n\n#railway #europe #transport #DataScience #dataviz #bigdata #rstats #maps https://t.co/fJfFFBizzu", "How to Automate Machine Learning Tasks. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/ygTF1jy2R9 https://t.co/vOMxdCjGXx", "#TidyTuesday Sentiment of Beyonce albums! Using the beyonce package (https://t.co/XSsb876vZk)! #rstats code: https://t.co/xtGVLFKbP1 https://t.co/pVVLtmOQKk"]
 }
