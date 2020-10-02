@@ -1,28 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7153,
-      "average_tweets_per_hour": 298,
-      "tweeters_today": 1571,
-      "total_likes_today": 5069
+      "total_tweets_today": 7250,
+      "average_tweets_per_hour": 302,
+      "tweeters_today": 1590,
+      "total_likes_today": 5210
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 250
+      "Freq": 259
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 163
+      "Freq": 170
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 154
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 151
+      "Freq": 149
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -33,16 +29,20 @@
       "Freq": 138
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 125
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 130
     },
     {
-      "Var1": "RStats",
-      "Freq": 101
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 126
     },
     {
       "Var1": "100DaysOfCode Machinelearning IoT",
-      "Freq": 89
+      "Freq": 113
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 100
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
@@ -50,7 +50,7 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 84
+      "Freq": 87
     },
     {
       "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats",
@@ -61,12 +61,8 @@
       "Freq": 75
     },
     {
-      "Var1": "C CPP MachineLearning DataScientists BigData Analytics DataScience AI IoT",
-      "Freq": 74
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 68
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 73
     },
     {
       "Var1": "BigData Analytics",
@@ -74,7 +70,15 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 59
+      "Freq": 64
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
+      "Freq": 64
+    },
+    {
+      "Var1": "C CPP MachineLearning DataScientists BigData Analytics DataScience AI IoT",
+      "Freq": 56
     },
     {
       "Var1": "DeepLearning BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
@@ -83,94 +87,90 @@
     {
       "Var1": "MachineLearning BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
       "Freq": 53
-    },
-    {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
-      "Freq": 53
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "dailyvigour",
-      "Freq": 301
-    },
-    {
       "Var1": "rstatstweet",
-      "Freq": 254
+      "Freq": 272
     },
     {
-      "Var1": "javascript_bot_",
-      "Freq": 232
+      "Var1": "dailyvigour",
+      "Freq": 267
     },
     {
       "Var1": "xaelbot",
-      "Freq": 230
+      "Freq": 236
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 226
+      "Freq": 235
+    },
+    {
+      "Var1": "javascript_bot_",
+      "Freq": 234
     },
     {
       "Var1": "nlognbot",
-      "Freq": 221
+      "Freq": 224
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 194
+      "Freq": 209
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 192
+      "Freq": 190
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 179
+      "Freq": 182
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 153
+      "Freq": 149
     },
     {
       "Var1": "chidambara09",
-      "Freq": 135
+      "Freq": 134
     },
     {
       "Var1": "codeislife2",
-      "Freq": 123
+      "Freq": 125
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 122
-    },
-    {
-      "Var1": "Rahul_RPandya",
-      "Freq": 115
+      "Freq": 123
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 115
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 105
+      "Freq": 119
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 101
+      "Freq": 106
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 106
+    },
+    {
+      "Var1": "Rahul_RPandya",
+      "Freq": 103
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 94
+      "Freq": 96
     },
     {
       "Var1": "hubofml",
-      "Freq": 91
+      "Freq": 90
     },
     {
       "Var1": "ineelbot",
       "Freq": 84
     }
   ],
-  "top10_tweets_like": ["If you've upgraded your @rstudio to the fancy new 1.4 preview, you might also want to check out {rsthemes}. Featuring complete IDE and syntax themes, auto theme changing, favorite themes for quick theme access and more! #rstats\nhttps://t.co/lAGoCEXgvS", "Hi twitter! I'm about to embark on a new adventure: the *job search* 😱/🥳\n\nAs an enthusiastic #rstats user, data explorer and communicator with a stats PhD, I'm interested in roles involving both data science education &amp; interesting data problems\n\nHMU - Bay Area/remote preferred", "If someone (me) wanted to learn how do machine learning in #RStats, where would be a good place to start? #MachineLearning #AI", "✍️ \"How to extract tabular data from PDFs with R | Datajournalism How-To's\"\n\n👤 Angelo Zehr @angelozehr \n\nhttps://t.co/FOh7WiAsH0\n#rstats https://t.co/QrYQQXL8cR", "Best #DataScience #Books (Updated for 2020). #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/Np6Xe2IdYH", "Very exciting book coming this month from @CRC_MathStats. '#RMarkdown Cookbook' from @xieyihui, @chrisderv, and @EmilyRiederer will help you enhance your use of and explore the power of this vital tool for creating #rstats documents. https://t.co/Vg4lzdgI4m @rstudio #datascience https://t.co/Xsfg1pq9er", "Tiny Machine Learning: The Next AI Revolution. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/pvmHkYSKRC https://t.co/1Exo8szn4C", "In this week's #tidytuesday screencast, we analyzed lyrics from Beyoncé and Taylor Swift songs!\n\n* Tokenizing natural language with tidytext\n* Comparing albums using TF-IDF\n* Comparing artists using log-odds ratios w/ tidylo\n\nhttps://t.co/k0iWE0h2lW\n🎤🎶🎼#rstats https://t.co/lYshIO7JXk", "📦📝 \"redoc • Reversible Reproducible Documents\"\n\n👤 Noam Ross @noamross \n\n➡️ enable a two-way R Markdown-Microsoft Word workflow. redoc generates Word documents that can be de-rendered back into R Markdown\n\nhttps://t.co/Gq51er3YgI\n#rstats https://t.co/kQVKGBU3Il", "Latest editorial in @AntiquityJ says: \"The programming language R is now widely used for data analysis in the social and natural sciences, including archaeology.\" 😍 https://t.co/akhxg1Kzhx #rstats #openscience"],
-  "top10_tweets_retweet": ["If you've upgraded your @rstudio to the fancy new 1.4 preview, you might also want to check out {rsthemes}. Featuring complete IDE and syntax themes, auto theme changing, favorite themes for quick theme access and more! #rstats\nhttps://t.co/lAGoCEXgvS", "Hi twitter! I'm about to embark on a new adventure: the *job search* 😱/🥳\n\nAs an enthusiastic #rstats user, data explorer and communicator with a stats PhD, I'm interested in roles involving both data science education &amp; interesting data problems\n\nHMU - Bay Area/remote preferred", "If someone (me) wanted to learn how do machine learning in #RStats, where would be a good place to start? #MachineLearning #AI", "✍️ \"How to extract tabular data from PDFs with R | Datajournalism How-To's\"\n\n👤 Angelo Zehr @angelozehr \n\nhttps://t.co/FOh7WiAsH0\n#rstats https://t.co/QrYQQXL8cR", "Best #DataScience #Books (Updated for 2020). #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/Np6Xe2IdYH", "Very exciting book coming this month from @CRC_MathStats. '#RMarkdown Cookbook' from @xieyihui, @chrisderv, and @EmilyRiederer will help you enhance your use of and explore the power of this vital tool for creating #rstats documents. https://t.co/Vg4lzdgI4m @rstudio #datascience https://t.co/Xsfg1pq9er", "Tiny Machine Learning: The Next AI Revolution. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/pvmHkYSKRC https://t.co/1Exo8szn4C", "In this week's #tidytuesday screencast, we analyzed lyrics from Beyoncé and Taylor Swift songs!\n\n* Tokenizing natural language with tidytext\n* Comparing albums using TF-IDF\n* Comparing artists using log-odds ratios w/ tidylo\n\nhttps://t.co/k0iWE0h2lW\n🎤🎶🎼#rstats https://t.co/lYshIO7JXk", "📦📝 \"redoc • Reversible Reproducible Documents\"\n\n👤 Noam Ross @noamross \n\n➡️ enable a two-way R Markdown-Microsoft Word workflow. redoc generates Word documents that can be de-rendered back into R Markdown\n\nhttps://t.co/Gq51er3YgI\n#rstats https://t.co/kQVKGBU3Il", "Latest editorial in @AntiquityJ says: \"The programming language R is now widely used for data analysis in the social and natural sciences, including archaeology.\" 😍 https://t.co/akhxg1Kzhx #rstats #openscience"]
+  "top10_tweets_like": ["If you've upgraded your @rstudio to the fancy new 1.4 preview, you might also want to check out {rsthemes}. Featuring complete IDE and syntax themes, auto theme changing, favorite themes for quick theme access and more! #rstats\nhttps://t.co/lAGoCEXgvS", "Hi twitter! I'm about to embark on a new adventure: the *job search* 😱/🥳\n\nAs an enthusiastic #rstats user, data explorer and communicator with a stats PhD, I'm interested in roles involving both data science education &amp; interesting data problems\n\nHMU - Bay Area/remote preferred", "Very exciting book coming this month from @CRC_MathStats. '#RMarkdown Cookbook' from @xieyihui, @chrisderv, and @EmilyRiederer will help you enhance your use of and explore the power of this vital tool for creating #rstats documents. https://t.co/Vg4lzdgI4m @rstudio #datascience https://t.co/Xsfg1pq9er", "If someone (me) wanted to learn how do machine learning in #RStats, where would be a good place to start? #MachineLearning #AI", "✍️ \"How to extract tabular data from PDFs with R | Datajournalism How-To's\"\n\n👤 Angelo Zehr @angelozehr \n\nhttps://t.co/FOh7WiAsH0\n#rstats https://t.co/QrYQQXL8cR", "Best #DataScience #Books (Updated for 2020). #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/Np6Xe2IdYH", "Tiny Machine Learning: The Next AI Revolution. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/pvmHkYSKRC https://t.co/1Exo8szn4C", "In this week's #tidytuesday screencast, we analyzed lyrics from Beyoncé and Taylor Swift songs!\n\n* Tokenizing natural language with tidytext\n* Comparing albums using TF-IDF\n* Comparing artists using log-odds ratios w/ tidylo\n\nhttps://t.co/k0iWE0h2lW\n🎤🎶🎼#rstats https://t.co/lYshIO7JXk", "📦📝 \"redoc • Reversible Reproducible Documents\"\n\n👤 Noam Ross @noamross \n\n➡️ enable a two-way R Markdown-Microsoft Word workflow. redoc generates Word documents that can be de-rendered back into R Markdown\n\nhttps://t.co/Gq51er3YgI\n#rstats https://t.co/kQVKGBU3Il", "The Essential Network and System Administration Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/hIodHwIXES https://t.co/0HkKmMB2Vz"],
+  "top10_tweets_retweet": ["If you've upgraded your @rstudio to the fancy new 1.4 preview, you might also want to check out {rsthemes}. Featuring complete IDE and syntax themes, auto theme changing, favorite themes for quick theme access and more! #rstats\nhttps://t.co/lAGoCEXgvS", "Hi twitter! I'm about to embark on a new adventure: the *job search* 😱/🥳\n\nAs an enthusiastic #rstats user, data explorer and communicator with a stats PhD, I'm interested in roles involving both data science education &amp; interesting data problems\n\nHMU - Bay Area/remote preferred", "Very exciting book coming this month from @CRC_MathStats. '#RMarkdown Cookbook' from @xieyihui, @chrisderv, and @EmilyRiederer will help you enhance your use of and explore the power of this vital tool for creating #rstats documents. https://t.co/Vg4lzdgI4m @rstudio #datascience https://t.co/Xsfg1pq9er", "If someone (me) wanted to learn how do machine learning in #RStats, where would be a good place to start? #MachineLearning #AI", "✍️ \"How to extract tabular data from PDFs with R | Datajournalism How-To's\"\n\n👤 Angelo Zehr @angelozehr \n\nhttps://t.co/FOh7WiAsH0\n#rstats https://t.co/QrYQQXL8cR", "Best #DataScience #Books (Updated for 2020). #BigData #Analytics #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/0cCvoCGKZn https://t.co/Np6Xe2IdYH", "Tiny Machine Learning: The Next AI Revolution. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/pvmHkYSKRC https://t.co/1Exo8szn4C", "In this week's #tidytuesday screencast, we analyzed lyrics from Beyoncé and Taylor Swift songs!\n\n* Tokenizing natural language with tidytext\n* Comparing albums using TF-IDF\n* Comparing artists using log-odds ratios w/ tidylo\n\nhttps://t.co/k0iWE0h2lW\n🎤🎶🎼#rstats https://t.co/lYshIO7JXk", "📦📝 \"redoc • Reversible Reproducible Documents\"\n\n👤 Noam Ross @noamross \n\n➡️ enable a two-way R Markdown-Microsoft Word workflow. redoc generates Word documents that can be de-rendered back into R Markdown\n\nhttps://t.co/Gq51er3YgI\n#rstats https://t.co/kQVKGBU3Il", "The Essential Network and System Administration Books. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/hIodHwIXES https://t.co/0HkKmMB2Vz"]
 }
