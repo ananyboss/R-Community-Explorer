@@ -1,72 +1,72 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7981,
-      "average_tweets_per_hour": 333,
-      "tweeters_today": 1459,
-      "total_likes_today": 5215
+      "total_tweets_today": 7805,
+      "average_tweets_per_hour": 325,
+      "tweeters_today": 1428,
+      "total_likes_today": 4883
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 299
-    },
-    {
-      "Var1": "100DaysOfCode",
-      "Freq": 180
+      "Var1": "rstats",
+      "Freq": 275
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 168
+      "Freq": 173
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 147
-    },
-    {
-      "Var1": "100DaysOfCode Machinelearning IoT",
-      "Freq": 141
+      "Var1": "100DaysOfCode",
+      "Freq": 171
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 135
+      "Freq": 124
     },
     {
-      "Var1": "RStats",
-      "Freq": 119
+      "Var1": "100DaysOfCode Machinelearning IoT",
+      "Freq": 121
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 114
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 118
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 110
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 90
+      "Var1": "RStats",
+      "Freq": 105
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 88
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 92
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 79
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 74
-    },
-    {
-      "Var1": "RLadies Rstats",
-      "Freq": 72
+      "Freq": 76
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 67
+      "Freq": 73
+    },
+    {
+      "Var1": "RLadies Rstats",
+      "Freq": 64
     },
     {
       "Var1": "100DaysOfCode Machinelearning",
       "Freq": 63
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 61
     },
     {
       "Var1": "Python",
@@ -81,82 +81,78 @@
       "Freq": 56
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats",
-      "Freq": 53
+      "Var1": "Algorithms BigData Analytics DataScience",
+      "Freq": 55
     },
     {
-      "Var1": "RMarkdown",
-      "Freq": 52
+      "Var1": "ApacheSpark BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 51
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 589
+      "Freq": 560
     },
     {
       "Var1": "CodeGnuts",
       "Freq": 320
     },
     {
-      "Var1": "rstatstweet",
+      "Var1": "nodeQuotesBot",
       "Freq": 304
     },
     {
-      "Var1": "nodeQuotesBot",
-      "Freq": 302
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 289
+      "Var1": "rstatstweet",
+      "Freq": 297
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 279
+      "Freq": 282
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 280
     },
     {
       "Var1": "xaelbot",
-      "Freq": 276
+      "Freq": 278
     },
     {
       "Var1": "nlognbot",
-      "Freq": 273
+      "Freq": 275
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 160
+      "Freq": 163
     },
     {
       "Var1": "codeislife2",
-      "Freq": 156
+      "Freq": 155
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 153
+      "Freq": 147
     },
     {
       "Var1": "discover_tech7",
-      "Freq": 143
+      "Freq": 141
     },
     {
       "Var1": "chidambara09",
-      "Freq": 139
+      "Freq": 129
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 121
+      "Freq": 118
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 108
+      "Freq": 109
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 100
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 84
+      "Freq": 88
     },
     {
       "Var1": "cloudnewbie",
@@ -168,9 +164,13 @@
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 78
+      "Freq": 77
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 76
     }
   ],
-  "top10_tweets_like": ["I just learned about the case_when() function in {dplyr}. I'm working on using it to replace the multiple if/else statements in this code snippet from my project. #RStats https://t.co/pNzSyD1z37", "Friends, I mapped the distance to the nearest train station, as many of you suggested, for \n\n🇩🇪Germany \n🇫🇷France \n🇮🇹Italy\n\n#trains #rail #railway #dataviz #DataScience #BigData #maps #rstats https://t.co/ybmlB0Am46", "The process:\n\n1. Data collection\n2. Data cleaning\n3. Visualization\n4. More data cleaning\n5. More visualization\n6. Even more data cleaning\n7. One last attempt at a decent plot\n.\n.\n1076. This was a stupid idea, delete all code &amp; forget it ever happened.\n#datascience #rstats #pydata", "The kid, and I, made recycled nespresso art ☕️ . His is a snake, mine somewhat different. For the love of coffee, and #rstats #tidyverse 🙃 https://t.co/IkOaiPLMG5", "13 Page JavaScript Cheatsheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/S2oRIbTwFU https://t.co/CNGn7NvUv4", "Are looking to learn R for practical statistics as quickly as possible? \n\n'Get R Done' QUICKLY teaches you the basics of R/programming and how to do common stats in R.\n\nNew videos every week.\n\nhttps://t.co/aRceRZLKP5\n\n@AcademicChatter @YTacademics #AcademicTwitter #RStats", "Last week I had the privilege of leading the 3rd annual R Bootcamp for @UOPsych 🦆. Want to learn R this fall? Feel free to check it out! In addition to slides &amp; exercises, there are links to a ton of resources for further learning &amp; practice. 👇 #rstats\n\nhttps://t.co/J7wjAkVXTc", "Glad to announce that robservable is now on CRAN 🎉\n\nThis #rstats package, developed with @timelyportfolio, allows to reuse an @observablehq notebook as an HTML widget in an R session, Shiny app or Rmarkdown document.\n\nhttps://t.co/h7xze22hZB https://t.co/r2AVRMek4i", "I replaced the if/else statements with case_when(). Much nicer! \n\nAlso, I used str_detect to replace variable names! #Rstats https://t.co/bm4mmTxyu4", "Gradient Boosting Trees for Classification: A Beginner’s Guide. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/oQgQ9IMIOQ https://t.co/9zMycxpHUR"],
-  "top10_tweets_retweet": ["I just learned about the case_when() function in {dplyr}. I'm working on using it to replace the multiple if/else statements in this code snippet from my project. #RStats https://t.co/pNzSyD1z37", "Friends, I mapped the distance to the nearest train station, as many of you suggested, for \n\n🇩🇪Germany \n🇫🇷France \n🇮🇹Italy\n\n#trains #rail #railway #dataviz #DataScience #BigData #maps #rstats https://t.co/ybmlB0Am46", "The process:\n\n1. Data collection\n2. Data cleaning\n3. Visualization\n4. More data cleaning\n5. More visualization\n6. Even more data cleaning\n7. One last attempt at a decent plot\n.\n.\n1076. This was a stupid idea, delete all code &amp; forget it ever happened.\n#datascience #rstats #pydata", "The kid, and I, made recycled nespresso art ☕️ . His is a snake, mine somewhat different. For the love of coffee, and #rstats #tidyverse 🙃 https://t.co/IkOaiPLMG5", "13 Page JavaScript Cheatsheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/S2oRIbTwFU https://t.co/CNGn7NvUv4", "Are looking to learn R for practical statistics as quickly as possible? \n\n'Get R Done' QUICKLY teaches you the basics of R/programming and how to do common stats in R.\n\nNew videos every week.\n\nhttps://t.co/aRceRZLKP5\n\n@AcademicChatter @YTacademics #AcademicTwitter #RStats", "Last week I had the privilege of leading the 3rd annual R Bootcamp for @UOPsych 🦆. Want to learn R this fall? Feel free to check it out! In addition to slides &amp; exercises, there are links to a ton of resources for further learning &amp; practice. 👇 #rstats\n\nhttps://t.co/J7wjAkVXTc", "Glad to announce that robservable is now on CRAN 🎉\n\nThis #rstats package, developed with @timelyportfolio, allows to reuse an @observablehq notebook as an HTML widget in an R session, Shiny app or Rmarkdown document.\n\nhttps://t.co/h7xze22hZB https://t.co/r2AVRMek4i", "I replaced the if/else statements with case_when(). Much nicer! \n\nAlso, I used str_detect to replace variable names! #Rstats https://t.co/bm4mmTxyu4", "Gradient Boosting Trees for Classification: A Beginner’s Guide. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/oQgQ9IMIOQ https://t.co/9zMycxpHUR"]
+  "top10_tweets_like": ["I just learned about the case_when() function in {dplyr}. I'm working on using it to replace the multiple if/else statements in this code snippet from my project. #RStats https://t.co/pNzSyD1z37", "Friends, I mapped the distance to the nearest train station, as many of you suggested, for \n\n🇩🇪Germany \n🇫🇷France \n🇮🇹Italy\n\n#trains #rail #railway #dataviz #DataScience #BigData #maps #rstats https://t.co/ybmlB0Am46", "The process:\n\n1. Data collection\n2. Data cleaning\n3. Visualization\n4. More data cleaning\n5. More visualization\n6. Even more data cleaning\n7. One last attempt at a decent plot\n.\n.\n1076. This was a stupid idea, delete all code &amp; forget it ever happened.\n#datascience #rstats #pydata", "The kid, and I, made recycled nespresso art ☕️ . His is a snake, mine somewhat different. For the love of coffee, and #rstats #tidyverse 🙃 https://t.co/IkOaiPLMG5", "13 Page JavaScript Cheatsheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/S2oRIbTwFU https://t.co/CNGn7NvUv4", "Are looking to learn R for practical statistics as quickly as possible? \n\n'Get R Done' QUICKLY teaches you the basics of R/programming and how to do common stats in R.\n\nNew videos every week.\n\nhttps://t.co/aRceRZLKP5\n\n@AcademicChatter @YTacademics #AcademicTwitter #RStats", "Last week I had the privilege of leading the 3rd annual R Bootcamp for @UOPsych 🦆. Want to learn R this fall? Feel free to check it out! In addition to slides &amp; exercises, there are links to a ton of resources for further learning &amp; practice. 👇 #rstats\n\nhttps://t.co/J7wjAkVXTc", "I replaced the if/else statements with case_when(). Much nicer! \n\nAlso, I used str_detect to replace variable names! #Rstats https://t.co/bm4mmTxyu4", "DONT PANIC!! I am Asymptotically Normal!!\n\n#epitwitter #rstats #EconTwitter #medtwitter #statstwitter #DataScience https://t.co/w0sTaLdEbF", "📦⬇ \"downloadthis • Implement Download Buttons in rmarkdown 💾\"\n\n👤 Felipe Mattioni Maturana @felipe_mattioni \n\nhttps://t.co/sMnROG6Olh\n#rstats https://t.co/gbj7a4IdEo"],
+  "top10_tweets_retweet": ["I just learned about the case_when() function in {dplyr}. I'm working on using it to replace the multiple if/else statements in this code snippet from my project. #RStats https://t.co/pNzSyD1z37", "Friends, I mapped the distance to the nearest train station, as many of you suggested, for \n\n🇩🇪Germany \n🇫🇷France \n🇮🇹Italy\n\n#trains #rail #railway #dataviz #DataScience #BigData #maps #rstats https://t.co/ybmlB0Am46", "The process:\n\n1. Data collection\n2. Data cleaning\n3. Visualization\n4. More data cleaning\n5. More visualization\n6. Even more data cleaning\n7. One last attempt at a decent plot\n.\n.\n1076. This was a stupid idea, delete all code &amp; forget it ever happened.\n#datascience #rstats #pydata", "The kid, and I, made recycled nespresso art ☕️ . His is a snake, mine somewhat different. For the love of coffee, and #rstats #tidyverse 🙃 https://t.co/IkOaiPLMG5", "13 Page JavaScript Cheatsheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/S2oRIbTwFU https://t.co/CNGn7NvUv4", "Are looking to learn R for practical statistics as quickly as possible? \n\n'Get R Done' QUICKLY teaches you the basics of R/programming and how to do common stats in R.\n\nNew videos every week.\n\nhttps://t.co/aRceRZLKP5\n\n@AcademicChatter @YTacademics #AcademicTwitter #RStats", "Last week I had the privilege of leading the 3rd annual R Bootcamp for @UOPsych 🦆. Want to learn R this fall? Feel free to check it out! In addition to slides &amp; exercises, there are links to a ton of resources for further learning &amp; practice. 👇 #rstats\n\nhttps://t.co/J7wjAkVXTc", "I replaced the if/else statements with case_when(). Much nicer! \n\nAlso, I used str_detect to replace variable names! #Rstats https://t.co/bm4mmTxyu4", "DONT PANIC!! I am Asymptotically Normal!!\n\n#epitwitter #rstats #EconTwitter #medtwitter #statstwitter #DataScience https://t.co/w0sTaLdEbF", "📦⬇ \"downloadthis • Implement Download Buttons in rmarkdown 💾\"\n\n👤 Felipe Mattioni Maturana @felipe_mattioni \n\nhttps://t.co/sMnROG6Olh\n#rstats https://t.co/gbj7a4IdEo"]
 }
