@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8377,
-      "average_tweets_per_hour": 349,
-      "tweeters_today": 1403,
-      "total_likes_today": 4446
+      "total_tweets_today": 8461,
+      "average_tweets_per_hour": 353,
+      "tweeters_today": 1399,
+      "total_likes_today": 4551
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "100DaysOfCode",
-      "Freq": 247
+      "Freq": 249
     },
     {
       "Var1": "Machinelearning",
@@ -18,43 +18,51 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 162
+      "Freq": 159
     },
     {
       "Var1": "Programming BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 146
+      "Freq": 153
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 125
+    },
+    {
+      "Var1": "100DaysOfCode Machinelearning IoT",
       "Freq": 124
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 115
+      "Freq": 117
     },
     {
       "Var1": "BigData Analytics DataScience NLProc IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 114
     },
     {
-      "Var1": "100DaysOfCode Machinelearning IoT",
-      "Freq": 110
-    },
-    {
       "Var1": "Algorithms BigData Analytics DataScience AI",
-      "Freq": 104
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 101
+      "Freq": 112
     },
     {
       "Var1": "AI Tech BigData",
-      "Freq": 90
+      "Freq": 99
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 99
+    },
+    {
+      "Var1": "DeepLearning Analytics",
+      "Freq": 93
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 85
+    },
+    {
+      "Var1": "Probability Statistics BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 80
     },
     {
       "Var1": "RaspberryPI BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -65,58 +73,50 @@
       "Freq": 77
     },
     {
+      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
+      "Freq": 75
+    },
+    {
       "Var1": "Machinelearning Python",
       "Freq": 73
-    },
-    {
-      "Var1": "DeepLearning Analytics",
-      "Freq": 71
-    },
-    {
-      "Var1": "Probability Statistics BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 71
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 70
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning DataScience rstats 100DaysOfMLCode",
-      "Freq": 70
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 67
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "dailyvigour",
-      "Freq": 487
+      "Freq": 488
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 312
+      "Freq": 332
+    },
+    {
+      "Var1": "Alphabe99195368",
+      "Freq": 297
     },
     {
       "Var1": "javascript_bot_",
       "Freq": 293
     },
     {
-      "Var1": "xaelbot",
+      "Var1": "nlognbot",
       "Freq": 293
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 292
-    },
-    {
-      "Var1": "Alphabe99195368",
-      "Freq": 283
+      "Var1": "xaelbot",
+      "Freq": 288
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 283
+      "Freq": 287
     },
     {
       "Var1": "CodeGnuts",
@@ -128,35 +128,35 @@
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 233
+      "Freq": 225
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 185
+      "Freq": 190
     },
     {
       "Var1": "chidambara09",
-      "Freq": 145
+      "Freq": 153
     },
     {
       "Var1": "codeislife2",
-      "Freq": 137
+      "Freq": 140
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 130
+      "Freq": 128
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 125
+      "Freq": 123
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 114
+      "Freq": 112
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 112
+      "Freq": 110
     },
     {
       "Var1": "AlgorithmsB",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 101
+      "Freq": 102
     },
     {
-      "Var1": "hubofml",
-      "Freq": 96
+      "Var1": "ineelbot",
+      "Freq": 99
     }
   ],
-  "top10_tweets_like": ["How to extract tabular data from PDFs with R https://t.co/02tnq7OQRY #RStats https://t.co/xBCJiB3V6t", "Awesome Cheat Sheets for Popular #Programming Languages. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode \nhttps://t.co/SCb3ZrrfKx https://t.co/WvN25xyag4", "Complete Intro to the 30 Most Essential Data Structures &amp; #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/lkXxQvaN3h https://t.co/5wIvSI6zBn", "Top NLP Books to Read 2020. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DeMtuQhssw https://t.co/COh2mpHmpF", "Having fun with QGIS and #rstats! With the appropriate dev version of @qgis installed, call processing algorithms right from #rstats! (proof of concept only at this point...) https://t.co/SApE7GDiOG #rspatial Thanks to @robinlovelace for keeping the discussion going! https://t.co/jNfCOvy8bU", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n\nhttps://t.co/iiS9Beh8aE\n\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks https://t.co/ZxnkSB9Vfa", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/SmeJ51Wica", "Including this in my logistic regression materials, along with Chelsea's neat plot showing relationship between log odds, odds ratios, and predicted probabilities: https://t.co/hVGTes5TmW (make your own with this #rstats code here! https://t.co/KfKlELUnXG) https://t.co/cWrC8MqhxC https://t.co/5mJET88RX7", "Convolutional Neural Network on #RaspberryPI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Iu28MzE3rc https://t.co/TIVx70gjlS", "3 Books for Programmers in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/cRa9L03joQ https://t.co/KHQ4Hrjep9"],
-  "top10_tweets_retweet": ["How to extract tabular data from PDFs with R https://t.co/02tnq7OQRY #RStats https://t.co/xBCJiB3V6t", "Awesome Cheat Sheets for Popular #Programming Languages. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode \nhttps://t.co/SCb3ZrrfKx https://t.co/WvN25xyag4", "Complete Intro to the 30 Most Essential Data Structures &amp; #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/lkXxQvaN3h https://t.co/5wIvSI6zBn", "Top NLP Books to Read 2020. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DeMtuQhssw https://t.co/COh2mpHmpF", "Having fun with QGIS and #rstats! With the appropriate dev version of @qgis installed, call processing algorithms right from #rstats! (proof of concept only at this point...) https://t.co/SApE7GDiOG #rspatial Thanks to @robinlovelace for keeping the discussion going! https://t.co/jNfCOvy8bU", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n\nhttps://t.co/iiS9Beh8aE\n\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks https://t.co/ZxnkSB9Vfa", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/SmeJ51Wica", "Including this in my logistic regression materials, along with Chelsea's neat plot showing relationship between log odds, odds ratios, and predicted probabilities: https://t.co/hVGTes5TmW (make your own with this #rstats code here! https://t.co/KfKlELUnXG) https://t.co/cWrC8MqhxC https://t.co/5mJET88RX7", "Convolutional Neural Network on #RaspberryPI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Iu28MzE3rc https://t.co/TIVx70gjlS", "3 Books for Programmers in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/cRa9L03joQ https://t.co/KHQ4Hrjep9"]
+  "top10_tweets_like": ["Awesome Cheat Sheets for Popular #Programming Languages. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode \nhttps://t.co/SCb3ZrrfKx https://t.co/WvN25xyag4", "How to extract tabular data from PDFs with R https://t.co/02tnq7OQRY #RStats https://t.co/xBCJiB3V6t", "Complete Intro to the 30 Most Essential Data Structures &amp; #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/lkXxQvaN3h https://t.co/5wIvSI6zBn", "Top NLP Books to Read 2020. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DeMtuQhssw https://t.co/COh2mpHmpF", "Having fun with QGIS and #rstats! With the appropriate dev version of @qgis installed, call processing algorithms right from #rstats! (proof of concept only at this point...) https://t.co/SApE7GDiOG #rspatial Thanks to @robinlovelace for keeping the discussion going! https://t.co/jNfCOvy8bU", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n\nhttps://t.co/iiS9Beh8aE\n\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks https://t.co/ZxnkSB9Vfa", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/SmeJ51Wica", "Including this in my logistic regression materials, along with Chelsea's neat plot showing relationship between log odds, odds ratios, and predicted probabilities: https://t.co/hVGTes5TmW (make your own with this #rstats code here! https://t.co/KfKlELUnXG) https://t.co/cWrC8MqhxC https://t.co/5mJET88RX7", "Convolutional Neural Network on #RaspberryPI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Iu28MzE3rc https://t.co/TIVx70gjlS", "3 Books for Programmers in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/cRa9L03joQ https://t.co/KHQ4Hrjep9"],
+  "top10_tweets_retweet": ["Awesome Cheat Sheets for Popular #Programming Languages. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Coding #100DaysofCode \nhttps://t.co/SCb3ZrrfKx https://t.co/WvN25xyag4", "How to extract tabular data from PDFs with R https://t.co/02tnq7OQRY #RStats https://t.co/xBCJiB3V6t", "Complete Intro to the 30 Most Essential Data Structures &amp; #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/lkXxQvaN3h https://t.co/5wIvSI6zBn", "Top NLP Books to Read 2020. #BigData #Analytics #DataScience #NLProc #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DeMtuQhssw https://t.co/COh2mpHmpF", "Having fun with QGIS and #rstats! With the appropriate dev version of @qgis installed, call processing algorithms right from #rstats! (proof of concept only at this point...) https://t.co/SApE7GDiOG #rspatial Thanks to @robinlovelace for keeping the discussion going! https://t.co/jNfCOvy8bU", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n\nhttps://t.co/iiS9Beh8aE\n\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks https://t.co/ZxnkSB9Vfa", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/SmeJ51Wica", "Including this in my logistic regression materials, along with Chelsea's neat plot showing relationship between log odds, odds ratios, and predicted probabilities: https://t.co/hVGTes5TmW (make your own with this #rstats code here! https://t.co/KfKlELUnXG) https://t.co/cWrC8MqhxC https://t.co/5mJET88RX7", "Convolutional Neural Network on #RaspberryPI. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/Iu28MzE3rc https://t.co/TIVx70gjlS", "3 Books for Programmers in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/cRa9L03joQ https://t.co/KHQ4Hrjep9"]
 }
