@@ -1,28 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8870,
-      "average_tweets_per_hour": 370,
-      "tweeters_today": 1561,
-      "total_likes_today": 5415
+      "total_tweets_today": 8837,
+      "average_tweets_per_hour": 368,
+      "tweeters_today": 1552,
+      "total_likes_today": 5586
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 216
+      "Freq": 211
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 157
+      "Freq": 155
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 146
+      "Freq": 147
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 134
+      "Freq": 135
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 117
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -30,35 +34,31 @@
     },
     {
       "Var1": "BigData Analytics AI MachineLearning DataScience IoT IIoT Python RStats",
-      "Freq": 112
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 105
+      "Freq": 103
     },
     {
       "Var1": "DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 97
+      "Freq": 101
     },
     {
-      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 95
+      "Var1": "rstats DataScience",
+      "Freq": 99
+    },
+    {
+      "Var1": "Machinelearning Python",
+      "Freq": 98
     },
     {
       "Var1": "100DaysOfCode",
       "Freq": 92
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 78
-    },
-    {
-      "Var1": "Machinelearning Python",
-      "Freq": 76
+      "Var1": "DataScience Books BigData Analytics AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 90
     },
     {
       "Var1": "Probability Statistics BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 73
+      "Freq": 74
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
@@ -69,7 +69,11 @@
       "Freq": 68
     },
     {
-      "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Var1": "AI Tech BigData Analytics DataScience",
+      "Freq": 67
+    },
+    {
+      "Var1": "Python",
       "Freq": 66
     },
     {
@@ -77,46 +81,42 @@
       "Freq": 66
     },
     {
+      "Var1": "Machinelearning",
+      "Freq": 65
+    },
+    {
       "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python flutter javascript Serverless",
       "Freq": 62
-    },
-    {
-      "Var1": "AI Tech BigData Analytics DataScience",
-      "Freq": 60
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 59
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "rstatstweet",
-      "Freq": 420
+      "Var1": "dailyvigour",
+      "Freq": 431
     },
     {
-      "Var1": "dailyvigour",
-      "Freq": 395
+      "Var1": "rstatstweet",
+      "Freq": 419
     },
     {
       "Var1": "TheNosProgramer",
-      "Freq": 315
+      "Freq": 303
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 290
+      "Freq": 291
     },
     {
       "Var1": "xaelbot",
-      "Freq": 288
+      "Freq": 287
     },
     {
       "Var1": "nlognbot",
-      "Freq": 286
+      "Freq": 279
     },
     {
       "Var1": "javascript_bot_",
-      "Freq": 281
+      "Freq": 274
     },
     {
       "Var1": "Alphabe99195368",
@@ -124,53 +124,53 @@
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 217
+      "Freq": 224
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 206
+      "Freq": 219
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 206
+      "Freq": 211
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 185
+      "Freq": 176
     },
     {
       "Var1": "codeislife2",
-      "Freq": 145
+      "Freq": 144
     },
     {
       "Var1": "hubofml",
-      "Freq": 136
+      "Freq": 135
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 123
+      "Freq": 129
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 120
+      "Freq": 122
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 95
+      "Freq": 103
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 92
+      "Var1": "AlgorithmsB",
+      "Freq": 93
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 89
+      "Freq": 93
     },
     {
-      "Var1": "CodingRetweets",
-      "Freq": 87
+      "Var1": "tidyversetweets",
+      "Freq": 89
     }
   ],
-  "top10_tweets_like": ["Had the amazing experience of having someone contribute to a #RStats package of mine.... and now it's running 75x faster! What a highlight to know that someone liked what we did enough to improve on it!", "Welcome welcome, one and all, to this semester's installment of the ugly ggplot contest! These students began learning #Rstats a few weeks ago and they're already prepared to burn it all down. \nIt's just all so beautiful... https://t.co/uMRFhMbx8U", "today is my first day @rstudio and I am, to put it mildly, pretty excited. I've learned so much about #rstats and more from people who work here and I'm grateful to have the opportunity to contribute.\n\nonward!", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks \n@DeepLearn007 @andi_staub https://t.co/SeIUCHpyU8", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/JrBLuzQZVv", "Writing Data Science in Education Using R in the Open - RStudio Edu Blog\n“How do we write with empathy for new learners when our own memories of learning R have gotten foggier?”\nhttps://t.co/DbaBdNpbTj\n#RStats", "Traffic Monitoring via #Drones for decision making @ #Smartcities▶️\n#Analytics #AI #MachineLearning #Java #Rstats #Reactjs #IoT #IIoT #SmartCity #BigData #SelfDrivingCars #AR #VR #CloudComputing #DataScience #SmartHome #Coding #WomenWhoCode #100DaysOfCode\n\nhttps://t.co/6ERujdXhC3", "Do you have any experience using {rtweet}? Or otherwise using #rstats to perform social media analysis? Tell me about anything interesting you've done! Or your favourite tricks and tools...", "📦📊📈 \"ggTimeSeries • Time series visualisation\"\n\n👤 The Come On Man @thecomeonman; Ather Energy @atherenergy\n\nhttps://t.co/mlUEkyHP2r\n#rstats https://t.co/IjyBi3bEFG", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/MCNPkZ1n05"],
-  "top10_tweets_retweet": ["Had the amazing experience of having someone contribute to a #RStats package of mine.... and now it's running 75x faster! What a highlight to know that someone liked what we did enough to improve on it!", "Welcome welcome, one and all, to this semester's installment of the ugly ggplot contest! These students began learning #Rstats a few weeks ago and they're already prepared to burn it all down. \nIt's just all so beautiful... https://t.co/uMRFhMbx8U", "today is my first day @rstudio and I am, to put it mildly, pretty excited. I've learned so much about #rstats and more from people who work here and I'm grateful to have the opportunity to contribute.\n\nonward!", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks \n@DeepLearn007 @andi_staub https://t.co/SeIUCHpyU8", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/JrBLuzQZVv", "Writing Data Science in Education Using R in the Open - RStudio Edu Blog\n“How do we write with empathy for new learners when our own memories of learning R have gotten foggier?”\nhttps://t.co/DbaBdNpbTj\n#RStats", "Traffic Monitoring via #Drones for decision making @ #Smartcities▶️\n#Analytics #AI #MachineLearning #Java #Rstats #Reactjs #IoT #IIoT #SmartCity #BigData #SelfDrivingCars #AR #VR #CloudComputing #DataScience #SmartHome #Coding #WomenWhoCode #100DaysOfCode\n\nhttps://t.co/6ERujdXhC3", "Do you have any experience using {rtweet}? Or otherwise using #rstats to perform social media analysis? Tell me about anything interesting you've done! Or your favourite tricks and tools...", "📦📊📈 \"ggTimeSeries • Time series visualisation\"\n\n👤 The Come On Man @thecomeonman; Ather Energy @atherenergy\n\nhttps://t.co/mlUEkyHP2r\n#rstats https://t.co/IjyBi3bEFG", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/MCNPkZ1n05"]
+  "top10_tweets_like": ["Had the amazing experience of having someone contribute to a #RStats package of mine.... and now it's running 75x faster! What a highlight to know that someone liked what we did enough to improve on it!", "today is my first day @rstudio and I am, to put it mildly, pretty excited. I've learned so much about #rstats and more from people who work here and I'm grateful to have the opportunity to contribute.\n\nonward!", "Welcome welcome, one and all, to this semester's installment of the ugly ggplot contest! These students began learning #Rstats a few weeks ago and they're already prepared to burn it all down. \nIt's just all so beautiful... https://t.co/uMRFhMbx8U", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks \n@DeepLearn007 @andi_staub https://t.co/SeIUCHpyU8", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/JrBLuzQZVv", "Traffic Monitoring via #Drones for decision making @ #Smartcities▶️\n#Analytics #AI #MachineLearning #Java #Rstats #Reactjs #IoT #IIoT #SmartCity #BigData #SelfDrivingCars #AR #VR #CloudComputing #DataScience #SmartHome #Coding #WomenWhoCode #100DaysOfCode\n\nhttps://t.co/6ERujdXhC3", "Writing Data Science in Education Using R in the Open - RStudio Edu Blog\n“How do we write with empathy for new learners when our own memories of learning R have gotten foggier?”\nhttps://t.co/DbaBdNpbTj\n#RStats", "Do you have any experience using {rtweet}? Or otherwise using #rstats to perform social media analysis? Tell me about anything interesting you've done! Or your favourite tricks and tools...", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/MCNPkZ1n05", "📦📊📈 \"ggTimeSeries • Time series visualisation\"\n\n👤 The Come On Man @thecomeonman; Ather Energy @atherenergy\n\nhttps://t.co/mlUEkyHP2r\n#rstats https://t.co/IjyBi3bEFG"],
+  "top10_tweets_retweet": ["Had the amazing experience of having someone contribute to a #RStats package of mine.... and now it's running 75x faster! What a highlight to know that someone liked what we did enough to improve on it!", "today is my first day @rstudio and I am, to put it mildly, pretty excited. I've learned so much about #rstats and more from people who work here and I'm grateful to have the opportunity to contribute.\n\nonward!", "Welcome welcome, one and all, to this semester's installment of the ugly ggplot contest! These students began learning #Rstats a few weeks ago and they're already prepared to burn it all down. \nIt's just all so beautiful... https://t.co/uMRFhMbx8U", "Deepfake mask #AI #Tech is just getting started on shapeshifting the selfie culture!\n#BigData #Analytics #DataScience #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #ReactJS #100DaysofCode #ArtificialIntelligence #DeepLearning #NeuralNetworks \n@DeepLearn007 @andi_staub https://t.co/SeIUCHpyU8", "7 Free eBooks #DataScientists Should Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/6kxzfhgDIl https://t.co/JrBLuzQZVv", "Traffic Monitoring via #Drones for decision making @ #Smartcities▶️\n#Analytics #AI #MachineLearning #Java #Rstats #Reactjs #IoT #IIoT #SmartCity #BigData #SelfDrivingCars #AR #VR #CloudComputing #DataScience #SmartHome #Coding #WomenWhoCode #100DaysOfCode\n\nhttps://t.co/6ERujdXhC3", "Writing Data Science in Education Using R in the Open - RStudio Edu Blog\n“How do we write with empathy for new learners when our own memories of learning R have gotten foggier?”\nhttps://t.co/DbaBdNpbTj\n#RStats", "Do you have any experience using {rtweet}? Or otherwise using #rstats to perform social media analysis? Tell me about anything interesting you've done! Or your favourite tricks and tools...", "#Probability and #Statistics Cheat Sheets for Stanford's CME. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/916Oj8RTOt https://t.co/MCNPkZ1n05", "📦📊📈 \"ggTimeSeries • Time series visualisation\"\n\n👤 The Come On Man @thecomeonman; Ather Energy @atherenergy\n\nhttps://t.co/mlUEkyHP2r\n#rstats https://t.co/IjyBi3bEFG"]
 }
