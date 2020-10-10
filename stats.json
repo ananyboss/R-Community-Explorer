@@ -1,16 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7801,
-      "average_tweets_per_hour": 325,
-      "tweeters_today": 1695,
-      "total_likes_today": 6398
+      "total_tweets_today": 8237,
+      "average_tweets_per_hour": 343,
+      "tweeters_today": 1735,
+      "total_likes_today": 6767
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats",
-      "Freq": 329
+      "Freq": 322
+    },
+    {
+      "Var1": "Machinelearning 100DaysOfCode IoT",
+      "Freq": 172
     },
     {
       "Var1": "Programming Coding BigData Analytics DataScientist MachineLearning",
@@ -18,55 +22,59 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 158
+      "Freq": 157
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 149
+      "Freq": 147
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 140
-    },
-    {
-      "Var1": "Machinelearning 100DaysOfCode IoT",
-      "Freq": 116
-    },
-    {
-      "Var1": "Machinelearning",
-      "Freq": 115
+      "Freq": 142
     },
     {
       "Var1": "100DaysOfCode",
-      "Freq": 111
+      "Freq": 114
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 104
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 98
-    },
-    {
-      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT",
-      "Freq": 92
+      "Var1": "Machinelearning",
+      "Freq": 114
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 86
+      "Freq": 112
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 101
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 101
+    },
+    {
+      "Var1": "MachineLearning Algorithms BigData Analytics DataScience AI IoT IIoT",
+      "Freq": 95
     },
     {
       "Var1": "datascience",
-      "Freq": 79
+      "Freq": 84
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
+      "Freq": 78
     },
     {
       "Var1": "RStats",
-      "Freq": 76
+      "Freq": 78
+    },
+    {
+      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode",
+      "Freq": 69
     },
     {
       "Var1": "MachineLearning TimeSeries DataScience Python 100DaysOfCode IoT",
-      "Freq": 69
+      "Freq": 68
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience",
@@ -74,103 +82,95 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 64
-    },
-    {
-      "Var1": "DataScience FPGA IIoT BigData",
       "Freq": 63
     },
     {
-      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode",
-      "Freq": 61
-    },
-    {
-      "Var1": "Cybersecurity BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 59
+      "Var1": "DataScience FPGA IIoT BigData",
+      "Freq": 62
     }
   ],
   "top20_tweeters": [
     {
-      "Var1": "rstatstweet",
-      "Freq": 279
-    },
-    {
       "Var1": "Women_who_code",
-      "Freq": 273
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 272
+      "Freq": 295
     },
     {
       "Var1": "nlognbot",
-      "Freq": 270
+      "Freq": 293
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 233
+      "Var1": "xaelbot",
+      "Freq": 289
+    },
+    {
+      "Var1": "rstatstweet",
+      "Freq": 274
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 227
+      "Freq": 262
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 261
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 200
+      "Freq": 231
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 163
+      "Freq": 179
+    },
+    {
+      "Var1": "techtrendingnow",
+      "Freq": 152
+    },
+    {
+      "Var1": "Rahul_RPandya",
+      "Freq": 150
     },
     {
       "Var1": "AlgorithmsB",
       "Freq": 147
     },
     {
-      "Var1": "Rahul_RPandya",
-      "Freq": 143
-    },
-    {
       "Var1": "codeislife2",
-      "Freq": 133
-    },
-    {
-      "Var1": "techtrendingnow",
-      "Freq": 132
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 116
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 116
-    },
-    {
-      "Var1": "NetworkIndie",
-      "Freq": 112
+      "Freq": 137
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 111
+      "Freq": 123
+    },
+    {
+      "Var1": "NetworkIndie",
+      "Freq": 117
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 117
     },
     {
       "Var1": "hubofml",
-      "Freq": 100
+      "Freq": 114
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 113
+    },
+    {
+      "Var1": "cloudnewbie",
+      "Freq": 97
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 95
     },
     {
       "Var1": "chidambara09",
       "Freq": 90
-    },
-    {
-      "Var1": "the404code",
-      "Freq": 89
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 88
     }
   ],
-  "top10_tweets_like": ["Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/tDBL3lEBZ8", "RT @rodgers_mk: RT @dataartisan1: Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/RUYvbBjLz0", "Learning #RStats was a gateway into my current career as a data scientist. For me, it was accessible because there were so many free resources online and such a welcoming community.", "Most Used Loss Functions To Optimize #MachineLearning  #Algorithms. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats  #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/y6JNq7PPQS https://t.co/KPx1zIAlUj", "❤️new `rsample::sliding_*()` funs by @dvaughan32. It can take a minute to check that all arguments are set correctly. Here are helper funs I've used to check that my resampling windows are constructed as intended: https://t.co/HhSjuRzAsB may make into an #rstats #shiny dashboard. https://t.co/sNloHfkh4a", "A Learning Path To Becoming a Data Scientist! The 10 steps roadmap to kickstarting your #datascience future. By @SaraMetwalli \n\nhttps://t.co/W4DfUnLb6a\n\n#BigData #Analytics #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #100DaysofCode https://t.co/mTQ9idaRj3", "#rstats 4.0.3 \"Bunny-Wunnies Freak Out\" (source version) has been released.\n\nYeah, it's Saturday, but 2020-10-10 has such a nice ring to it, and besides, it is the 10th (or 1010th in binary) anniversary of 10-10-10.", "Data Science Reading List for September 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/dYcgk3SJj4 https://t.co/9Obj2SXtHy", "Time to flush out the data charlatans!\n\nHere's how to separate the real ✅ #DataScientists from the ❌ fakers who use data to lie to you (&amp; maybe to themselves too):\n\nDo they\n\n✅ call their shots\n\nor\n\n❌ peddle hindsight\n\n?\n\n#Statistics #RStats #Analytics\n\nhttps://t.co/qdLdBE8AFy", "TinyML And Its Application in IoT Technology, #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DHVPkH6O1B https://t.co/aZD7oAP19b"],
-  "top10_tweets_retweet": ["Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/tDBL3lEBZ8", "RT @rodgers_mk: RT @dataartisan1: Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/RUYvbBjLz0", "Learning #RStats was a gateway into my current career as a data scientist. For me, it was accessible because there were so many free resources online and such a welcoming community.", "Most Used Loss Functions To Optimize #MachineLearning  #Algorithms. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats  #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/y6JNq7PPQS https://t.co/KPx1zIAlUj", "❤️new `rsample::sliding_*()` funs by @dvaughan32. It can take a minute to check that all arguments are set correctly. Here are helper funs I've used to check that my resampling windows are constructed as intended: https://t.co/HhSjuRzAsB may make into an #rstats #shiny dashboard. https://t.co/sNloHfkh4a", "A Learning Path To Becoming a Data Scientist! The 10 steps roadmap to kickstarting your #datascience future. By @SaraMetwalli \n\nhttps://t.co/W4DfUnLb6a\n\n#BigData #Analytics #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #100DaysofCode https://t.co/mTQ9idaRj3", "#rstats 4.0.3 \"Bunny-Wunnies Freak Out\" (source version) has been released.\n\nYeah, it's Saturday, but 2020-10-10 has such a nice ring to it, and besides, it is the 10th (or 1010th in binary) anniversary of 10-10-10.", "Data Science Reading List for September 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/dYcgk3SJj4 https://t.co/9Obj2SXtHy", "Time to flush out the data charlatans!\n\nHere's how to separate the real ✅ #DataScientists from the ❌ fakers who use data to lie to you (&amp; maybe to themselves too):\n\nDo they\n\n✅ call their shots\n\nor\n\n❌ peddle hindsight\n\n?\n\n#Statistics #RStats #Analytics\n\nhttps://t.co/qdLdBE8AFy", "TinyML And Its Application in IoT Technology, #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DHVPkH6O1B https://t.co/aZD7oAP19b"]
+  "top10_tweets_like": ["Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/tDBL3lEBZ8", "Learning #RStats was a gateway into my current career as a data scientist. For me, it was accessible because there were so many free resources online and such a welcoming community.", "RT @rodgers_mk: RT @dataartisan1: Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/RUYvbBjLz0", "Most Used Loss Functions To Optimize #MachineLearning  #Algorithms. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats  #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/y6JNq7PPQS https://t.co/KPx1zIAlUj", "❤️new `rsample::sliding_*()` funs by @dvaughan32. It can take a minute to check that all arguments are set correctly. Here are helper funs I've used to check that my resampling windows are constructed as intended: https://t.co/HhSjuRzAsB may make into an #rstats #shiny dashboard. https://t.co/sNloHfkh4a", "#rstats 4.0.3 \"Bunny-Wunnies Freak Out\" (source version) has been released.\n\nYeah, it's Saturday, but 2020-10-10 has such a nice ring to it, and besides, it is the 10th (or 1010th in binary) anniversary of 10-10-10.", "A Learning Path To Becoming a Data Scientist! The 10 steps roadmap to kickstarting your #datascience future. By @SaraMetwalli \n\nhttps://t.co/W4DfUnLb6a\n\n#BigData #Analytics #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #100DaysofCode https://t.co/mTQ9idaRj3", "Data Science Reading List for September 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/dYcgk3SJj4 https://t.co/9Obj2SXtHy", "Time to flush out the data charlatans!\n\nHere's how to separate the real ✅ #DataScientists from the ❌ fakers who use data to lie to you (&amp; maybe to themselves too):\n\nDo they\n\n✅ call their shots\n\nor\n\n❌ peddle hindsight\n\n?\n\n#Statistics #RStats #Analytics\n\nhttps://t.co/qdLdBE8AFy", "TinyML And Its Application in IoT Technology, #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DHVPkH6O1B https://t.co/aZD7oAP19b"],
+  "top10_tweets_retweet": ["Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/tDBL3lEBZ8", "Learning #RStats was a gateway into my current career as a data scientist. For me, it was accessible because there were so many free resources online and such a welcoming community.", "RT @rodgers_mk: RT @dataartisan1: Always remember: excel is not a database!\n\n#DataScience #100DaysOfCode #100DaysOfMLCode #AI #MachineLearning #RStats https://t.co/RUYvbBjLz0", "Most Used Loss Functions To Optimize #MachineLearning  #Algorithms. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats  #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/y6JNq7PPQS https://t.co/KPx1zIAlUj", "❤️new `rsample::sliding_*()` funs by @dvaughan32. It can take a minute to check that all arguments are set correctly. Here are helper funs I've used to check that my resampling windows are constructed as intended: https://t.co/HhSjuRzAsB may make into an #rstats #shiny dashboard. https://t.co/sNloHfkh4a", "#rstats 4.0.3 \"Bunny-Wunnies Freak Out\" (source version) has been released.\n\nYeah, it's Saturday, but 2020-10-10 has such a nice ring to it, and besides, it is the 10th (or 1010th in binary) anniversary of 10-10-10.", "A Learning Path To Becoming a Data Scientist! The 10 steps roadmap to kickstarting your #datascience future. By @SaraMetwalli \n\nhttps://t.co/W4DfUnLb6a\n\n#BigData #Analytics #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #JavaScript #ReactJS #100DaysofCode https://t.co/mTQ9idaRj3", "Data Science Reading List for September 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/dYcgk3SJj4 https://t.co/9Obj2SXtHy", "Time to flush out the data charlatans!\n\nHere's how to separate the real ✅ #DataScientists from the ❌ fakers who use data to lie to you (&amp; maybe to themselves too):\n\nDo they\n\n✅ call their shots\n\nor\n\n❌ peddle hindsight\n\n?\n\n#Statistics #RStats #Analytics\n\nhttps://t.co/qdLdBE8AFy", "TinyML And Its Application in IoT Technology, #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/DHVPkH6O1B https://t.co/aZD7oAP19b"]
 }
