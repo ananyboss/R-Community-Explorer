@@ -1,55 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8202,
-      "average_tweets_per_hour": 342,
-      "tweeters_today": 1900,
-      "total_likes_today": 5771
+      "total_tweets_today": 8068,
+      "average_tweets_per_hour": 336,
+      "tweeters_today": 1871,
+      "total_likes_today": 5696
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python",
-      "Freq": 181
+      "Freq": 189
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 167
+      "Freq": 174
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 153
+      "Freq": 147
     },
     {
       "Var1": "Machinelearning",
-      "Freq": 131
+      "Freq": 121
     },
     {
       "Var1": "Machinelearning 100DaysOfCode IoT",
-      "Freq": 110
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 99
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 92
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 85
+      "Freq": 103
     },
     {
       "Var1": "100DaysOfCode",
       "Freq": 83
     },
     {
-      "Var1": "BigData",
-      "Freq": 81
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 83
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Var1": "BigData",
       "Freq": 81
     },
     {
@@ -61,46 +49,54 @@
       "Freq": 78
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 77
+    },
+    {
       "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI MachineLearning RStats",
       "Freq": 77
     },
     {
-      "Var1": "DataScience ArtificialIntelligence MachineLearning BigData IoT Python RStats Java JavaScript ReactJS",
-      "Freq": 75
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 74
     },
     {
       "Var1": "DEVCommunity DataScience Python 100DaysOfCode",
       "Freq": 73
     },
     {
+      "Var1": "DataScience ArtificialIntelligence MachineLearning BigData IoT Python RStats Java JavaScript ReactJS",
+      "Freq": 72
+    },
+    {
       "Var1": "MachineLearning",
       "Freq": 71
     },
     {
-      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
       "Freq": 68
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 62
+      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI",
+      "Freq": 67
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 60
+      "Var1": "CloudComputing cybersecurity MicrosoftAI DeepLearning",
+      "Freq": 61
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 61
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "CodeGnuts",
-      "Freq": 313
+      "Freq": 307
     },
     {
       "Var1": "xaelbot",
-      "Freq": 291
-    },
-    {
-      "Var1": "nodeQuotesBot",
-      "Freq": 286
+      "Freq": 287
     },
     {
       "Var1": "nlognbot",
@@ -111,16 +107,20 @@
       "Freq": 282
     },
     {
+      "Var1": "nodeQuotesBot",
+      "Freq": 268
+    },
+    {
       "Var1": "rstatstweet",
-      "Freq": 237
+      "Freq": 232
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 231
+      "Freq": 230
     },
     {
       "Var1": "techtrendingnow",
-      "Freq": 176
+      "Freq": 175
     },
     {
       "Var1": "Fabriciosx",
@@ -128,49 +128,49 @@
     },
     {
       "Var1": "codeislife2",
-      "Freq": 138
+      "Freq": 133
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 130
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 128
-    },
-    {
-      "Var1": "Discovertech3",
-      "Freq": 121
+      "Freq": 123
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 118
+      "Freq": 123
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 123
     },
     {
       "Var1": "hubofml",
-      "Freq": 118
+      "Freq": 120
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 103
-    },
-    {
-      "Var1": "NetworkIndie",
-      "Freq": 98
-    },
-    {
-      "Var1": "the404code",
-      "Freq": 97
+      "Var1": "Discovertech3",
+      "Freq": 119
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 93
+      "Freq": 102
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 102
+    },
+    {
+      "Var1": "NetworkIndie",
+      "Freq": 97
+    },
+    {
+      "Var1": "the404code",
+      "Freq": 94
     },
     {
       "Var1": "AlgorithmsB",
       "Freq": 92
     }
   ],
-  "top10_tweets_like": ["My course on the basics of R for ecologists is soon to launch! It's been many months, but it's finally ready. Here's a quick teaser of the first lesson in this course: https://t.co/pb3PzesBN9\n#RStats #ecology #onlinecourse #DataVisualization\n\nStay tuned for the launch date! https://t.co/otU5vQdF7y", "Interested in estimating causal effects on survival outcomes? You may need to account for time-varying confounders. Don’t know how? \n\nMy new paper with @elliecaniglia &amp; @lucia_petito explains the basics, with #Rstats, SAS, &amp; stata code!\n\n#causaltwitter \n\nhttps://t.co/4HIERDE5hd", "Hey #rstats, 📦 vembedr 1.4.0 now on CRAN 🎉\n\nEmbed videos from YouTube, Vimeo, and more in RMarkdown HTML documents!\n\nhttps://t.co/5wH54gAYlz https://t.co/SEejZ60SoL", "Top 3 Books for Every Data Science Engineer. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/a8z3lZ6aXG https://t.co/am5noJ8sq9", "📚 \"Introduction to Modern Statistics\"\n\n👤 Mine Çetinkaya-Rundel @minebocek &amp; Johanna Hardin\n\nhttps://t.co/3J6q77sbX1\n#rstats", "My first PhD paper dealing with the reliability of @GymAware and @trainwithPUSH devices during the hex-bar deadlift. We have implemented \"novel\" estimators (using #bmbstats). All out #Rstats code and data are available at OSF: https://t.co/JLqJJBZyyr \n\n#sportsci #sportscience https://t.co/6q4uKyFAX1", "How to Code a Simple Neural Network in #PyTorch? — For Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #100DaysofCode \nhttps://t.co/MMPGYTXvyy https://t.co/U9JcveyaRp", "An #rstats blog post on webscraping, time formatting, cleaning, and plotting of data, using the Victorian COVID19 positive test rate as an example. Thanks to @dmi3k @earowang + the #tidyverse team for the software and @migga for maintaining @covidliveau\n\nhttps://t.co/hIfrSWGy44", "Learn How to Deploy Real-Time #MachineLearning at Scale using Sklearn, SpaCy, Kafka &amp; Seldon Core.\n\nhttps://t.co/uuqqyjVSig\n\n#DEVCommunity #DataScience #Python #100DaysOfCode #IoT #100DaysOfMLCode #flutter #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie https://t.co/h0FZ2QYwOJ", "The Best Machine Learning Books to Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/gb5bqYHZst https://t.co/kBxLoHJM5c"],
-  "top10_tweets_retweet": ["My course on the basics of R for ecologists is soon to launch! It's been many months, but it's finally ready. Here's a quick teaser of the first lesson in this course: https://t.co/pb3PzesBN9\n#RStats #ecology #onlinecourse #DataVisualization\n\nStay tuned for the launch date! https://t.co/otU5vQdF7y", "Interested in estimating causal effects on survival outcomes? You may need to account for time-varying confounders. Don’t know how? \n\nMy new paper with @elliecaniglia &amp; @lucia_petito explains the basics, with #Rstats, SAS, &amp; stata code!\n\n#causaltwitter \n\nhttps://t.co/4HIERDE5hd", "Hey #rstats, 📦 vembedr 1.4.0 now on CRAN 🎉\n\nEmbed videos from YouTube, Vimeo, and more in RMarkdown HTML documents!\n\nhttps://t.co/5wH54gAYlz https://t.co/SEejZ60SoL", "Top 3 Books for Every Data Science Engineer. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/a8z3lZ6aXG https://t.co/am5noJ8sq9", "📚 \"Introduction to Modern Statistics\"\n\n👤 Mine Çetinkaya-Rundel @minebocek &amp; Johanna Hardin\n\nhttps://t.co/3J6q77sbX1\n#rstats", "My first PhD paper dealing with the reliability of @GymAware and @trainwithPUSH devices during the hex-bar deadlift. We have implemented \"novel\" estimators (using #bmbstats). All out #Rstats code and data are available at OSF: https://t.co/JLqJJBZyyr \n\n#sportsci #sportscience https://t.co/6q4uKyFAX1", "How to Code a Simple Neural Network in #PyTorch? — For Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #100DaysofCode \nhttps://t.co/MMPGYTXvyy https://t.co/U9JcveyaRp", "An #rstats blog post on webscraping, time formatting, cleaning, and plotting of data, using the Victorian COVID19 positive test rate as an example. Thanks to @dmi3k @earowang + the #tidyverse team for the software and @migga for maintaining @covidliveau\n\nhttps://t.co/hIfrSWGy44", "Learn How to Deploy Real-Time #MachineLearning at Scale using Sklearn, SpaCy, Kafka &amp; Seldon Core.\n\nhttps://t.co/uuqqyjVSig\n\n#DEVCommunity #DataScience #Python #100DaysOfCode #IoT #100DaysOfMLCode #flutter #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie https://t.co/h0FZ2QYwOJ", "The Best Machine Learning Books to Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/gb5bqYHZst https://t.co/kBxLoHJM5c"]
+  "top10_tweets_like": ["My course on the basics of R for ecologists is soon to launch! It's been many months, but it's finally ready. Here's a quick teaser of the first lesson in this course: https://t.co/pb3PzesBN9\n#RStats #ecology #onlinecourse #DataVisualization\n\nStay tuned for the launch date! https://t.co/otU5vQdF7y", "Interested in estimating causal effects on survival outcomes? You may need to account for time-varying confounders. Don’t know how? \n\nMy new paper with @elliecaniglia &amp; @lucia_petito explains the basics, with #Rstats, SAS, &amp; stata code!\n\n#causaltwitter \n\nhttps://t.co/4HIERDE5hd", "Hey #rstats, 📦 vembedr 1.4.0 now on CRAN 🎉\n\nEmbed videos from YouTube, Vimeo, and more in RMarkdown HTML documents!\n\nhttps://t.co/5wH54gAYlz https://t.co/SEejZ60SoL", "Top 3 Books for Every Data Science Engineer. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/a8z3lZ6aXG https://t.co/am5noJ8sq9", "📚 \"Introduction to Modern Statistics\"\n\n👤 Mine Çetinkaya-Rundel @minebocek &amp; Johanna Hardin\n\nhttps://t.co/3J6q77sbX1\n#rstats", "My first PhD paper dealing with the reliability of @GymAware and @trainwithPUSH devices during the hex-bar deadlift. We have implemented \"novel\" estimators (using #bmbstats). All out #Rstats code and data are available at OSF: https://t.co/JLqJJBZyyr \n\n#sportsci #sportscience https://t.co/6q4uKyFAX1", "How to Code a Simple Neural Network in #PyTorch? — For Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #100DaysofCode \nhttps://t.co/MMPGYTXvyy https://t.co/U9JcveyaRp", "An #rstats blog post on webscraping, time formatting, cleaning, and plotting of data, using the Victorian COVID19 positive test rate as an example. Thanks to @dmi3k @earowang + the #tidyverse team for the software and @migga for maintaining @covidliveau\n\nhttps://t.co/hIfrSWGy44", "Learn How to Deploy Real-Time #MachineLearning at Scale using Sklearn, SpaCy, Kafka &amp; Seldon Core.\n\nhttps://t.co/uuqqyjVSig\n\n#DEVCommunity #DataScience #Python #100DaysOfCode #IoT #100DaysOfMLCode #flutter #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie https://t.co/h0FZ2QYwOJ", "History fans, I've just transformed 246 pages of the 1964 census on WWII deaths in Montenegro into a dataset and mapped 17,052 identified deaths as well as the median age of the victims\n\n#WWII #history #violence #dataviz #bigdata #datascience #maps #gis #rstats https://t.co/oIjxcjwwTO"],
+  "top10_tweets_retweet": ["My course on the basics of R for ecologists is soon to launch! It's been many months, but it's finally ready. Here's a quick teaser of the first lesson in this course: https://t.co/pb3PzesBN9\n#RStats #ecology #onlinecourse #DataVisualization\n\nStay tuned for the launch date! https://t.co/otU5vQdF7y", "Interested in estimating causal effects on survival outcomes? You may need to account for time-varying confounders. Don’t know how? \n\nMy new paper with @elliecaniglia &amp; @lucia_petito explains the basics, with #Rstats, SAS, &amp; stata code!\n\n#causaltwitter \n\nhttps://t.co/4HIERDE5hd", "Hey #rstats, 📦 vembedr 1.4.0 now on CRAN 🎉\n\nEmbed videos from YouTube, Vimeo, and more in RMarkdown HTML documents!\n\nhttps://t.co/5wH54gAYlz https://t.co/SEejZ60SoL", "Top 3 Books for Every Data Science Engineer. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/a8z3lZ6aXG https://t.co/am5noJ8sq9", "📚 \"Introduction to Modern Statistics\"\n\n👤 Mine Çetinkaya-Rundel @minebocek &amp; Johanna Hardin\n\nhttps://t.co/3J6q77sbX1\n#rstats", "My first PhD paper dealing with the reliability of @GymAware and @trainwithPUSH devices during the hex-bar deadlift. We have implemented \"novel\" estimators (using #bmbstats). All out #Rstats code and data are available at OSF: https://t.co/JLqJJBZyyr \n\n#sportsci #sportscience https://t.co/6q4uKyFAX1", "How to Code a Simple Neural Network in #PyTorch? — For Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #100DaysofCode \nhttps://t.co/MMPGYTXvyy https://t.co/U9JcveyaRp", "An #rstats blog post on webscraping, time formatting, cleaning, and plotting of data, using the Victorian COVID19 positive test rate as an example. Thanks to @dmi3k @earowang + the #tidyverse team for the software and @migga for maintaining @covidliveau\n\nhttps://t.co/hIfrSWGy44", "Learn How to Deploy Real-Time #MachineLearning at Scale using Sklearn, SpaCy, Kafka &amp; Seldon Core.\n\nhttps://t.co/uuqqyjVSig\n\n#DEVCommunity #DataScience #Python #100DaysOfCode #IoT #100DaysOfMLCode #flutter #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie https://t.co/h0FZ2QYwOJ", "History fans, I've just transformed 246 pages of the 1964 census on WWII deaths in Montenegro into a dataset and mapped 17,052 identified deaths as well as the median age of the victims\n\n#WWII #history #violence #dataviz #bigdata #datascience #maps #gis #rstats https://t.co/oIjxcjwwTO"]
 }
