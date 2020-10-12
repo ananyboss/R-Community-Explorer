@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8377,
-      "average_tweets_per_hour": 349,
-      "tweeters_today": 1922,
-      "total_likes_today": 5765
+      "total_tweets_today": 8202,
+      "average_tweets_per_hour": 342,
+      "tweeters_today": 1900,
+      "total_likes_today": 5771
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python",
-      "Freq": 186
+      "Freq": 181
     },
     {
       "Var1": "tidyverse rstats",
@@ -18,11 +18,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 147
+      "Freq": 153
     },
     {
       "Var1": "Machinelearning",
-      "Freq": 140
+      "Freq": 131
     },
     {
       "Var1": "Machinelearning 100DaysOfCode IoT",
@@ -34,11 +34,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 93
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 91
+      "Freq": 92
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -53,7 +49,7 @@
       "Freq": 81
     },
     {
-      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI MachineLearning RStats",
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
       "Freq": 81
     },
     {
@@ -61,7 +57,11 @@
       "Freq": 79
     },
     {
-      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI",
+      "Var1": "PyTorch BigData Analytics DataScience AI",
+      "Freq": 78
+    },
+    {
+      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI MachineLearning RStats",
       "Freq": 77
     },
     {
@@ -73,74 +73,74 @@
       "Freq": 73
     },
     {
-      "Var1": "PyTorch BigData Analytics DataScience AI",
-      "Freq": 73
-    },
-    {
       "Var1": "MachineLearning",
       "Freq": 71
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 65
+      "Var1": "DataScience 100DaysOfCode 100DaysOfMLCode AI",
+      "Freq": 68
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 62
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 62
+      "Freq": 60
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "CodeGnuts",
-      "Freq": 324
+      "Freq": 313
     },
     {
       "Var1": "xaelbot",
-      "Freq": 299
+      "Freq": 291
     },
     {
       "Var1": "nodeQuotesBot",
-      "Freq": 292
+      "Freq": 286
     },
     {
       "Var1": "nlognbot",
-      "Freq": 288
+      "Freq": 283
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 287
+      "Freq": 282
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 245
-    },
-    {
-      "Var1": "LlnuxBot",
       "Freq": 237
     },
     {
+      "Var1": "LlnuxBot",
+      "Freq": 231
+    },
+    {
       "Var1": "techtrendingnow",
-      "Freq": 180
+      "Freq": 176
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 169
+      "Freq": 160
     },
     {
       "Var1": "codeislife2",
-      "Freq": 143
+      "Freq": 138
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 142
-    },
-    {
-      "Var1": "Discovertech3",
-      "Freq": 127
+      "Freq": 130
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 127
+      "Freq": 128
+    },
+    {
+      "Var1": "Discovertech3",
+      "Freq": 121
     },
     {
       "Var1": "datasciencebot_",
@@ -148,27 +148,27 @@
     },
     {
       "Var1": "hubofml",
-      "Freq": 117
+      "Freq": 118
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 105
+      "Freq": 103
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 100
+      "Freq": 98
     },
     {
       "Var1": "the404code",
       "Freq": 97
     },
     {
-      "Var1": "rstats_tweets",
-      "Freq": 96
-    },
-    {
       "Var1": "anglehernandez",
       "Freq": 93
+    },
+    {
+      "Var1": "AlgorithmsB",
+      "Freq": 92
     }
   ],
   "top10_tweets_like": ["My course on the basics of R for ecologists is soon to launch! It's been many months, but it's finally ready. Here's a quick teaser of the first lesson in this course: https://t.co/pb3PzesBN9\n#RStats #ecology #onlinecourse #DataVisualization\n\nStay tuned for the launch date! https://t.co/otU5vQdF7y", "Interested in estimating causal effects on survival outcomes? You may need to account for time-varying confounders. Don’t know how? \n\nMy new paper with @elliecaniglia &amp; @lucia_petito explains the basics, with #Rstats, SAS, &amp; stata code!\n\n#causaltwitter \n\nhttps://t.co/4HIERDE5hd", "Hey #rstats, 📦 vembedr 1.4.0 now on CRAN 🎉\n\nEmbed videos from YouTube, Vimeo, and more in RMarkdown HTML documents!\n\nhttps://t.co/5wH54gAYlz https://t.co/SEejZ60SoL", "Top 3 Books for Every Data Science Engineer. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/a8z3lZ6aXG https://t.co/am5noJ8sq9", "📚 \"Introduction to Modern Statistics\"\n\n👤 Mine Çetinkaya-Rundel @minebocek &amp; Johanna Hardin\n\nhttps://t.co/3J6q77sbX1\n#rstats", "My first PhD paper dealing with the reliability of @GymAware and @trainwithPUSH devices during the hex-bar deadlift. We have implemented \"novel\" estimators (using #bmbstats). All out #Rstats code and data are available at OSF: https://t.co/JLqJJBZyyr \n\n#sportsci #sportscience https://t.co/6q4uKyFAX1", "How to Code a Simple Neural Network in #PyTorch? — For Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #100DaysofCode \nhttps://t.co/MMPGYTXvyy https://t.co/U9JcveyaRp", "An #rstats blog post on webscraping, time formatting, cleaning, and plotting of data, using the Victorian COVID19 positive test rate as an example. Thanks to @dmi3k @earowang + the #tidyverse team for the software and @migga for maintaining @covidliveau\n\nhttps://t.co/hIfrSWGy44", "Learn How to Deploy Real-Time #MachineLearning at Scale using Sklearn, SpaCy, Kafka &amp; Seldon Core.\n\nhttps://t.co/uuqqyjVSig\n\n#DEVCommunity #DataScience #Python #100DaysOfCode #IoT #100DaysOfMLCode #flutter #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie https://t.co/h0FZ2QYwOJ", "The Best Machine Learning Books to Read in 2020. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/gb5bqYHZst https://t.co/kBxLoHJM5c"],
