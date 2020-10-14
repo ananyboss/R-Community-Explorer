@@ -1,39 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 9798,
-      "average_tweets_per_hour": 408,
-      "tweeters_today": 2064,
-      "total_likes_today": 7721
+      "total_tweets_today": 9928,
+      "average_tweets_per_hour": 414,
+      "tweeters_today": 2055,
+      "total_likes_today": 7429
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 246
+      "Freq": 252
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 159
+      "Freq": 167
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 128
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 155
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 133
+      "Freq": 116
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 111
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 110
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 111
     },
     {
       "Var1": "RStats",
+      "Freq": 98
+    },
+    {
+      "Var1": "BigData Analytics",
       "Freq": 94
     },
     {
@@ -42,39 +46,39 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 91
-    },
-    {
-      "Var1": "BigData Analytics",
-      "Freq": 89
+      "Freq": 88
     },
     {
       "Var1": "100DaysOfCode IoT 100DaysOfMLCode",
       "Freq": 87
     },
     {
-      "Var1": "DataScience BigData Analytics IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 87
-    },
-    {
       "Var1": "100DaysOfCode",
-      "Freq": 80
+      "Freq": 83
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
-      "Freq": 73
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 75
     },
     {
       "Var1": "EmergingTech BigData Analytics DataScience AI MachineLearning",
-      "Freq": 72
+      "Freq": 75
     },
     {
       "Var1": "100DaysOfCode Machinelearning IoT",
       "Freq": 71
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Var1": "Machinelearning",
       "Freq": 71
+    },
+    {
+      "Var1": "Machinelearning Python",
+      "Freq": 69
+    },
+    {
+      "Var1": "DataAnalytics 100DaysOfCode MachineLearning DeepLearning",
+      "Freq": 68
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
@@ -83,84 +87,80 @@
     {
       "Var1": "Machinelearning 100DaysOfCode IoT",
       "Freq": 67
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 66
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 478
+      "Freq": 482
     },
     {
       "Var1": "nlognbot",
-      "Freq": 354
+      "Freq": 367
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 351
+      "Freq": 364
     },
     {
       "Var1": "xaelbot",
-      "Freq": 347
+      "Freq": 354
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 298
+      "Freq": 315
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 297
+      "Freq": 305
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 232
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 218
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 193
-    },
-    {
-      "Var1": "Discovertech3",
-      "Freq": 187
-    },
-    {
-      "Var1": "techtrendingnow",
-      "Freq": 182
-    },
-    {
-      "Var1": "codeislife2",
-      "Freq": 180
+      "Freq": 243
     },
     {
       "Var1": "Facukaku021",
-      "Freq": 157
+      "Freq": 242
     },
     {
-      "Var1": "the404code",
-      "Freq": 149
+      "Var1": "rstats_tweets",
+      "Freq": 221
+    },
+    {
+      "Var1": "datasciencebot_",
+      "Freq": 189
+    },
+    {
+      "Var1": "techtrendingnow",
+      "Freq": 183
+    },
+    {
+      "Var1": "codeislife2",
+      "Freq": 181
+    },
+    {
+      "Var1": "Discovertech3",
+      "Freq": 180
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 147
+      "Freq": 158
     },
     {
       "Var1": "NetworkIndie",
-      "Freq": 145
+      "Freq": 150
     },
     {
-      "Var1": "hubofml",
-      "Freq": 134
+      "Var1": "the404code",
+      "Freq": 137
     },
     {
       "Var1": "CodingRetweets",
-      "Freq": 127
+      "Freq": 133
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 133
     },
     {
       "Var1": "Rahul_RPandya",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "anglehernandez",
-      "Freq": 108
+      "Freq": 112
     }
   ],
-  "top10_tweets_like": ["Introducing {geomlime} so that for all the times I type \"geom_lime()\" instead of \"geom_line()\" I will now be rewarded with citrus!\n\nSeriously ... every week I mistype this!\n\nhttps://t.co/u3BreuxVyr\n\n#RStats #typo #citrus https://t.co/ar2yj4Lg7g", "dplyr is absolutely, 💯 my favorite #rstats package, so I made a tutorial for anyone looking to get started with exploring what dplyr can do 🐧 || https://t.co/XRWdNdXKrg", "R is free.\nR can be used by anyone with access to a computer.\nWith its welcoming and inclusive community, R users make packages focused on equity.\nIf you care about social justice, there’s no better tool to use than R. #rstats\nhttps://t.co/GLFvHRRJWk", "1/2‼️New blog post! Learn how to visualize the polar sea ice from 1988 to 2020 entirely in #rstats with #rayrender. All code included—everything from downloading the data to generating the 3D ice polygons to rendering/animation. \n\n#dataviz\n\nBlog post:\nhttps://t.co/REhEeHu7M1 https://t.co/Qh1W3U2dzQ", "Today at @rinpharma, @topepos presented a new #rstats package {stacks} 🥞 for model stacking!\n\nLearn more about stacks here:\nhttps://t.co/mVunL0h22w https://t.co/iHWfzwZIvc", "Ok I'm sure these are pretty well-known tips among #ggplot2  aficionados, but as a still somewhat beginner, I'm gonna tweet out some of my favorite tips and tricks for beautiful plots for other beginners. I'm working on figures for a poster now so I'll do them as I go. #rstats 1/", "Really happy to see #rstats tool I created being officially part of the efforts to improve psychological science 😊🎉\n\nBig thanks to a large group of people who have helped in its development! 🙏 https://t.co/WoYwliXehn", "Catch-up contribution to #TidyTuesday Week 202/37 🌾🚜Global Crop Yields\n\n🔗 https://t.co/VvYcc9yAKQ (🖥️ only)\n\nNo #ggplot2 but a #Shiny app with plots and #maps built with the wonderful #echarts library. H/t to @jdatap for all your effort and help 🙂\n#r4ds #rstats #dataviz https://t.co/HbX0o1ecIP", "New blogpost going through a few cases of nicely plotting points as images in #ggplot2 !\n\nMain goal: Avoid \"warping\" of images and general strategies.\n\nFull code to reproduce, some \"good\" and \"bad\" examples all w/ NFL data.\n\nPost: https://t.co/KlzLEf6A3m\n\n#rstats #tidyverse", "I built my first R package today. It was a bit nerve wracking right before ctrl + shift + b, but 🪅🎖️🙌🎊! #Rstats #Rladies This was a package to learn how to make a package. Thrilled to start work on the package I have wanted to make for a year!"],
-  "top10_tweets_retweet": ["Introducing {geomlime} so that for all the times I type \"geom_lime()\" instead of \"geom_line()\" I will now be rewarded with citrus!\n\nSeriously ... every week I mistype this!\n\nhttps://t.co/u3BreuxVyr\n\n#RStats #typo #citrus https://t.co/ar2yj4Lg7g", "dplyr is absolutely, 💯 my favorite #rstats package, so I made a tutorial for anyone looking to get started with exploring what dplyr can do 🐧 || https://t.co/XRWdNdXKrg", "R is free.\nR can be used by anyone with access to a computer.\nWith its welcoming and inclusive community, R users make packages focused on equity.\nIf you care about social justice, there’s no better tool to use than R. #rstats\nhttps://t.co/GLFvHRRJWk", "1/2‼️New blog post! Learn how to visualize the polar sea ice from 1988 to 2020 entirely in #rstats with #rayrender. All code included—everything from downloading the data to generating the 3D ice polygons to rendering/animation. \n\n#dataviz\n\nBlog post:\nhttps://t.co/REhEeHu7M1 https://t.co/Qh1W3U2dzQ", "Today at @rinpharma, @topepos presented a new #rstats package {stacks} 🥞 for model stacking!\n\nLearn more about stacks here:\nhttps://t.co/mVunL0h22w https://t.co/iHWfzwZIvc", "Ok I'm sure these are pretty well-known tips among #ggplot2  aficionados, but as a still somewhat beginner, I'm gonna tweet out some of my favorite tips and tricks for beautiful plots for other beginners. I'm working on figures for a poster now so I'll do them as I go. #rstats 1/", "Really happy to see #rstats tool I created being officially part of the efforts to improve psychological science 😊🎉\n\nBig thanks to a large group of people who have helped in its development! 🙏 https://t.co/WoYwliXehn", "Catch-up contribution to #TidyTuesday Week 202/37 🌾🚜Global Crop Yields\n\n🔗 https://t.co/VvYcc9yAKQ (🖥️ only)\n\nNo #ggplot2 but a #Shiny app with plots and #maps built with the wonderful #echarts library. H/t to @jdatap for all your effort and help 🙂\n#r4ds #rstats #dataviz https://t.co/HbX0o1ecIP", "New blogpost going through a few cases of nicely plotting points as images in #ggplot2 !\n\nMain goal: Avoid \"warping\" of images and general strategies.\n\nFull code to reproduce, some \"good\" and \"bad\" examples all w/ NFL data.\n\nPost: https://t.co/KlzLEf6A3m\n\n#rstats #tidyverse", "I built my first R package today. It was a bit nerve wracking right before ctrl + shift + b, but 🪅🎖️🙌🎊! #Rstats #Rladies This was a package to learn how to make a package. Thrilled to start work on the package I have wanted to make for a year!"]
+  "top10_tweets_like": ["dplyr is absolutely, 💯 my favorite #rstats package, so I made a tutorial for anyone looking to get started with exploring what dplyr can do 🐧 || https://t.co/XRWdNdXKrg", "Introducing {geomlime} so that for all the times I type \"geom_lime()\" instead of \"geom_line()\" I will now be rewarded with citrus!\n\nSeriously ... every week I mistype this!\n\nhttps://t.co/u3BreuxVyr\n\n#RStats #typo #citrus https://t.co/ar2yj4Lg7g", "Today at @rinpharma, @topepos presented a new #rstats package {stacks} 🥞 for model stacking!\n\nLearn more about stacks here:\nhttps://t.co/mVunL0h22w https://t.co/iHWfzwZIvc", "1/2‼️New blog post! Learn how to visualize the polar sea ice from 1988 to 2020 entirely in #rstats with #rayrender. All code included—everything from downloading the data to generating the 3D ice polygons to rendering/animation. \n\n#dataviz\n\nBlog post:\nhttps://t.co/REhEeHu7M1 https://t.co/Qh1W3U2dzQ", "Ok I'm sure these are pretty well-known tips among #ggplot2  aficionados, but as a still somewhat beginner, I'm gonna tweet out some of my favorite tips and tricks for beautiful plots for other beginners. I'm working on figures for a poster now so I'll do them as I go. #rstats 1/", "Catch-up contribution to #TidyTuesday Week 202/37 🌾🚜Global Crop Yields\n\n🔗 https://t.co/VvYcc9yAKQ (🖥️ only)\n\nNo #ggplot2 but a #Shiny app with plots and #maps built with the wonderful #echarts library. H/t to @jdatap for all your effort and help 🙂\n#r4ds #rstats #dataviz https://t.co/HbX0o1ecIP", "New blogpost going through a few cases of nicely plotting points as images in #ggplot2 !\n\nMain goal: Avoid \"warping\" of images and general strategies.\n\nFull code to reproduce, some \"good\" and \"bad\" examples all w/ NFL data.\n\nPost: https://t.co/KlzLEf6A3m\n\n#rstats #tidyverse", "I built my first R package today. It was a bit nerve wracking right before ctrl + shift + b, but 🪅🎖️🙌🎊! #Rstats #Rladies This was a package to learn how to make a package. Thrilled to start work on the package I have wanted to make for a year!", "Adicionamos duas opções de consulta no nosso extrator de dados de finanças públicas de municípios, estados e governo federal.\nAgora é possível trabalhar com dados de alcance do mínimo constitucional de despesas em educação e saúde. (+)\n#Rstats #dataviz \n\nhttps://t.co/3eVoaT1Fmf https://t.co/NjJ6BFAyBO", "Want to get a head start on R for Ecologists? Just made lessons 1-3 available! If you've never used R before, START HERE. :)\n\nLesson 1: https://t.co/pb3PzesBN9\nLesson 2: https://t.co/CuJU3shyxa\nLesson 3: https://t.co/1fhHNpiAo4\n\n#Rstats #basics #datascience #ecologists #course https://t.co/CIApWpnKug"],
+  "top10_tweets_retweet": ["dplyr is absolutely, 💯 my favorite #rstats package, so I made a tutorial for anyone looking to get started with exploring what dplyr can do 🐧 || https://t.co/XRWdNdXKrg", "Introducing {geomlime} so that for all the times I type \"geom_lime()\" instead of \"geom_line()\" I will now be rewarded with citrus!\n\nSeriously ... every week I mistype this!\n\nhttps://t.co/u3BreuxVyr\n\n#RStats #typo #citrus https://t.co/ar2yj4Lg7g", "Today at @rinpharma, @topepos presented a new #rstats package {stacks} 🥞 for model stacking!\n\nLearn more about stacks here:\nhttps://t.co/mVunL0h22w https://t.co/iHWfzwZIvc", "1/2‼️New blog post! Learn how to visualize the polar sea ice from 1988 to 2020 entirely in #rstats with #rayrender. All code included—everything from downloading the data to generating the 3D ice polygons to rendering/animation. \n\n#dataviz\n\nBlog post:\nhttps://t.co/REhEeHu7M1 https://t.co/Qh1W3U2dzQ", "Ok I'm sure these are pretty well-known tips among #ggplot2  aficionados, but as a still somewhat beginner, I'm gonna tweet out some of my favorite tips and tricks for beautiful plots for other beginners. I'm working on figures for a poster now so I'll do them as I go. #rstats 1/", "Catch-up contribution to #TidyTuesday Week 202/37 🌾🚜Global Crop Yields\n\n🔗 https://t.co/VvYcc9yAKQ (🖥️ only)\n\nNo #ggplot2 but a #Shiny app with plots and #maps built with the wonderful #echarts library. H/t to @jdatap for all your effort and help 🙂\n#r4ds #rstats #dataviz https://t.co/HbX0o1ecIP", "New blogpost going through a few cases of nicely plotting points as images in #ggplot2 !\n\nMain goal: Avoid \"warping\" of images and general strategies.\n\nFull code to reproduce, some \"good\" and \"bad\" examples all w/ NFL data.\n\nPost: https://t.co/KlzLEf6A3m\n\n#rstats #tidyverse", "I built my first R package today. It was a bit nerve wracking right before ctrl + shift + b, but 🪅🎖️🙌🎊! #Rstats #Rladies This was a package to learn how to make a package. Thrilled to start work on the package I have wanted to make for a year!", "Adicionamos duas opções de consulta no nosso extrator de dados de finanças públicas de municípios, estados e governo federal.\nAgora é possível trabalhar com dados de alcance do mínimo constitucional de despesas em educação e saúde. (+)\n#Rstats #dataviz \n\nhttps://t.co/3eVoaT1Fmf https://t.co/NjJ6BFAyBO", "Want to get a head start on R for Ecologists? Just made lessons 1-3 available! If you've never used R before, START HERE. :)\n\nLesson 1: https://t.co/pb3PzesBN9\nLesson 2: https://t.co/CuJU3shyxa\nLesson 3: https://t.co/1fhHNpiAo4\n\n#Rstats #basics #datascience #ecologists #course https://t.co/CIApWpnKug"]
 }
