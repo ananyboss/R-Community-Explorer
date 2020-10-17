@@ -1,72 +1,72 @@
 {
   "summary": [
     {
-      "total_tweets_today": 10250,
-      "average_tweets_per_hour": 427,
-      "tweeters_today": 1423,
-      "total_likes_today": 4183
+      "total_tweets_today": 10110,
+      "average_tweets_per_hour": 421,
+      "tweeters_today": 1380,
+      "total_likes_today": 3367
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 307
+      "Freq": 311
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 281
+      "Freq": 280
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 168
+      "Freq": 172
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 166
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 151
+      "Var1": "tidyverse rstats",
+      "Freq": 138
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 139
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 128
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 122
+      "Freq": 121
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 108
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 98
+      "Freq": 103
     },
     {
       "Var1": "BigData Analytics",
-      "Freq": 97
+      "Freq": 98
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 90
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 95
     },
     {
       "Var1": "DeepLearning Analytics DataScience AI",
-      "Freq": 89
+      "Freq": 91
     },
     {
       "Var1": "DataScience ArtificialIntelligence MachineLearning BigData IoT Python RStats Java JavaScript ReactJS",
+      "Freq": 88
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 86
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 85
+      "Freq": 80
     },
     {
       "Var1": "DataScientists",
-      "Freq": 85
+      "Freq": 79
     },
     {
       "Var1": "100DaysOfCode IoT 100DaysOfMLCode",
@@ -77,7 +77,7 @@
       "Freq": 66
     },
     {
-      "Var1": "STARTUP BigData Analytics DataScience AI",
+      "Var1": "DeepLearning Analytics",
       "Freq": 65
     },
     {
@@ -85,38 +85,38 @@
       "Freq": 61
     },
     {
-      "Var1": "rstats DataScience",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats",
       "Freq": 61
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "Facukaku021",
-      "Freq": 591
+      "Freq": 583
     },
     {
       "Var1": "nlognbot",
-      "Freq": 447
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 444
+      "Freq": 454
     },
     {
       "Var1": "LlnuxBot",
+      "Freq": 448
+    },
+    {
+      "Var1": "xaelbot",
       "Freq": 441
     },
     {
-      "Var1": "CursosFacu",
-      "Freq": 440
+      "Var1": "Women_who_code",
+      "Freq": 439
     },
     {
-      "Var1": "Women_who_code",
-      "Freq": 434
+      "Var1": "CursosFacu",
+      "Freq": 437
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 344
+      "Freq": 331
     },
     {
       "Var1": "Fabriciosx",
@@ -124,53 +124,53 @@
     },
     {
       "Var1": "Rahul_RPandya",
-      "Freq": 295
+      "Freq": 304
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 252
+      "Freq": 244
     },
     {
       "Var1": "altf4hashbot",
       "Freq": 242
     },
     {
-      "Var1": "techtrendingnow",
-      "Freq": 211
+      "Var1": "the404code",
+      "Freq": 201
     },
     {
-      "Var1": "the404code",
-      "Freq": 204
+      "Var1": "techtrendingnow",
+      "Freq": 198
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 174
+      "Freq": 182
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 170
+      "Freq": 163
     },
     {
       "Var1": "hubofml",
-      "Freq": 165
+      "Freq": 162
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 142
-    },
-    {
-      "Var1": "TheSecretJunio1",
       "Freq": 133
     },
     {
+      "Var1": "TheSecretJunio1",
+      "Freq": 131
+    },
+    {
       "Var1": "friday_Js_bot",
-      "Freq": 126
+      "Freq": 127
     },
     {
       "Var1": "cybersec_feeds",
       "Freq": 124
     }
   ],
-  "top10_tweets_like": ["Very excited for rstudio::global(2021), especially for our keynote speakers @vboykis and @jburnmurdoch! #rstats https://t.co/rcsh8OyBVq", "We have a new article up today (revamped from an earlier vignette) that covers some advanced topics on text preprocessing, regularized models, and both grid and iterative tuning! 🚀\n\n#rstats cc @Emil_Hvitfeldt \n\nhttps://t.co/VKOUcNRiUd", "'Winter is coming'. Smoothed frost day probability (minimum temperature &lt; 0ºC/32ºF) through the year in the Contiguous United States. #rstats #rspatial #ggplot2  #dataviz #USA https://t.co/qgqeQqQ6QU", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Pr1MbRNpQN", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 35 days, overall median represented by a blue asterisk. #cleanenergy #rstats #ggplot2  #gganimate https://t.co/ymXwvxzod4", "📦📊 \"ggraph • A grammar of graphics for relational data\"\n\n👤 Thomas Lin Pedersen @thomasp85\n\nhttps://t.co/BLWRa6pWH4\n#rstats https://t.co/kLIm7hQoYY", "Hairland, or hairsea? \n\n(worst build-a-bear ever)\n\n#rstats #rayrender https://t.co/NGZ4Bhs0tY", "The Best Data Science Books on Our Reading List. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bR2qJxqbwi https://t.co/dHeaCyl7cH", "Famous Probability Distributions in Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/5wAA2D6QAo https://t.co/MvsImKLk1P", "Move over pie charts—here comes the KOOSH chart! Advancing the art of yak shaving to the next generation. \n\nOther (stupid) name ideas:\n💡Sphere and whiskers plot\n💡Gillettechart\n💡Barberplot\n\n#rstats #rayrender #dataviz https://t.co/LI9fQEm89U"],
-  "top10_tweets_retweet": ["Very excited for rstudio::global(2021), especially for our keynote speakers @vboykis and @jburnmurdoch! #rstats https://t.co/rcsh8OyBVq", "We have a new article up today (revamped from an earlier vignette) that covers some advanced topics on text preprocessing, regularized models, and both grid and iterative tuning! 🚀\n\n#rstats cc @Emil_Hvitfeldt \n\nhttps://t.co/VKOUcNRiUd", "'Winter is coming'. Smoothed frost day probability (minimum temperature &lt; 0ºC/32ºF) through the year in the Contiguous United States. #rstats #rspatial #ggplot2  #dataviz #USA https://t.co/qgqeQqQ6QU", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Pr1MbRNpQN", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 35 days, overall median represented by a blue asterisk. #cleanenergy #rstats #ggplot2  #gganimate https://t.co/ymXwvxzod4", "📦📊 \"ggraph • A grammar of graphics for relational data\"\n\n👤 Thomas Lin Pedersen @thomasp85\n\nhttps://t.co/BLWRa6pWH4\n#rstats https://t.co/kLIm7hQoYY", "Hairland, or hairsea? \n\n(worst build-a-bear ever)\n\n#rstats #rayrender https://t.co/NGZ4Bhs0tY", "The Best Data Science Books on Our Reading List. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bR2qJxqbwi https://t.co/dHeaCyl7cH", "Famous Probability Distributions in Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/5wAA2D6QAo https://t.co/MvsImKLk1P", "Move over pie charts—here comes the KOOSH chart! Advancing the art of yak shaving to the next generation. \n\nOther (stupid) name ideas:\n💡Sphere and whiskers plot\n💡Gillettechart\n💡Barberplot\n\n#rstats #rayrender #dataviz https://t.co/LI9fQEm89U"]
+  "top10_tweets_like": ["This is cool #rstats! str_replace() takes a `pattern` to find in text and a `replacement` that it puts in place of the found text. But give `replacement` a function and str_replace() applies the function to each match!\n\nEx: turn \"1/2\" into a decimal by evaluating -&gt; \"0.5\" https://t.co/ehkGunTmpH", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Pr1MbRNpQN", "📦📊 \"ggraph • A grammar of graphics for relational data\"\n\n👤 Thomas Lin Pedersen @thomasp85\n\nhttps://t.co/BLWRa6pWH4\n#rstats https://t.co/kLIm7hQoYY", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 35 days, overall median represented by a blue asterisk. #cleanenergy #rstats #ggplot2  #gganimate https://t.co/ymXwvxzod4", "The Best Data Science Books on Our Reading List. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bR2qJxqbwi https://t.co/dHeaCyl7cH", "Famous Probability Distributions in Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/5wAA2D6QAo https://t.co/MvsImKLk1P", "Hairland, or hairsea? \n\n(worst build-a-bear ever)\n\n#rstats #rayrender https://t.co/NGZ4Bhs0tY", "Move over pie charts—here comes the KOOSH chart! Advancing the art of yak shaving to the next generation. \n\nOther (stupid) name ideas:\n💡Sphere and whiskers plot\n💡Gillettechart\n💡Barberplot\n\n#rstats #rayrender #dataviz https://t.co/LI9fQEm89U", "My top 3 #rstats habits:\n\n1) Use RStudio projects \n2) here() for file paths \n3) Packages in setup chunk at start and sessionInfo() at end of markdown\n\n```{r setup}\nlibrary(tidyverse)\nlibrary(etc)\n```\n\nWhat are others’ top 3 tips? I’d love to learn more!! 🤓", "📦 \"equatiomatic • lme4::lmer Models\"\n\n👤 Daniel Anderson @datalorax_ \n\nhttps://t.co/Le31UxfRGf\n#rstats https://t.co/PdhE00hMJG"],
+  "top10_tweets_retweet": ["This is cool #rstats! str_replace() takes a `pattern` to find in text and a `replacement` that it puts in place of the found text. But give `replacement` a function and str_replace() applies the function to each match!\n\nEx: turn \"1/2\" into a decimal by evaluating -&gt; \"0.5\" https://t.co/ehkGunTmpH", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Pr1MbRNpQN", "📦📊 \"ggraph • A grammar of graphics for relational data\"\n\n👤 Thomas Lin Pedersen @thomasp85\n\nhttps://t.co/BLWRa6pWH4\n#rstats https://t.co/kLIm7hQoYY", "Carbon Intensity of Electricity consumption. Hourly readings  over the last 35 days, overall median represented by a blue asterisk. #cleanenergy #rstats #ggplot2  #gganimate https://t.co/ymXwvxzod4", "The Best Data Science Books on Our Reading List. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bR2qJxqbwi https://t.co/dHeaCyl7cH", "Famous Probability Distributions in Data Science. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/5wAA2D6QAo https://t.co/MvsImKLk1P", "Hairland, or hairsea? \n\n(worst build-a-bear ever)\n\n#rstats #rayrender https://t.co/NGZ4Bhs0tY", "Move over pie charts—here comes the KOOSH chart! Advancing the art of yak shaving to the next generation. \n\nOther (stupid) name ideas:\n💡Sphere and whiskers plot\n💡Gillettechart\n💡Barberplot\n\n#rstats #rayrender #dataviz https://t.co/LI9fQEm89U", "My top 3 #rstats habits:\n\n1) Use RStudio projects \n2) here() for file paths \n3) Packages in setup chunk at start and sessionInfo() at end of markdown\n\n```{r setup}\nlibrary(tidyverse)\nlibrary(etc)\n```\n\nWhat are others’ top 3 tips? I’d love to learn more!! 🤓", "📦 \"equatiomatic • lme4::lmer Models\"\n\n👤 Daniel Anderson @datalorax_ \n\nhttps://t.co/Le31UxfRGf\n#rstats https://t.co/PdhE00hMJG"]
 }
