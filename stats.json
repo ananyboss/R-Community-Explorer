@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7730,
-      "average_tweets_per_hour": 322,
-      "tweeters_today": 1603,
-      "total_likes_today": 6293
+      "total_tweets_today": 7845,
+      "average_tweets_per_hour": 327,
+      "tweeters_today": 1636,
+      "total_likes_today": 6381
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 248
+      "Freq": 254
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 244
+      "Freq": 250
     },
     {
       "Var1": "Python",
-      "Freq": 188
+      "Freq": 199
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -30,11 +30,15 @@
     },
     {
       "Var1": "custom mug tshirt design fiverr fiverrgigs 100DaysOfCode Machinelearning IoT",
-      "Freq": 127
+      "Freq": 115
     },
     {
       "Var1": "RStats",
-      "Freq": 96
+      "Freq": 107
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 95
     },
     {
       "Var1": "Python BigData Analytics DataScience IoT IIoT RStats",
@@ -49,102 +53,98 @@
       "Freq": 91
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 89
-    },
-    {
-      "Var1": "ArtificialIntelligence DataScience BigData Analytics RStats Python",
-      "Freq": 81
-    },
-    {
       "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 76
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 74
+    },
+    {
+      "Var1": "ArtificialIntelligence DataScience BigData Analytics RStats Python",
       "Freq": 73
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 69
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 66
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 63
+      "Var1": "Python Machinelearning 100DaysOfCode IoT",
+      "Freq": 62
+    },
+    {
+      "Var1": "BigData Analytics",
+      "Freq": 61
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 60
     },
     {
-      "Var1": "Python Machinelearning 100DaysOfCode IoT",
-      "Freq": 59
-    },
-    {
       "Var1": "ApacheSpark BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 58
-    },
-    {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 53
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 447
+      "Freq": 464
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 374
+      "Freq": 376
     },
     {
       "Var1": "nlognbot",
-      "Freq": 301
+      "Freq": 306
     },
     {
       "Var1": "xaelbot",
-      "Freq": 299
+      "Freq": 306
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 293
+      "Freq": 299
     },
     {
       "Var1": "CodingRetweets",
-      "Freq": 218
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 205
+      "Freq": 216
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 203
+      "Freq": 214
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 170
+      "Var1": "rstats_tweets",
+      "Freq": 212
     },
     {
       "Var1": "hubofml",
-      "Freq": 165
+      "Freq": 170
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 169
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 135
+      "Freq": 141
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 134
+      "Freq": 139
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 115
+      "Freq": 117
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 112
+      "Freq": 115
     },
     {
       "Var1": "techtrendingnow",
@@ -152,7 +152,7 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 106
+      "Freq": 107
     },
     {
       "Var1": "Rahul_RPandya",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 82
+      "Freq": 85
     },
     {
-      "Var1": "TheCuriousLuke",
-      "Freq": 78
+      "Var1": "anglehernandez",
+      "Freq": 80
     }
   ],
-  "top10_tweets_like": ["Wow while we’ve been messing around on #rstats Reddit has been getting it done https://t.co/tOr2T8BCLH", "If you have a widescreen monitor, this new @rstudio 1.4 feature may be relevant to your interests.  https://t.co/dOy0Xu1gKp #rstats https://t.co/HXLPU8NJ4Y", "RStudio v1.4 Preview: Multiple Source Columns\nMultiple source columns give you the ability to view your source editors side-by-side and quickly reference code and data without switching tabs.\n#RStats #RStudio #DataScience https://t.co/RTCXQt6gNb", "Coffee, an external monitor, #rstats, and a cat: a good environment to defend a phd in. T-minus 1.5 hours until #PhDone https://t.co/2HcApT9phL", "Here is Part 2 of our #rstats #tidyverse #dplyr guide!\nIt focuses on recently introduced across() and c_across(), which allow for applying the same functions repeatedly within a table -- superseding the use of the suffixes _if _at _all in dplyr main verbs. Feedbacks welcome! https://t.co/QhucQtQDyL", "My First Book: 200 #Python Exercises, An Introduction to Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/qUZn28dYvL https://t.co/F2yQMEQwdy", "so I'm working on a project to showcase to beginners why #rstats is fun and legitimately this could take weeks because there are SO MANY GOOD THINGS! \n\nbut if you could *only* give three reasons//examples why R is fun, what would they be?", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/QwBP5bB3lh", "Don't know much about tidymodels? This  #VirtuEARL keynote gives an overview that motivates why we need it and shows some examples. \n\nhttps://t.co/WsTXlkc8Lh\n\n#rstats https://t.co/HKa1jPeDK0", "📚 \"Bayes Rules! An Introduction to Bayesian Modeling with R\"\n\n👤Alicia A. Johnson, Miles Ott @miles_ott, Mine Dogucu @minedogucu\n\nhttps://t.co/IVQ7MUKPb7\n#rstats"],
-  "top10_tweets_retweet": ["Wow while we’ve been messing around on #rstats Reddit has been getting it done https://t.co/tOr2T8BCLH", "If you have a widescreen monitor, this new @rstudio 1.4 feature may be relevant to your interests.  https://t.co/dOy0Xu1gKp #rstats https://t.co/HXLPU8NJ4Y", "RStudio v1.4 Preview: Multiple Source Columns\nMultiple source columns give you the ability to view your source editors side-by-side and quickly reference code and data without switching tabs.\n#RStats #RStudio #DataScience https://t.co/RTCXQt6gNb", "Coffee, an external monitor, #rstats, and a cat: a good environment to defend a phd in. T-minus 1.5 hours until #PhDone https://t.co/2HcApT9phL", "Here is Part 2 of our #rstats #tidyverse #dplyr guide!\nIt focuses on recently introduced across() and c_across(), which allow for applying the same functions repeatedly within a table -- superseding the use of the suffixes _if _at _all in dplyr main verbs. Feedbacks welcome! https://t.co/QhucQtQDyL", "My First Book: 200 #Python Exercises, An Introduction to Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/qUZn28dYvL https://t.co/F2yQMEQwdy", "so I'm working on a project to showcase to beginners why #rstats is fun and legitimately this could take weeks because there are SO MANY GOOD THINGS! \n\nbut if you could *only* give three reasons//examples why R is fun, what would they be?", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/QwBP5bB3lh", "Don't know much about tidymodels? This  #VirtuEARL keynote gives an overview that motivates why we need it and shows some examples. \n\nhttps://t.co/WsTXlkc8Lh\n\n#rstats https://t.co/HKa1jPeDK0", "📚 \"Bayes Rules! An Introduction to Bayesian Modeling with R\"\n\n👤Alicia A. Johnson, Miles Ott @miles_ott, Mine Dogucu @minedogucu\n\nhttps://t.co/IVQ7MUKPb7\n#rstats"]
+  "top10_tweets_like": ["Wow while we’ve been messing around on #rstats Reddit has been getting it done https://t.co/tOr2T8BCLH", "If you have a widescreen monitor, this new @rstudio 1.4 feature may be relevant to your interests.  https://t.co/dOy0Xu1gKp #rstats https://t.co/HXLPU8NJ4Y", "RStudio v1.4 Preview: Multiple Source Columns\nMultiple source columns give you the ability to view your source editors side-by-side and quickly reference code and data without switching tabs.\n#RStats #RStudio #DataScience https://t.co/RTCXQt6gNb", "Coffee, an external monitor, #rstats, and a cat: a good environment to defend a phd in. T-minus 1.5 hours until #PhDone https://t.co/2HcApT9phL", "Here is Part 2 of our #rstats #tidyverse #dplyr guide!\nIt focuses on recently introduced across() and c_across(), which allow for applying the same functions repeatedly within a table -- superseding the use of the suffixes _if _at _all in dplyr main verbs. Feedbacks welcome! https://t.co/QhucQtQDyL", "My First Book: 200 #Python Exercises, An Introduction to Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/qUZn28dYvL https://t.co/F2yQMEQwdy", "so I'm working on a project to showcase to beginners why #rstats is fun and legitimately this could take weeks because there are SO MANY GOOD THINGS! \n\nbut if you could *only* give three reasons//examples why R is fun, what would they be?", "Don't know much about tidymodels? This  #VirtuEARL keynote gives an overview that motivates why we need it and shows some examples. \n\nhttps://t.co/WsTXlkc8Lh\n\n#rstats https://t.co/HKa1jPeDK0", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/QwBP5bB3lh", "📚 \"Bayes Rules! An Introduction to Bayesian Modeling with R\"\n\n👤Alicia A. Johnson, Miles Ott @miles_ott, Mine Dogucu @minedogucu\n\nhttps://t.co/IVQ7MUKPb7\n#rstats"],
+  "top10_tweets_retweet": ["Wow while we’ve been messing around on #rstats Reddit has been getting it done https://t.co/tOr2T8BCLH", "If you have a widescreen monitor, this new @rstudio 1.4 feature may be relevant to your interests.  https://t.co/dOy0Xu1gKp #rstats https://t.co/HXLPU8NJ4Y", "RStudio v1.4 Preview: Multiple Source Columns\nMultiple source columns give you the ability to view your source editors side-by-side and quickly reference code and data without switching tabs.\n#RStats #RStudio #DataScience https://t.co/RTCXQt6gNb", "Coffee, an external monitor, #rstats, and a cat: a good environment to defend a phd in. T-minus 1.5 hours until #PhDone https://t.co/2HcApT9phL", "Here is Part 2 of our #rstats #tidyverse #dplyr guide!\nIt focuses on recently introduced across() and c_across(), which allow for applying the same functions repeatedly within a table -- superseding the use of the suffixes _if _at _all in dplyr main verbs. Feedbacks welcome! https://t.co/QhucQtQDyL", "My First Book: 200 #Python Exercises, An Introduction to Python. #BigData #Analytics #DataScience #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/qUZn28dYvL https://t.co/F2yQMEQwdy", "so I'm working on a project to showcase to beginners why #rstats is fun and legitimately this could take weeks because there are SO MANY GOOD THINGS! \n\nbut if you could *only* give three reasons//examples why R is fun, what would they be?", "Don't know much about tidymodels? This  #VirtuEARL keynote gives an overview that motivates why we need it and shows some examples. \n\nhttps://t.co/WsTXlkc8Lh\n\n#rstats https://t.co/HKa1jPeDK0", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tmTKcyISep https://t.co/QwBP5bB3lh", "📚 \"Bayes Rules! An Introduction to Bayesian Modeling with R\"\n\n👤Alicia A. Johnson, Miles Ott @miles_ott, Mine Dogucu @minedogucu\n\nhttps://t.co/IVQ7MUKPb7\n#rstats"]
 }
