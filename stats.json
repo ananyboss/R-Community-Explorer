@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6276,
-      "average_tweets_per_hour": 262,
-      "tweeters_today": 1334,
-      "total_likes_today": 4750
+      "total_tweets_today": 6267,
+      "average_tweets_per_hour": 261,
+      "tweeters_today": 1324,
+      "total_likes_today": 4696
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 235
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 100
+      "Freq": 237
     },
     {
       "Var1": "custom mug tshirt design fiverr fiverrgigs 100DaysOfCode Machinelearning IoT",
-      "Freq": 97
+      "Freq": 100
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 96
     },
     {
       "Var1": "AWS Serverless BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 72
+      "Freq": 75
     },
     {
       "Var1": "custom mug tshirt design fiverr fiverrgigs MadeOnFiverr 100DaysOfCode",
@@ -41,16 +41,20 @@
       "Freq": 67
     },
     {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
+      "Freq": 61
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 63
+      "Freq": 59
     },
     {
       "Var1": "Python",
       "Freq": 59
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java JavaScript",
-      "Freq": 58
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 56
     },
     {
       "Var1": "IoT 100DaysOfCode 100DaysOfMLCode Machinelearning Python flutter javascript",
@@ -61,23 +65,19 @@
       "Freq": 49
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 47
+      "Var1": "BigData Analytics",
+      "Freq": 48
     },
     {
-      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 46
-    },
-    {
-      "Var1": "100DaysOfCode",
-      "Freq": 45
+      "Var1": "DeepLearning Analytics",
+      "Freq": 48
     },
     {
       "Var1": "Analytics MachineLearning AI Java RStats reactjs IoT IIoT",
-      "Freq": 44
+      "Freq": 47
     },
     {
-      "Var1": "BigData Analytics",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 44
     },
     {
@@ -92,11 +92,11 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 407
+      "Freq": 410
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 264
+      "Freq": 268
     },
     {
       "Var1": "xaelbot",
@@ -104,31 +104,31 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 245
+      "Freq": 247
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 237
+      "Freq": 238
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 208
+      "Freq": 196
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 187
+      "Freq": 183
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 152
+      "Freq": 155
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 141
+      "Freq": 147
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 130
+      "Freq": 132
     },
     {
       "Var1": "tidyversetweets",
@@ -136,41 +136,41 @@
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 108
+      "Freq": 111
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 100
+      "Freq": 102
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 85
-    },
-    {
-      "Var1": "Rahul_RPandya",
-      "Freq": 83
+      "Freq": 90
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 70
+      "Freq": 72
+    },
+    {
+      "Var1": "Rahul_RPandya",
+      "Freq": 69
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 66
     },
     {
       "Var1": "hubofml",
-      "Freq": 67
+      "Freq": 63
     },
     {
       "Var1": "femtech_",
       "Freq": 61
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 61
-    },
-    {
       "Var1": "chidambara09",
-      "Freq": 59
+      "Freq": 60
     }
   ],
-  "top10_tweets_like": ["Yarın başlıyoruz🥳\nEtkinlik herkese açıktır.\nKatılım ücretsizdir.\nKayıt gerekmiyor. Zoom linkleri için: https://t.co/B8lf7Xpppv\n\n@minebocek @pinardag @emretoros @EconResEthics @bovgun @gunesasik @Talha_Yalta @RLadiesGlobal @AUSBFM #RStats @RConsortium https://t.co/dL6qv8xOnd", "#JELLYFISH \nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.05) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x^2+pi*cos(y)^2), y=(y+pi*sin(x)))) +\n  geom_point(alpha=.1, shape=20, size=0)+\n  theme_void()+\n  coord_equal()\n#rstats #maths #creativecoding https://t.co/X9pado4JLb", "How to Visualize Time Series Data: Tidy Forecasting in R  {https://t.co/osg2HZqsbg} #rstats #DataScience", "A new version of the {recipes} 📦 is on CRAN! \n\nA new imputation step, better parallel processing support, and a better API for getting the processed training set. \n\n#rstats\n\nhttps://t.co/chyZQdmn8I", "this book is the result of everyone who supported me, encouraged me, wrote incredible (and free!) resources to learn #rstats, invited me to speak, and shared my work. because of you the direction of my life changed dramatically, and so many of you have become friends and family.", "dersler yarın başlıyor, kayıt gerekmiyor! \n\nkaçmaz ama gerçekten kaçmaz.🙃📈 #rstats #ddj https://t.co/p6B5t3WwWu", "Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/v5C1CgQKQ3 https://t.co/v0ejqDQouM", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xaeBGQTajh https://t.co/CVCAm3Izgh", "Yarın başlıyor, herkes için birşeyler var, yayabilirsek herkes faydalanır #rstats #rladies #rladiesankara https://t.co/RAvkQbcyAq", "The why and the how of #rstats RStudio addins in VSCode:\n\nhttps://t.co/gcGHFlSXLd"],
-  "top10_tweets_retweet": ["Yarın başlıyoruz🥳\nEtkinlik herkese açıktır.\nKatılım ücretsizdir.\nKayıt gerekmiyor. Zoom linkleri için: https://t.co/B8lf7Xpppv\n\n@minebocek @pinardag @emretoros @EconResEthics @bovgun @gunesasik @Talha_Yalta @RLadiesGlobal @AUSBFM #RStats @RConsortium https://t.co/dL6qv8xOnd", "#JELLYFISH \nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.05) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x^2+pi*cos(y)^2), y=(y+pi*sin(x)))) +\n  geom_point(alpha=.1, shape=20, size=0)+\n  theme_void()+\n  coord_equal()\n#rstats #maths #creativecoding https://t.co/X9pado4JLb", "How to Visualize Time Series Data: Tidy Forecasting in R  {https://t.co/osg2HZqsbg} #rstats #DataScience", "A new version of the {recipes} 📦 is on CRAN! \n\nA new imputation step, better parallel processing support, and a better API for getting the processed training set. \n\n#rstats\n\nhttps://t.co/chyZQdmn8I", "this book is the result of everyone who supported me, encouraged me, wrote incredible (and free!) resources to learn #rstats, invited me to speak, and shared my work. because of you the direction of my life changed dramatically, and so many of you have become friends and family.", "dersler yarın başlıyor, kayıt gerekmiyor! \n\nkaçmaz ama gerçekten kaçmaz.🙃📈 #rstats #ddj https://t.co/p6B5t3WwWu", "Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/v5C1CgQKQ3 https://t.co/v0ejqDQouM", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xaeBGQTajh https://t.co/CVCAm3Izgh", "Yarın başlıyor, herkes için birşeyler var, yayabilirsek herkes faydalanır #rstats #rladies #rladiesankara https://t.co/RAvkQbcyAq", "The why and the how of #rstats RStudio addins in VSCode:\n\nhttps://t.co/gcGHFlSXLd"]
+  "top10_tweets_like": ["Yarın başlıyoruz🥳\nEtkinlik herkese açıktır.\nKatılım ücretsizdir.\nKayıt gerekmiyor. Zoom linkleri için: https://t.co/B8lf7Xpppv\n\n@minebocek @pinardag @emretoros @EconResEthics @bovgun @gunesasik @Talha_Yalta @RLadiesGlobal @AUSBFM #RStats @RConsortium https://t.co/dL6qv8xOnd", "#JELLYFISH \nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.05) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x^2+pi*cos(y)^2), y=(y+pi*sin(x)))) +\n  geom_point(alpha=.1, shape=20, size=0)+\n  theme_void()+\n  coord_equal()\n#rstats #maths #creativecoding https://t.co/X9pado4JLb", "How to Visualize Time Series Data: Tidy Forecasting in R  {https://t.co/osg2HZqsbg} #rstats #DataScience", "A new version of the {recipes} 📦 is on CRAN! \n\nA new imputation step, better parallel processing support, and a better API for getting the processed training set. \n\n#rstats\n\nhttps://t.co/chyZQdmn8I", "this book is the result of everyone who supported me, encouraged me, wrote incredible (and free!) resources to learn #rstats, invited me to speak, and shared my work. because of you the direction of my life changed dramatically, and so many of you have become friends and family.", "dersler yarın başlıyor, kayıt gerekmiyor! \n\nkaçmaz ama gerçekten kaçmaz.🙃📈 #rstats #ddj https://t.co/p6B5t3WwWu", "Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/v5C1CgQKQ3 https://t.co/v0ejqDQouM", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xaeBGQTajh https://t.co/CVCAm3Izgh", "When you use Python everyday for work and need to remind yourself on the daily where your heart truely lies ... 🐍 ☕️ #rstats https://t.co/SVAS9slUPg", "Yarın başlıyor, herkes için birşeyler var, yayabilirsek herkes faydalanır #rstats #rladies #rladiesankara https://t.co/RAvkQbcyAq"],
+  "top10_tweets_retweet": ["Yarın başlıyoruz🥳\nEtkinlik herkese açıktır.\nKatılım ücretsizdir.\nKayıt gerekmiyor. Zoom linkleri için: https://t.co/B8lf7Xpppv\n\n@minebocek @pinardag @emretoros @EconResEthics @bovgun @gunesasik @Talha_Yalta @RLadiesGlobal @AUSBFM #RStats @RConsortium https://t.co/dL6qv8xOnd", "#JELLYFISH \nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.05) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x^2+pi*cos(y)^2), y=(y+pi*sin(x)))) +\n  geom_point(alpha=.1, shape=20, size=0)+\n  theme_void()+\n  coord_equal()\n#rstats #maths #creativecoding https://t.co/X9pado4JLb", "How to Visualize Time Series Data: Tidy Forecasting in R  {https://t.co/osg2HZqsbg} #rstats #DataScience", "A new version of the {recipes} 📦 is on CRAN! \n\nA new imputation step, better parallel processing support, and a better API for getting the processed training set. \n\n#rstats\n\nhttps://t.co/chyZQdmn8I", "this book is the result of everyone who supported me, encouraged me, wrote incredible (and free!) resources to learn #rstats, invited me to speak, and shared my work. because of you the direction of my life changed dramatically, and so many of you have become friends and family.", "dersler yarın başlıyor, kayıt gerekmiyor! \n\nkaçmaz ama gerçekten kaçmaz.🙃📈 #rstats #ddj https://t.co/p6B5t3WwWu", "Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/v5C1CgQKQ3 https://t.co/v0ejqDQouM", "Top 6 Courses to Learn #AWS and #Serverless. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/xaeBGQTajh https://t.co/CVCAm3Izgh", "When you use Python everyday for work and need to remind yourself on the daily where your heart truely lies ... 🐍 ☕️ #rstats https://t.co/SVAS9slUPg", "Yarın başlıyor, herkes için birşeyler var, yayabilirsek herkes faydalanır #rstats #rladies #rladiesankara https://t.co/RAvkQbcyAq"]
 }
