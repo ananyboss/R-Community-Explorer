@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6670,
-      "average_tweets_per_hour": 278,
-      "tweeters_today": 1353,
-      "total_likes_today": 5191
+      "total_tweets_today": 6575,
+      "average_tweets_per_hour": 274,
+      "tweeters_today": 1331,
+      "total_likes_today": 5162
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 196
+      "Freq": 193
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 144
+      "Freq": 134
     },
     {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 108
+      "Freq": 112
     },
     {
       "Var1": "RStats",
@@ -29,40 +29,36 @@
       "Freq": 89
     },
     {
+      "Var1": "MachineLearning AI",
+      "Freq": 81
+    },
+    {
       "Var1": "MachineLearning TensorFlow BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 67
+      "Freq": 75
     },
     {
       "Var1": "rstats DataScience",
       "Freq": 65
     },
     {
-      "Var1": "MachineLearning AI",
-      "Freq": 64
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 60
+      "Var1": "DeepLearning Analytics DataScience AI MachineLearning IoT",
+      "Freq": 62
     },
     {
       "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 53
     },
     {
-      "Var1": "DeepLearning Analytics DataScience AI MachineLearning IoT",
-      "Freq": 51
-    },
-    {
       "Var1": "MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 50
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 49
+      "Freq": 51
     },
     {
       "Var1": "DataScience ArtificialIntelligence MachineLearning BigData IoT Python RStats JavaScript ReactJS",
       "Freq": 48
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 47
     },
     {
       "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT RStats",
@@ -73,26 +69,30 @@
       "Freq": 47
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 42
-    },
-    {
-      "Var1": "HowTo RStats",
-      "Freq": 41
-    },
-    {
-      "Var1": "rstats datascience",
-      "Freq": 40
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 44
     },
     {
       "Var1": "DEVCommunity",
+      "Freq": 40
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 39
+    },
+    {
+      "Var1": "HowTo RStats",
+      "Freq": 39
+    },
+    {
+      "Var1": "rstats datascience",
       "Freq": 39
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 387
+      "Freq": 376
     },
     {
       "Var1": "rstatstweet",
@@ -100,11 +100,11 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 300
+      "Freq": 292
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 266
+      "Freq": 251
     },
     {
       "Var1": "Fabriciosx",
@@ -112,31 +112,31 @@
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 169
-    },
-    {
-      "Var1": "Rahul_RPandya",
-      "Freq": 165
+      "Freq": 166
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 162
+      "Freq": 165
+    },
+    {
+      "Var1": "Rahul_RPandya",
+      "Freq": 138
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 128
+      "Freq": 133
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 118
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 107
+      "Freq": 119
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 104
+      "Freq": 107
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 105
     },
     {
       "Var1": "_codenewbiebot",
@@ -144,23 +144,23 @@
     },
     {
       "Var1": "the404code",
-      "Freq": 89
+      "Freq": 91
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 89
+      "Freq": 87
     },
     {
       "Var1": "femtech_",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "chidambara09",
-      "Freq": 78
+      "Freq": 76
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 71
+      "Freq": 76
     },
     {
       "Var1": "TheCuriousLuke",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "_reactdev",
-      "Freq": 65
+      "Freq": 66
     }
   ],
-  "top10_tweets_like": ["My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "R Views September \"Top 40\" New #RStats CRAN Packages\n263 new packages made it to CRAN in Sept. \nIncluding entries in Computational Methods, Finance, Genomics, ML, Maths, Medicine, Time Series, Utilities &amp; Visualization.\nhttps://t.co/C3TbqM6olt https://t.co/oxiAhqWmcN", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "💡 Handy cheatsheet (and pkg) by @nbarrowman:\n📄 \"{vtree}: visualize hierarchical subsets of data with variable trees\" https://t.co/RhgC3yvgbh #rstats #dataviz https://t.co/Twflh00na3", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "🔊 Ya se encuentran publicados los resumenes de los trabajos presentados durante #LatinR2020.\n\nTambién los videos, slides y material de nuestras charlas invitadas. #RStats\n#rstatsES\n\n📌 https://t.co/1Eq6o6IKvz", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV"],
-  "top10_tweets_retweet": ["My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "R Views September \"Top 40\" New #RStats CRAN Packages\n263 new packages made it to CRAN in Sept. \nIncluding entries in Computational Methods, Finance, Genomics, ML, Maths, Medicine, Time Series, Utilities &amp; Visualization.\nhttps://t.co/C3TbqM6olt https://t.co/oxiAhqWmcN", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "💡 Handy cheatsheet (and pkg) by @nbarrowman:\n📄 \"{vtree}: visualize hierarchical subsets of data with variable trees\" https://t.co/RhgC3yvgbh #rstats #dataviz https://t.co/Twflh00na3", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "🔊 Ya se encuentran publicados los resumenes de los trabajos presentados durante #LatinR2020.\n\nTambién los videos, slides y material de nuestras charlas invitadas. #RStats\n#rstatsES\n\n📌 https://t.co/1Eq6o6IKvz", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV"]
+  "top10_tweets_like": ["My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "R Views September \"Top 40\" New #RStats CRAN Packages\n263 new packages made it to CRAN in Sept. \nIncluding entries in Computational Methods, Finance, Genomics, ML, Maths, Medicine, Time Series, Utilities &amp; Visualization.\nhttps://t.co/C3TbqM6olt https://t.co/oxiAhqWmcN", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "🔊 Ya se encuentran publicados los resumenes de los trabajos presentados durante #LatinR2020.\n\nTambién los videos, slides y material de nuestras charlas invitadas. #RStats\n#rstatsES\n\n📌 https://t.co/1Eq6o6IKvz", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV", "Sept 2020: “Top 40” New CRAN Packages  {https://t.co/lFouub30N5} #rstats #DataScience"],
+  "top10_tweets_retweet": ["My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "R Views September \"Top 40\" New #RStats CRAN Packages\n263 new packages made it to CRAN in Sept. \nIncluding entries in Computational Methods, Finance, Genomics, ML, Maths, Medicine, Time Series, Utilities &amp; Visualization.\nhttps://t.co/C3TbqM6olt https://t.co/oxiAhqWmcN", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "🔊 Ya se encuentran publicados los resumenes de los trabajos presentados durante #LatinR2020.\n\nTambién los videos, slides y material de nuestras charlas invitadas. #RStats\n#rstatsES\n\n📌 https://t.co/1Eq6o6IKvz", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV", "Sept 2020: “Top 40” New CRAN Packages  {https://t.co/lFouub30N5} #rstats #DataScience"]
 }
