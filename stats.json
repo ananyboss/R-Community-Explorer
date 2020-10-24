@@ -1,28 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6455,
-      "average_tweets_per_hour": 269,
-      "tweeters_today": 1373,
-      "total_likes_today": 4811
+      "total_tweets_today": 6661,
+      "average_tweets_per_hour": 278,
+      "tweeters_today": 1376,
+      "total_likes_today": 4922
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 240
+      "Freq": 244
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 124
+      "Freq": 132
     },
     {
       "Var1": "RStats",
-      "Freq": 90
+      "Freq": 91
     },
     {
       "Var1": "DeepLearning Analytics DataScience AI",
-      "Freq": 80
+      "Freq": 82
+    },
+    {
+      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
@@ -33,16 +37,20 @@
       "Freq": 74
     },
     {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 69
+      "Var1": "Python",
+      "Freq": 68
+    },
+    {
+      "Var1": "MachineLearning AI",
+      "Freq": 64
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 69
+      "Freq": 64
     },
     {
       "Var1": "Analytics MachineLearning AI Java RStats reactjs IoT IIoT",
-      "Freq": 63
+      "Freq": 61
     },
     {
       "Var1": "DataScientist ArtificialIntelligence Analytics MachineLearning BigData IoT",
@@ -50,43 +58,35 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 58
-    },
-    {
-      "Var1": "MachineLearning AI",
-      "Freq": 58
-    },
-    {
-      "Var1": "Python",
-      "Freq": 57
+      "Freq": 60
     },
     {
       "Var1": "DeepLearning Analytics",
       "Freq": 56
     },
     {
+      "Var1": "MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 49
+    },
+    {
+      "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 49
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 48
+    },
+    {
       "Var1": "HowTo RStats",
       "Freq": 47
     },
     {
-      "Var1": "MachineLearning TensorFlow BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 46
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 45
-    },
-    {
       "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT RStats",
-      "Freq": 44
+      "Freq": 47
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 43
-    },
-    {
-      "Var1": "Analytics MachineLearning AI javascript RStats reactjs IoT IIoT Linux",
-      "Freq": 41
+      "Var1": "MachineLearning TensorFlow BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 47
     }
   ],
   "top20_tweeters": [
@@ -96,81 +96,81 @@
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 309
+      "Freq": 329
     },
     {
       "Var1": "nlognbot",
-      "Freq": 262
+      "Freq": 276
     },
     {
       "Var1": "xaelbot",
-      "Freq": 262
+      "Freq": 269
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 252
+      "Freq": 260
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 189
+      "Freq": 216
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 172
+      "Freq": 174
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 157
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 129
-    },
-    {
-      "Var1": "Discovertech3",
-      "Freq": 120
+      "Freq": 161
     },
     {
       "Var1": "Rahul_RPandya",
-      "Freq": 108
+      "Freq": 145
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 138
+    },
+    {
+      "Var1": "Discovertech3",
+      "Freq": 121
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 107
+      "Freq": 106
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 91
+      "Freq": 93
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 85
     },
     {
       "Var1": "datasciencebot_",
       "Freq": 84
     },
     {
-      "Var1": "femtech_",
+      "Var1": "_codenewbiebot",
       "Freq": 81
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 79
-    },
-    {
       "Var1": "the404code",
-      "Freq": 79
+      "Freq": 77
     },
     {
       "Var1": "cybersec_feeds",
       "Freq": 66
     },
     {
-      "Var1": "altf4hashbot",
-      "Freq": 64
+      "Var1": "_reactdev",
+      "Freq": 65
     },
     {
-      "Var1": "_reactdev",
-      "Freq": 63
+      "Var1": "altf4hashbot",
+      "Freq": 64
     }
   ],
-  "top10_tweets_like": ["In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "Sweet list of useful #rstats packages.\n\nhttps://t.co/A0c4HbyPca", "My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "When you use Python everyday for work and need to remind yourself on the daily where your heart truely lies ... 🐍 ☕️ #rstats https://t.co/SVAS9slUPg", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "💡 Handy cheatsheet (and pkg) by @nbarrowman:\n📄 \"{vtree}: visualize hierarchical subsets of data with variable trees\" https://t.co/RhgC3yvgbh #rstats #dataviz https://t.co/Twflh00na3", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "Friends, if you were wondering how dense is the railway network in the United States vs. Europe check out in my latest map below.\n\n#rail #railway #railroad #europe #usa #dataviz #bigdata #datascience #gis #maps #rstats https://t.co/wKKI4z9Igi"],
-  "top10_tweets_retweet": ["In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "Sweet list of useful #rstats packages.\n\nhttps://t.co/A0c4HbyPca", "My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "When you use Python everyday for work and need to remind yourself on the daily where your heart truely lies ... 🐍 ☕️ #rstats https://t.co/SVAS9slUPg", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "💡 Handy cheatsheet (and pkg) by @nbarrowman:\n📄 \"{vtree}: visualize hierarchical subsets of data with variable trees\" https://t.co/RhgC3yvgbh #rstats #dataviz https://t.co/Twflh00na3", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "Friends, if you were wondering how dense is the railway network in the United States vs. Europe check out in my latest map below.\n\n#rail #railway #railroad #europe #usa #dataviz #bigdata #datascience #gis #maps #rstats https://t.co/wKKI4z9Igi"]
+  "top10_tweets_like": ["In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "Sweet list of useful #rstats packages.\n\nhttps://t.co/A0c4HbyPca", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "When you use Python everyday for work and need to remind yourself on the daily where your heart truely lies ... 🐍 ☕️ #rstats https://t.co/SVAS9slUPg", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "💡 Handy cheatsheet (and pkg) by @nbarrowman:\n📄 \"{vtree}: visualize hierarchical subsets of data with variable trees\" https://t.co/RhgC3yvgbh #rstats #dataviz https://t.co/Twflh00na3", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "Friends, if you were wondering how dense is the railway network in the United States vs. Europe check out in my latest map below.\n\n#rail #railway #railroad #europe #usa #dataviz #bigdata #datascience #gis #maps #rstats https://t.co/wKKI4z9Igi"],
+  "top10_tweets_retweet": ["In grad school, @jrosenberg6432 convinced me to learn R. Today, I'm holding our book in my hands!! I can't fully describe this feeling, but I am very, very thankful. #publishedauthor #rstats https://t.co/QGCiRXT7LL", "My girlfriend baked an #rstats cake for my birthday and it's like the best 👌😍👍 https://t.co/skSfwsQYTm", "Sweet list of useful #rstats packages.\n\nhttps://t.co/A0c4HbyPca", "#Rose\nlibrary(tidyverse)\nseq(-4,4,by=.012) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(1-abs(x)-sin(y^2)), y=(1+y-cos(x^2)))) +\n  geom_point(alpha=.03, shape=20, size=0)+\n  theme_void()+\n  coord_polar()\n\n#rstats #maths #creativecoding https://t.co/ccmiPoIhv2", "kableExtra 1.3.1 is on CRAN now with bug fixes and additional ways to make mini in-table plots for both HTML and latex. I want to appreciate @r2evans1 for making so much improvement on this! https://t.co/fGeh1AEhBO #rstats https://t.co/QkxE6Zq3Ly", "When you use Python everyday for work and need to remind yourself on the daily where your heart truely lies ... 🐍 ☕️ #rstats https://t.co/SVAS9slUPg", "Top Best Machine Learning #Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #DataScience #Programming #Coding #100DaysofCode \nhttps://t.co/LQ6D2WOo1U https://t.co/PN8aZDkrWZ", "💡 Handy cheatsheet (and pkg) by @nbarrowman:\n📄 \"{vtree}: visualize hierarchical subsets of data with variable trees\" https://t.co/RhgC3yvgbh #rstats #dataviz https://t.co/Twflh00na3", "Mais duas consultas no nosso aplicativo que extrai dados de finanças públicas do Governo Federal, Estados e municípios.\nAgora disponibilizamos Despesas de Pessoal e Receita Líquida Corrente (+)\n#RStats #dataviz https://t.co/A9vDoBlTRW", "Friends, if you were wondering how dense is the railway network in the United States vs. Europe check out in my latest map below.\n\n#rail #railway #railroad #europe #usa #dataviz #bigdata #datascience #gis #maps #rstats https://t.co/wKKI4z9Igi"]
 }
