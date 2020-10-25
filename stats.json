@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6437,
-      "average_tweets_per_hour": 268,
-      "tweeters_today": 1144,
-      "total_likes_today": 3842
+      "total_tweets_today": 6364,
+      "average_tweets_per_hour": 265,
+      "tweeters_today": 1142,
+      "total_likes_today": 3900
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "Python",
-      "Freq": 193
+      "Freq": 173
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -18,7 +18,7 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 137
+      "Freq": 128
     },
     {
       "Var1": "MachineLearning AI",
@@ -34,15 +34,19 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 68
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 65
+      "Freq": 67
     },
     {
       "Var1": "DeepLearning Analytics DataScience AI MachineLearning IoT",
       "Freq": 63
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 58
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 55
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -57,32 +61,28 @@
       "Freq": 50
     },
     {
-      "Var1": "Analytics AugmentedReality AR MR VR UX AI MachineLearing Python Java RStats reactjs IoT IIoT TensorFlow",
-      "Freq": 46
+      "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
+      "Freq": 48
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 46
+      "Freq": 47
     },
     {
       "Var1": "DeepLearning Analytics",
       "Freq": 46
     },
     {
-      "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
-      "Freq": 45
-    },
-    {
       "Var1": "CodeNewbie ML AI MachineLearning DataScience rstats",
       "Freq": 44
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 43
-    },
-    {
       "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 42
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 41
     },
     {
       "Var1": "AI",
@@ -92,51 +92,51 @@
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 355
+      "Freq": 349
     },
     {
       "Var1": "xaelbot",
-      "Freq": 304
+      "Freq": 297
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 260
+      "Freq": 255
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 241
+      "Freq": 245
     },
     {
       "Var1": "Fabriciosx",
-      "Freq": 221
+      "Freq": 213
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 216
+      "Freq": 213
     },
     {
       "Var1": "Rahul_RPandya",
-      "Freq": 174
+      "Freq": 159
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 135
+      "Freq": 139
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 135
+      "Freq": 133
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 131
+      "Freq": 124
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 120
+      "Freq": 122
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 107
+      "Freq": 108
     },
     {
       "Var1": "chidambara09",
@@ -144,33 +144,33 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 99
+      "Freq": 96
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 95
+      "Freq": 91
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 82
-    },
-    {
-      "Var1": "coder_487",
-      "Freq": 80
+      "Freq": 81
     },
     {
       "Var1": "the404code",
-      "Freq": 80
+      "Freq": 81
+    },
+    {
+      "Var1": "coder_487",
+      "Freq": 78
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 73
+      "Freq": 74
     },
     {
       "Var1": "iotvishal",
       "Freq": 68
     }
   ],
-  "top10_tweets_like": ["#Folds\nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.025) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x+pi*sin(y)), \n             y=(y+pi*sin(x)))) +\n  geom_point(alpha=.08, shape=20, size=0) + \n  theme_void()\n\n#Rstats #maths #creativecoding https://t.co/D9Jj9EgHJY", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV", "Just a little bit longer until my #tidymodels workshop at #CMSAC20 !\n\nSlides: https://t.co/hQDapdoVNh\nCode/Data: https://t.co/9z8omWDuO4\n\n#rstats #tidyverse https://t.co/17dXvMTyhf", "Sept 2020: “Top 40” New CRAN Packages  {https://t.co/lFouub30N5} #rstats #DataScience", "A fascinating case of #COVID19 in an immunocompromised patient\n- 🧫 + 🧬4 months continuous viral replication\n-3 hospitalizations\n-multiple Rx\n-ultimately survived\nhttps://t.co/ClD2g6pDlV #scicomm #openscience #rstats #snrtg #technology #bigdata #immunology #genomics #raredisease https://t.co/qQQHeUv8Y2", "Would people be interested in screencasts of me debug/troubleshoot GitHub issues that are opened against my packages, to see my debugging process? #rstats I've never done a screencast but was thinking this would be useful?", "An #rstats post on using @dvaughan32 's {slider} package to calculate rolling averages using COVID data\n\nhttps://t.co/gm5cEc9UP0 https://t.co/JngfIrzIDp", "🍾🤩 Wrote an intro to #RMarkdown to write reproducible &amp; dynamic documents. Borrowed a lot from @StatGarrett &amp; @ulyngs #ReproducibleReseearch #rstats \n🧑‍🏫 Slides: https://t.co/f9GRstob5R\n👩‍💻 Code: https://t.co/eeQNrmhroS\n🧑‍🎨 Illustrations: https://t.co/jsa6UM1ByJ @allison_horst https://t.co/P055A21AKa", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/nrfDbHlaSY https://t.co/HKuUROoP1x", "My Bioconductor Developers Forum presentation on {{sparseMatrixStats}} - a port of the {{matrixStats}} API to dgCMatrices- is now online. Checkout the slides at\n📊 https://t.co/Vmqu6d3KIc\n🎞️ https://t.co/84TQPh0e34\n\n#rstats #bioc https://t.co/zJ5bak012l"],
-  "top10_tweets_retweet": ["#Folds\nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.025) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x+pi*sin(y)), \n             y=(y+pi*sin(x)))) +\n  geom_point(alpha=.08, shape=20, size=0) + \n  theme_void()\n\n#Rstats #maths #creativecoding https://t.co/D9Jj9EgHJY", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV", "Just a little bit longer until my #tidymodels workshop at #CMSAC20 !\n\nSlides: https://t.co/hQDapdoVNh\nCode/Data: https://t.co/9z8omWDuO4\n\n#rstats #tidyverse https://t.co/17dXvMTyhf", "Sept 2020: “Top 40” New CRAN Packages  {https://t.co/lFouub30N5} #rstats #DataScience", "A fascinating case of #COVID19 in an immunocompromised patient\n- 🧫 + 🧬4 months continuous viral replication\n-3 hospitalizations\n-multiple Rx\n-ultimately survived\nhttps://t.co/ClD2g6pDlV #scicomm #openscience #rstats #snrtg #technology #bigdata #immunology #genomics #raredisease https://t.co/qQQHeUv8Y2", "Would people be interested in screencasts of me debug/troubleshoot GitHub issues that are opened against my packages, to see my debugging process? #rstats I've never done a screencast but was thinking this would be useful?", "An #rstats post on using @dvaughan32 's {slider} package to calculate rolling averages using COVID data\n\nhttps://t.co/gm5cEc9UP0 https://t.co/JngfIrzIDp", "🍾🤩 Wrote an intro to #RMarkdown to write reproducible &amp; dynamic documents. Borrowed a lot from @StatGarrett &amp; @ulyngs #ReproducibleReseearch #rstats \n🧑‍🏫 Slides: https://t.co/f9GRstob5R\n👩‍💻 Code: https://t.co/eeQNrmhroS\n🧑‍🎨 Illustrations: https://t.co/jsa6UM1ByJ @allison_horst https://t.co/P055A21AKa", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/nrfDbHlaSY https://t.co/HKuUROoP1x", "My Bioconductor Developers Forum presentation on {{sparseMatrixStats}} - a port of the {{matrixStats}} API to dgCMatrices- is now online. Checkout the slides at\n📊 https://t.co/Vmqu6d3KIc\n🎞️ https://t.co/84TQPh0e34\n\n#rstats #bioc https://t.co/zJ5bak012l"]
+  "top10_tweets_like": ["#Folds\nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.025) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x+pi*sin(y)), \n             y=(y+pi*sin(x)))) +\n  geom_point(alpha=.08, shape=20, size=0) + \n  theme_void()\n\n#Rstats #maths #creativecoding https://t.co/D9Jj9EgHJY", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV", "Just a little bit longer until my #tidymodels workshop at #CMSAC20 !\n\nSlides: https://t.co/hQDapdoVNh\nCode/Data: https://t.co/9z8omWDuO4\n\n#rstats #tidyverse https://t.co/17dXvMTyhf", "Sept 2020: “Top 40” New CRAN Packages  {https://t.co/lFouub30N5} #rstats #DataScience", "A fascinating case of #COVID19 in an immunocompromised patient\n- 🧫 + 🧬4 months continuous viral replication\n-3 hospitalizations\n-multiple Rx\n-ultimately survived\nhttps://t.co/ClD2g6pDlV #scicomm #openscience #rstats #snrtg #technology #bigdata #immunology #genomics #raredisease https://t.co/qQQHeUv8Y2", "Would people be interested in screencasts of me debug/troubleshoot GitHub issues that are opened against my packages, to see my debugging process? #rstats I've never done a screencast but was thinking this would be useful?", "🍾🤩 Wrote an intro to #RMarkdown to write reproducible &amp; dynamic documents. Borrowed a lot from @StatGarrett &amp; @ulyngs #ReproducibleReseearch #rstats \n🧑‍🏫 Slides: https://t.co/f9GRstob5R\n👩‍💻 Code: https://t.co/eeQNrmhroS\n🧑‍🎨 Illustrations: https://t.co/jsa6UM1ByJ @allison_horst https://t.co/P055A21AKa", "An #rstats post on using @dvaughan32 's {slider} package to calculate rolling averages using COVID data\n\nhttps://t.co/gm5cEc9UP0 https://t.co/JngfIrzIDp", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/nrfDbHlaSY https://t.co/HKuUROoP1x", "My Bioconductor Developers Forum presentation on {{sparseMatrixStats}} - a port of the {{matrixStats}} API to dgCMatrices- is now online. Checkout the slides at\n📊 https://t.co/Vmqu6d3KIc\n🎞️ https://t.co/84TQPh0e34\n\n#rstats #bioc https://t.co/zJ5bak012l"],
+  "top10_tweets_retweet": ["#Folds\nlibrary(tidyverse)\nseq(from=-10, to=10, by = 0.025) %&gt;%\n  expand.grid(x=., y=.) %&gt;%\n  ggplot(aes(x=(x+pi*sin(y)), \n             y=(y+pi*sin(x)))) +\n  geom_point(alpha=.08, shape=20, size=0) + \n  theme_void()\n\n#Rstats #maths #creativecoding https://t.co/D9Jj9EgHJY", "✍️📊 \"Beautiful and informative data visualisation  •  Using ggplot2 to communicate your results\"\n\n👤 Coding Club @our_codingclub \n\nhttps://t.co/JuisxGbTTs\n#rstats https://t.co/7QPWDOkMRV", "Just a little bit longer until my #tidymodels workshop at #CMSAC20 !\n\nSlides: https://t.co/hQDapdoVNh\nCode/Data: https://t.co/9z8omWDuO4\n\n#rstats #tidyverse https://t.co/17dXvMTyhf", "Sept 2020: “Top 40” New CRAN Packages  {https://t.co/lFouub30N5} #rstats #DataScience", "A fascinating case of #COVID19 in an immunocompromised patient\n- 🧫 + 🧬4 months continuous viral replication\n-3 hospitalizations\n-multiple Rx\n-ultimately survived\nhttps://t.co/ClD2g6pDlV #scicomm #openscience #rstats #snrtg #technology #bigdata #immunology #genomics #raredisease https://t.co/qQQHeUv8Y2", "Would people be interested in screencasts of me debug/troubleshoot GitHub issues that are opened against my packages, to see my debugging process? #rstats I've never done a screencast but was thinking this would be useful?", "🍾🤩 Wrote an intro to #RMarkdown to write reproducible &amp; dynamic documents. Borrowed a lot from @StatGarrett &amp; @ulyngs #ReproducibleReseearch #rstats \n🧑‍🏫 Slides: https://t.co/f9GRstob5R\n👩‍💻 Code: https://t.co/eeQNrmhroS\n🧑‍🎨 Illustrations: https://t.co/jsa6UM1ByJ @allison_horst https://t.co/P055A21AKa", "An #rstats post on using @dvaughan32 's {slider} package to calculate rolling averages using COVID data\n\nhttps://t.co/gm5cEc9UP0 https://t.co/JngfIrzIDp", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/nrfDbHlaSY https://t.co/HKuUROoP1x", "My Bioconductor Developers Forum presentation on {{sparseMatrixStats}} - a port of the {{matrixStats}} API to dgCMatrices- is now online. Checkout the slides at\n📊 https://t.co/Vmqu6d3KIc\n🎞️ https://t.co/84TQPh0e34\n\n#rstats #bioc https://t.co/zJ5bak012l"]
 }
