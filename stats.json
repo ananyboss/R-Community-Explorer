@@ -1,44 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6265,
+      "total_tweets_today": 6255,
       "average_tweets_per_hour": 261,
-      "tweeters_today": 1562,
-      "total_likes_today": 4576
+      "tweeters_today": 1575,
+      "total_likes_today": 4521
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "DEVCommunity",
-      "Freq": 400
+      "Freq": 404
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 247
+      "Freq": 252
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 139
+      "Freq": 140
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 118
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 105
+      "Freq": 119
     },
     {
       "Var1": "RStats",
-      "Freq": 104
+      "Freq": 111
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 108
     },
     {
       "Var1": "Rstats",
-      "Freq": 82
-    },
-    {
-      "Var1": "MachineLearning AI",
-      "Freq": 76
+      "Freq": 83
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -46,77 +42,81 @@
     },
     {
       "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
-      "Freq": 64
+      "Freq": 63
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 61
+      "Var1": "MachineLearning AI",
+      "Freq": 62
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 60
+      "Freq": 61
     },
     {
       "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT 100DaysOfMLCode Python",
       "Freq": 60
     },
     {
-      "Var1": "theinsaneapp ML AI MachineLearning",
-      "Freq": 54
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 56
     },
     {
       "Var1": "DeepLearning Analytics DataScience",
-      "Freq": 53
+      "Freq": 54
+    },
+    {
+      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Freq": 54
     },
     {
       "Var1": "Mathematics MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 53
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 50
+    },
+    {
       "Var1": "DeepLearning Analytics",
       "Freq": 49
     },
     {
-      "Var1": "MachineLearning AI 100DaysOfCode",
+      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT RStats",
+      "Freq": 48
+    },
+    {
+      "Var1": "gdp economy dataviz DataScience maps rstats",
       "Freq": 47
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 45
-    },
-    {
-      "Var1": "PredictiveAnalytics BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 454
+      "Freq": 460
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 249
+      "Freq": 243
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 239
+      "Freq": 236
     },
     {
       "Var1": "nlognbot",
-      "Freq": 238
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 214
+      "Freq": 236
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 207
+      "Freq": 209
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 208
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 200
+      "Freq": 194
     },
     {
       "Var1": "ServerlessFan",
@@ -124,7 +124,7 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 119
+      "Freq": 121
     },
     {
       "Var1": "altf4hashbot",
@@ -132,19 +132,15 @@
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 110
+      "Freq": 108
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 103
+      "Freq": 106
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 102
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 91
+      "Freq": 103
     },
     {
       "Var1": "iotvishal",
@@ -155,22 +151,26 @@
       "Freq": 89
     },
     {
+      "Var1": "femtech_",
+      "Freq": 86
+    },
+    {
       "Var1": "the404code",
       "Freq": 74
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 72
+      "Freq": 71
     },
     {
-      "Var1": "fluttbot",
-      "Freq": 63
+      "Var1": "TheCuriousLuke",
+      "Freq": 61
     },
     {
       "Var1": "coder_487",
-      "Freq": 62
+      "Freq": 59
     }
   ],
-  "top10_tweets_like": ["Not sharing your #Rstats code because you need the dataset to understand the code is a strange take. Even without the data, open code provides a much deeper explanation of how the analysis was actually conducted https://t.co/kY2yn5WweA", "Check out Europe's poorest and richest regions in my new map\n\n#gdp #economy #dataviz #DataScience #maps #rstats https://t.co/jzF4Nax63L", "📚👥 \"Interpretable Machine Learning\"\n\n👤 Christoph Molnar @christophmolnar \n\nhttps://t.co/4rvFQ65bHg\n#rstats https://t.co/m4jqvCftRv", "Okay, {gt} tables. They can go in a GitHub README and I’m not talking about a picture. THE ACTUAL HTML TABLE. Stick it in an SVG, inside a &lt;foreignObject&gt; tag. Check this script out: https://t.co/Xu94NjkiwL and the bottom of that repo’s README for the actual table. #rstats life.", "My first #rstats post on my new blog and first #TidyTuesday submission—an introduction to model stacking in the #tidymodels!\n\nhttps://t.co/rWoU0KjkmL", "Programmer deleting a seemingly unused piece of code. What’s the worst that could happen?\n\n#DEVCommunity #Machinelearning #100DaysOfCode #IoT #100DaysOfMLCode #Python #flutter #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #FutureofWork @SourabhSKatoch https://t.co/Oz3xpT5VhM", "Giving a deep dive presentation on {gt} #rstats tables today, have posted the slides up with my other presentations at:\n\nhttps://t.co/tuegT0fKai\n\nIncluded some new code to in incorporate SVG images from the great {kableExtra} package!", "Distracting myself with some  renderings of the greater Hobart area using the #rstats #rayshader package by @tylermorganwall https://t.co/hkOCXq6Y6L", "This is your courtesy reminder that you can make your exclusion flow charts automatically in #R using the PRISMAstatement package https://t.co/yvjHnpTbxT #rstats #bigdata #DataScience https://t.co/la9e0lJVZU", "Machine Learning Book Recommendations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/InMso8UWg1 https://t.co/Qts60qXMiP"],
-  "top10_tweets_retweet": ["Not sharing your #Rstats code because you need the dataset to understand the code is a strange take. Even without the data, open code provides a much deeper explanation of how the analysis was actually conducted https://t.co/kY2yn5WweA", "Check out Europe's poorest and richest regions in my new map\n\n#gdp #economy #dataviz #DataScience #maps #rstats https://t.co/jzF4Nax63L", "📚👥 \"Interpretable Machine Learning\"\n\n👤 Christoph Molnar @christophmolnar \n\nhttps://t.co/4rvFQ65bHg\n#rstats https://t.co/m4jqvCftRv", "Okay, {gt} tables. They can go in a GitHub README and I’m not talking about a picture. THE ACTUAL HTML TABLE. Stick it in an SVG, inside a &lt;foreignObject&gt; tag. Check this script out: https://t.co/Xu94NjkiwL and the bottom of that repo’s README for the actual table. #rstats life.", "My first #rstats post on my new blog and first #TidyTuesday submission—an introduction to model stacking in the #tidymodels!\n\nhttps://t.co/rWoU0KjkmL", "Programmer deleting a seemingly unused piece of code. What’s the worst that could happen?\n\n#DEVCommunity #Machinelearning #100DaysOfCode #IoT #100DaysOfMLCode #Python #flutter #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #FutureofWork @SourabhSKatoch https://t.co/Oz3xpT5VhM", "Giving a deep dive presentation on {gt} #rstats tables today, have posted the slides up with my other presentations at:\n\nhttps://t.co/tuegT0fKai\n\nIncluded some new code to in incorporate SVG images from the great {kableExtra} package!", "Distracting myself with some  renderings of the greater Hobart area using the #rstats #rayshader package by @tylermorganwall https://t.co/hkOCXq6Y6L", "This is your courtesy reminder that you can make your exclusion flow charts automatically in #R using the PRISMAstatement package https://t.co/yvjHnpTbxT #rstats #bigdata #DataScience https://t.co/la9e0lJVZU", "Machine Learning Book Recommendations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/InMso8UWg1 https://t.co/Qts60qXMiP"]
+  "top10_tweets_like": ["Check out Europe's poorest and richest regions in my new map\n\n#gdp #economy #dataviz #DataScience #maps #rstats https://t.co/jzF4Nax63L", "Not sharing your #Rstats code because you need the dataset to understand the code is a strange take. Even without the data, open code provides a much deeper explanation of how the analysis was actually conducted https://t.co/kY2yn5WweA", "Programmer deleting a seemingly unused piece of code. What’s the worst that could happen?\n\n#DEVCommunity #Machinelearning #100DaysOfCode #IoT #100DaysOfMLCode #Python #flutter #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #FutureofWork @SourabhSKatoch https://t.co/Oz3xpT5VhM", "📚👥 \"Interpretable Machine Learning\"\n\n👤 Christoph Molnar @christophmolnar \n\nhttps://t.co/4rvFQ65bHg\n#rstats https://t.co/m4jqvCftRv", "My first #rstats post on my new blog and first #TidyTuesday submission—an introduction to model stacking in the #tidymodels!\n\nhttps://t.co/rWoU0KjkmL", "Oh my GOSH: Calculating all possible meta-analysis study combinations https://t.co/Dskh8QFwzx\n\nIf you have 16 effect sizes, there are 65,535 possible meta-analyses you can run. With a few lines of #Rstats code you can run them all and visualise the results", "Giving a deep dive presentation on {gt} #rstats tables today, have posted the slides up with my other presentations at:\n\nhttps://t.co/tuegT0fKai\n\nIncluded some new code to in incorporate SVG images from the great {kableExtra} package!", "This is your courtesy reminder that you can make your exclusion flow charts automatically in #R using the PRISMAstatement package https://t.co/yvjHnpTbxT #rstats #bigdata #DataScience https://t.co/la9e0lJVZU", "Machine Learning Book Recommendations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/InMso8UWg1 https://t.co/Qts60qXMiP", "The {linne} 📦 is now on CRAN🙆‍♂️\n\nIt allows writing CSS in R.\n\nI hope it serves as a good introduction to CSS for #rstats users.\n\n🖊 Now, I’m going to sign this tweet like my dad signs his text messages.\n\n— John\n\nhttps://t.co/ZGWaJcAr7T"],
+  "top10_tweets_retweet": ["Check out Europe's poorest and richest regions in my new map\n\n#gdp #economy #dataviz #DataScience #maps #rstats https://t.co/jzF4Nax63L", "Not sharing your #Rstats code because you need the dataset to understand the code is a strange take. Even without the data, open code provides a much deeper explanation of how the analysis was actually conducted https://t.co/kY2yn5WweA", "Programmer deleting a seemingly unused piece of code. What’s the worst that could happen?\n\n#DEVCommunity #Machinelearning #100DaysOfCode #IoT #100DaysOfMLCode #Python #flutter #javascript #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #FutureofWork @SourabhSKatoch https://t.co/Oz3xpT5VhM", "📚👥 \"Interpretable Machine Learning\"\n\n👤 Christoph Molnar @christophmolnar \n\nhttps://t.co/4rvFQ65bHg\n#rstats https://t.co/m4jqvCftRv", "My first #rstats post on my new blog and first #TidyTuesday submission—an introduction to model stacking in the #tidymodels!\n\nhttps://t.co/rWoU0KjkmL", "Oh my GOSH: Calculating all possible meta-analysis study combinations https://t.co/Dskh8QFwzx\n\nIf you have 16 effect sizes, there are 65,535 possible meta-analyses you can run. With a few lines of #Rstats code you can run them all and visualise the results", "Giving a deep dive presentation on {gt} #rstats tables today, have posted the slides up with my other presentations at:\n\nhttps://t.co/tuegT0fKai\n\nIncluded some new code to in incorporate SVG images from the great {kableExtra} package!", "This is your courtesy reminder that you can make your exclusion flow charts automatically in #R using the PRISMAstatement package https://t.co/yvjHnpTbxT #rstats #bigdata #DataScience https://t.co/la9e0lJVZU", "Machine Learning Book Recommendations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/InMso8UWg1 https://t.co/Qts60qXMiP", "The {linne} 📦 is now on CRAN🙆‍♂️\n\nIt allows writing CSS in R.\n\nI hope it serves as a good introduction to CSS for #rstats users.\n\n🖊 Now, I’m going to sign this tweet like my dad signs his text messages.\n\n— John\n\nhttps://t.co/ZGWaJcAr7T"]
 }
