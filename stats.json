@@ -1,40 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6779,
-      "average_tweets_per_hour": 282,
-      "tweeters_today": 1931,
-      "total_likes_today": 4730
+      "total_tweets_today": 6624,
+      "average_tweets_per_hour": 276,
+      "tweeters_today": 1913,
+      "total_likes_today": 4781
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "rstats",
-      "Freq": 535
+      "Var1": "DEVCommunity",
+      "Freq": 527
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 222
+      "Freq": 220
     },
     {
       "Var1": "CodeNewbie ML AI MachineLearning DataScience rstats 100DaysOfMLCode javascript reactjs",
-      "Freq": 188
-    },
-    {
-      "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT 100DaysOfMLCode Python flutter javascript Serverless",
-      "Freq": 167
+      "Freq": 161
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 138
+      "Freq": 140
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 96
+      "Freq": 100
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 95
+      "Freq": 94
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -42,7 +38,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 86
+      "Freq": 91
     },
     {
       "Var1": "custom mug tshirt design fiverr fiverrgigs 100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python",
@@ -50,11 +46,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 59
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 58
+      "Freq": 65
     },
     {
       "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
@@ -73,6 +65,10 @@
       "Freq": 46
     },
     {
+      "Var1": "rstats DataScience",
+      "Freq": 43
+    },
+    {
       "Var1": "AI BigData Analytics DataScience",
       "Freq": 41
     },
@@ -87,90 +83,94 @@
     {
       "Var1": "Python MachineLearning",
       "Freq": 38
+    },
+    {
+      "Var1": "100DaysOfCode IoT 100DaysOfMLCode",
+      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 449
-    },
-    {
-      "Var1": "Women_who_code",
-      "Freq": 248
+      "Freq": 446
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 242
+      "Freq": 249
+    },
+    {
+      "Var1": "Women_who_code",
+      "Freq": 240
     },
     {
       "Var1": "nlognbot",
-      "Freq": 236
+      "Freq": 238
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 214
+      "Freq": 215
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 214
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 190
+      "Freq": 215
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 176
+      "Freq": 183
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 128
+      "Var1": "TheSecretJunio1",
+      "Freq": 153
     },
     {
       "Var1": "frontendbot1",
-      "Freq": 118
+      "Freq": 129
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 119
     },
     {
       "Var1": "altf4hashbot",
       "Freq": 114
     },
     {
-      "Var1": "Discovertech3",
-      "Freq": 108
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 108
+      "Freq": 107
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 100
+      "Freq": 93
     },
     {
-      "Var1": "femtech_",
-      "Freq": 85
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 81
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 81
+      "Var1": "Discovertech3",
+      "Freq": 93
     },
     {
       "Var1": "the404code",
-      "Freq": 80
+      "Freq": 86
     },
     {
-      "Var1": "coder_487",
-      "Freq": 67
+      "Var1": "femtech_",
+      "Freq": 83
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 78
     },
     {
       "Var1": "TheCuriousLuke",
+      "Freq": 69
+    },
+    {
+      "Var1": "chidambara09",
       "Freq": 66
+    },
+    {
+      "Var1": "coder_487",
+      "Freq": 64
     }
   ],
-  "top10_tweets_like": ["You might notice that https://t.co/0mhQs57TDp has a new look — I'm working on a new bookdown theme (available soon). Please let me know if you see anything that could be improved! #rstats", "odbc 1.3.0 is now on CRAN!🎉\n\nodbc allows you to connect to many different databases efficiently from #rstats\n\nThis release avoids the infamous 'Invalid Descriptor' error in SQL Server, so you no longer need worry about column order.\n\nSee https://t.co/asZXCn7T34 for more info! https://t.co/BDLDC2hzH9", "Behold! A practical introduction to using instrumental variables with #rstats, including manual 2SLS and automatic 2SLS with iv_robust(), as well as weak instruments tests and Anderson-Rubin confidence intervals, all with video! https://t.co/GtO48FVzjc https://t.co/QFYeReT0iC", "Hey, why *not* have another Nicki-Minaj / #rstats-TikTok sing along? (The Queen's flow is the perfect pace for these…but CW: 🤬). \n#statsTikTok #ggplot2 (feat. @allison_horst art, as per usual)\n/* @ChelseaParlett, you know what to do… */ https://t.co/g60hhet6Cq", "The Ultimate R data.table Cheat Sheet! Search 50+ tasks in this interactive table. Plus, download your own copy as an HTML file! With tidyverse code too.\nhttps://t.co/mxEBQPNpjX\n#rstats #rdatatable https://t.co/bZBe8tjEc1", "🤩 Fab, quick guide to parameterized reporting (w/ code and video):\n⚡️ “How to Automate PDF Reporting with R” by @mdancho84 \nhttps://t.co/IecRtHpIys via @bizScienc #rstats https://t.co/EoiV53jjym", "Another piece based on floating point error. The height of the lines plots the computed value of (exp(ln(x)) - x)/x for values of x between .00001 and .05. Positive values are in pink, negative in gold. The faint white lines are cases when the computed value is exactly 0. #rstats https://t.co/JyO08wolxJ", "#TidyTuesday Week 2020/44 🇨🇦 Wind Turbines in @Canada \n\nI like #maps.\nI like #flags.\n\n#r4ds #rstats #tidyverse #rspatial #mapping #dataviz #datavis #DataVisualization https://t.co/M7zS2DqeHj", "Top 20 Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/WUQVX6orIf https://t.co/dJln2Zey8O", "Bioconductor 3.12 is Released! Thank you to all developers and community members for contributing to the project! Please see the full release announcement:  https://t.co/lTTdtfh66j #rstats @Bioconductor"],
-  "top10_tweets_retweet": ["You might notice that https://t.co/0mhQs57TDp has a new look — I'm working on a new bookdown theme (available soon). Please let me know if you see anything that could be improved! #rstats", "odbc 1.3.0 is now on CRAN!🎉\n\nodbc allows you to connect to many different databases efficiently from #rstats\n\nThis release avoids the infamous 'Invalid Descriptor' error in SQL Server, so you no longer need worry about column order.\n\nSee https://t.co/asZXCn7T34 for more info! https://t.co/BDLDC2hzH9", "Behold! A practical introduction to using instrumental variables with #rstats, including manual 2SLS and automatic 2SLS with iv_robust(), as well as weak instruments tests and Anderson-Rubin confidence intervals, all with video! https://t.co/GtO48FVzjc https://t.co/QFYeReT0iC", "Hey, why *not* have another Nicki-Minaj / #rstats-TikTok sing along? (The Queen's flow is the perfect pace for these…but CW: 🤬). \n#statsTikTok #ggplot2 (feat. @allison_horst art, as per usual)\n/* @ChelseaParlett, you know what to do… */ https://t.co/g60hhet6Cq", "The Ultimate R data.table Cheat Sheet! Search 50+ tasks in this interactive table. Plus, download your own copy as an HTML file! With tidyverse code too.\nhttps://t.co/mxEBQPNpjX\n#rstats #rdatatable https://t.co/bZBe8tjEc1", "🤩 Fab, quick guide to parameterized reporting (w/ code and video):\n⚡️ “How to Automate PDF Reporting with R” by @mdancho84 \nhttps://t.co/IecRtHpIys via @bizScienc #rstats https://t.co/EoiV53jjym", "Another piece based on floating point error. The height of the lines plots the computed value of (exp(ln(x)) - x)/x for values of x between .00001 and .05. Positive values are in pink, negative in gold. The faint white lines are cases when the computed value is exactly 0. #rstats https://t.co/JyO08wolxJ", "#TidyTuesday Week 2020/44 🇨🇦 Wind Turbines in @Canada \n\nI like #maps.\nI like #flags.\n\n#r4ds #rstats #tidyverse #rspatial #mapping #dataviz #datavis #DataVisualization https://t.co/M7zS2DqeHj", "Top 20 Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/WUQVX6orIf https://t.co/dJln2Zey8O", "Bioconductor 3.12 is Released! Thank you to all developers and community members for contributing to the project! Please see the full release announcement:  https://t.co/lTTdtfh66j #rstats @Bioconductor"]
+  "top10_tweets_like": ["You might notice that https://t.co/0mhQs57TDp has a new look — I'm working on a new bookdown theme (available soon). Please let me know if you see anything that could be improved! #rstats", "odbc 1.3.0 is now on CRAN!🎉\n\nodbc allows you to connect to many different databases efficiently from #rstats\n\nThis release avoids the infamous 'Invalid Descriptor' error in SQL Server, so you no longer need worry about column order.\n\nSee https://t.co/asZXCn7T34 for more info! https://t.co/BDLDC2hzH9", "Behold! A practical introduction to using instrumental variables with #rstats, including manual 2SLS and automatic 2SLS with iv_robust(), as well as weak instruments tests and Anderson-Rubin confidence intervals, all with video! https://t.co/GtO48FVzjc https://t.co/QFYeReT0iC", "Hey, why *not* have another Nicki-Minaj / #rstats-TikTok sing along? (The Queen's flow is the perfect pace for these…but CW: 🤬). \n#statsTikTok #ggplot2 (feat. @allison_horst art, as per usual)\n/* @ChelseaParlett, you know what to do… */ https://t.co/g60hhet6Cq", "The Ultimate R data.table Cheat Sheet! Search 50+ tasks in this interactive table. Plus, download your own copy as an HTML file! With tidyverse code too.\nhttps://t.co/mxEBQPNpjX\n#rstats #rdatatable https://t.co/bZBe8tjEc1", "🤩 Fab, quick guide to parameterized reporting (w/ code and video):\n⚡️ “How to Automate PDF Reporting with R” by @mdancho84 \nhttps://t.co/IecRtHpIys via @bizScienc #rstats https://t.co/EoiV53jjym", "Another piece based on floating point error. The height of the lines plots the computed value of (exp(ln(x)) - x)/x for values of x between .00001 and .05. Positive values are in pink, negative in gold. The faint white lines are cases when the computed value is exactly 0. #rstats https://t.co/JyO08wolxJ", "#TidyTuesday Week 2020/44 🇨🇦 Wind Turbines in @Canada \n\nI like #maps.\nI like #flags.\n\n#r4ds #rstats #tidyverse #rspatial #mapping #dataviz #datavis #DataVisualization https://t.co/M7zS2DqeHj", "Top 20 Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/WUQVX6orIf https://t.co/dJln2Zey8O", "‼️Hold onto your swim trunks, because data viz in #rstats  is going to get a lot more WET and WILD 🌊🤯\n\nPrepare yourself for a full 3D fluid simulator with #rayrender integration for high quality rendering, entirely in R. Package coming... soon 😉 https://t.co/jEBq1pmDpD"],
+  "top10_tweets_retweet": ["You might notice that https://t.co/0mhQs57TDp has a new look — I'm working on a new bookdown theme (available soon). Please let me know if you see anything that could be improved! #rstats", "odbc 1.3.0 is now on CRAN!🎉\n\nodbc allows you to connect to many different databases efficiently from #rstats\n\nThis release avoids the infamous 'Invalid Descriptor' error in SQL Server, so you no longer need worry about column order.\n\nSee https://t.co/asZXCn7T34 for more info! https://t.co/BDLDC2hzH9", "Behold! A practical introduction to using instrumental variables with #rstats, including manual 2SLS and automatic 2SLS with iv_robust(), as well as weak instruments tests and Anderson-Rubin confidence intervals, all with video! https://t.co/GtO48FVzjc https://t.co/QFYeReT0iC", "Hey, why *not* have another Nicki-Minaj / #rstats-TikTok sing along? (The Queen's flow is the perfect pace for these…but CW: 🤬). \n#statsTikTok #ggplot2 (feat. @allison_horst art, as per usual)\n/* @ChelseaParlett, you know what to do… */ https://t.co/g60hhet6Cq", "The Ultimate R data.table Cheat Sheet! Search 50+ tasks in this interactive table. Plus, download your own copy as an HTML file! With tidyverse code too.\nhttps://t.co/mxEBQPNpjX\n#rstats #rdatatable https://t.co/bZBe8tjEc1", "🤩 Fab, quick guide to parameterized reporting (w/ code and video):\n⚡️ “How to Automate PDF Reporting with R” by @mdancho84 \nhttps://t.co/IecRtHpIys via @bizScienc #rstats https://t.co/EoiV53jjym", "Another piece based on floating point error. The height of the lines plots the computed value of (exp(ln(x)) - x)/x for values of x between .00001 and .05. Positive values are in pink, negative in gold. The faint white lines are cases when the computed value is exactly 0. #rstats https://t.co/JyO08wolxJ", "#TidyTuesday Week 2020/44 🇨🇦 Wind Turbines in @Canada \n\nI like #maps.\nI like #flags.\n\n#r4ds #rstats #tidyverse #rspatial #mapping #dataviz #datavis #DataVisualization https://t.co/M7zS2DqeHj", "Top 20 Best Data Science Books You Should Read. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/WUQVX6orIf https://t.co/dJln2Zey8O", "‼️Hold onto your swim trunks, because data viz in #rstats  is going to get a lot more WET and WILD 🌊🤯\n\nPrepare yourself for a full 3D fluid simulator with #rayrender integration for high quality rendering, entirely in R. Package coming... soon 😉 https://t.co/jEBq1pmDpD"]
 }
