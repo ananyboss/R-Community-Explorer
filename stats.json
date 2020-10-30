@@ -1,28 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 5307,
-      "average_tweets_per_hour": 221,
-      "tweeters_today": 1400,
-      "total_likes_today": 5589
+      "total_tweets_today": 5090,
+      "average_tweets_per_hour": 212,
+      "tweeters_today": 1369,
+      "total_likes_today": 5137
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "RStats",
-      "Freq": 200
+      "Var1": "tidyverse rstats",
+      "Freq": 197
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 198
+      "Var1": "RStats",
+      "Freq": 192
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 180
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 90
+      "Freq": 146
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -30,6 +26,10 @@
     },
     {
       "Var1": "rstats DataScience",
+      "Freq": 75
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 73
     },
     {
@@ -49,20 +49,8 @@
       "Freq": 47
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI AWS IoT IIoT Python",
-      "Freq": 43
-    },
-    {
       "Var1": "Python",
       "Freq": 43
-    },
-    {
-      "Var1": "DataScience BigData Analytics AI MachineLearning IoT IIoT Python",
-      "Freq": 42
-    },
-    {
-      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
-      "Freq": 41
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -70,107 +58,119 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 38
+      "Freq": 37
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 36
-    },
-    {
-      "Var1": "DEVCommunity",
-      "Freq": 36
-    },
-    {
-      "Var1": "Rstats",
+      "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
       "Freq": 36
     },
     {
       "Var1": "CheatSheet datastructures Python ML MachineLearning AI ArtificialIntelligence",
       "Freq": 35
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 34
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning",
+      "Freq": 34
+    },
+    {
+      "Var1": "MLOps BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 34
+    },
+    {
+      "Var1": "Rstats",
+      "Freq": 33
+    },
+    {
+      "Var1": "DEVCommunity",
+      "Freq": 31
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 420
+      "Freq": 404
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 218
+      "Freq": 211
     },
     {
       "Var1": "nlognbot",
-      "Freq": 208
+      "Freq": 207
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 205
+      "Freq": 201
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 197
+      "Freq": 198
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 173
+      "Freq": 174
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 147
+      "Freq": 143
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 121
+      "Freq": 104
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 99
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 90
+      "Freq": 98
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 86
+      "Freq": 85
     },
     {
-      "Var1": "Rahul_RPandya",
-      "Freq": 75
+      "Var1": "datasciencebot_",
+      "Freq": 84
     },
     {
       "Var1": "femtech_",
-      "Freq": 72
+      "Freq": 74
+    },
+    {
+      "Var1": "Rahul_RPandya",
+      "Freq": 71
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 69
+      "Freq": 62
     },
     {
       "Var1": "Analytics_699",
-      "Freq": 60
+      "Freq": 59
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 58
+      "Freq": 56
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 51
+      "Freq": 48
     },
     {
       "Var1": "coder_487",
       "Freq": 47
     },
     {
-      "Var1": "frontendbot1",
+      "Var1": "CoderNotesBot",
       "Freq": 42
     },
     {
-      "Var1": "CoderNotesBot",
-      "Freq": 40
+      "Var1": "frontendbot1",
+      "Freq": 42
     }
   ],
-  "top10_tweets_like": ["📊#RStats https://t.co/zkBjCdJF5i", "Holy hell the arrow package is amazing. I was able to filter, select, mutate, group_by, and summarize on 112M rows from parquet files locally in 5 seconds. #rstats https://t.co/Ivl31NeMnr", "💡Did you know that the 'report' package for #rstats formats your results so that they can be pasted in your manuscript? 100% a time saver. Soon available on #CRAN. Check it out here for early access: https://t.co/SiUnacgnEW   #easystats https://t.co/aFkJVImXY8", "Introducing {emphatic} - highlight data.frame/matrix output in R terminal.  \n\n* ANSI fill + text colours\n* apply ggplot2 colour scales to values\n* dplyr-style filters for rows\n* tidyselect-style cmds for columns\n\nhttps://t.co/d98Nrmc6LS\ndocs: https://t.co/eifFd58G1j\n\n#RStats https://t.co/JbsDHjPR6v", "PowerBI vs. R Shiny: Two Popular Excel Alternatives Compared  {https://t.co/z24ZewxhdP} #rstats #DataScience", "Canadian wind turbines for this #TidyTuesday and back to some drawing with ggplot!\n\ncode: https://t.co/mGoGXBYFHw\n\n#dataviz #RStats https://t.co/fkxk7f54UG", "When students just copy and paste #R code and expect it to work for them without understanding it #rstats https://t.co/AgsNhWobF8", "Best Python Libraries for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/daKcWd8el6 https://t.co/Tam7Yo9kf1", "Happy #TableThursday !\n\nJust two more days to submit your table to the @rstudio #RStats Table making contest!\n\nSubmit your table here: https://t.co/R5RCUoSRoc\n\nHere's an inspiration table using {gt} + {kableExtra}!\n\nCode: https://t.co/7BbtftVeZW https://t.co/F31eDoyI4G", "Free eBook: Getting Started with AI: Second Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/zsv7ThT69y https://t.co/8bERskB6Lo"],
-  "top10_tweets_retweet": ["📊#RStats https://t.co/zkBjCdJF5i", "Holy hell the arrow package is amazing. I was able to filter, select, mutate, group_by, and summarize on 112M rows from parquet files locally in 5 seconds. #rstats https://t.co/Ivl31NeMnr", "💡Did you know that the 'report' package for #rstats formats your results so that they can be pasted in your manuscript? 100% a time saver. Soon available on #CRAN. Check it out here for early access: https://t.co/SiUnacgnEW   #easystats https://t.co/aFkJVImXY8", "Introducing {emphatic} - highlight data.frame/matrix output in R terminal.  \n\n* ANSI fill + text colours\n* apply ggplot2 colour scales to values\n* dplyr-style filters for rows\n* tidyselect-style cmds for columns\n\nhttps://t.co/d98Nrmc6LS\ndocs: https://t.co/eifFd58G1j\n\n#RStats https://t.co/JbsDHjPR6v", "PowerBI vs. R Shiny: Two Popular Excel Alternatives Compared  {https://t.co/z24ZewxhdP} #rstats #DataScience", "Canadian wind turbines for this #TidyTuesday and back to some drawing with ggplot!\n\ncode: https://t.co/mGoGXBYFHw\n\n#dataviz #RStats https://t.co/fkxk7f54UG", "When students just copy and paste #R code and expect it to work for them without understanding it #rstats https://t.co/AgsNhWobF8", "Best Python Libraries for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/daKcWd8el6 https://t.co/Tam7Yo9kf1", "Happy #TableThursday !\n\nJust two more days to submit your table to the @rstudio #RStats Table making contest!\n\nSubmit your table here: https://t.co/R5RCUoSRoc\n\nHere's an inspiration table using {gt} + {kableExtra}!\n\nCode: https://t.co/7BbtftVeZW https://t.co/F31eDoyI4G", "Free eBook: Getting Started with AI: Second Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/zsv7ThT69y https://t.co/8bERskB6Lo"]
+  "top10_tweets_like": ["📊#RStats https://t.co/zkBjCdJF5i", "Holy hell the arrow package is amazing. I was able to filter, select, mutate, group_by, and summarize on 112M rows from parquet files locally in 5 seconds. #rstats https://t.co/Ivl31NeMnr", "Introducing {emphatic} - highlight data.frame/matrix output in R terminal.  \n\n* ANSI fill + text colours\n* apply ggplot2 colour scales to values\n* dplyr-style filters for rows\n* tidyselect-style cmds for columns\n\nhttps://t.co/d98Nrmc6LS\ndocs: https://t.co/eifFd58G1j\n\n#RStats https://t.co/JbsDHjPR6v", "When students just copy and paste #R code and expect it to work for them without understanding it #rstats https://t.co/AgsNhWobF8", "PowerBI vs. R Shiny: Two Popular Excel Alternatives Compared  {https://t.co/z24ZewxhdP} #rstats #DataScience", "Happy #TableThursday !\n\nJust two more days to submit your table to the @rstudio #RStats Table making contest!\n\nSubmit your table here: https://t.co/R5RCUoSRoc\n\nHere's an inspiration table using {gt} + {kableExtra}!\n\nCode: https://t.co/7BbtftVeZW https://t.co/F31eDoyI4G", "Canadian wind turbines for this #TidyTuesday and back to some drawing with ggplot!\n\ncode: https://t.co/mGoGXBYFHw\n\n#dataviz #RStats https://t.co/fkxk7f54UG", "He creado un paquete de R que permite descargar todo el Censo 2017 y que proporciona un panel para interactuar con los datos y mapas. El ícono hace referencia a que somos el país más limpio. Ahora necesito colaboraciones para hacer ejemplos buenos.\nhttps://t.co/SH39NrslYL #rstats https://t.co/TI1d2Dhdey", "Free eBook: Getting Started with AI: Second Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/zsv7ThT69y https://t.co/8bERskB6Lo", "We're super excited about this! #rstats https://t.co/TVd5N5lBEr"],
+  "top10_tweets_retweet": ["📊#RStats https://t.co/zkBjCdJF5i", "Holy hell the arrow package is amazing. I was able to filter, select, mutate, group_by, and summarize on 112M rows from parquet files locally in 5 seconds. #rstats https://t.co/Ivl31NeMnr", "Introducing {emphatic} - highlight data.frame/matrix output in R terminal.  \n\n* ANSI fill + text colours\n* apply ggplot2 colour scales to values\n* dplyr-style filters for rows\n* tidyselect-style cmds for columns\n\nhttps://t.co/d98Nrmc6LS\ndocs: https://t.co/eifFd58G1j\n\n#RStats https://t.co/JbsDHjPR6v", "When students just copy and paste #R code and expect it to work for them without understanding it #rstats https://t.co/AgsNhWobF8", "PowerBI vs. R Shiny: Two Popular Excel Alternatives Compared  {https://t.co/z24ZewxhdP} #rstats #DataScience", "Happy #TableThursday !\n\nJust two more days to submit your table to the @rstudio #RStats Table making contest!\n\nSubmit your table here: https://t.co/R5RCUoSRoc\n\nHere's an inspiration table using {gt} + {kableExtra}!\n\nCode: https://t.co/7BbtftVeZW https://t.co/F31eDoyI4G", "Canadian wind turbines for this #TidyTuesday and back to some drawing with ggplot!\n\ncode: https://t.co/mGoGXBYFHw\n\n#dataviz #RStats https://t.co/fkxk7f54UG", "He creado un paquete de R que permite descargar todo el Censo 2017 y que proporciona un panel para interactuar con los datos y mapas. El ícono hace referencia a que somos el país más limpio. Ahora necesito colaboraciones para hacer ejemplos buenos.\nhttps://t.co/SH39NrslYL #rstats https://t.co/TI1d2Dhdey", "Free eBook: Getting Started with AI: Second Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/zsv7ThT69y https://t.co/8bERskB6Lo", "We're super excited about this! #rstats https://t.co/TVd5N5lBEr"]
 }
