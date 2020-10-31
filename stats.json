@@ -1,59 +1,59 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4757,
-      "average_tweets_per_hour": 198,
-      "tweeters_today": 1294,
-      "total_likes_today": 4026
+      "total_tweets_today": 4779,
+      "average_tweets_per_hour": 199,
+      "tweeters_today": 1276,
+      "total_likes_today": 4103
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 158
+      "Freq": 153
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 110
+      "Freq": 113
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 102
+      "Freq": 101
     },
     {
       "Var1": "RStats",
-      "Freq": 97
+      "Freq": 92
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 76
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 52
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 49
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 44
+      "Freq": 70
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 54
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Freq": 51
+    },
+    {
+      "Var1": "GIS mapping rstats sf pyrenees",
+      "Freq": 47
     },
     {
       "Var1": "DEVCommunity",
       "Freq": 44
     },
     {
-      "Var1": "GIS mapping rstats sf pyrenees",
-      "Freq": 39
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
+      "Var1": "CNN NeuralNetworks BigData Analytics DataScience AI",
       "Freq": 38
     },
     {
-      "Var1": "CNN NeuralNetworks BigData Analytics DataScience AI",
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 37
     },
     {
@@ -61,11 +61,15 @@
       "Freq": 35
     },
     {
+      "Var1": "rstats datascience",
+      "Freq": 33
+    },
+    {
       "Var1": "100DaysOfCode Machinelearning AI IoT 100DaysOfMLCode Python javascript",
       "Freq": 32
     },
     {
-      "Var1": "rstats datascience",
+      "Var1": "R DeepLearning",
       "Freq": 32
     },
     {
@@ -73,46 +77,42 @@
       "Freq": 31
     },
     {
-      "Var1": "R DeepLearning",
-      "Freq": 31
-    },
-    {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 29
-    },
-    {
-      "Var1": "fiverr maths 100DaysOfCode Machinelearning IoT",
-      "Freq": 28
+      "Freq": 30
     },
     {
       "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT RStats TensorFlow",
-      "Freq": 28
+      "Freq": 30
+    },
+    {
+      "Var1": "Analytics RStats Reactjs IoT IIoT AI Linux Serverless ML",
+      "Freq": 29
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 344
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 199
-    },
-    {
-      "Var1": "Women_who_code",
-      "Freq": 189
+      "Freq": 342
     },
     {
       "Var1": "nlognbot",
-      "Freq": 183
+      "Freq": 189
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 188
+    },
+    {
+      "Var1": "Women_who_code",
+      "Freq": 186
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 174
+      "Freq": 173
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 144
+      "Freq": 141
     },
     {
       "Var1": "CodeGnuts",
@@ -132,45 +132,45 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 79
-    },
-    {
-      "Var1": "datasciencebot_",
       "Freq": 76
     },
     {
+      "Var1": "datasciencebot_",
+      "Freq": 75
+    },
+    {
       "Var1": "femtech_",
-      "Freq": 70
+      "Freq": 69
     },
     {
       "Var1": "Analytics_699",
-      "Freq": 59
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 55
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 52
-    },
-    {
-      "Var1": "_codenewbiebot",
-      "Freq": 50
-    },
-    {
-      "Var1": "coder_487",
-      "Freq": 50
+      "Freq": 64
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 48
+      "Freq": 59
     },
     {
-      "Var1": "CoderNotesBot",
-      "Freq": 40
+      "Var1": "bexxmodd",
+      "Freq": 57
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 56
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 55
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 53
+    },
+    {
+      "Var1": "coder_487",
+      "Freq": 44
     }
   ],
-  "top10_tweets_like": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Top 12 #Python Developer Skills You Must Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/RiPGnjKQVx https://t.co/gqrAhv71Gu", "Papercuts307 fluorescent white and green on black\n\nWill come to an auction near you\n\n#rstats #generative #creativecoding\n\nhttps://t.co/FP1hFkE60x https://t.co/jxDquXFzvO", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ"],
-  "top10_tweets_retweet": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Top 12 #Python Developer Skills You Must Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/RiPGnjKQVx https://t.co/gqrAhv71Gu", "Papercuts307 fluorescent white and green on black\n\nWill come to an auction near you\n\n#rstats #generative #creativecoding\n\nhttps://t.co/FP1hFkE60x https://t.co/jxDquXFzvO", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ"]
+  "top10_tweets_like": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "Top 12 #Python Developer Skills You Must Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/RiPGnjKQVx https://t.co/gqrAhv71Gu", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Papercuts307 fluorescent white and green on black\n\nWill come to an auction near you\n\n#rstats #generative #creativecoding\n\nhttps://t.co/FP1hFkE60x https://t.co/jxDquXFzvO", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS"],
+  "top10_tweets_retweet": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "Top 12 #Python Developer Skills You Must Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/RiPGnjKQVx https://t.co/gqrAhv71Gu", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Papercuts307 fluorescent white and green on black\n\nWill come to an auction near you\n\n#rstats #generative #creativecoding\n\nhttps://t.co/FP1hFkE60x https://t.co/jxDquXFzvO", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS"]
 }
