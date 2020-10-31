@@ -1,36 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4751,
-      "average_tweets_per_hour": 198,
-      "tweeters_today": 1228,
-      "total_likes_today": 4103
+      "total_tweets_today": 4704,
+      "average_tweets_per_hour": 196,
+      "tweeters_today": 1209,
+      "total_likes_today": 4043
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 128
+      "Freq": 119
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 124
+      "Freq": 110
     },
     {
       "Var1": "GIS mapping rstats sf pyrenees",
-      "Freq": 99
+      "Freq": 105
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 77
-    },
-    {
-      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 77
+      "Var1": "DEVCommunity",
+      "Freq": 82
     },
     {
       "Var1": "RStats",
-      "Freq": 74
+      "Freq": 69
     },
     {
       "Var1": "rstats DataScience",
@@ -41,15 +37,23 @@
       "Freq": 67
     },
     {
-      "Var1": "DEVCommunity",
-      "Freq": 49
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 63
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 52
+    },
+    {
+      "Var1": "DeepLearning Analytics",
+      "Freq": 45
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 41
     },
     {
-      "Var1": "DeepLearning Analytics",
+      "Var1": "LinkedInJobs",
       "Freq": 41
     },
     {
@@ -61,23 +65,15 @@
       "Freq": 40
     },
     {
-      "Var1": "LinkedInJobs",
-      "Freq": 39
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 37
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 37
-    },
-    {
       "Var1": "DEVCommunity Machinelearning",
       "Freq": 35
     },
     {
-      "Var1": "BigData Analytics DataScience AI",
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Freq": 33
+    },
+    {
+      "Var1": "MachineLearning Python AI",
       "Freq": 33
     },
     {
@@ -85,38 +81,50 @@
       "Freq": 32
     },
     {
-      "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
+      "Var1": "100DaysOfCode Machinelearning IoT 100DaysOfMLCode Python javascript Nodejs Serverless",
+      "Freq": 32
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
       "Freq": 32
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 283
-    },
-    {
-      "Var1": "Women_who_code",
-      "Freq": 187
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 185
+      "Freq": 268
     },
     {
       "Var1": "nlognbot",
-      "Freq": 182
+      "Freq": 192
+    },
+    {
+      "Var1": "Women_who_code",
+      "Freq": 183
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 180
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 158
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 147
+      "Freq": 155
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 127
+      "Freq": 140
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 134
+    },
+    {
+      "Var1": "Discovertech3",
+      "Freq": 99
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 96
     },
     {
       "Var1": "Rahul_RPandya",
@@ -127,16 +135,8 @@
       "Freq": 88
     },
     {
-      "Var1": "Discovertech3",
-      "Freq": 84
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 84
-    },
-    {
       "Var1": "femtech_",
-      "Freq": 78
+      "Freq": 77
     },
     {
       "Var1": "altf4hashbot",
@@ -151,26 +151,26 @@
       "Freq": 69
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 63
-    },
-    {
       "Var1": "_codenewbiebot",
-      "Freq": 58
+      "Freq": 65
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 56
+      "Freq": 61
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 56
+      "Freq": 58
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 58
     },
     {
       "Var1": "coder_487",
-      "Freq": 52
+      "Freq": 57
     }
   ],
-  "top10_tweets_like": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "Top 12 #Python Developer Skills You Must Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/RiPGnjKQVx https://t.co/gqrAhv71Gu", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS", "A demonstration of the transition between weather and climate by averaging daily rainfall and daily temperature over England over longer and longer timescales\nGraphs on left show lower range of climate, those on right the trend.\n\n#dataviz #climatechange #globalwarming #rstats https://t.co/szKSZyoWqh"],
-  "top10_tweets_retweet": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "Top 12 #Python Developer Skills You Must Need to Know. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/RiPGnjKQVx https://t.co/gqrAhv71Gu", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS", "A demonstration of the transition between weather and climate by averaging daily rainfall and daily temperature over England over longer and longer timescales\nGraphs on left show lower range of climate, those on right the trend.\n\n#dataviz #climatechange #globalwarming #rstats https://t.co/szKSZyoWqh"]
+  "top10_tweets_like": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS", "A demonstration of the transition between weather and climate by averaging daily rainfall and daily temperature over England over longer and longer timescales\nGraphs on left show lower range of climate, those on right the trend.\n\n#dataviz #climatechange #globalwarming #rstats https://t.co/szKSZyoWqh", "Averaging daily temperature data over longer periods reveals underlying warming trend over England.\n\nThis is a less complicated version of previous #dataviz, I'm interested if is more accessible?\n\n#GlobalWarming #ClimateChange #rstats https://t.co/lso0z6TwWv"],
+  "top10_tweets_retweet": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "An R tutorial to run spatial interpolation / prediction using Ensemble Machine Learning with/without geographical covs: https://t.co/A4hGt8Meqj. Advantages of using Machine Learning vs traditional techniques such as kriging also discussed in https://t.co/veiMe7YBk3 #RStats https://t.co/yKFsL3imfb", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/Mu6rea0xQS", "A demonstration of the transition between weather and climate by averaging daily rainfall and daily temperature over England over longer and longer timescales\nGraphs on left show lower range of climate, those on right the trend.\n\n#dataviz #climatechange #globalwarming #rstats https://t.co/szKSZyoWqh", "Averaging daily temperature data over longer periods reveals underlying warming trend over England.\n\nThis is a less complicated version of previous #dataviz, I'm interested if is more accessible?\n\n#GlobalWarming #ClimateChange #rstats https://t.co/lso0z6TwWv"]
 }
