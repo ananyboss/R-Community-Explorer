@@ -1,48 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4896,
-      "average_tweets_per_hour": 204,
-      "tweeters_today": 1182,
-      "total_likes_today": 4114
+      "total_tweets_today": 4964,
+      "average_tweets_per_hour": 207,
+      "tweeters_today": 1183,
+      "total_likes_today": 3427
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 121
+      "Freq": 120
     },
     {
       "Var1": "GIS mapping rstats sf pyrenees",
-      "Freq": 113
+      "Freq": 116
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 112
+      "Freq": 105
     },
     {
-      "Var1": "RStats",
-      "Freq": 84
+      "Var1": "DEVCommunity",
+      "Freq": 86
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 79
     },
     {
-      "Var1": "DEVCommunity",
-      "Freq": 78
+      "Var1": "RStats",
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning MachineLearning IoT Python",
-      "Freq": 67
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 67
+      "Freq": 68
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 65
+      "Freq": 64
     },
     {
       "Var1": "DeepLearning Analytics",
@@ -50,11 +46,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 53
+      "Freq": 57
+    },
+    {
+      "Var1": "rstats DataScience",
+      "Freq": 57
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
       "Freq": 47
+    },
+    {
+      "Var1": "Python MachineLearning AI",
+      "Freq": 44
     },
     {
       "Var1": "CNN NeuralNetworks BigData Analytics DataScience AI",
@@ -73,10 +77,6 @@
       "Freq": 38
     },
     {
-      "Var1": "MachineLearning Python AI",
-      "Freq": 38
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
       "Freq": 37
     },
@@ -85,30 +85,30 @@
       "Freq": 36
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 35
+      "Var1": "MachineLearning Python AI",
+      "Freq": 36
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 250
+      "Freq": 236
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 208
+      "Freq": 206
     },
     {
       "Var1": "nlognbot",
-      "Freq": 204
+      "Freq": 200
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 191
+      "Freq": 189
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 163
+      "Freq": 173
     },
     {
       "Var1": "CodeGnuts",
@@ -119,31 +119,35 @@
       "Freq": 145
     },
     {
-      "Var1": "trendsinAI",
-      "Freq": 128
+      "Var1": "Discovertech3",
+      "Freq": 123
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 126
+      "Freq": 122
     },
     {
-      "Var1": "Discovertech3",
-      "Freq": 116
+      "Var1": "trendsinAI",
+      "Freq": 117
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 103
+      "Freq": 111
     },
     {
       "Var1": "Rahul_RPandya",
-      "Freq": 77
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 74
+      "Freq": 85
     },
     {
       "Var1": "femtech_",
+      "Freq": 75
+    },
+    {
+      "Var1": "altf4hashbot",
+      "Freq": 73
+    },
+    {
+      "Var1": "datasciencebot_",
       "Freq": 73
     },
     {
@@ -152,25 +156,21 @@
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 62
+      "Freq": 61
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 59
+      "Freq": 60
+    },
+    {
+      "Var1": "coder_487",
+      "Freq": 56
     },
     {
       "Var1": "iotvishal",
       "Freq": 55
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 55
-    },
-    {
-      "Var1": "altf4hashbot",
-      "Freq": 54
     }
   ],
-  "top10_tweets_like": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "10 Best TensorFlow Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/ciVXiS6vkv https://t.co/wlNENoRXja", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "Scaling Your Time Series Forecasting Project. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/86oLxiD7Ky https://t.co/WMt8EnqztX"],
-  "top10_tweets_retweet": ["Happy Halloween #rstats friends 🎃👻🧹👾 https://t.co/CBmHPaSjPj", "🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "Para todos los amantes de #RStats y que usan o quieren usar el censo 2017 para hacer mapas pulentamente pulentosos:\n\nEchenle un ojo a la titanica pega que se mandó @pachamaltese en pos de los datos gratuitos, públicos y de calidá\n\ny si quiere, le coopera https://t.co/uF2hUNcipj https://t.co/42pO4IjsK3", "10 Best TensorFlow Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/ciVXiS6vkv https://t.co/wlNENoRXja", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "Scaling Your Time Series Forecasting Project. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/86oLxiD7Ky https://t.co/WMt8EnqztX"]
+  "top10_tweets_like": ["🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "10 Best TensorFlow Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/ciVXiS6vkv https://t.co/wlNENoRXja", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "Scaling Your Time Series Forecasting Project. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/86oLxiD7Ky https://t.co/WMt8EnqztX", "✍️✨ \"Turn a shiny application into a tablet or desktop app - Mango Solutions\"\n\n👤 Mango Solutions @mangothecat \n\nhttps://t.co/Uic9ouYDWw\n#rstats https://t.co/hprJFUwIg5", "Bitter truth about windows defender🤣🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/tCVRDomBXL"],
+  "top10_tweets_retweet": ["🍾😇 I updated the slides of my introduction to #GIS and #mapping in #rstats using the #sf package and 🐻 🗺️ in the #pyrenees 🏔️ \n\n🧑‍🏫 Slides: https://t.co/mO4Dg8l1H5\n🧑‍💻 Code: https://t.co/X8fDKcrbFR\n\n#rspatial #spatial #ggplot2 #tidyverse #dataviz https://t.co/433Mx3h8sk", "The original deadline for the 2020 Table Contest was scheduled for October 31. \nGiven requests and very interesting data becoming available next week, we are extending the deadline by two weeks to November 14, 2020.\nhttps://t.co/ZTp4MTdGtf\n#rstats #RStudio https://t.co/V0oWm84gAc", "Are you teaching #rstats online these days? Here are some resources that will make your life easier, along with demos of some recent tools in #rmarkdown that are awesome for teaching &amp; a few tips on making your materials more friendly and engaging 🧑‍🏫💻☁️\n\nhttps://t.co/QG40ZUFi84", "testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "✍️ \"Manipulating dataframes in R and Python | Comparing tidyverse and pandas\"\n\n👤 Carlos Cámara @drccamara \n\nhttps://t.co/1BbQ42YgBO\n#rstats https://t.co/MbRSY54agJ", "10 Best TensorFlow Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/ciVXiS6vkv https://t.co/wlNENoRXja", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "Scaling Your Time Series Forecasting Project. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/86oLxiD7Ky https://t.co/WMt8EnqztX", "✍️✨ \"Turn a shiny application into a tablet or desktop app - Mango Solutions\"\n\n👤 Mango Solutions @mangothecat \n\nhttps://t.co/Uic9ouYDWw\n#rstats https://t.co/hprJFUwIg5", "Bitter truth about windows defender🤣🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/tCVRDomBXL"]
 }
