@@ -1,35 +1,31 @@
 {
   "summary": [
     {
-      "total_tweets_today": 4610,
-      "average_tweets_per_hour": 192,
+      "total_tweets_today": 4674,
+      "average_tweets_per_hour": 195,
       "tweeters_today": 1242,
-      "total_likes_today": 4074
+      "total_likes_today": 4093
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 138
+      "Freq": 133
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 124
     },
     {
-      "Var1": "RStats",
-      "Freq": 82
+      "Var1": "GIS mapping rstats sf pyrenees",
+      "Freq": 91
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 82
+      "Var1": "RStats",
+      "Freq": 78
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 77
-    },
-    {
-      "Var1": "GIS mapping rstats sf pyrenees",
       "Freq": 77
     },
     {
@@ -37,16 +33,20 @@
       "Freq": 75
     },
     {
+      "Var1": "rstats DataScience",
+      "Freq": 72
+    },
+    {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 65
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 57
+      "Freq": 54
     },
     {
       "Var1": "DEVCommunity",
-      "Freq": 45
+      "Freq": 49
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
@@ -61,15 +61,23 @@
       "Freq": 39
     },
     {
+      "Var1": "LinkedInJobs",
+      "Freq": 39
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 37
     },
     {
-      "Var1": "DEVCommunity Machinelearning",
-      "Freq": 36
+      "Var1": "DEVCommunity Machinelearning 100DaysOfCode IoT",
+      "Freq": 37
     },
     {
       "Var1": "BigData Analytics DataScience AI",
+      "Freq": 33
+    },
+    {
+      "Var1": "DeepLearning Analytics",
       "Freq": 33
     },
     {
@@ -79,60 +87,64 @@
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 31
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 30
-    },
-    {
-      "Var1": "fiverr maths 100DaysOfCode Machinelearning IoT",
-      "Freq": 30
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 306
+      "Freq": 295
     },
     {
       "Var1": "nlognbot",
       "Freq": 179
     },
     {
-      "Var1": "LlnuxBot",
-      "Freq": 177
+      "Var1": "Women_who_code",
+      "Freq": 178
     },
     {
-      "Var1": "Women_who_code",
-      "Freq": 176
+      "Var1": "LlnuxBot",
+      "Freq": 174
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 158
+      "Freq": 154
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 146
+      "Freq": 140
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 117
+      "Freq": 129
     },
     {
       "Var1": "frontendbot1",
       "Freq": 88
     },
     {
-      "Var1": "ServerlessFan",
+      "Var1": "Discovertech3",
       "Freq": 84
     },
     {
-      "Var1": "Discovertech3",
-      "Freq": 75
+      "Var1": "ServerlessFan",
+      "Freq": 83
+    },
+    {
+      "Var1": "altf4hashbot",
+      "Freq": 76
     },
     {
       "Var1": "Rahul_RPandya",
       "Freq": 75
+    },
+    {
+      "Var1": "datasciencebot_",
+      "Freq": 70
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 69
     },
     {
       "Var1": "iotvishal",
@@ -140,34 +152,22 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 68
-    },
-    {
-      "Var1": "femtech_",
       "Freq": 66
     },
     {
-      "Var1": "datasciencebot_",
-      "Freq": 65
-    },
-    {
-      "Var1": "altf4hashbot",
-      "Freq": 57
+      "Var1": "_codenewbiebot",
+      "Freq": 58
     },
     {
       "Var1": "bexxmodd",
       "Freq": 57
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 55
+      "Var1": "TheCuriousLuke",
+      "Freq": 53
     },
     {
       "Var1": "coder_487",
-      "Freq": 52
-    },
-    {
-      "Var1": "TheCuriousLuke",
       "Freq": 52
     }
   ],
