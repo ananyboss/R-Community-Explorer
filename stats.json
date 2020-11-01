@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6074,
-      "average_tweets_per_hour": 253,
+      "total_tweets_today": 6171,
+      "average_tweets_per_hour": 257,
       "tweeters_today": 1112,
-      "total_likes_today": 3671
+      "total_likes_today": 3830
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 201
+      "Freq": 203
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 116
+      "Freq": 120
     },
     {
       "Var1": "DEVCommunity",
@@ -22,11 +22,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 93
-    },
-    {
-      "Var1": "tidyverse rstats",
-      "Freq": 89
+      "Freq": 94
     },
     {
       "Var1": "custom mug tshirt design fiverr fiverrgigs 100DaysOfCode Machinelearning IoT",
@@ -38,27 +34,39 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 84
+      "Freq": 86
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 83
     },
     {
       "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 77
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 71
-    },
-    {
-      "Var1": "GIS mapping rstats sf pyrenees",
-      "Freq": 69
+      "Freq": 70
     },
     {
       "Var1": "BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 67
+      "Freq": 68
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding",
-      "Freq": 61
+      "Freq": 62
+    },
+    {
+      "Var1": "GIS mapping rstats sf pyrenees",
+      "Freq": 59
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 58
+    },
+    {
+      "Var1": "MachineLearning Python",
+      "Freq": 56
     },
     {
       "Var1": "Robotics BigData Analytics DataScience AI MachineLearning IoT",
@@ -73,90 +81,82 @@
       "Freq": 53
     },
     {
-      "Var1": "MachineLearning Python",
-      "Freq": 51
-    },
-    {
       "Var1": "Analytics AR VR MR XR UX AI javascript30 RStats reactjs Java",
       "Freq": 49
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 49
-    },
-    {
-      "Var1": "DeepLearning Analytics",
+      "Var1": "DataScientist ArtificialIntelligence 5G analytics MachineLearning BigData IoT RStats JavaScript",
       "Freq": 49
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "Women_who_code",
-      "Freq": 251
+      "Freq": 256
     },
     {
       "Var1": "nlognbot",
-      "Freq": 242
+      "Freq": 244
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 237
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 212
+      "Freq": 241
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 207
+      "Freq": 208
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 202
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 192
+      "Freq": 189
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 162
+      "Freq": 166
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 159
     },
     {
       "Var1": "frontendbot1",
       "Freq": 156
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 155
-    },
-    {
       "Var1": "trendsinAI",
-      "Freq": 152
+      "Freq": 146
     },
     {
       "Var1": "xaelbot",
-      "Freq": 114
+      "Freq": 123
     },
     {
       "Var1": "bexxmodd",
-      "Freq": 113
+      "Freq": 116
+    },
+    {
+      "Var1": "datasciencebot_",
+      "Freq": 106
     },
     {
       "Var1": "rstats_tweets",
       "Freq": 105
     },
     {
-      "Var1": "datasciencebot_",
-      "Freq": 103
-    },
-    {
       "Var1": "altf4hashbot",
-      "Freq": 102
+      "Freq": 101
     },
     {
       "Var1": "Rahul_RPandya",
-      "Freq": 102
+      "Freq": 99
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 84
+      "Freq": 83
     },
     {
       "Var1": "femtech_",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 73
+      "Freq": 71
     },
     {
       "Var1": "CyberSecurityN8",
       "Freq": 50
     }
   ],
-  "top10_tweets_like": ["testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/yjTi8Ep01k", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "✍️ \"Mixed models in R: a primer\"\n\n👤 Arbor Custom Analytics @arbor_analytics \n\nhttps://t.co/e5n1ZIM2h6\n#rstats https://t.co/WGd35fq9Q4", "Which Machine Learning Algorithm Should You Use. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LgfNWlcV0v https://t.co/8Trut9pnx9", "🎮📺🕹️ Ready for another lockdown 🤩 Max level #procrastination Playing arcade games in @rstudio 2048, #Tetris, #Mario, #PacMan, etc. Check out the Rcade 📦 https://t.co/S7jx3EV6Mg by @RLesur #rstats https://t.co/BnKBcEFWYQ", "The Day of The Dead: Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51euPn https://t.co/a7abdzuhjb", "📦📊 \"diagrammer • Graph and network visualization using tabular data in R.\"\n\n👤 Richard Iannone @riannone \n\nhttps://t.co/fM3jowckdd\n#rstats", "Happy Halloween from the rayverse! May your day be filled with scary maps and spooky spider pigs, and may your cyber-gourds be realistically smashed into virtual pumpkin pie filling for dessert.\n\nWho's excited for a full fluid simulator in R?😀\n\nRendered in #rstats w/ #rayrender https://t.co/9unFOwqOa5", "Bitter truth about windows defender🤣🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/tCVRDomBXL"],
-  "top10_tweets_retweet": ["testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/yjTi8Ep01k", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "✍️ \"Mixed models in R: a primer\"\n\n👤 Arbor Custom Analytics @arbor_analytics \n\nhttps://t.co/e5n1ZIM2h6\n#rstats https://t.co/WGd35fq9Q4", "Which Machine Learning Algorithm Should You Use. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LgfNWlcV0v https://t.co/8Trut9pnx9", "🎮📺🕹️ Ready for another lockdown 🤩 Max level #procrastination Playing arcade games in @rstudio 2048, #Tetris, #Mario, #PacMan, etc. Check out the Rcade 📦 https://t.co/S7jx3EV6Mg by @RLesur #rstats https://t.co/BnKBcEFWYQ", "The Day of The Dead: Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51euPn https://t.co/a7abdzuhjb", "📦📊 \"diagrammer • Graph and network visualization using tabular data in R.\"\n\n👤 Richard Iannone @riannone \n\nhttps://t.co/fM3jowckdd\n#rstats", "Happy Halloween from the rayverse! May your day be filled with scary maps and spooky spider pigs, and may your cyber-gourds be realistically smashed into virtual pumpkin pie filling for dessert.\n\nWho's excited for a full fluid simulator in R?😀\n\nRendered in #rstats w/ #rayrender https://t.co/9unFOwqOa5", "Bitter truth about windows defender🤣🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/tCVRDomBXL"]
+  "top10_tweets_like": ["testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/yjTi8Ep01k", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "Which Machine Learning Algorithm Should You Use. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LgfNWlcV0v https://t.co/8Trut9pnx9", "✍️ \"Mixed models in R: a primer\"\n\n👤 Arbor Custom Analytics @arbor_analytics \n\nhttps://t.co/e5n1ZIM2h6\n#rstats https://t.co/WGd35fq9Q4", "The Day of The Dead: Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51euPn https://t.co/a7abdzuhjb", "🎮📺🕹️ Ready for another lockdown 🤩 Max level #procrastination Playing arcade games in @rstudio 2048, #Tetris, #Mario, #PacMan, etc. Check out the Rcade 📦 https://t.co/S7jx3EV6Mg by @RLesur #rstats https://t.co/BnKBcEFWYQ", "📦📊 \"diagrammer • Graph and network visualization using tabular data in R.\"\n\n👤 Richard Iannone @riannone \n\nhttps://t.co/fM3jowckdd\n#rstats", "Happy Halloween from the rayverse! May your day be filled with scary maps and spooky spider pigs, and may your cyber-gourds be realistically smashed into virtual pumpkin pie filling for dessert.\n\nWho's excited for a full fluid simulator in R?😀\n\nRendered in #rstats w/ #rayrender https://t.co/9unFOwqOa5", "Bitter truth about windows defender🤣🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/tCVRDomBXL"],
+  "top10_tweets_retweet": ["testthat 3.0.0 out now! — https://t.co/zmzYWiME1A. So many new features, but most useful are the idea of the edition (which lets us safely make backward incompatible changes) and snapshot tests (which automatically record expected outputs in a separate file) #rstats", "A Comprehensive 10-Page Probability Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/NAviefsopE https://t.co/yjTi8Ep01k", "A fun little animation of the wind turbines from this week's #TidyTuesday data set. The speed of rotation is determined by the logarithm of the number of turbines\n\ncode: https://t.co/mGoGXBYFHw\n\n#RStats https://t.co/LZspzZ4uUW", "Which Machine Learning Algorithm Should You Use. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/LgfNWlcV0v https://t.co/8Trut9pnx9", "✍️ \"Mixed models in R: a primer\"\n\n👤 Arbor Custom Analytics @arbor_analytics \n\nhttps://t.co/e5n1ZIM2h6\n#rstats https://t.co/WGd35fq9Q4", "The Day of The Dead: Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51euPn https://t.co/a7abdzuhjb", "🎮📺🕹️ Ready for another lockdown 🤩 Max level #procrastination Playing arcade games in @rstudio 2048, #Tetris, #Mario, #PacMan, etc. Check out the Rcade 📦 https://t.co/S7jx3EV6Mg by @RLesur #rstats https://t.co/BnKBcEFWYQ", "📦📊 \"diagrammer • Graph and network visualization using tabular data in R.\"\n\n👤 Richard Iannone @riannone \n\nhttps://t.co/fM3jowckdd\n#rstats", "Happy Halloween from the rayverse! May your day be filled with scary maps and spooky spider pigs, and may your cyber-gourds be realistically smashed into virtual pumpkin pie filling for dessert.\n\nWho's excited for a full fluid simulator in R?😀\n\nRendered in #rstats w/ #rayrender https://t.co/9unFOwqOa5", "Bitter truth about windows defender🤣🤣⁣\n\n#Python #rstats #java #javascript #AWS #100DaysOfCode #ReactJS #Coding #CloudComputing #HTML #Serverless #cybersecurity #DataScientist  ⁣#Linux #Programming ⁣#WomenWhoCode https://t.co/tCVRDomBXL"]
 }
