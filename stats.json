@@ -1,24 +1,24 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6595,
+      "total_tweets_today": 6599,
       "average_tweets_per_hour": 275,
-      "tweeters_today": 1303,
-      "total_likes_today": 4798
+      "tweeters_today": 1292,
+      "total_likes_today": 4805
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 191
+      "Var1": "tidyverse rstats",
+      "Freq": 189
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 178
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 180
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 169
+      "Freq": 164
     },
     {
       "Var1": "DeepLearning Analytics",
@@ -26,34 +26,34 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 111
+      "Freq": 115
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 99
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 78
+      "Freq": 95
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 76
+      "Freq": 79
     },
     {
       "Var1": "Python",
       "Freq": 75
     },
     {
+      "Var1": "RStats",
+      "Freq": 70
+    },
+    {
+      "Var1": "DataScience MachineLearning DeepLearning BigData Analytics AI Cloud IoT IIoT",
+      "Freq": 56
+    },
+    {
       "Var1": "BigData Analytics DataScience",
       "Freq": 53
     },
     {
-      "Var1": "DataScience MachineLearning DeepLearning BigData Analytics AI Cloud IoT IIoT",
-      "Freq": 53
-    },
-    {
-      "Var1": "30DayMapChallenge",
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
       "Freq": 49
     },
     {
@@ -65,8 +65,8 @@
       "Freq": 48
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 42
+      "Var1": "30DayMapChallenge",
+      "Freq": 44
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
@@ -85,38 +85,38 @@
       "Freq": 40
     },
     {
-      "Var1": "RStats BigData Analytics",
-      "Freq": 36
+      "Var1": "NoSQL BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 40
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 427
+      "Freq": 423
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 259
+      "Freq": 261
     },
     {
       "Var1": "xaelbot",
-      "Freq": 245
+      "Freq": 249
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 242
+      "Freq": 246
     },
     {
       "Var1": "nlognbot",
-      "Freq": 236
+      "Freq": 241
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 209
+      "Freq": 205
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 186
+      "Freq": 175
     },
     {
       "Var1": "CodeGnuts",
@@ -124,53 +124,53 @@
     },
     {
       "Var1": "trendsinAI",
-      "Freq": 137
+      "Freq": 145
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 122
+      "Freq": 118
     },
     {
       "Var1": "hubofml",
-      "Freq": 111
+      "Freq": 112
     },
     {
       "Var1": "ServerlessFan",
       "Freq": 111
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 94
+    },
+    {
       "Var1": "femtech_",
       "Freq": 90
     },
     {
-      "Var1": "tidyversetweets",
-      "Freq": 89
-    },
-    {
       "Var1": "the404code",
-      "Freq": 84
-    },
-    {
-      "Var1": "epuujee",
-      "Freq": 79
+      "Freq": 82
     },
     {
       "Var1": "chidambara09",
       "Freq": 78
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 73
+      "Var1": "epuujee",
+      "Freq": 78
     },
     {
-      "Var1": "rstats4ds",
-      "Freq": 68
+      "Var1": "_codenewbiebot",
+      "Freq": 71
     },
     {
       "Var1": "TheDeveloperBot",
       "Freq": 67
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 64
     }
   ],
-  "top10_tweets_like": ["✍️🖥 \"Making Websites with R Markdown\"\n\n👤 Alison Presmanes Hill @apreshill \n\nhttps://t.co/4V6YHloBp2\n#rstats https://t.co/mAMCkLx4l2", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "Learn Python 3 in One Picture. #DataScience #MachineLearning #DeepLearning #BigData #Analytics #AI #Cloud #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Mathematics #Statistics #100DaysOfCode #Developers #Programming #Coding\nhttps://t.co/AqYlnYBKur https://t.co/5fEQXJDLCQ", "Data Scientist Roadmap. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/koeXKykYJF https://t.co/Cho5HsATXl", "#30DayMapChallenge Day 3. Polygons\n\nUrban growth through the construction year of buildings in Spain. #dataviz #rspatial #rstats\n\nBlog post 👉https://t.co/uUujVgV2ql https://t.co/Gy3vM7fhiO", "Ever wonder why RStudio supports Python with our products? Spoiler alert: it's because data scientists use Python for different things than they use R for -- and we have survey data to back that up. #rstats https://t.co/BxZP66TUpC", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT", "Best Data Science Books — Free and Paid. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/Q0d7ggaOp3 https://t.co/EuK8CaFwzt", "The @R4DScommunity welcomes you to week 45 of #TidyTuesday!  We're exploring IKEA furniture!!\n\n📂 https://t.co/sElb4fcv3u\n🗞 https://t.co/7rRkIU2vbY\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/R4pLj2EzU2"],
-  "top10_tweets_retweet": ["✍️🖥 \"Making Websites with R Markdown\"\n\n👤 Alison Presmanes Hill @apreshill \n\nhttps://t.co/4V6YHloBp2\n#rstats https://t.co/mAMCkLx4l2", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "Learn Python 3 in One Picture. #DataScience #MachineLearning #DeepLearning #BigData #Analytics #AI #Cloud #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Mathematics #Statistics #100DaysOfCode #Developers #Programming #Coding\nhttps://t.co/AqYlnYBKur https://t.co/5fEQXJDLCQ", "Data Scientist Roadmap. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/koeXKykYJF https://t.co/Cho5HsATXl", "#30DayMapChallenge Day 3. Polygons\n\nUrban growth through the construction year of buildings in Spain. #dataviz #rspatial #rstats\n\nBlog post 👉https://t.co/uUujVgV2ql https://t.co/Gy3vM7fhiO", "Ever wonder why RStudio supports Python with our products? Spoiler alert: it's because data scientists use Python for different things than they use R for -- and we have survey data to back that up. #rstats https://t.co/BxZP66TUpC", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT", "Best Data Science Books — Free and Paid. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/Q0d7ggaOp3 https://t.co/EuK8CaFwzt", "The @R4DScommunity welcomes you to week 45 of #TidyTuesday!  We're exploring IKEA furniture!!\n\n📂 https://t.co/sElb4fcv3u\n🗞 https://t.co/7rRkIU2vbY\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/R4pLj2EzU2"]
+  "top10_tweets_like": ["✍️🖥 \"Making Websites with R Markdown\"\n\n👤 Alison Presmanes Hill @apreshill \n\nhttps://t.co/4V6YHloBp2\n#rstats https://t.co/mAMCkLx4l2", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "Data Scientist Roadmap. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/koeXKykYJF https://t.co/Cho5HsATXl", "Learn Python 3 in One Picture. #DataScience #MachineLearning #DeepLearning #BigData #Analytics #AI #Cloud #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Mathematics #Statistics #100DaysOfCode #Developers #Programming #Coding\nhttps://t.co/AqYlnYBKur https://t.co/5fEQXJDLCQ", "#30DayMapChallenge Day 3. Polygons\n\nUrban growth through the construction year of buildings in Spain. #dataviz #rspatial #rstats\n\nBlog post 👉https://t.co/uUujVgV2ql https://t.co/Gy3vM7fhiO", "Ever wonder why RStudio supports Python with our products? Spoiler alert: it's because data scientists use Python for different things than they use R for -- and we have survey data to back that up. #rstats https://t.co/BxZP66TUpC", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT", "Best Data Science Books — Free and Paid. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/Q0d7ggaOp3 https://t.co/EuK8CaFwzt", "The @R4DScommunity welcomes you to week 45 of #TidyTuesday!  We're exploring IKEA furniture!!\n\n📂 https://t.co/sElb4fcv3u\n🗞 https://t.co/7rRkIU2vbY\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/R4pLj2EzU2"],
+  "top10_tweets_retweet": ["✍️🖥 \"Making Websites with R Markdown\"\n\n👤 Alison Presmanes Hill @apreshill \n\nhttps://t.co/4V6YHloBp2\n#rstats https://t.co/mAMCkLx4l2", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "Data Scientist Roadmap. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/koeXKykYJF https://t.co/Cho5HsATXl", "Learn Python 3 in One Picture. #DataScience #MachineLearning #DeepLearning #BigData #Analytics #AI #Cloud #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #Serverless #Linux #Mathematics #Statistics #100DaysOfCode #Developers #Programming #Coding\nhttps://t.co/AqYlnYBKur https://t.co/5fEQXJDLCQ", "#30DayMapChallenge Day 3. Polygons\n\nUrban growth through the construction year of buildings in Spain. #dataviz #rspatial #rstats\n\nBlog post 👉https://t.co/uUujVgV2ql https://t.co/Gy3vM7fhiO", "Ever wonder why RStudio supports Python with our products? Spoiler alert: it's because data scientists use Python for different things than they use R for -- and we have survey data to back that up. #rstats https://t.co/BxZP66TUpC", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT", "Best Data Science Books — Free and Paid. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/Q0d7ggaOp3 https://t.co/EuK8CaFwzt", "The @R4DScommunity welcomes you to week 45 of #TidyTuesday!  We're exploring IKEA furniture!!\n\n📂 https://t.co/sElb4fcv3u\n🗞 https://t.co/7rRkIU2vbY\n\n#r4ds #tidyverse #rstats #dataviz https://t.co/R4pLj2EzU2"]
 }
