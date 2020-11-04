@@ -1,32 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7141,
-      "average_tweets_per_hour": 298,
-      "tweeters_today": 1426,
-      "total_likes_today": 5838
+      "total_tweets_today": 7138,
+      "average_tweets_per_hour": 297,
+      "tweeters_today": 1439,
+      "total_likes_today": 5800
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 223
+      "Freq": 219
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 221
+      "Freq": 216
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 190
+      "Freq": 184
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 178
+      "Freq": 183
     },
     {
       "Var1": "DeepLearning Analytics",
-      "Freq": 135
+      "Freq": 119
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -34,7 +34,11 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 67
+      "Freq": 69
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 66
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
@@ -45,27 +49,23 @@
       "Freq": 60
     },
     {
-      "Var1": "RStats",
-      "Freq": 58
-    },
-    {
       "Var1": "RStats BigData Analytics",
       "Freq": 56
+    },
+    {
+      "Var1": "Analytics Rstats Reactjs AI javascript IoT IIoT",
+      "Freq": 55
     },
     {
       "Var1": "NoSQL BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 54
     },
     {
-      "Var1": "Analytics Rstats Reactjs AI javascript IoT IIoT",
-      "Freq": 52
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 44
     },
     {
       "Var1": "Python",
-      "Freq": 45
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
       "Freq": 44
     },
     {
@@ -73,38 +73,38 @@
       "Freq": 43
     },
     {
-      "Var1": "Analytics AR MR VR UX AI javascript DataScience",
-      "Freq": 40
+      "Var1": "DataScience MachineLearning",
+      "Freq": 42
     },
     {
-      "Var1": "DataScience MachineLearning",
-      "Freq": 40
+      "Var1": "Analytics AR MR VR UX AI javascript DataScience",
+      "Freq": 41
+    },
+    {
+      "Var1": "30DayMapChallenge",
+      "Freq": 38
     },
     {
       "Var1": "dataquest datascience rstats python",
       "Freq": 38
-    },
-    {
-      "Var1": "30DayMapChallenge",
-      "Freq": 37
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 432
+      "Freq": 425
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 308
+      "Freq": 315
     },
     {
       "Var1": "xaelbot",
-      "Freq": 271
+      "Freq": 270
     },
     {
       "Var1": "nlognbot",
-      "Freq": 261
+      "Freq": 260
     },
     {
       "Var1": "Women_who_code",
@@ -112,19 +112,23 @@
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 187
-    },
-    {
-      "Var1": "trendsinAI",
       "Freq": 185
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 182
     },
     {
       "Var1": "rstats_tweets",
       "Freq": 179
+    },
+    {
+      "Var1": "trendsinAI",
+      "Freq": 174
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 173
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 125
     },
     {
       "Var1": "datasciencebot_",
@@ -135,32 +139,28 @@
       "Freq": 124
     },
     {
-      "Var1": "hubofml",
-      "Freq": 122
-    },
-    {
       "Var1": "TheDeveloperBot",
-      "Freq": 112
+      "Freq": 104
     },
     {
       "Var1": "chidambara09",
-      "Freq": 98
+      "Freq": 100
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 97
+      "Freq": 93
+    },
+    {
+      "Var1": "epuujee",
+      "Freq": 89
     },
     {
       "Var1": "femtech_",
-      "Freq": 85
+      "Freq": 88
     },
     {
       "Var1": "codex_bot",
       "Freq": 81
-    },
-    {
-      "Var1": "epuujee",
-      "Freq": 80
     },
     {
       "Var1": "_codenewbiebot",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "the404code",
-      "Freq": 76
+      "Freq": 78
     }
   ],
-  "top10_tweets_like": ["The ggplot2 book has a fresh look thanks to the new bookdown::bs4_book() template: https://t.co/6kgkt5z1GS #rstats", "Quanto você precisa ganhar para estar entre os 10% mais ricos no seu Estado? Seu rendimento te deixa na msm condição social quando você muda de Estado? \n\n#RStats #dataviz https://t.co/3KngcMZp0J", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/p65om9Twe6", "Introducing {typed}. \nA type system for R:\n* set variable types in a script or the body of a function, so they can’t be assigned illegal values\n* set argument types in a function definition\n* set return type of a function\n\nfeedback welcomed!\n\nhttps://t.co/lQima0l4mV\n\n#rstats https://t.co/J3Lulo38yz", "✍️🏈⏱ \"Intro to tidymodels with nflfastR\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/ZOJiQMnSIw\n#rstats https://t.co/QLANWjRzsB", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT", "10 Must-Know Tidyverse Functions: #2 – across()  {https://t.co/MW4hMUJXwX} #rstats #DataScience", "Modeling Techniques in #PredictiveAnalytics with #Python and R — A Guide to #DataScience: \n—————\n#BigData #AI #MachineLearning #PredictiveModeling #Rstats #Coding #DataScientists #Forecasting #IoT #IIoT #IoTPL #Industry40 #TimeSeries #EdgeAnalytics #EdgeComputing https://t.co/oDcRc1DGQJ"],
-  "top10_tweets_retweet": ["The ggplot2 book has a fresh look thanks to the new bookdown::bs4_book() template: https://t.co/6kgkt5z1GS #rstats", "Quanto você precisa ganhar para estar entre os 10% mais ricos no seu Estado? Seu rendimento te deixa na msm condição social quando você muda de Estado? \n\n#RStats #dataviz https://t.co/3KngcMZp0J", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/p65om9Twe6", "Introducing {typed}. \nA type system for R:\n* set variable types in a script or the body of a function, so they can’t be assigned illegal values\n* set argument types in a function definition\n* set return type of a function\n\nfeedback welcomed!\n\nhttps://t.co/lQima0l4mV\n\n#rstats https://t.co/J3Lulo38yz", "✍️🏈⏱ \"Intro to tidymodels with nflfastR\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/ZOJiQMnSIw\n#rstats https://t.co/QLANWjRzsB", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT", "10 Must-Know Tidyverse Functions: #2 – across()  {https://t.co/MW4hMUJXwX} #rstats #DataScience", "Modeling Techniques in #PredictiveAnalytics with #Python and R — A Guide to #DataScience: \n—————\n#BigData #AI #MachineLearning #PredictiveModeling #Rstats #Coding #DataScientists #Forecasting #IoT #IIoT #IoTPL #Industry40 #TimeSeries #EdgeAnalytics #EdgeComputing https://t.co/oDcRc1DGQJ"]
+  "top10_tweets_like": ["The ggplot2 book has a fresh look thanks to the new bookdown::bs4_book() template: https://t.co/6kgkt5z1GS #rstats", "Quanto você precisa ganhar para estar entre os 10% mais ricos no seu Estado? Seu rendimento te deixa na msm condição social quando você muda de Estado? \n\n#RStats #dataviz https://t.co/3KngcMZp0J", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/p65om9Twe6", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "Introducing {typed}. \nA type system for R:\n* set variable types in a script or the body of a function, so they can’t be assigned illegal values\n* set argument types in a function definition\n* set return type of a function\n\nfeedback welcomed!\n\nhttps://t.co/lQima0l4mV\n\n#rstats https://t.co/J3Lulo38yz", "✍️🏈⏱ \"Intro to tidymodels with nflfastR\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/ZOJiQMnSIw\n#rstats https://t.co/QLANWjRzsB", "Modeling Techniques in #PredictiveAnalytics with #Python and R — A Guide to #DataScience: \n—————\n#BigData #AI #MachineLearning #PredictiveModeling #Rstats #Coding #DataScientists #Forecasting #IoT #IIoT #IoTPL #Industry40 #TimeSeries #EdgeAnalytics #EdgeComputing https://t.co/oDcRc1DGQJ", "10 Must-Know Tidyverse Functions: #2 – across()  {https://t.co/MW4hMUJXwX} #rstats #DataScience", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT"],
+  "top10_tweets_retweet": ["The ggplot2 book has a fresh look thanks to the new bookdown::bs4_book() template: https://t.co/6kgkt5z1GS #rstats", "Quanto você precisa ganhar para estar entre os 10% mais ricos no seu Estado? Seu rendimento te deixa na msm condição social quando você muda de Estado? \n\n#RStats #dataviz https://t.co/3KngcMZp0J", "Did you know there's a cheat code in R that makes the `volcano` dataset erupt? Pass the string \"OUR NATIONAL NIGHTMARE\" to the `end()` function and read an important message.🌋\n\n(rendered and simulated with #rstats + #rayshader + #rayrender + a new mystery package 😉) https://t.co/70rmKNYmDy", "A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/qbjlda5ILR https://t.co/p65om9Twe6", "Comparing latitudes in the same hemisphere, then flipping the world to show the antipodes and comparing latitudes in opposite hemisphere\n\n#dataviz #rstats #gis #maps https://t.co/LC3CPt39Wg", "Introducing {typed}. \nA type system for R:\n* set variable types in a script or the body of a function, so they can’t be assigned illegal values\n* set argument types in a function definition\n* set return type of a function\n\nfeedback welcomed!\n\nhttps://t.co/lQima0l4mV\n\n#rstats https://t.co/J3Lulo38yz", "✍️🏈⏱ \"Intro to tidymodels with nflfastR\"\n\n👤 Tom Mock @thomas_mock \n\nhttps://t.co/ZOJiQMnSIw\n#rstats https://t.co/QLANWjRzsB", "Modeling Techniques in #PredictiveAnalytics with #Python and R — A Guide to #DataScience: \n—————\n#BigData #AI #MachineLearning #PredictiveModeling #Rstats #Coding #DataScientists #Forecasting #IoT #IIoT #IoTPL #Industry40 #TimeSeries #EdgeAnalytics #EdgeComputing https://t.co/oDcRc1DGQJ", "10 Must-Know Tidyverse Functions: #2 – across()  {https://t.co/MW4hMUJXwX} #rstats #DataScience", "✍️ \"Oh Shit, Git!?!\"\n\n👤 Katie Sylor-Miller @ksylor; ohshitgit @ohshitgit \n\nhttps://t.co/Yu69TdTX9S\n#rstats https://t.co/UCdq47IkJT"]
 }
