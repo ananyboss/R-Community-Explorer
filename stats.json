@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7128,
-      "average_tweets_per_hour": 297,
-      "tweeters_today": 1543,
-      "total_likes_today": 5299
+      "total_tweets_today": 7197,
+      "average_tweets_per_hour": 300,
+      "tweeters_today": 1523,
+      "total_likes_today": 5336
     }
   ],
   "top20_hashtags": [
@@ -14,11 +14,11 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 167
+      "Freq": 168
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 99
+      "Freq": 108
     },
     {
       "Var1": "BigData Analytics DataScience AI",
@@ -26,11 +26,11 @@
     },
     {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 82
+      "Freq": 88
     },
     {
       "Var1": "100DaysOfCode MachineLearning Python programming IoT flutter",
-      "Freq": 76
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -38,51 +38,51 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 73
+      "Freq": 71
+    },
+    {
+      "Var1": "DEVCommunity",
+      "Freq": 68
     },
     {
       "Var1": "Python",
-      "Freq": 67
+      "Freq": 68
     },
     {
       "Var1": "DataScience Books BigData Analytics Robotics IoT IIoT Python RStats JavaScript",
       "Freq": 66
     },
     {
-      "Var1": "DeepLearning",
-      "Freq": 64
-    },
-    {
       "Var1": "RStats",
-      "Freq": 61
+      "Freq": 65
     },
     {
-      "Var1": "DEVCommunity",
-      "Freq": 59
+      "Var1": "DeepLearning",
+      "Freq": 63
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
       "Freq": 58
     },
     {
-      "Var1": "DataScience Books BigData Analytics MachineLearning AI IoT IIoT Python RStats JavaScript",
-      "Freq": 54
-    },
-    {
-      "Var1": "STARTUP BigData Analytics DataScience AI",
+      "Var1": "Python BigData Analytics DataScience AI",
       "Freq": 52
     },
     {
-      "Var1": "Python BigData Analytics DataScience AI",
-      "Freq": 49
+      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
+      "Freq": 51
+    },
+    {
+      "Var1": "DataScience Books BigData Analytics MachineLearning AI IoT IIoT Python RStats JavaScript",
+      "Freq": 50
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 49
+      "Freq": 50
     },
     {
-      "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
-      "Freq": 48
+      "Var1": "custom mug tshirt design fiverr fiverrgigs 100DaysOfCode Machinelearning IoT",
+      "Freq": 47
     },
     {
       "Var1": "Jupyter BigData Analytics DataScience AI MachineLearning IoT IIoT",
@@ -92,71 +92,75 @@
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 372
+      "Freq": 377
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 295
+      "Freq": 297
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 271
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 253
+      "Freq": 263
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 250
+      "Freq": 260
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 257
     },
     {
       "Var1": "nlognbot",
-      "Freq": 244
+      "Freq": 251
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 202
+      "Freq": 204
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 194
+      "Freq": 203
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 158
+      "Freq": 164
     },
     {
       "Var1": "hubofml",
-      "Freq": 127
+      "Freq": 129
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 121
+      "Freq": 122
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 120
+      "Freq": 121
     },
     {
       "Var1": "chidambara09",
       "Freq": 102
     },
     {
-      "Var1": "femtech_",
-      "Freq": 91
+      "Var1": "the404code",
+      "Freq": 94
     },
     {
-      "Var1": "the404code",
+      "Var1": "femtech_",
       "Freq": 90
+    },
+    {
+      "Var1": "altf4hashbot",
+      "Freq": 88
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 81
     },
     {
-      "Var1": "altf4hashbot",
-      "Freq": 73
+      "Var1": "_codenewbiebot",
+      "Freq": 72
     },
     {
       "Var1": "DeepSingularity",
@@ -165,12 +169,8 @@
     {
       "Var1": "TheDeveloperBot",
       "Freq": 72
-    },
-    {
-      "Var1": "RaymondWSA460",
-      "Freq": 71
     }
   ],
-  "top10_tweets_like": ["Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "What working with bad code feels like. Sigh.\n\n#100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #DEVCommunity https://t.co/gzU8z4X1WR", "Bookmarking this for the next time I'll need to think about the difference between choosing geom_polygon() and geom_point()\n\n#RStats #RSpatial https://t.co/0JouQrRz06", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "Most oxytocin administration studies are statistically underpowered to reliably detect (or reject) a wide range of effect sizes https://t.co/s2NyzgAPjp\n\nThe final version of my open access paper is now online 🥳\n\n#Rstats code and data ➡️ https://t.co/e61MaFZiKj https://t.co/gB7haNeWqK", "Springer has Released #DataScience #Books for Free. #BigData #Analytics #Robotics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/EQExjPRyYb https://t.co/WSByNF6oGJ", "#30DayMapChallenge: Day 4 (Hexagons): California elevations built with #rayshader and #tidyverse in #rstats (#rspatial) https://t.co/y9yZDTcGmj", "📚🧹 \"6 Feature engineering with recipes | Tidy Modeling with R\"\n\n👤 Julia Silge @juliasilge; Max Kuhn @topepos \n\nhttps://t.co/TGDADwV614\n#rstats", "If you're bored with iris and mtcars, try {datasearch}, a one function package to find datasets that satisfy given conditions. You can target a package, a list of packages, or all installed packages.\n\nhttps://t.co/tAZnkjl6SH\n#rstats https://t.co/QUtWDHmOSl", "New template for simulating Bayesian sequential RCT operating characteristics esp. the most important one: reliability of evidence at decision point w/unlimited looks.  Includes 2 new #RStats functions: https://t.co/m9dFQLuUV9 #bbrcourse @vandy_biostat @VUDataScience #COVID19"],
-  "top10_tweets_retweet": ["Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "What working with bad code feels like. Sigh.\n\n#100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #DEVCommunity https://t.co/gzU8z4X1WR", "Bookmarking this for the next time I'll need to think about the difference between choosing geom_polygon() and geom_point()\n\n#RStats #RSpatial https://t.co/0JouQrRz06", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "Most oxytocin administration studies are statistically underpowered to reliably detect (or reject) a wide range of effect sizes https://t.co/s2NyzgAPjp\n\nThe final version of my open access paper is now online 🥳\n\n#Rstats code and data ➡️ https://t.co/e61MaFZiKj https://t.co/gB7haNeWqK", "Springer has Released #DataScience #Books for Free. #BigData #Analytics #Robotics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/EQExjPRyYb https://t.co/WSByNF6oGJ", "#30DayMapChallenge: Day 4 (Hexagons): California elevations built with #rayshader and #tidyverse in #rstats (#rspatial) https://t.co/y9yZDTcGmj", "📚🧹 \"6 Feature engineering with recipes | Tidy Modeling with R\"\n\n👤 Julia Silge @juliasilge; Max Kuhn @topepos \n\nhttps://t.co/TGDADwV614\n#rstats", "If you're bored with iris and mtcars, try {datasearch}, a one function package to find datasets that satisfy given conditions. You can target a package, a list of packages, or all installed packages.\n\nhttps://t.co/tAZnkjl6SH\n#rstats https://t.co/QUtWDHmOSl", "New template for simulating Bayesian sequential RCT operating characteristics esp. the most important one: reliability of evidence at decision point w/unlimited looks.  Includes 2 new #RStats functions: https://t.co/m9dFQLuUV9 #bbrcourse @vandy_biostat @VUDataScience #COVID19"]
+  "top10_tweets_like": ["Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "What working with bad code feels like. Sigh.\n\n#100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #DEVCommunity https://t.co/gzU8z4X1WR", "Bookmarking this for the next time I'll need to think about the difference between choosing geom_polygon() and geom_point()\n\n#RStats #RSpatial https://t.co/0JouQrRz06", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "Most oxytocin administration studies are statistically underpowered to reliably detect (or reject) a wide range of effect sizes https://t.co/s2NyzgAPjp\n\nThe final version of my open access paper is now online 🥳\n\n#Rstats code and data ➡️ https://t.co/e61MaFZiKj https://t.co/gB7haNeWqK", "Springer has Released #DataScience #Books for Free. #BigData #Analytics #Robotics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/EQExjPRyYb https://t.co/WSByNF6oGJ", "#30DayMapChallenge: Day 4 (Hexagons): California elevations built with #rayshader and #tidyverse in #rstats (#rspatial) https://t.co/y9yZDTcGmj", "If you're bored with iris and mtcars, try {datasearch}, a one function package to find datasets that satisfy given conditions. You can target a package, a list of packages, or all installed packages.\n\nhttps://t.co/tAZnkjl6SH\n#rstats https://t.co/QUtWDHmOSl", "📚🧹 \"6 Feature engineering with recipes | Tidy Modeling with R\"\n\n👤 Julia Silge @juliasilge; Max Kuhn @topepos \n\nhttps://t.co/TGDADwV614\n#rstats", "New template for simulating Bayesian sequential RCT operating characteristics esp. the most important one: reliability of evidence at decision point w/unlimited looks.  Includes 2 new #RStats functions: https://t.co/m9dFQLuUV9 #bbrcourse @vandy_biostat @VUDataScience #COVID19"],
+  "top10_tweets_retweet": ["Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "What working with bad code feels like. Sigh.\n\n#100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #DEVCommunity https://t.co/gzU8z4X1WR", "Bookmarking this for the next time I'll need to think about the difference between choosing geom_polygon() and geom_point()\n\n#RStats #RSpatial https://t.co/0JouQrRz06", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "Most oxytocin administration studies are statistically underpowered to reliably detect (or reject) a wide range of effect sizes https://t.co/s2NyzgAPjp\n\nThe final version of my open access paper is now online 🥳\n\n#Rstats code and data ➡️ https://t.co/e61MaFZiKj https://t.co/gB7haNeWqK", "Springer has Released #DataScience #Books for Free. #BigData #Analytics #Robotics #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/EQExjPRyYb https://t.co/WSByNF6oGJ", "#30DayMapChallenge: Day 4 (Hexagons): California elevations built with #rayshader and #tidyverse in #rstats (#rspatial) https://t.co/y9yZDTcGmj", "If you're bored with iris and mtcars, try {datasearch}, a one function package to find datasets that satisfy given conditions. You can target a package, a list of packages, or all installed packages.\n\nhttps://t.co/tAZnkjl6SH\n#rstats https://t.co/QUtWDHmOSl", "📚🧹 \"6 Feature engineering with recipes | Tidy Modeling with R\"\n\n👤 Julia Silge @juliasilge; Max Kuhn @topepos \n\nhttps://t.co/TGDADwV614\n#rstats", "New template for simulating Bayesian sequential RCT operating characteristics esp. the most important one: reliability of evidence at decision point w/unlimited looks.  Includes 2 new #RStats functions: https://t.co/m9dFQLuUV9 #bbrcourse @vandy_biostat @VUDataScience #COVID19"]
 }
