@@ -1,32 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7476,
-      "average_tweets_per_hour": 312,
-      "tweeters_today": 1668,
-      "total_likes_today": 7582
+      "total_tweets_today": 7466,
+      "average_tweets_per_hour": 311,
+      "tweeters_today": 1648,
+      "total_likes_today": 7481
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 156
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 132
+      "Freq": 154
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 129
+      "Freq": 130
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 127
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 95
-    },
-    {
-      "Var1": "DEVCommunity",
-      "Freq": 95
+      "Freq": 99
     },
     {
       "Var1": "DataScience Books BigData Analytics MachineLearning AI IoT IIoT Python RStats JavaScript",
@@ -45,28 +41,32 @@
       "Freq": 79
     },
     {
+      "Var1": "DeepLearning",
+      "Freq": 74
+    },
+    {
+      "Var1": "DEVCommunity",
+      "Freq": 73
+    },
+    {
       "Var1": "Analytics AI Rstats Reactjs IoT IIoT",
       "Freq": 66
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 60
     },
     {
       "Var1": "Pandas BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 60
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Var1": "Rstats",
       "Freq": 57
-    },
-    {
-      "Var1": "DeepLearning",
-      "Freq": 56
     },
     {
       "Var1": "Analytics AI Rstats Reactjs IoT IIoT DataScience MachineLearning",
       "Freq": 55
-    },
-    {
-      "Var1": "Rstats",
-      "Freq": 54
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode",
@@ -78,53 +78,53 @@
     },
     {
       "Var1": "DataScience Books BigData Analytics Robotics IoT IIoT Python RStats JavaScript",
-      "Freq": 49
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 49
+      "Freq": 52
     },
     {
       "Var1": "100DaysOfCode MachineLearning Python programming IoT flutter",
-      "Freq": 48
+      "Freq": 50
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 46
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 380
+      "Freq": 371
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 284
+      "Freq": 287
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 275
+      "Freq": 265
     },
     {
       "Var1": "nlognbot",
-      "Freq": 269
+      "Freq": 263
     },
     {
       "Var1": "xaelbot",
-      "Freq": 252
+      "Freq": 249
     },
     {
       "Var1": "TheSecretJunio1",
       "Freq": 240
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 207
+      "Var1": "friday_Js_bot",
+      "Freq": 215
     },
     {
-      "Var1": "friday_Js_bot",
-      "Freq": 200
+      "Var1": "CodeGnuts",
+      "Freq": 206
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 168
+      "Freq": 167
     },
     {
       "Var1": "datasciencebot_",
@@ -132,11 +132,11 @@
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 141
+      "Freq": 140
     },
     {
       "Var1": "hubofml",
-      "Freq": 130
+      "Freq": 132
     },
     {
       "Var1": "altf4hashbot",
@@ -147,8 +147,12 @@
       "Freq": 94
     },
     {
+      "Var1": "TheDeveloperBot",
+      "Freq": 90
+    },
+    {
       "Var1": "femtech_",
-      "Freq": 93
+      "Freq": 87
     },
     {
       "Var1": "the404code",
@@ -156,21 +160,17 @@
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 85
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 82
-    },
-    {
-      "Var1": "TheCuriousLuke",
-      "Freq": 81
+      "Freq": 84
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 77
+      "Freq": 78
+    },
+    {
+      "Var1": "TheCuriousLuke",
+      "Freq": 78
     }
   ],
-  "top10_tweets_like": ["dbplyr 2.0.0 out now! Includes support for new dplyr 1.0.0 features, a bunch of SQL translation improvements, and an improved extension mechanism — https://t.co/RdczDWzLPa #rstats https://t.co/GOjnB89U4i", "I think we could all use some good news today. \n\nDid you know that @rstudio just got rainbow parentheses?\n\nhttps://t.co/EEuiNIBiq2 \n\n#rstats", "do { \n  Refresh \n  Read_Twitter\n  Refresh\n  Doomscroll\n  Refresh\n  Check_Facebook\n  Refresh\n}\nwhile (count &lt;270)\n#Rstats", "{dbplyr} 2.0.0 is available now!\n{dbplyr} is the database backend for {dplyr}. It allows you to use remote database tables as if they are in-memory data frames by automatically converting {dplyr} code into SQL.\nLearn about the improvements at #tidyverse blog.\n#RStats #DataScience https://t.co/5IMoibvay9 https://t.co/5ZZ0R8im4P", "Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "JOB: I'm hiring a data scientist to work on COVID-19 response at @EcoHealthNYC. This is high-impact work, building models and pipelines in #rstats to support policy advisory. Apply soon! Posting will be open 2 wks, we are looking to fill the position ASAP. https://t.co/DKE5ypVIZD", "Instructions on how to make a plot for this week's #TidyTuesday \n\ncode: https://t.co/0x1fVB3Ytg\n\n#RStats #silly #dataviz https://t.co/eNTGLzG8Hp", "Free Springer 65 #DataScience #Books. #BigData #Analytics #MachineLearning #AI #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ow5ktneAyc https://t.co/DGJ9Jmxl1P", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "30 Examples to Master #Pandas. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/huHCG7exzD https://t.co/C2XpKT4y2H"],
-  "top10_tweets_retweet": ["dbplyr 2.0.0 out now! Includes support for new dplyr 1.0.0 features, a bunch of SQL translation improvements, and an improved extension mechanism — https://t.co/RdczDWzLPa #rstats https://t.co/GOjnB89U4i", "I think we could all use some good news today. \n\nDid you know that @rstudio just got rainbow parentheses?\n\nhttps://t.co/EEuiNIBiq2 \n\n#rstats", "do { \n  Refresh \n  Read_Twitter\n  Refresh\n  Doomscroll\n  Refresh\n  Check_Facebook\n  Refresh\n}\nwhile (count &lt;270)\n#Rstats", "{dbplyr} 2.0.0 is available now!\n{dbplyr} is the database backend for {dplyr}. It allows you to use remote database tables as if they are in-memory data frames by automatically converting {dplyr} code into SQL.\nLearn about the improvements at #tidyverse blog.\n#RStats #DataScience https://t.co/5IMoibvay9 https://t.co/5ZZ0R8im4P", "Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "JOB: I'm hiring a data scientist to work on COVID-19 response at @EcoHealthNYC. This is high-impact work, building models and pipelines in #rstats to support policy advisory. Apply soon! Posting will be open 2 wks, we are looking to fill the position ASAP. https://t.co/DKE5ypVIZD", "Instructions on how to make a plot for this week's #TidyTuesday \n\ncode: https://t.co/0x1fVB3Ytg\n\n#RStats #silly #dataviz https://t.co/eNTGLzG8Hp", "Free Springer 65 #DataScience #Books. #BigData #Analytics #MachineLearning #AI #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ow5ktneAyc https://t.co/DGJ9Jmxl1P", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "30 Examples to Master #Pandas. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/huHCG7exzD https://t.co/C2XpKT4y2H"]
+  "top10_tweets_like": ["dbplyr 2.0.0 out now! Includes support for new dplyr 1.0.0 features, a bunch of SQL translation improvements, and an improved extension mechanism — https://t.co/RdczDWzLPa #rstats https://t.co/GOjnB89U4i", "I think we could all use some good news today. \n\nDid you know that @rstudio just got rainbow parentheses?\n\nhttps://t.co/EEuiNIBiq2 \n\n#rstats", "do { \n  Refresh \n  Read_Twitter\n  Refresh\n  Doomscroll\n  Refresh\n  Check_Facebook\n  Refresh\n}\nwhile (count &lt;270)\n#Rstats", "{dbplyr} 2.0.0 is available now!\n{dbplyr} is the database backend for {dplyr}. It allows you to use remote database tables as if they are in-memory data frames by automatically converting {dplyr} code into SQL.\nLearn about the improvements at #tidyverse blog.\n#RStats #DataScience https://t.co/5IMoibvay9 https://t.co/5ZZ0R8im4P", "Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "JOB: I'm hiring a data scientist to work on COVID-19 response at @EcoHealthNYC. This is high-impact work, building models and pipelines in #rstats to support policy advisory. Apply soon! Posting will be open 2 wks, we are looking to fill the position ASAP. https://t.co/DKE5ypVIZD", "Free Springer 65 #DataScience #Books. #BigData #Analytics #MachineLearning #AI #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ow5ktneAyc https://t.co/DGJ9Jmxl1P", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "30 Examples to Master #Pandas. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/huHCG7exzD https://t.co/C2XpKT4y2H", "What working with bad code feels like. Sigh.\n\n#100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #DEVCommunity https://t.co/gzU8z4X1WR"],
+  "top10_tweets_retweet": ["dbplyr 2.0.0 out now! Includes support for new dplyr 1.0.0 features, a bunch of SQL translation improvements, and an improved extension mechanism — https://t.co/RdczDWzLPa #rstats https://t.co/GOjnB89U4i", "I think we could all use some good news today. \n\nDid you know that @rstudio just got rainbow parentheses?\n\nhttps://t.co/EEuiNIBiq2 \n\n#rstats", "do { \n  Refresh \n  Read_Twitter\n  Refresh\n  Doomscroll\n  Refresh\n  Check_Facebook\n  Refresh\n}\nwhile (count &lt;270)\n#Rstats", "{dbplyr} 2.0.0 is available now!\n{dbplyr} is the database backend for {dplyr}. It allows you to use remote database tables as if they are in-memory data frames by automatically converting {dplyr} code into SQL.\nLearn about the improvements at #tidyverse blog.\n#RStats #DataScience https://t.co/5IMoibvay9 https://t.co/5ZZ0R8im4P", "Want something to distract you from &lt;everything going on&gt;? Learn how to use #rstats to generate synthetic data to uncover causal effects with DAGs, RCTs, diff-in-diff, regression discontinuity (sharp and fuzzy!), and instrumental variables https://t.co/al3wEtV5op https://t.co/AeZBix6VhA", "JOB: I'm hiring a data scientist to work on COVID-19 response at @EcoHealthNYC. This is high-impact work, building models and pipelines in #rstats to support policy advisory. Apply soon! Posting will be open 2 wks, we are looking to fill the position ASAP. https://t.co/DKE5ypVIZD", "Free Springer 65 #DataScience #Books. #BigData #Analytics #MachineLearning #AI #IoT #IIoT #Python #RStats #JavaScript #TensorFlow #Java #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/Ow5ktneAyc https://t.co/DGJ9Jmxl1P", "Polls can be wrong for lots of reasons: a biased sample, improper weighting or just plain sample variance.\n\nThe most common reason, tho, is that the universe hates you and wants you to be as miserable as possible before your inevitable death. #datascience #rstats #pydata", "30 Examples to Master #Pandas. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/huHCG7exzD https://t.co/C2XpKT4y2H", "What working with bad code feels like. Sigh.\n\n#100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience #DEVCommunity https://t.co/gzU8z4X1WR"]
 }
