@@ -1,35 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 2351,
-      "average_tweets_per_hour": 98,
-      "tweeters_today": 709,
-      "total_likes_today": 875
+      "total_tweets_today": 2007,
+      "average_tweets_per_hour": 84,
+      "tweeters_today": 669,
+      "total_likes_today": 836
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 69
+      "Freq": 65
     },
     {
-      "Var1": "Python 100DaysOfCode",
-      "Freq": 36
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 39
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 35
+      "Freq": 38
     },
     {
-      "Var1": "DataScientist ArtificialIntelligence selfdrivingcars cybersecurity Linux DataAnalytics",
-      "Freq": 28
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 32
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 31
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 31
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 27
+      "Freq": 28
     },
     {
-      "Var1": "DeepLearning Python MachineLearning 100DaysOfCode",
+      "Var1": "DeepLearning keras Analytics",
       "Freq": 27
     },
     {
@@ -37,140 +45,132 @@
       "Freq": 26
     },
     {
-      "Var1": "DeepLearning keras Analytics",
-      "Freq": 25
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 24
-    },
-    {
       "Var1": "MachineLearning DataScience Python AI",
       "Freq": 24
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 23
-    },
-    {
-      "Var1": "MachineLearning Python BigData Analytics DataScience AI IoT IIoT RStats",
-      "Freq": 23
-    },
-    {
-      "Var1": "Rstats",
-      "Freq": 23
-    },
-    {
-      "Var1": "30DayMapChallenge",
-      "Freq": 21
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 21
-    },
-    {
-      "Var1": "RStats",
-      "Freq": 21
     },
     {
       "Var1": "DEVCommunity Machinelearning",
       "Freq": 20
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Var1": "30DayMapChallenge",
+      "Freq": 19
+    },
+    {
+      "Var1": "Rstats",
       "Freq": 18
     },
     {
-      "Var1": "Lady CMAAwards COVID19",
-      "Freq": 18
+      "Var1": "AR Analytics AugmentedReality AR MR VR XR UX AI Rstats",
+      "Freq": 16
     },
     {
-      "Var1": "Python 100DaysOfCode datascience algorithm ml",
-      "Freq": 18
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT",
+      "Freq": 16
+    },
+    {
+      "Var1": "Python",
+      "Freq": 16
+    },
+    {
+      "Var1": "DeepLearning",
+      "Freq": 15
+    },
+    {
+      "Var1": "Analytics AR VR UX AI Rstats Reactjs IoT",
+      "Freq": 14
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
+      "Freq": 14
+    },
+    {
+      "Var1": "STARTUP BigData Analytics DataScience AI",
+      "Freq": 14
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 160
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 99
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 89
+      "Freq": 143
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 89
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 82
-    },
-    {
-      "Var1": "javascriptubot",
-      "Freq": 80
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 65
-    },
-    {
-      "Var1": "IoTinternet",
-      "Freq": 65
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 64
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 57
+      "Freq": 79
     },
     {
       "Var1": "_100DaysOfCode_",
-      "Freq": 54
+      "Freq": 70
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 70
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 67
+    },
+    {
+      "Var1": "CodeGnuts",
+      "Freq": 63
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 60
+    },
+    {
+      "Var1": "javascriptubot",
+      "Freq": 60
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 57
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 44
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 36
     },
     {
-      "Var1": "chidambara09",
-      "Freq": 33
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 33
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 32
-    },
-    {
       "Var1": "SoumyaB88015783",
       "Freq": 30
     },
     {
-      "Var1": "rstats4ds",
+      "Var1": "hubofml",
+      "Freq": 28
+    },
+    {
+      "Var1": "datasciencebot_",
+      "Freq": 27
+    },
+    {
+      "Var1": "IoTinternet",
       "Freq": 26
     },
     {
-      "Var1": "altf4hashbot",
-      "Freq": 24
+      "Var1": "femtech_",
+      "Freq": 25
     },
     {
-      "Var1": "hubofml",
-      "Freq": 24
+      "Var1": "rstats4ds",
+      "Freq": 23
+    },
+    {
+      "Var1": "altf4hashbot",
+      "Freq": 22
+    },
+    {
+      "Var1": "fluttbot",
+      "Freq": 21
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 24
+      "Freq": 18
     }
   ],
-  "top10_tweets_like": ["Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "My Rmarkdown book collection is finally complete 📚 💕\n\n#rstats https://t.co/nDUnJDUT4m", "✍️🌊 \"Calculating the distance to the sea in R | Dominic Royé\"\n\n👤 Dominic Royé @dr_xeo \n\nhttps://t.co/E22vJyuOYc\n#rstats https://t.co/7fnCn9Q1mr", "My maps bring attention to suicide rates among European women (left) and men (right). Grim picture for the men. The EU-28 average suicide rate in 2016 was \n\n🤦14.8 male deaths/100k men\n🙍‍♀️4.2 female deaths/100k women\n\n#suicide #mentalhealth #dataviz #datascience #rstats #maps https://t.co/JF78KaFVPs", "Changes incoming for {emphatic} - a pkg for highlighting data.frame output in the console.\n\nCurrently figuring out how to add a simple legend when using scales to colour elements.\n\n(see bottom of output)\n\n#RStats https://t.co/OKRNykcqCH", "I've got 99 problems and all of those problems use different time zones and formats #RStats https://t.co/QNWvw9c8BU", "Come see our latest #shiny apps made with @AFD_France ! #rstats https://t.co/Zjpeg4B74T", "Data Science and Machine Learning Project/Deployment Mastery \n\nhttps://t.co/1RzrvblDQj\n\n#DeepLearning #keras #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon", "Etebase - An open source and end-to-end encrypted Firebase alternative.\n\nhttps://t.co/TjqiscHpEJ\nhttps://t.co/nfp1qXF8aI\n\n#DEVCommunity #100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/fTN6MG8UJr", "Bringing newspapers to life with #AR ▶️\nvia @nathangitter \n#Analytics #AugmentedReality #AR #MR #VR #XR #UX #AI\n#Rstats #Reactjs #IoT #IIoT #DataScience #Bigdata #Coding #DEVCommunity #flutter #Linux #Serverless #Smarthome #futureofwork #100DaysOfCode \n\nhttps://t.co/FdI9MFqHbT"],
-  "top10_tweets_retweet": ["Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "My Rmarkdown book collection is finally complete 📚 💕\n\n#rstats https://t.co/nDUnJDUT4m", "✍️🌊 \"Calculating the distance to the sea in R | Dominic Royé\"\n\n👤 Dominic Royé @dr_xeo \n\nhttps://t.co/E22vJyuOYc\n#rstats https://t.co/7fnCn9Q1mr", "My maps bring attention to suicide rates among European women (left) and men (right). Grim picture for the men. The EU-28 average suicide rate in 2016 was \n\n🤦14.8 male deaths/100k men\n🙍‍♀️4.2 female deaths/100k women\n\n#suicide #mentalhealth #dataviz #datascience #rstats #maps https://t.co/JF78KaFVPs", "Changes incoming for {emphatic} - a pkg for highlighting data.frame output in the console.\n\nCurrently figuring out how to add a simple legend when using scales to colour elements.\n\n(see bottom of output)\n\n#RStats https://t.co/OKRNykcqCH", "I've got 99 problems and all of those problems use different time zones and formats #RStats https://t.co/QNWvw9c8BU", "Come see our latest #shiny apps made with @AFD_France ! #rstats https://t.co/Zjpeg4B74T", "Data Science and Machine Learning Project/Deployment Mastery \n\nhttps://t.co/1RzrvblDQj\n\n#DeepLearning #keras #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon", "Etebase - An open source and end-to-end encrypted Firebase alternative.\n\nhttps://t.co/TjqiscHpEJ\nhttps://t.co/nfp1qXF8aI\n\n#DEVCommunity #100DaysOfCode #MachineLearning #Python #programming #IoT #flutter #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/fTN6MG8UJr", "Bringing newspapers to life with #AR ▶️\nvia @nathangitter \n#Analytics #AugmentedReality #AR #MR #VR #XR #UX #AI\n#Rstats #Reactjs #IoT #IIoT #DataScience #Bigdata #Coding #DEVCommunity #flutter #Linux #Serverless #Smarthome #futureofwork #100DaysOfCode \n\nhttps://t.co/FdI9MFqHbT"]
+  "top10_tweets_like": ["Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "I've got 99 problems and all of those problems use different time zones and formats #RStats https://t.co/QNWvw9c8BU", "My Rmarkdown book collection is finally complete 📚 💕\n\n#rstats https://t.co/nDUnJDUT4m", "Hey #Rstats folks! I am thinking about having a weekly R workshop soon targeted at early users (grad students) live on YouTube/Zoom and then saving the videos. \n\nWhat are some \"messy\" datasets that you have used? I want something open, but not polished to be as real as possible", "Come see our latest #shiny apps made with @AFD_France ! #rstats https://t.co/Zjpeg4B74T", "My country 🇮🇱 was the first in the world to institute a 2nd coronavirus lockdown.\n\n  ...the results...\n\n#rstats #python #datascience #itrtg #Lockdown2 #openscience #COVID19 #Israel #ישראל https://t.co/IA3taZ2e1Z", "Data Science and Machine Learning Project/Deployment Mastery \n\nhttps://t.co/1RzrvblDQj\n\n#DeepLearning #keras #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon", "I just used R and I didn't have to google even once. I still feel like a beginner after 4 years, but it's important to realize that you can never learn an entire language. Success does not care how long it takes, only that you complete your project. #DataScience #Rstats", "✍️✨ \"Shiny - Using Action Buttons | five patterns to use with Shiny’s action buttons and action links.\"\n\n👤 RStudio @rstudio \n\nhttps://t.co/CRrawwtWMo\n#rstats", "#numyardupdate 🔔: If you have a widescreen monitor, this new Rstudio 1.4 feature may be relevant to your interests. \n\nhttps://t.co/7SdgrtngK7\n\n #rstats #datascience #MachineLearning https://t.co/uTBzJWjEKY"],
+  "top10_tweets_retweet": ["Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "I've got 99 problems and all of those problems use different time zones and formats #RStats https://t.co/QNWvw9c8BU", "My Rmarkdown book collection is finally complete 📚 💕\n\n#rstats https://t.co/nDUnJDUT4m", "Hey #Rstats folks! I am thinking about having a weekly R workshop soon targeted at early users (grad students) live on YouTube/Zoom and then saving the videos. \n\nWhat are some \"messy\" datasets that you have used? I want something open, but not polished to be as real as possible", "Come see our latest #shiny apps made with @AFD_France ! #rstats https://t.co/Zjpeg4B74T", "My country 🇮🇱 was the first in the world to institute a 2nd coronavirus lockdown.\n\n  ...the results...\n\n#rstats #python #datascience #itrtg #Lockdown2 #openscience #COVID19 #Israel #ישראל https://t.co/IA3taZ2e1Z", "Data Science and Machine Learning Project/Deployment Mastery \n\nhttps://t.co/1RzrvblDQj\n\n#DeepLearning #keras #Analytics #DataScience #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon", "I just used R and I didn't have to google even once. I still feel like a beginner after 4 years, but it's important to realize that you can never learn an entire language. Success does not care how long it takes, only that you complete your project. #DataScience #Rstats", "✍️✨ \"Shiny - Using Action Buttons | five patterns to use with Shiny’s action buttons and action links.\"\n\n👤 RStudio @rstudio \n\nhttps://t.co/CRrawwtWMo\n#rstats", "#numyardupdate 🔔: If you have a widescreen monitor, this new Rstudio 1.4 feature may be relevant to your interests. \n\nhttps://t.co/7SdgrtngK7\n\n #rstats #datascience #MachineLearning https://t.co/uTBzJWjEKY"]
 }
