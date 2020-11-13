@@ -1,75 +1,79 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7561,
-      "average_tweets_per_hour": 315,
-      "tweeters_today": 1989,
-      "total_likes_today": 4279
+      "total_tweets_today": 7205,
+      "average_tweets_per_hour": 300,
+      "tweeters_today": 1875,
+      "total_likes_today": 4131
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 225
+      "Freq": 207
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 156
-    },
-    {
-      "Var1": "Python",
-      "Freq": 126
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 120
+      "Freq": 152
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 104
+      "Freq": 123
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 87
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 121
+    },
+    {
+      "Var1": "Python",
+      "Freq": 119
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 91
     },
     {
       "Var1": "RStats",
-      "Freq": 75
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
-      "Freq": 73
+      "Freq": 74
     },
     {
       "Var1": "Python 100DaysOfCode MachineLearning 100DaysOfMLCode AI IoT Flutter javascript womenwhocode RStats Serverless",
       "Freq": 73
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 71
-    },
-    {
-      "Var1": "Python 100DaysOfCode",
-      "Freq": 64
+      "Var1": "rstats DataScience",
+      "Freq": 72
     },
     {
       "Var1": "Rstats",
-      "Freq": 64
+      "Freq": 62
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 56
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 54
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT PyTorch Python RStats",
+      "Freq": 54
+    },
+    {
       "Var1": "RStudio readxl rstats",
       "Freq": 51
+    },
+    {
+      "Var1": "rstats datascience",
+      "Freq": 50
     },
     {
       "Var1": "DeepLearning",
       "Freq": 49
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow",
       "Freq": 47
     },
     {
@@ -77,100 +81,96 @@
       "Freq": 47
     },
     {
-      "Var1": "Programming BigData Analytics DataScience IoT IIoT PyTorch Python",
-      "Freq": 42
+      "Var1": "Python 100DaysOfCode",
+      "Freq": 46
     },
     {
-      "Var1": "rstats datascience",
+      "Var1": "DeepLearning Analytics",
       "Freq": 42
-    },
-    {
-      "Var1": "MachineLearning DataScience Python AI",
-      "Freq": 41
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 537
+      "Freq": 499
     },
     {
       "Var1": "_100DaysOfCode_",
-      "Freq": 262
+      "Freq": 264
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 247
+      "Freq": 236
     },
     {
       "Var1": "nlognbot",
-      "Freq": 239
+      "Freq": 231
     },
     {
       "Var1": "xaelbot",
-      "Freq": 239
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 234
+      "Freq": 225
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 221
+      "Freq": 218
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 207
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 205
+      "Freq": 200
     },
     {
       "Var1": "javascriptubot",
-      "Freq": 176
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 159
+      "Freq": 173
     },
     {
       "Var1": "trendsinAI",
-      "Freq": 151
+      "Freq": 152
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 149
     },
     {
       "Var1": "hubofml",
-      "Freq": 113
-    },
-    {
-      "Var1": "tidyversetweets",
-      "Freq": 103
+      "Freq": 110
     },
     {
       "Var1": "datasciencebot_",
       "Freq": 102
     },
     {
+      "Var1": "tidyversetweets",
+      "Freq": 95
+    },
+    {
       "Var1": "altf4hashbot",
-      "Freq": 92
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 91
-    },
-    {
-      "Var1": "rstats4ds",
-      "Freq": 90
+      "Freq": 89
     },
     {
       "Var1": "the404code",
       "Freq": 88
     },
     {
+      "Var1": "rstats4ds",
+      "Freq": 86
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 85
+    },
+    {
       "Var1": "ARenzoCaceresR",
-      "Freq": 72
+      "Freq": 73
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 72
+      "Freq": 73
     }
   ],
-  "top10_tweets_like": ["MacOS #rstats users: the base-R installer and several important R packages still don't work properly on MacOS Big Sur (to be released this week). Don't update just yet... https://t.co/Os8UcvcdgB", "Really enjoyed giving my presentation on Marvelous RMarkdown for the #NHSRconf2020 w/ #RStats !\n\nSlides: https://t.co/AYSprYoK9d\nCompanion Blogpost: https://t.co/a6DbT0AA6c\nRMarkdown Cookbook: https://t.co/Ce43CUlPBg", "New blog post!🚀\n\nSome tips and tricks for using #rstats to generate PDF reports from data. In this example, automatically compiling student feedback from Google Forms output.\n\nhttps://t.co/KLxdJgfDV9", "the year is 2020 and i am still getting got by #rstats rounding 0.5 down on even numbers 😩\n\nround(c(1.5, 2.5))\n#&gt; [1] 2 2", "Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "Probably most public health institutes use #rstats and very likely many of them use Microsoft Word for their daily COVID-19 situation reports. These organisations could readily benefit from the {officer} 📦 by @DavidGohel to automate parts of the reporting work. 👇 #epitwitter", "My country 🇮🇱 was the first in the world to institute a 2nd coronavirus lockdown.\n\n  ...the results...\n\n#rstats #python #datascience #itrtg #Lockdown2 #openscience #COVID19 #Israel #ישראל https://t.co/IA3taZ2e1Z", "Hey #Rstats folks! I am thinking about having a weekly R workshop soon targeted at early users (grad students) live on YouTube/Zoom and then saving the videos. \n\nWhat are some \"messy\" datasets that you have used? I want something open, but not polished to be as real as possible", "Best IoT Development Books of All Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DRj52GJBII https://t.co/oDPypI7BSb", "#TidyTuesday Week 2020/46 📱 Mobile Phone Subscriptions\n\nAn area chart showing mobile subscriptions per 100 people by continent and region over time. Data by @OurWorldInData.\n \n#rstats #ggplot2 #tidyverse #r4ds #dataviz #daatviz https://t.co/GRgOrwiZHK"],
-  "top10_tweets_retweet": ["MacOS #rstats users: the base-R installer and several important R packages still don't work properly on MacOS Big Sur (to be released this week). Don't update just yet... https://t.co/Os8UcvcdgB", "Really enjoyed giving my presentation on Marvelous RMarkdown for the #NHSRconf2020 w/ #RStats !\n\nSlides: https://t.co/AYSprYoK9d\nCompanion Blogpost: https://t.co/a6DbT0AA6c\nRMarkdown Cookbook: https://t.co/Ce43CUlPBg", "New blog post!🚀\n\nSome tips and tricks for using #rstats to generate PDF reports from data. In this example, automatically compiling student feedback from Google Forms output.\n\nhttps://t.co/KLxdJgfDV9", "the year is 2020 and i am still getting got by #rstats rounding 0.5 down on even numbers 😩\n\nround(c(1.5, 2.5))\n#&gt; [1] 2 2", "Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "Probably most public health institutes use #rstats and very likely many of them use Microsoft Word for their daily COVID-19 situation reports. These organisations could readily benefit from the {officer} 📦 by @DavidGohel to automate parts of the reporting work. 👇 #epitwitter", "My country 🇮🇱 was the first in the world to institute a 2nd coronavirus lockdown.\n\n  ...the results...\n\n#rstats #python #datascience #itrtg #Lockdown2 #openscience #COVID19 #Israel #ישראל https://t.co/IA3taZ2e1Z", "Hey #Rstats folks! I am thinking about having a weekly R workshop soon targeted at early users (grad students) live on YouTube/Zoom and then saving the videos. \n\nWhat are some \"messy\" datasets that you have used? I want something open, but not polished to be as real as possible", "Best IoT Development Books of All Time. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/DRj52GJBII https://t.co/oDPypI7BSb", "#TidyTuesday Week 2020/46 📱 Mobile Phone Subscriptions\n\nAn area chart showing mobile subscriptions per 100 people by continent and region over time. Data by @OurWorldInData.\n \n#rstats #ggplot2 #tidyverse #r4ds #dataviz #daatviz https://t.co/GRgOrwiZHK"]
+  "top10_tweets_like": ["MacOS #rstats users: the base-R installer and several important R packages still don't work properly on MacOS Big Sur (to be released this week). Don't update just yet... https://t.co/Os8UcvcdgB", "Really enjoyed giving my presentation on Marvelous RMarkdown for the #NHSRconf2020 w/ #RStats !\n\nSlides: https://t.co/AYSprYoK9d\nCompanion Blogpost: https://t.co/a6DbT0AA6c\nRMarkdown Cookbook: https://t.co/Ce43CUlPBg", "New blog post!🚀\n\nSome tips and tricks for using #rstats to generate PDF reports from data. In this example, automatically compiling student feedback from Google Forms output.\n\nhttps://t.co/KLxdJgfDV9", "the year is 2020 and i am still getting got by #rstats rounding 0.5 down on even numbers 😩\n\nround(c(1.5, 2.5))\n#&gt; [1] 2 2", "Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "Probably most public health institutes use #rstats and very likely many of them use Microsoft Word for their daily COVID-19 situation reports. These organisations could readily benefit from the {officer} 📦 by @DavidGohel to automate parts of the reporting work. 👇 #epitwitter", "My country 🇮🇱 was the first in the world to institute a 2nd coronavirus lockdown.\n\n  ...the results...\n\n#rstats #python #datascience #itrtg #Lockdown2 #openscience #COVID19 #Israel #ישראל https://t.co/IA3taZ2e1Z", "Hey #Rstats folks! I am thinking about having a weekly R workshop soon targeted at early users (grad students) live on YouTube/Zoom and then saving the videos. \n\nWhat are some \"messy\" datasets that you have used? I want something open, but not polished to be as real as possible", "#TidyTuesday Week 2020/46 📱 Mobile Phone Subscriptions\n\nAn area chart showing mobile subscriptions per 100 people by continent and region over time. Data by @OurWorldInData.\n \n#rstats #ggplot2 #tidyverse #r4ds #dataviz #daatviz https://t.co/GRgOrwiZHK", "I've got 99 problems and all of those problems use different time zones and formats #RStats https://t.co/QNWvw9c8BU"],
+  "top10_tweets_retweet": ["MacOS #rstats users: the base-R installer and several important R packages still don't work properly on MacOS Big Sur (to be released this week). Don't update just yet... https://t.co/Os8UcvcdgB", "Really enjoyed giving my presentation on Marvelous RMarkdown for the #NHSRconf2020 w/ #RStats !\n\nSlides: https://t.co/AYSprYoK9d\nCompanion Blogpost: https://t.co/a6DbT0AA6c\nRMarkdown Cookbook: https://t.co/Ce43CUlPBg", "New blog post!🚀\n\nSome tips and tricks for using #rstats to generate PDF reports from data. In this example, automatically compiling student feedback from Google Forms output.\n\nhttps://t.co/KLxdJgfDV9", "the year is 2020 and i am still getting got by #rstats rounding 0.5 down on even numbers 😩\n\nround(c(1.5, 2.5))\n#&gt; [1] 2 2", "Looks like `::` and `:::` are about to get much faster in #rstats.  Thanks @_lionelhenry @LukeTierney4.\n\nhttps://t.co/AGPJUaHRYp", "Probably most public health institutes use #rstats and very likely many of them use Microsoft Word for their daily COVID-19 situation reports. These organisations could readily benefit from the {officer} 📦 by @DavidGohel to automate parts of the reporting work. 👇 #epitwitter", "My country 🇮🇱 was the first in the world to institute a 2nd coronavirus lockdown.\n\n  ...the results...\n\n#rstats #python #datascience #itrtg #Lockdown2 #openscience #COVID19 #Israel #ישראל https://t.co/IA3taZ2e1Z", "Hey #Rstats folks! I am thinking about having a weekly R workshop soon targeted at early users (grad students) live on YouTube/Zoom and then saving the videos. \n\nWhat are some \"messy\" datasets that you have used? I want something open, but not polished to be as real as possible", "#TidyTuesday Week 2020/46 📱 Mobile Phone Subscriptions\n\nAn area chart showing mobile subscriptions per 100 people by continent and region over time. Data by @OurWorldInData.\n \n#rstats #ggplot2 #tidyverse #r4ds #dataviz #daatviz https://t.co/GRgOrwiZHK", "I've got 99 problems and all of those problems use different time zones and formats #RStats https://t.co/QNWvw9c8BU"]
 }
