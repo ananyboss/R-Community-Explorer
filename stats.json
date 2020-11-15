@@ -1,48 +1,32 @@
 {
   "summary": [
     {
-      "total_tweets_today": 3587,
-      "average_tweets_per_hour": 149,
-      "tweeters_today": 616,
-      "total_likes_today": 1094
+      "total_tweets_today": 3232,
+      "average_tweets_per_hour": 135,
+      "tweeters_today": 581,
+      "total_likes_today": 1059
     }
   ],
   "top20_hashtags": [
     {
-      "Var1": "rstats",
-      "Freq": 77
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 70
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 66
-    },
-    {
-      "Var1": "MachineLearning DataScience Python AI",
-      "Freq": 63
-    },
-    {
-      "Var1": "Python DEVCommunity 100DaysOfCode",
-      "Freq": 61
+      "Var1": "Analytics AI Rstats Reactjs MachineLearning BigData DataScience Linux",
+      "Freq": 69
     },
     {
       "Var1": "DeepLearning Analytics",
-      "Freq": 56
+      "Freq": 57
+    },
+    {
+      "Var1": "MachineLearning DataScience Python AI",
+      "Freq": 57
     },
     {
       "Var1": "Python",
-      "Freq": 56
+      "Freq": 51
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 48
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 48
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 46
     },
     {
       "Var1": "DataMining NLP DeepLearning Analytics",
@@ -50,22 +34,38 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 42
+      "Freq": 41
     },
     {
       "Var1": "DeepLearning Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 41
     },
     {
-      "Var1": "RaspberryPi BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 35
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 40
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 35
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 36
     },
     {
       "Var1": "DeepLearning",
+      "Freq": 36
+    },
+    {
+      "Var1": "3D AugmentedReality Analytics AI Rstats Reactjs MachineLearning BigData DataScience",
+      "Freq": 34
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 34
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
+      "Freq": 34
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 34
     },
     {
@@ -73,104 +73,104 @@
       "Freq": 34
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
+      "Var1": "RaspberryPi BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 33
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 32
+      "Freq": 31
     },
     {
-      "Var1": "3D AugmentedReality Analytics AI Rstats Reactjs MachineLearning BigData DataScience",
+      "Var1": "tidyverse rstats",
       "Freq": 31
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
-      "Freq": 30
+      "Freq": 29
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "friday_Js_bot",
-      "Freq": 216
-    },
-    {
-      "Var1": "nlognbot",
-      "Freq": 178
+      "Freq": 215
     },
     {
       "Var1": "javascriptubot",
-      "Freq": 175
+      "Freq": 155
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 149
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 173
+      "Freq": 144
     },
     {
       "Var1": "xaelbot",
-      "Freq": 173
+      "Freq": 143
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 158
+      "Freq": 119
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 126
+      "Freq": 104
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 105
+      "Freq": 104
     },
     {
       "Var1": "hubofml",
-      "Freq": 99
-    },
-    {
-      "Var1": "rstatstweet",
-      "Freq": 90
+      "Freq": 89
     },
     {
       "Var1": "thisisgulshan",
       "Freq": 85
     },
     {
+      "Var1": "rstatstweet",
+      "Freq": 82
+    },
+    {
       "Var1": "chidambara09",
-      "Freq": 77
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 66
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 62
-    },
-    {
-      "Var1": "altf4hashbot",
-      "Freq": 60
-    },
-    {
-      "Var1": "datasciencebot_",
-      "Freq": 59
+      "Freq": 68
     },
     {
       "Var1": "codex_bot",
       "Freq": 58
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 53
+      "Var1": "altf4hashbot",
+      "Freq": 56
     },
     {
-      "Var1": "cybersec_feeds",
+      "Var1": "datasciencebot_",
       "Freq": 51
     },
     {
-      "Var1": "epuujee",
-      "Freq": 44
+      "Var1": "femtech_",
+      "Freq": 51
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 51
+    },
+    {
+      "Var1": "cybersec_feeds",
+      "Freq": 49
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 47
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 39
     }
   ],
-  "top10_tweets_like": ["The Roadmap of Mathematics for Deep Learning.\n\nhttps://t.co/erOSY3MCON\n\n#Python #DEVCommunity #100DaysOfCode #MachineLearning #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/GCdEdr8WyL", "Resources for #Forecasting #PredictiveAnalytics and #PredictiveModeling: https://t.co/GLzZl0iBLQ\n—————\n#BigData #MachineLearning #DataScience #Statistics #AI #IoT #IIoT #IoTPL #TimeSeries #StreamingAnalytics #Python #Rstats #abdsc\n——\n+ Some helpful books: https://t.co/TP0ufaWVCt https://t.co/MOOOXjxJo1", "I'm proud to share with you our interactive map of Yugoslavia, featuring key info from the 1931 census. @alekswritescode &amp; I created this platform for researchers, laypeople &amp; posterity\n\n👉https://t.co/7bXz7vq0eB\n\n#Developer #js #D3js #dataviz #bigdata #datascience #rstats #maps https://t.co/Ot0zptwSDQ", "Data Science:#DataMining &amp; Natural Language Processing in R \n\nhttps://t.co/iXCWSTU0Xc\n\n#NLP #DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon https://t.co/OVJs2fYIQH", "Complete course of Data Science and machine learning with Python \n\n👉https://t.co/MG2zwiMXZo\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/q197dZgp8z", "Is life programmed in a world dominated by #AI #technology?\n\nhttps://t.co/lZbJlhZnla\n\n#aithinking #DataScientist #selfdrivingcars #BigData #Analytics #DataScience #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Coding #100DaysofCode #futureofwork", "Why should you choose Data Science as your career?\n\n#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #javascript #Serverless #womenintech #cybersecurity #RStats #CodeNewbie #jobsearch #WomenWhoCode \n\nhttps://t.co/tL0BjUKv6Z", "Complete course for Data Science and Machine Learning with R \n@udemy \n\n👉https://t.co/Tn2EOujTC5\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/RQnwi0PLq2", "#BigData small memory? Use cloud VM: Walkthrough on connecting your local #VScode to Google Cloud VM ☁️⬇️ https://t.co/N12BW8ODKL #bigDataQueen #AI #100DaysOfCode #DEVCommunity #IoT #Python #womenintech #womeininStem #RStats #CodeNewbie #ML #DataScience #BigData #CloudComputing https://t.co/H0cBaDnSbS", "Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/5GNp3IzacV"],
-  "top10_tweets_retweet": ["The Roadmap of Mathematics for Deep Learning.\n\nhttps://t.co/erOSY3MCON\n\n#Python #DEVCommunity #100DaysOfCode #MachineLearning #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/GCdEdr8WyL", "Resources for #Forecasting #PredictiveAnalytics and #PredictiveModeling: https://t.co/GLzZl0iBLQ\n—————\n#BigData #MachineLearning #DataScience #Statistics #AI #IoT #IIoT #IoTPL #TimeSeries #StreamingAnalytics #Python #Rstats #abdsc\n——\n+ Some helpful books: https://t.co/TP0ufaWVCt https://t.co/MOOOXjxJo1", "I'm proud to share with you our interactive map of Yugoslavia, featuring key info from the 1931 census. @alekswritescode &amp; I created this platform for researchers, laypeople &amp; posterity\n\n👉https://t.co/7bXz7vq0eB\n\n#Developer #js #D3js #dataviz #bigdata #datascience #rstats #maps https://t.co/Ot0zptwSDQ", "Data Science:#DataMining &amp; Natural Language Processing in R \n\nhttps://t.co/iXCWSTU0Xc\n\n#NLP #DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon https://t.co/OVJs2fYIQH", "Complete course of Data Science and machine learning with Python \n\n👉https://t.co/MG2zwiMXZo\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/q197dZgp8z", "Is life programmed in a world dominated by #AI #technology?\n\nhttps://t.co/lZbJlhZnla\n\n#aithinking #DataScientist #selfdrivingcars #BigData #Analytics #DataScience #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Coding #100DaysofCode #futureofwork", "Why should you choose Data Science as your career?\n\n#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #javascript #Serverless #womenintech #cybersecurity #RStats #CodeNewbie #jobsearch #WomenWhoCode \n\nhttps://t.co/tL0BjUKv6Z", "Complete course for Data Science and Machine Learning with R \n@udemy \n\n👉https://t.co/Tn2EOujTC5\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/RQnwi0PLq2", "#BigData small memory? Use cloud VM: Walkthrough on connecting your local #VScode to Google Cloud VM ☁️⬇️ https://t.co/N12BW8ODKL #bigDataQueen #AI #100DaysOfCode #DEVCommunity #IoT #Python #womenintech #womeininStem #RStats #CodeNewbie #ML #DataScience #BigData #CloudComputing https://t.co/H0cBaDnSbS", "Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/5GNp3IzacV"]
+  "top10_tweets_like": ["I'm proud to share with you our interactive map of Yugoslavia, featuring key info from the 1931 census. @alekswritescode &amp; I created this platform for researchers, laypeople &amp; posterity\n\n👉https://t.co/7bXz7vq0eB\n\n#Developer #js #D3js #dataviz #bigdata #datascience #rstats #maps https://t.co/Ot0zptwSDQ", "10 bands of latitude and longitude with equal population \n#dataviz #RStats #maps #gis https://t.co/WbTCDUWNIG", "Resources for #Forecasting #PredictiveAnalytics and #PredictiveModeling: https://t.co/GLzZl0iBLQ\n—————\n#BigData #MachineLearning #DataScience #Statistics #AI #IoT #IIoT #IoTPL #TimeSeries #StreamingAnalytics #Python #Rstats #abdsc\n——\n+ Some helpful books: https://t.co/TP0ufaWVCt https://t.co/MOOOXjxJo1", "Data Science:#DataMining &amp; Natural Language Processing in R \n\nhttps://t.co/iXCWSTU0Xc\n\n#NLP #DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon https://t.co/OVJs2fYIQH", "#Statistics Used in #DataScience.\n\n#DataScientist #ArtificialIntelligence #selfdrivingcars #cybersecurity #Linux #DataAnalytics #MachineLearning #BigData #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #engineering #Programming #Coding #robotics #100DaysofCode https://t.co/lhDAkcSP5T", "Complete course of Data Science and machine learning with Python \n\n👉https://t.co/MG2zwiMXZo\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/q197dZgp8z", "Why should you choose Data Science as your career?\n\n#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #javascript #Serverless #womenintech #cybersecurity #RStats #CodeNewbie #jobsearch #WomenWhoCode \n\nhttps://t.co/tL0BjUKv6Z", "RT @graffito: RT @HarbRimah: 5 Must-Have Data Science Skills That You Should Learn.\n\nhttps://t.co/dcnIqdyimA  \n\n#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #javascript #Serverless #womenintech #cybersecurity #RStats #CodeNewbie", "Easy-to-understand implementations and demos of several interpretable ML models.\n\nhttps://t.co/RgJqHN55iJ\n\n#DEVCommunity #MachineLearning #100DaysOfCode #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/JHjLPqxfu2", "Complete course for Data Science and Machine Learning with R \n@udemy \n\n👉https://t.co/Tn2EOujTC5\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/RQnwi0PLq2"],
+  "top10_tweets_retweet": ["I'm proud to share with you our interactive map of Yugoslavia, featuring key info from the 1931 census. @alekswritescode &amp; I created this platform for researchers, laypeople &amp; posterity\n\n👉https://t.co/7bXz7vq0eB\n\n#Developer #js #D3js #dataviz #bigdata #datascience #rstats #maps https://t.co/Ot0zptwSDQ", "10 bands of latitude and longitude with equal population \n#dataviz #RStats #maps #gis https://t.co/WbTCDUWNIG", "Resources for #Forecasting #PredictiveAnalytics and #PredictiveModeling: https://t.co/GLzZl0iBLQ\n—————\n#BigData #MachineLearning #DataScience #Statistics #AI #IoT #IIoT #IoTPL #TimeSeries #StreamingAnalytics #Python #Rstats #abdsc\n——\n+ Some helpful books: https://t.co/TP0ufaWVCt https://t.co/MOOOXjxJo1", "Data Science:#DataMining &amp; Natural Language Processing in R \n\nhttps://t.co/iXCWSTU0Xc\n\n#NLP #DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemycoupon https://t.co/OVJs2fYIQH", "#Statistics Used in #DataScience.\n\n#DataScientist #ArtificialIntelligence #selfdrivingcars #cybersecurity #Linux #DataAnalytics #MachineLearning #BigData #IoT #IIoT #RStats #JavaScript #ReactJS #CloudComputing #Serverless #engineering #Programming #Coding #robotics #100DaysofCode https://t.co/lhDAkcSP5T", "Complete course of Data Science and machine learning with Python \n\n👉https://t.co/MG2zwiMXZo\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/q197dZgp8z", "Why should you choose Data Science as your career?\n\n#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #javascript #Serverless #womenintech #cybersecurity #RStats #CodeNewbie #jobsearch #WomenWhoCode \n\nhttps://t.co/tL0BjUKv6Z", "RT @graffito: RT @HarbRimah: 5 Must-Have Data Science Skills That You Should Learn.\n\nhttps://t.co/dcnIqdyimA  \n\n#MachineLearning #DataScience #Python #AI #100DaysOfCode #DEVCommunity #IoT #flutter #javascript #Serverless #womenintech #cybersecurity #RStats #CodeNewbie", "Easy-to-understand implementations and demos of several interpretable ML models.\n\nhttps://t.co/RgJqHN55iJ\n\n#DEVCommunity #MachineLearning #100DaysOfCode #Python #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/JHjLPqxfu2", "Complete course for Data Science and Machine Learning with R \n@udemy \n\n👉https://t.co/Tn2EOujTC5\n\n#DeepLearning #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode #100DaysOfMLCode #udemy https://t.co/RQnwi0PLq2"]
 }
