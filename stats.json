@@ -1,44 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 6222,
-      "average_tweets_per_hour": 259,
-      "tweeters_today": 1211,
-      "total_likes_today": 2717
+      "total_tweets_today": 6049,
+      "average_tweets_per_hour": 252,
+      "tweeters_today": 1170,
+      "total_likes_today": 2682
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "rstats",
-      "Freq": 219
+      "Freq": 220
     },
     {
       "Var1": "DeepLearning Analytics",
       "Freq": 132
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 101
-    },
-    {
       "Var1": "BigData Analytics DataScience",
-      "Freq": 99
+      "Freq": 103
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 94
+      "Freq": 98
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 97
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 84
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 78
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI",
-      "Freq": 76
+      "Freq": 86
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
@@ -49,40 +41,48 @@
       "Freq": 72
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 66
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 68
     },
     {
-      "Var1": "BigData Analytics",
-      "Freq": 65
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 67
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI",
+      "Freq": 63
     },
     {
       "Var1": "Guide DataAnalytics Python",
       "Freq": 58
     },
     {
+      "Var1": "Python DEVCommunity 100DaysOfCode",
+      "Freq": 57
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 55
+      "Freq": 56
     },
     {
       "Var1": "udemycoupon MachineLearning",
       "Freq": 55
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 51
-    },
-    {
-      "Var1": "Python DEVCommunity 100DaysOfCode",
-      "Freq": 51
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning NLProc IoT IIoT Python RStats",
-      "Freq": 46
+      "Freq": 54
     },
     {
       "Var1": "Python",
+      "Freq": 47
+    },
+    {
+      "Var1": "CodeNewbies DevOps DataScientist selfdrivingcars BigData Analytics DataScience AI ML IIoT",
       "Freq": 46
+    },
+    {
+      "Var1": "BigData Analytics",
+      "Freq": 45
     },
     {
       "Var1": "satRdayColumbus rstats",
@@ -92,59 +92,59 @@
   "top20_tweeters": [
     {
       "Var1": "Women_who_code",
-      "Freq": 271
+      "Freq": 261
     },
     {
       "Var1": "nlognbot",
-      "Freq": 267
+      "Freq": 256
     },
     {
       "Var1": "xaelbot",
-      "Freq": 264
-    },
-    {
-      "Var1": "CodeFlawCo",
-      "Freq": 244
-    },
-    {
-      "Var1": "rstatstweet",
-      "Freq": 242
+      "Freq": 256
     },
     {
       "Var1": "javascriptubot",
       "Freq": 238
     },
     {
+      "Var1": "rstatstweet",
+      "Freq": 234
+    },
+    {
       "Var1": "CodeGnuts",
-      "Freq": 228
+      "Freq": 233
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 211
+      "Freq": 215
+    },
+    {
+      "Var1": "CodeFlawCo",
+      "Freq": 210
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 143
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 124
+      "Freq": 135
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 122
+      "Freq": 120
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 115
     },
     {
       "Var1": "femtech_",
-      "Freq": 117
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 112
+      "Freq": 114
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 110
+      "Freq": 108
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 107
     },
     {
       "Var1": "TheDeveloperBot",
@@ -152,11 +152,11 @@
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 86
+      "Freq": 83
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 85
+      "Freq": 81
     },
     {
       "Var1": "anglehernandez",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 66
+      "Freq": 67
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 60
+      "Freq": 62
     }
   ],
-  "top10_tweets_like": ["Guess lockdown helped with productivity... presenting an #Rstats package to generate parallax scroll documents! 📄📦Time for a R/Markdown web dev stack? 😛\nhttps://t.co/kJysqTjevX\nGitHub repo: https://t.co/btqPdpk818 https://t.co/Nj7rZr0f8s", "Here's code I use to watch the S&amp;P 500 in real-time. I don't have a real-time data subscription because all my trades have to be pre-cleared and I can't trade frequently anyway.\n\nhttps://t.co/hcoV5EVFtW\n\n#quantmod #rstats", "Currently re-writing the COVID-19 Canada Open Data Working Group dashboard from scratch. The purpose of this is two-fold: to release the code publicly and to serve as the basis for adding new features. Stay tuned. #rstats #rshiny\n\nhttps://t.co/NetvfLW90V", "The Best #RaspberryPi Books for Beginners (2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/1miBbqdnNA https://t.co/bTYIlLRBh4", "Thanks everyone for attending my talk on the cpp11 📦 for #rstats at #satRdayColumbus!\n\nThere were more questions than I had time to answer live, so I answered the remaining questions in the attached gist\n\nhttps://t.co/vyu5cwhXza", "How to Build a Predictive Soccer Model  {https://t.co/mKl1KmGfr0} #rstats #DataScience", "How to Turn Text into Features. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/s5VxdndAWH https://t.co/PCwAi80oY8", "I'm getting very comfortable writing manuscripts, syllabi, and reviews with #RStats markdown. Once I can actually perform analyses in R, it's all over for you nerds. 🤣\n\n#AcademicTwitter", "Excited to be speaking at the R Conference for Government and Public Sector work in three weeks! I will be talking about how you can use rayshader and rayrender to communicate complex data-driven stories to the public and to decision makers. #rstats #rayshader #rayrender https://t.co/DpG2yVgVue", "The Math Behind Gradient Descent and Backpropagation. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mlaC3a09ZE https://t.co/8nMvCeCnJ5"],
-  "top10_tweets_retweet": ["Guess lockdown helped with productivity... presenting an #Rstats package to generate parallax scroll documents! 📄📦Time for a R/Markdown web dev stack? 😛\nhttps://t.co/kJysqTjevX\nGitHub repo: https://t.co/btqPdpk818 https://t.co/Nj7rZr0f8s", "Here's code I use to watch the S&amp;P 500 in real-time. I don't have a real-time data subscription because all my trades have to be pre-cleared and I can't trade frequently anyway.\n\nhttps://t.co/hcoV5EVFtW\n\n#quantmod #rstats", "Currently re-writing the COVID-19 Canada Open Data Working Group dashboard from scratch. The purpose of this is two-fold: to release the code publicly and to serve as the basis for adding new features. Stay tuned. #rstats #rshiny\n\nhttps://t.co/NetvfLW90V", "The Best #RaspberryPi Books for Beginners (2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/1miBbqdnNA https://t.co/bTYIlLRBh4", "Thanks everyone for attending my talk on the cpp11 📦 for #rstats at #satRdayColumbus!\n\nThere were more questions than I had time to answer live, so I answered the remaining questions in the attached gist\n\nhttps://t.co/vyu5cwhXza", "How to Build a Predictive Soccer Model  {https://t.co/mKl1KmGfr0} #rstats #DataScience", "How to Turn Text into Features. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/s5VxdndAWH https://t.co/PCwAi80oY8", "I'm getting very comfortable writing manuscripts, syllabi, and reviews with #RStats markdown. Once I can actually perform analyses in R, it's all over for you nerds. 🤣\n\n#AcademicTwitter", "Excited to be speaking at the R Conference for Government and Public Sector work in three weeks! I will be talking about how you can use rayshader and rayrender to communicate complex data-driven stories to the public and to decision makers. #rstats #rayshader #rayrender https://t.co/DpG2yVgVue", "The Math Behind Gradient Descent and Backpropagation. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mlaC3a09ZE https://t.co/8nMvCeCnJ5"]
+  "top10_tweets_like": ["Guess lockdown helped with productivity... presenting an #Rstats package to generate parallax scroll documents! 📄📦Time for a R/Markdown web dev stack? 😛\nhttps://t.co/kJysqTjevX\nGitHub repo: https://t.co/btqPdpk818 https://t.co/Nj7rZr0f8s", "Here's code I use to watch the S&amp;P 500 in real-time. I don't have a real-time data subscription because all my trades have to be pre-cleared and I can't trade frequently anyway.\n\nhttps://t.co/hcoV5EVFtW\n\n#quantmod #rstats", "The Best #RaspberryPi Books for Beginners (2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/1miBbqdnNA https://t.co/bTYIlLRBh4", "The Math Behind Gradient Descent and Backpropagation. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mlaC3a09ZE https://t.co/8nMvCeCnJ5", "Thanks everyone for attending my talk on the cpp11 📦 for #rstats at #satRdayColumbus!\n\nThere were more questions than I had time to answer live, so I answered the remaining questions in the attached gist\n\nhttps://t.co/vyu5cwhXza", "How to Build a Predictive Soccer Model  {https://t.co/mKl1KmGfr0} #rstats #DataScience", "How to Turn Text into Features. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/s5VxdndAWH https://t.co/PCwAi80oY8", "The Roadmap of Mathematics for Deep Learning.\n\nhttps://t.co/erOSY3MCON\n\n#Python #DEVCommunity #100DaysOfCode #MachineLearning #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/GCdEdr8WyL", "Excited to be speaking at the R Conference for Government and Public Sector work in three weeks! I will be talking about how you can use rayshader and rayrender to communicate complex data-driven stories to the public and to decision makers. #rstats #rayshader #rayrender https://t.co/DpG2yVgVue", "I'm getting very comfortable writing manuscripts, syllabi, and reviews with #RStats markdown. Once I can actually perform analyses in R, it's all over for you nerds. 🤣\n\n#AcademicTwitter"],
+  "top10_tweets_retweet": ["Guess lockdown helped with productivity... presenting an #Rstats package to generate parallax scroll documents! 📄📦Time for a R/Markdown web dev stack? 😛\nhttps://t.co/kJysqTjevX\nGitHub repo: https://t.co/btqPdpk818 https://t.co/Nj7rZr0f8s", "Here's code I use to watch the S&amp;P 500 in real-time. I don't have a real-time data subscription because all my trades have to be pre-cleared and I can't trade frequently anyway.\n\nhttps://t.co/hcoV5EVFtW\n\n#quantmod #rstats", "The Best #RaspberryPi Books for Beginners (2020). #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/1miBbqdnNA https://t.co/bTYIlLRBh4", "The Math Behind Gradient Descent and Backpropagation. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mlaC3a09ZE https://t.co/8nMvCeCnJ5", "Thanks everyone for attending my talk on the cpp11 📦 for #rstats at #satRdayColumbus!\n\nThere were more questions than I had time to answer live, so I answered the remaining questions in the attached gist\n\nhttps://t.co/vyu5cwhXza", "How to Build a Predictive Soccer Model  {https://t.co/mKl1KmGfr0} #rstats #DataScience", "How to Turn Text into Features. #BigData #Analytics #DataScience #AI #MachineLearning #NLProc #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/s5VxdndAWH https://t.co/PCwAi80oY8", "The Roadmap of Mathematics for Deep Learning.\n\nhttps://t.co/erOSY3MCON\n\n#Python #DEVCommunity #100DaysOfCode #MachineLearning #programming #IoT #flutter #100DaysOfMLCode #AI #javascript #womenwhocode #RStats #Serverless #CodeNewbie #DataScience https://t.co/GCdEdr8WyL", "Excited to be speaking at the R Conference for Government and Public Sector work in three weeks! I will be talking about how you can use rayshader and rayrender to communicate complex data-driven stories to the public and to decision makers. #rstats #rayshader #rayrender https://t.co/DpG2yVgVue", "I'm getting very comfortable writing manuscripts, syllabi, and reviews with #RStats markdown. Once I can actually perform analyses in R, it's all over for you nerds. 🤣\n\n#AcademicTwitter"]
 }
