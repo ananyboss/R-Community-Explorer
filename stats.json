@@ -1,44 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8594,
-      "average_tweets_per_hour": 358,
-      "tweeters_today": 1385,
-      "total_likes_today": 4477
+      "total_tweets_today": 8548,
+      "average_tweets_per_hour": 356,
+      "tweeters_today": 1366,
+      "total_likes_today": 4601
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 170
+      "Freq": 169
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 148
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 131
+      "Freq": 149
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 129
+      "Freq": 133
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 128
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 126
     },
     {
       "Var1": "Python",
-      "Freq": 118
+      "Freq": 125
     },
     {
-      "Var1": "dataviz RStats maps gis",
-      "Freq": 101
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 115
     },
     {
       "Var1": "Analytics AI Rstats Reactjs MachineLearning BigData DataScience Linux",
-      "Freq": 93
+      "Freq": 89
+    },
+    {
+      "Var1": "dataviz RStats maps gis",
+      "Freq": 88
     },
     {
       "Var1": "Python DEVCommunity",
@@ -46,11 +46,15 @@
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 83
+      "Freq": 81
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 80
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 79
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
@@ -61,11 +65,7 @@
       "Freq": 78
     },
     {
-      "Var1": "RStats",
-      "Freq": 75
-    },
-    {
-      "Var1": "Machinelearning 100DaysOfCode IoT",
+      "Var1": "DeepLearning Analytics",
       "Freq": 74
     },
     {
@@ -77,90 +77,90 @@
       "Freq": 72
     },
     {
+      "Var1": "BigData Analytics",
+      "Freq": 71
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 71
     },
     {
       "Var1": "DEVCommunity MachineLearning",
       "Freq": 68
-    },
-    {
-      "Var1": "DEVCommunity MachineLearning 100DaysOfCode",
-      "Freq": 68
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "javascriptubot",
-      "Freq": 350
+      "Freq": 349
     },
     {
       "Var1": "nlognbot",
       "Freq": 343
     },
     {
-      "Var1": "xaelbot",
-      "Freq": 343
-    },
-    {
       "Var1": "Women_who_code",
-      "Freq": 342
+      "Freq": 341
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 316
+      "Var1": "xaelbot",
+      "Freq": 341
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 310
+      "Freq": 304
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 302
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 288
+      "Freq": 289
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 286
-    },
-    {
-      "Var1": "BotFemale",
-      "Freq": 273
+      "Freq": 272
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 271
+      "Freq": 268
+    },
+    {
+      "Var1": "BotFemale",
+      "Freq": 266
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 199
-    },
-    {
-      "Var1": "hubofml",
-      "Freq": 167
+      "Freq": 192
     },
     {
       "Var1": "chidambara09",
-      "Freq": 166
+      "Freq": 173
+    },
+    {
+      "Var1": "hubofml",
+      "Freq": 165
     },
     {
       "Var1": "femtech_",
-      "Freq": 146
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 133
+      "Freq": 143
     },
     {
       "Var1": "datasciencebot_",
+      "Freq": 135
+    },
+    {
+      "Var1": "rstats_tweets",
       "Freq": 132
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 131
+      "Freq": 128
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 116
+      "Freq": 122
     },
     {
       "Var1": "ServerlessFan",
@@ -168,7 +168,7 @@
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 111
+      "Freq": 112
     }
   ],
   "top10_tweets_like": ["El paquete censo2017 fue aceptado en CRAN. Espero que esto facilite el acceso a los datos y cartografías. Los datos se pueden usar en Python o Stata pues separé las funciones (R) de los datos (SQLite). Detalles en https://t.co/sefzAZuLOE #rstats #rstatsES https://t.co/Mgrvy4v5EX https://t.co/TvKJT6L9C1", "Como prometido, segue a thread sobre o código mais recente que fiz sobre carteiras de Markowitz, totalmente em #RStats. \nDetalharei passo a passo, então pode ficar um pouco longa; tentarei falar sobre finanças, estatística e programação ao longo. \nSegue 👇 (1/n) https://t.co/59ffZbbTkx", "Free eBook: #MachineLearning from Scratch. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/GiHFBvG8nf https://t.co/nGrODTSX7S", "📚🔮📈 \"18 Time Series Analysis and Forecasting | Big Book of R\"\n\n👤 Oscar Baruffa 📊 @oscarbaruffa \n\nhttps://t.co/7FzZQBM1Gh\n#rstats", "🧙‍♀️Hi #rstats! {bs4Dash} v2.0.0 is in development. This will fix many issues and add cool stuff like 👁️:\n- 1:1 with {shinydashboard} 😱\n- real time themer\n- dark/light mode switch\n- preloaders by {waiter} by @jdatap \n-  theming with {fresh} by @dreamRs_fr \n- scroll to top button https://t.co/rPb5ZKyW4i", "I made a {workflowr} website with my answers for R4DS chapter questions. It also contains notes, and uses @KellyBodwin's excellent {flair} for highlighting parts. It's ~85% complete, but putting it out there for any #rstats users who might find it useful: https://t.co/XalLxZz0WN", "Top 5 Free eBooks Everyone Should Read by @kdnuggets. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode\nhttps://t.co/3S283bTGRO https://t.co/n8Q6HxqxWK", "Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "✍️📊🌍 \"Tutorial: a World Tile Grid Map in ggplot2\"\n\n👤 Maarten Lambrechts @maartenzam \n\nhttps://t.co/f4MRqnxSpu\n#rstats https://t.co/vxjFthOt6P", "Best Machine Learning Books You Should Read: 2020 Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bzdJAc3q2i https://t.co/qjJf3aPXzQ"],
