@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8762,
-      "average_tweets_per_hour": 365,
-      "tweeters_today": 1426,
-      "total_likes_today": 4695
+      "total_tweets_today": 8874,
+      "average_tweets_per_hour": 370,
+      "tweeters_today": 1454,
+      "total_likes_today": 4899
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 216
+      "Freq": 213
     },
     {
       "Var1": "Python",
-      "Freq": 133
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 125
+      "Freq": 139
     },
     {
       "Var1": "RStats",
-      "Freq": 125
+      "Freq": 129
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 127
     },
     {
       "Var1": "MachineLearning",
@@ -33,16 +33,20 @@
       "Freq": 96
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 94
-    },
-    {
       "Var1": "DEVCommunity 100DaysOfCode",
       "Freq": 93
     },
     {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 92
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 92
+    },
+    {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 90
+      "Freq": 86
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
@@ -50,15 +54,15 @@
     },
     {
       "Var1": "DeepLearning Analytics",
-      "Freq": 83
+      "Freq": 85
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 78
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 78
+      "Var1": "Mathematics MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow Java",
+      "Freq": 77
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
@@ -69,16 +73,8 @@
       "Freq": 75
     },
     {
-      "Var1": "Mathematics MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 74
-    },
-    {
       "Var1": "DataScience BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 69
-    },
-    {
-      "Var1": "rstats DataScience",
-      "Freq": 69
+      "Freq": 70
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
@@ -87,20 +83,28 @@
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats",
       "Freq": 66
+    },
+    {
+      "Var1": "DEVCommunity MachineLearning programming flutter AI javascript womenwhocode RStats Serverless CodeNewbie",
+      "Freq": 62
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 372
+      "Freq": 392
     },
     {
       "Var1": "xaelbot",
-      "Freq": 356
+      "Freq": 361
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 338
+      "Freq": 342
+    },
+    {
+      "Var1": "BotFemale",
+      "Freq": 331
     },
     {
       "Var1": "javascriptubot",
@@ -108,23 +112,19 @@
     },
     {
       "Var1": "nlognbot",
-      "Freq": 322
-    },
-    {
-      "Var1": "BotFemale",
-      "Freq": 317
+      "Freq": 323
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 303
+      "Freq": 302
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 299
+      "Freq": 300
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 279
+      "Freq": 277
     },
     {
       "Var1": "CodeGnuts",
@@ -136,41 +136,41 @@
     },
     {
       "Var1": "hubofml",
-      "Freq": 176
+      "Freq": 178
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 154
+      "Freq": 160
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 143
+      "Freq": 140
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 129
+      "Freq": 131
     },
     {
       "Var1": "the404code",
-      "Freq": 118
+      "Freq": 119
     },
     {
-      "Var1": "femtech_",
-      "Freq": 116
+      "Var1": "ServerlessFan",
+      "Freq": 118
     },
     {
       "Var1": "TheDeveloperBot",
       "Freq": 116
     },
     {
-      "Var1": "ServerlessFan",
+      "Var1": "femtech_",
       "Freq": 114
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 107
+      "Freq": 104
     }
   ],
-  "top10_tweets_like": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "The 10 Free Must-read eBooks for #DataScience. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/I26257Gq3V https://t.co/8kbvqdCLnw", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "Best Machine Learning Books You Should Read: 2020 Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bzdJAc3q2i https://t.co/qjJf3aPXzQ", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "The Toy Train Connection: Built in the 1880s, this mountain railway spanning 88km connects New Jalpaiguri (100m) to Darjeeling (2,200m elevation)\n\n#30DayMapChallenge Day 15: Connections\nUsing #rstats #rayshader @isro cartodem, #openstreetmap #rspatial @osm_in @tylermorganwall https://t.co/mf7YfhXLd1", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ"],
-  "top10_tweets_retweet": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "The 10 Free Must-read eBooks for #DataScience. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/I26257Gq3V https://t.co/8kbvqdCLnw", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "Best Machine Learning Books You Should Read: 2020 Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bzdJAc3q2i https://t.co/qjJf3aPXzQ", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "The Toy Train Connection: Built in the 1880s, this mountain railway spanning 88km connects New Jalpaiguri (100m) to Darjeeling (2,200m elevation)\n\n#30DayMapChallenge Day 15: Connections\nUsing #rstats #rayshader @isro cartodem, #openstreetmap #rspatial @osm_in @tylermorganwall https://t.co/mf7YfhXLd1", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ"]
+  "top10_tweets_like": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "The 10 Free Must-read eBooks for #DataScience. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/I26257Gq3V https://t.co/8kbvqdCLnw", "Best Machine Learning Books You Should Read: 2020 Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bzdJAc3q2i https://t.co/qjJf3aPXzQ", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "The Toy Train Connection: Built in the 1880s, this mountain railway spanning 88km connects New Jalpaiguri (100m) to Darjeeling (2,200m elevation)\n\n#30DayMapChallenge Day 15: Connections\nUsing #rstats #rayshader @isro cartodem, #openstreetmap #rspatial @osm_in @tylermorganwall https://t.co/mf7YfhXLd1", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ"],
+  "top10_tweets_retweet": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "The 10 Free Must-read eBooks for #DataScience. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/I26257Gq3V https://t.co/8kbvqdCLnw", "Best Machine Learning Books You Should Read: 2020 Edition. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/bzdJAc3q2i https://t.co/qjJf3aPXzQ", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "The Toy Train Connection: Built in the 1880s, this mountain railway spanning 88km connects New Jalpaiguri (100m) to Darjeeling (2,200m elevation)\n\n#30DayMapChallenge Day 15: Connections\nUsing #rstats #rayshader @isro cartodem, #openstreetmap #rspatial @osm_in @tylermorganwall https://t.co/mf7YfhXLd1", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ"]
 }
