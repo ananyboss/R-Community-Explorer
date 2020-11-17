@@ -1,32 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8700,
-      "average_tweets_per_hour": 362,
-      "tweeters_today": 1419,
-      "total_likes_today": 5073
+      "total_tweets_today": 8533,
+      "average_tweets_per_hour": 356,
+      "tweeters_today": 1400,
+      "total_likes_today": 4999
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 231
+      "Freq": 227
     },
     {
       "Var1": "Python",
-      "Freq": 173
+      "Freq": 155
     },
     {
       "Var1": "RStats",
-      "Freq": 133
+      "Freq": 132
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 120
+      "Freq": 124
     },
     {
       "Var1": "Mathematics MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 116
+      "Freq": 122
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 120
     },
     {
       "Var1": "MachineLearning",
@@ -38,34 +42,30 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow Java",
-      "Freq": 92
-    },
-    {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 89
-    },
-    {
-      "Var1": "Python DEVCommunity",
-      "Freq": 82
-    },
-    {
-      "Var1": "DataScience BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 80
+      "Freq": 79
     },
     {
       "Var1": "DeepLearning Analytics",
       "Freq": 74
     },
     {
+      "Var1": "Python DEVCommunity",
+      "Freq": 74
+    },
+    {
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 69
+    },
+    {
       "Var1": "DEVCommunity MachineLearning programming flutter AI javascript womenwhocode RStats Serverless CodeNewbie",
-      "Freq": 67
+      "Freq": 68
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 62
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 65
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 62
     },
     {
@@ -73,104 +73,104 @@
       "Freq": 62
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 61
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning",
       "Freq": 60
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 58
-    },
-    {
       "Var1": "100DaysOfCode",
       "Freq": 56
+    },
+    {
+      "Var1": "ReinforcementLearning Algorithms BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 56
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 420
+      "Freq": 422
     },
     {
       "Var1": "BotFemale",
-      "Freq": 389
-    },
-    {
-      "Var1": "CodEdithCo",
-      "Freq": 373
+      "Freq": 404
     },
     {
       "Var1": "xaelbot",
-      "Freq": 338
+      "Freq": 336
+    },
+    {
+      "Var1": "CodEdithCo",
+      "Freq": 330
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 326
+      "Freq": 322
     },
     {
       "Var1": "nlognbot",
-      "Freq": 308
+      "Freq": 305
     },
     {
       "Var1": "javascriptubot",
-      "Freq": 302
+      "Freq": 293
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 296
+      "Freq": 278
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 289
+      "Freq": 276
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 243
+      "Freq": 226
     },
     {
       "Var1": "chidambara09",
-      "Freq": 189
+      "Freq": 186
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 176
+      "Freq": 178
     },
     {
       "Var1": "hubofml",
-      "Freq": 144
+      "Freq": 142
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 143
+      "Freq": 141
     },
     {
       "Var1": "the404code",
-      "Freq": 121
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 119
-    },
-    {
-      "Var1": "altf4hashbot",
-      "Freq": 118
+      "Freq": 124
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 118
+      "Freq": 116
+    },
+    {
+      "Var1": "altf4hashbot",
+      "Freq": 115
     },
     {
       "Var1": "TheDeveloperBot",
       "Freq": 115
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 97
+      "Var1": "femtech_",
+      "Freq": 113
+    },
+    {
+      "Var1": "tidyversetweets",
+      "Freq": 95
     }
   ],
-  "top10_tweets_like": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "The 10 Free Must-read eBooks for #DataScience. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/I26257Gq3V https://t.co/8kbvqdCLnw", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "Mathematical Tools at Harvard. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rc63xvWIAk https://t.co/1FFDyaARYR", "Client: I want a shiny app as a reactive component of an Iframe in an existing website\nMe: 20 mins after going quickly combing mastering shiny by @hadleywickham: I can do the job. 😎 Happy client after one week and offers a new job. Starting my journey as  shiny app Dev. #rstats", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ"],
-  "top10_tweets_retweet": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "The 10 Free Must-read eBooks for #DataScience. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/I26257Gq3V https://t.co/8kbvqdCLnw", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "Mathematical Tools at Harvard. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rc63xvWIAk https://t.co/1FFDyaARYR", "Client: I want a shiny app as a reactive component of an Iframe in an existing website\nMe: 20 mins after going quickly combing mastering shiny by @hadleywickham: I can do the job. 😎 Happy client after one week and offers a new job. Starting my journey as  shiny app Dev. #rstats", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ"]
+  "top10_tweets_like": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "Mathematical Tools at Harvard. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rc63xvWIAk https://t.co/1FFDyaARYR", "Client: I want a shiny app as a reactive component of an Iframe in an existing website\nMe: 20 mins after going quickly combing mastering shiny by @hadleywickham: I can do the job. 😎 Happy client after one week and offers a new job. Starting my journey as  shiny app Dev. #rstats", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ", "25+ Free Artificial Intelligence, Machine Learning, Data Science &amp; Python eBooks\n\n#MachineLearning #DeepLearning \n#ArtificialIntelligence #ML #AI #DataScience #100DaysOfCode\n#100DaysOfMLCode #javascript #rstats #ebooks #data #python #programming \n\nhttps://t.co/7CR1P1ZJlP"],
+  "top10_tweets_retweet": ["Basic #Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/dJ5p51w6dX https://t.co/mTmhco9Uud", "Hi...I am Shelmith,  based in Nairobi Kenya. I am a data analyst,  working with #rstats all day,  every day. I also really love training data analytics. Trying my best to push the @AfricaRUsers mission and vision forward. \n#BlackInDataWeek \n#BlackInDataRollCall", "New package {maptiles}: download and display map tiles from a large number of providers. \n\nBlog post: https://t.co/qAV1TIPgDj\nCRAN: https://t.co/Cjtr3OpFja\nGitHub: https://t.co/QEPiqkRFEG\n\n#RStats #rspatial https://t.co/ZXmFExyJ1J", "Here is a toy example illustrating how to build a formatted #rstats {gt} table which combines simple statistics, ggplots, and slopes from the fit of multiple linear (mixed) models. All in 35 lines of easy code, thanks to row and columns groupings enabled by #tidyverse tibbles 🎉 https://t.co/HMHebYZ7vV", "It has maintained compatibility with the S Language. #rstats https://t.co/eWP3Iv1peb", "Hi everyone! I'm @MarkiaASmith  taking over for #BlackinDataWeek. @BlkInData\n\nI'm a computational biologist working on cancer genomics and health disparities. \n\nI use R everyday for #DataViz and #RStats.", "Mathematical Tools at Harvard. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/rc63xvWIAk https://t.co/1FFDyaARYR", "Client: I want a shiny app as a reactive component of an Iframe in an existing website\nMe: 20 mins after going quickly combing mastering shiny by @hadleywickham: I can do the job. 😎 Happy client after one week and offers a new job. Starting my journey as  shiny app Dev. #rstats", "Implementation of #ReinforcementLearning #Algorithms. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/9tycfktV2O https://t.co/eIobOx2pwJ", "25+ Free Artificial Intelligence, Machine Learning, Data Science &amp; Python eBooks\n\n#MachineLearning #DeepLearning \n#ArtificialIntelligence #ML #AI #DataScience #100DaysOfCode\n#100DaysOfMLCode #javascript #rstats #ebooks #data #python #programming \n\nhttps://t.co/7CR1P1ZJlP"]
 }
