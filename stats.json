@@ -1,43 +1,43 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8810,
-      "average_tweets_per_hour": 367,
-      "tweeters_today": 1429,
-      "total_likes_today": 4797
+      "total_tweets_today": 9026,
+      "average_tweets_per_hour": 376,
+      "tweeters_today": 1420,
+      "total_likes_today": 4700
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 245
+      "Freq": 241
     },
     {
       "Var1": "Python",
       "Freq": 168
     },
     {
-      "Var1": "RStats",
-      "Freq": 148
-    },
-    {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 145
+      "Freq": 153
     },
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 137
+      "Freq": 144
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 144
     },
     {
       "Var1": "BigData Analytics DataScience",
       "Freq": 131
     },
     {
-      "Var1": "MachineLearning",
-      "Freq": 111
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 107
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Var1": "MachineLearning",
       "Freq": 107
     },
     {
@@ -46,15 +46,19 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 84
+      "Freq": 98
+    },
+    {
+      "Var1": "Python DEVCommunity 100DaysOfCode",
+      "Freq": 95
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics",
+      "Freq": 80
     },
     {
       "Var1": "Python 100DaysOfCode",
       "Freq": 78
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics",
-      "Freq": 75
     },
     {
       "Var1": "Python DEVCommunity",
@@ -65,74 +69,70 @@
       "Freq": 68
     },
     {
-      "Var1": "Python DEVCommunity 100DaysOfCode",
-      "Freq": 67
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 64
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 66
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 64
+      "Freq": 63
     },
     {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
       "Freq": 62
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 54
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Freq": 59
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 442
+      "Freq": 435
     },
     {
       "Var1": "xaelbot",
-      "Freq": 345
+      "Freq": 352
     },
     {
       "Var1": "javascriptubot",
-      "Freq": 338
+      "Freq": 350
+    },
+    {
+      "Var1": "nlognbot",
+      "Freq": 331
     },
     {
       "Var1": "Women_who_code",
       "Freq": 330
     },
     {
-      "Var1": "nlognbot",
-      "Freq": 316
-    },
-    {
       "Var1": "friday_Js_bot",
-      "Freq": 278
+      "Freq": 296
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 268
+      "Freq": 295
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 263
+      "Freq": 278
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 262
-    },
-    {
-      "Var1": "BotFemale",
-      "Freq": 227
+      "Freq": 269
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 210
+      "Freq": 232
+    },
+    {
+      "Var1": "BotFemale",
+      "Freq": 231
     },
     {
       "Var1": "chidambara09",
@@ -140,37 +140,37 @@
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 195
+      "Freq": 192
     },
     {
       "Var1": "hubofml",
-      "Freq": 167
+      "Freq": 178
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 155
+      "Freq": 160
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 149
+      "Freq": 152
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 121
+      "Freq": 124
     },
     {
       "Var1": "the404code",
-      "Freq": 117
+      "Freq": 124
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 113
+      "Freq": 124
     },
     {
       "Var1": "femtech_",
       "Freq": 109
     }
   ],
-  "top10_tweets_like": ["Client: I want a shiny app as a reactive component of an Iframe in an existing website\nMe: 20 mins after going quickly combing mastering shiny by @hadleywickham: I can do the job. 😎 Happy client after one week and offers a new job. Starting my journey as  shiny app Dev. #rstats", "Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "#BlackInDataRollCall #BlackInDataWeek  @BlkInData \n\nI'm Dr. Blankson, Prof of Psych, @SpelmanCollege \n\nMy PhD is in #quantpsych\nI train students in #statistics #Rstats #DataScience \n\nLook out for application to open soon for my @NSF REU INSPIREU2 program\nhttps://t.co/aA17gPW4aK https://t.co/0iUfyqyf7T", "If you haven't used {tidygeocoder} by @JesseCambon in #rstats, it is a fantastic supplement to other awesome packages like {sf} and {ggplot2} for when you have the address but need the longitude/latitude. Straightforward syntax, definitely recommend 🤩🚀 https://t.co/q7x9pMFLVA", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "✍️📊 \"Divergent Bars in ggplot2 | Step by step guide\"\n\n👤 Once Upon Data\n\nhttps://t.co/ersHSCpEIB\n#rstats https://t.co/JZAfeLASNY", "Python and R – Part 2: Visualizing Data with Plotnine  {https://t.co/DCo5nHLvsS} #rstats #DataScience"],
-  "top10_tweets_retweet": ["Client: I want a shiny app as a reactive component of an Iframe in an existing website\nMe: 20 mins after going quickly combing mastering shiny by @hadleywickham: I can do the job. 😎 Happy client after one week and offers a new job. Starting my journey as  shiny app Dev. #rstats", "Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "#BlackInDataRollCall #BlackInDataWeek  @BlkInData \n\nI'm Dr. Blankson, Prof of Psych, @SpelmanCollege \n\nMy PhD is in #quantpsych\nI train students in #statistics #Rstats #DataScience \n\nLook out for application to open soon for my @NSF REU INSPIREU2 program\nhttps://t.co/aA17gPW4aK https://t.co/0iUfyqyf7T", "If you haven't used {tidygeocoder} by @JesseCambon in #rstats, it is a fantastic supplement to other awesome packages like {sf} and {ggplot2} for when you have the address but need the longitude/latitude. Straightforward syntax, definitely recommend 🤩🚀 https://t.co/q7x9pMFLVA", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "✍️📊 \"Divergent Bars in ggplot2 | Step by step guide\"\n\n👤 Once Upon Data\n\nhttps://t.co/ersHSCpEIB\n#rstats https://t.co/JZAfeLASNY", "Python and R – Part 2: Visualizing Data with Plotnine  {https://t.co/DCo5nHLvsS} #rstats #DataScience"]
+  "top10_tweets_like": ["Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "#BlackInDataRollCall #BlackInDataWeek  @BlkInData \n\nI'm Dr. Blankson, Prof of Psych, @SpelmanCollege \n\nMy PhD is in #quantpsych\nI train students in #statistics #Rstats #DataScience \n\nLook out for application to open soon for my @NSF REU INSPIREU2 program\nhttps://t.co/aA17gPW4aK https://t.co/0iUfyqyf7T", "If you haven't used {tidygeocoder} by @JesseCambon in #rstats, it is a fantastic supplement to other awesome packages like {sf} and {ggplot2} for when you have the address but need the longitude/latitude. Straightforward syntax, definitely recommend 🤩🚀 https://t.co/q7x9pMFLVA", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "A Beginner-Friendly Guide To #PyTorch from Scratch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mvt8fLAGyS https://t.co/8sGDXwCTaS", "✍️📊 \"Divergent Bars in ggplot2 | Step by step guide\"\n\n👤 Once Upon Data\n\nhttps://t.co/ersHSCpEIB\n#rstats https://t.co/JZAfeLASNY", "Python and R – Part 2: Visualizing Data with Plotnine  {https://t.co/DCo5nHLvsS} #rstats #DataScience"],
+  "top10_tweets_retweet": ["Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "#BlackInDataRollCall #BlackInDataWeek  @BlkInData \n\nI'm Dr. Blankson, Prof of Psych, @SpelmanCollege \n\nMy PhD is in #quantpsych\nI train students in #statistics #Rstats #DataScience \n\nLook out for application to open soon for my @NSF REU INSPIREU2 program\nhttps://t.co/aA17gPW4aK https://t.co/0iUfyqyf7T", "If you haven't used {tidygeocoder} by @JesseCambon in #rstats, it is a fantastic supplement to other awesome packages like {sf} and {ggplot2} for when you have the address but need the longitude/latitude. Straightforward syntax, definitely recommend 🤩🚀 https://t.co/q7x9pMFLVA", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "A Beginner-Friendly Guide To #PyTorch from Scratch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mvt8fLAGyS https://t.co/8sGDXwCTaS", "✍️📊 \"Divergent Bars in ggplot2 | Step by step guide\"\n\n👤 Once Upon Data\n\nhttps://t.co/ersHSCpEIB\n#rstats https://t.co/JZAfeLASNY", "Python and R – Part 2: Visualizing Data with Plotnine  {https://t.co/DCo5nHLvsS} #rstats #DataScience"]
 }
