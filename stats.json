@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 9161,
-      "average_tweets_per_hour": 382,
-      "tweeters_today": 1414,
-      "total_likes_today": 4642
+      "total_tweets_today": 9316,
+      "average_tweets_per_hour": 388,
+      "tweeters_today": 1419,
+      "total_likes_today": 4723
     }
   ],
   "top20_hashtags": [
@@ -14,11 +14,11 @@
     },
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 174
+      "Freq": 173
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 163
+      "Freq": 165
     },
     {
       "Var1": "Python",
@@ -26,7 +26,7 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 145
+      "Freq": 143
     },
     {
       "Var1": "BigData Analytics DataScience",
@@ -38,11 +38,15 @@
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 118
+      "Freq": 113
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
       "Freq": 104
+    },
+    {
+      "Var1": "DEVCommunity",
+      "Freq": 97
     },
     {
       "Var1": "Python DEVCommunity 100DaysOfCode",
@@ -50,11 +54,11 @@
     },
     {
       "Var1": "Python DEVCommunity",
-      "Freq": 92
+      "Freq": 93
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 79
+      "Var1": "udemycoupon MachineLearning BigData Analytics",
+      "Freq": 81
     },
     {
       "Var1": "MachineLearning BigData Analytics",
@@ -65,7 +69,15 @@
       "Freq": 78
     },
     {
-      "Var1": "DEVCommunity",
+      "Var1": "Analytics MachineLearning AI javascript Python RStats",
+      "Freq": 75
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 74
+    },
+    {
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
       "Freq": 71
     },
     {
@@ -73,20 +85,8 @@
       "Freq": 70
     },
     {
-      "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 67
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 64
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 58
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 58
     }
   ],
   "top20_tweeters": [
@@ -100,35 +100,35 @@
     },
     {
       "Var1": "xaelbot",
-      "Freq": 361
+      "Freq": 365
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 353
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 348
+      "Freq": 360
     },
     {
       "Var1": "nlognbot",
-      "Freq": 346
+      "Freq": 356
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 349
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 287
+      "Freq": 312
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 281
+      "Freq": 291
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 266
+      "Freq": 277
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 226
+      "Freq": 244
     },
     {
       "Var1": "BotFemale",
@@ -136,41 +136,41 @@
     },
     {
       "Var1": "chidambara09",
-      "Freq": 201
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 198
+      "Freq": 207
     },
     {
       "Var1": "hubofml",
-      "Freq": 193
+      "Freq": 203
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 197
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 160
+      "Freq": 158
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 149
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 128
+      "Freq": 152
     },
     {
       "Var1": "the404code",
-      "Freq": 125
+      "Freq": 129
     },
     {
       "Var1": "femtech_",
-      "Freq": 122
+      "Freq": 125
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 121
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 114
+      "Freq": 115
     }
   ],
-  "top10_tweets_like": ["Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Para quem quiser, fiz um pacote em R para pegar os dados das eleições por município: https://t.co/Zb0I7UoWLG\n\nÉ basicamente um wrapper da API do TSE, mas já facilita para quem ainda está começando a programar :)\n\n#rstats\n\nSugestões são bem-vindas, mandem PR!", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "A Beginner-Friendly Guide To #PyTorch from Scratch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mvt8fLAGyS https://t.co/8sGDXwCTaS", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "✍️📊 \"Divergent Bars in ggplot2 | Step by step guide\"\n\n👤 Once Upon Data\n\nhttps://t.co/ersHSCpEIB\n#rstats https://t.co/JZAfeLASNY", "The ✨Command Palette✨ is my favorite new feature of @RStudio v1.4\n\nOpen with Ctrl + Shift + P (Cmd + Shift + P on macOS)\n\nand you can search among commands, settings AND addins\n\nhttps://t.co/vzs5PnygT2 #rstats https://t.co/cHZyCHgytR", "Why RStudio Focuses on Code-Based Data Science\nHighlights from a recent interview of RStudio's Lou Bajuk discussing data science with #RStats and #PyData, &amp; why RStudio encourages its customers to adopt a multi-lingual approach. \nhttps://t.co/3v3gNtilgj\n#seriousDataScience https://t.co/H5fU3igk7F"],
-  "top10_tweets_retweet": ["Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Para quem quiser, fiz um pacote em R para pegar os dados das eleições por município: https://t.co/Zb0I7UoWLG\n\nÉ basicamente um wrapper da API do TSE, mas já facilita para quem ainda está começando a programar :)\n\n#rstats\n\nSugestões são bem-vindas, mandem PR!", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "A Beginner-Friendly Guide To #PyTorch from Scratch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mvt8fLAGyS https://t.co/8sGDXwCTaS", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "✍️📊 \"Divergent Bars in ggplot2 | Step by step guide\"\n\n👤 Once Upon Data\n\nhttps://t.co/ersHSCpEIB\n#rstats https://t.co/JZAfeLASNY", "The ✨Command Palette✨ is my favorite new feature of @RStudio v1.4\n\nOpen with Ctrl + Shift + P (Cmd + Shift + P on macOS)\n\nand you can search among commands, settings AND addins\n\nhttps://t.co/vzs5PnygT2 #rstats https://t.co/cHZyCHgytR", "Why RStudio Focuses on Code-Based Data Science\nHighlights from a recent interview of RStudio's Lou Bajuk discussing data science with #RStats and #PyData, &amp; why RStudio encourages its customers to adopt a multi-lingual approach. \nhttps://t.co/3v3gNtilgj\n#seriousDataScience https://t.co/H5fU3igk7F"]
+  "top10_tweets_like": ["Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Para quem quiser, fiz um pacote em R para pegar os dados das eleições por município: https://t.co/Zb0I7UoWLG\n\nÉ basicamente um wrapper da API do TSE, mas já facilita para quem ainda está começando a programar :)\n\n#rstats\n\nSugestões são bem-vindas, mandem PR!", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "The ✨Command Palette✨ is my favorite new feature of @RStudio v1.4\n\nOpen with Ctrl + Shift + P (Cmd + Shift + P on macOS)\n\nand you can search among commands, settings AND addins\n\nhttps://t.co/vzs5PnygT2 #rstats https://t.co/cHZyCHgytR", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "A Beginner-Friendly Guide To #PyTorch from Scratch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mvt8fLAGyS https://t.co/8sGDXwCTaS", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "Detect Relationships With Linear Regression (10 Must-Know Tidyverse Functions #4)  {https://t.co/h7H4weZ0gk} #rstats #DataScience", "Why RStudio Focuses on Code-Based Data Science\nHighlights from a recent interview of RStudio's Lou Bajuk discussing data science with #RStats and #PyData, &amp; why RStudio encourages its customers to adopt a multi-lingual approach. \nhttps://t.co/3v3gNtilgj\n#seriousDataScience https://t.co/H5fU3igk7F"],
+  "top10_tweets_retweet": ["Launch day for R for Health Data Science! 📚🎉🎉 \nAlready selling out fast 😂\nThank you to such an amazing team of #HealthyR collaborators for making this happen.\nWe ❤️ R\n@_Riinu_ @RobCalver5 \n#rstats \nhttps://t.co/fk5UFuNfc9 https://t.co/P1nq3RlLwu", "Para quem quiser, fiz um pacote em R para pegar os dados das eleições por município: https://t.co/Zb0I7UoWLG\n\nÉ basicamente um wrapper da API do TSE, mas já facilita para quem ainda está começando a programar :)\n\n#rstats\n\nSugestões são bem-vindas, mandem PR!", "Free Online Books to Learn R and Data Science. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/JvGvDyhkRL https://t.co/CqksSaJdEL", "The ✨Command Palette✨ is my favorite new feature of @RStudio v1.4\n\nOpen with Ctrl + Shift + P (Cmd + Shift + P on macOS)\n\nand you can search among commands, settings AND addins\n\nhttps://t.co/vzs5PnygT2 #rstats https://t.co/cHZyCHgytR", "✍️ \"GitHub workflow for data science project proposals\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/mMJXpfsP2o\n#rstats https://t.co/noqs1TSFER", "Month-by-month peaks in new COVID-19 case counts reveal regional differences 👇\n\nInspiration from @AxiosVisuals seasonal map and built with #rstats &amp; #ggplot2 https://t.co/1Cm6Yx5JnQ", "A Beginner-Friendly Guide To #PyTorch from Scratch. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/mvt8fLAGyS https://t.co/8sGDXwCTaS", "✍️🖥 \"Building htmlwidgets\"\n\n👤 David Ranzolin @daranzolin \n\nhttps://t.co/4w9KVKTmJO\n#rstats https://t.co/11Z5pQz3c8", "Detect Relationships With Linear Regression (10 Must-Know Tidyverse Functions #4)  {https://t.co/h7H4weZ0gk} #rstats #DataScience", "Why RStudio Focuses on Code-Based Data Science\nHighlights from a recent interview of RStudio's Lou Bajuk discussing data science with #RStats and #PyData, &amp; why RStudio encourages its customers to adopt a multi-lingual approach. \nhttps://t.co/3v3gNtilgj\n#seriousDataScience https://t.co/H5fU3igk7F"]
 }
