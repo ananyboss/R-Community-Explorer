@@ -1,20 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7674,
-      "average_tweets_per_hour": 320,
-      "tweeters_today": 1394,
-      "total_likes_today": 4728
+      "total_tweets_today": 7605,
+      "average_tweets_per_hour": 317,
+      "tweeters_today": 1409,
+      "total_likes_today": 4847
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 232
+      "Freq": 242
     },
     {
       "Var1": "DeepLearning Analytics",
-      "Freq": 103
+      "Freq": 105
     },
     {
       "Var1": "Python rstats java javascript AWS 100DaysOfCode ReactJS Coding CloudComputing HTML",
@@ -22,19 +22,23 @@
     },
     {
       "Var1": "Python DEVCommunity",
-      "Freq": 79
-    },
-    {
-      "Var1": "100DaysOfCode",
       "Freq": 78
-    },
-    {
-      "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 74
+    },
+    {
+      "Var1": "udemycoupon MachineLearning BigData",
+      "Freq": 74
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 70
+    },
+    {
+      "Var1": "100DaysOfCode",
+      "Freq": 69
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -45,10 +49,6 @@
       "Freq": 67
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 59
-    },
-    {
       "Var1": "assistant fiverr fiverrgigs math Excel MadeOnFiverr",
       "Freq": 55
     },
@@ -57,20 +57,16 @@
       "Freq": 54
     },
     {
+      "Var1": "MachineLearning AI",
+      "Freq": 53
+    },
+    {
       "Var1": "RStats",
       "Freq": 52
     },
     {
-      "Var1": "MachineLearning AI",
-      "Freq": 50
-    },
-    {
       "Var1": "VirtualReality Analytics VR AR MR UX AI Rstats Reactjs IoT IIoT DataScience",
       "Freq": 50
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT PyTorch Python RStats",
-      "Freq": 49
     },
     {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
@@ -82,95 +78,99 @@
     },
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 46
+      "Freq": 47
     },
     {
       "Var1": "rstats datascience",
       "Freq": 45
+    },
+    {
+      "Var1": "BigData Analytics DataScience PredictiveAnalytics IoT IIoT",
+      "Freq": 44
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 458
+      "Freq": 477
     },
     {
       "Var1": "BotFemale",
-      "Freq": 412
+      "Freq": 402
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 313
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 311
-    },
-    {
-      "Var1": "nlognbot",
       "Freq": 309
     },
     {
+      "Var1": "nlognbot",
+      "Freq": 304
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 304
+    },
+    {
       "Var1": "CodeFlawCo",
-      "Freq": 267
+      "Freq": 263
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 262
+      "Freq": 257
     },
     {
       "Var1": "chidambara09",
-      "Freq": 225
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 218
+      "Freq": 223
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 201
+      "Freq": 197
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 197
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 180
+      "Freq": 169
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 146
+      "Freq": 148
     },
     {
       "Var1": "hubofml",
-      "Freq": 144
+      "Freq": 136
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 125
-    },
-    {
-      "Var1": "femtech_",
-      "Freq": 119
-    },
-    {
-      "Var1": "the404code",
-      "Freq": 113
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 106
+      "Freq": 127
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 105
+      "Freq": 109
+    },
+    {
+      "Var1": "femtech_",
+      "Freq": 108
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 107
+    },
+    {
+      "Var1": "the404code",
+      "Freq": 107
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 96
+      "Freq": 94
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 96
+      "Freq": 94
     }
   ],
-  "top10_tweets_like": ["Really looking forward to sharing my favorite daily R crashes in the inevitable RStudio Stories 🙃#rstats https://t.co/wtKKja9x6R", "Interested in using R Markdown for academic publications? Check out this slide deck I made for @ecodatasci walking through things like citations, cross-referencing, journal-specific formatting, and reproducible workflows https://t.co/Rsdq5dFpim #rmarkdown #rstats #bookdown", "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v", "I usually tweet about 🐟and #RStats , but for today's #LGBTQSTEMDay I am proud to say I'm #BiInSci!\n\n(Check out R package #fishualize to make your own colorful fish arrangement!) https://t.co/UXA0Pajtfn", "'Mature student' is just a fancy way for me to say that I am accumulating white hairs at an exponentially increasing rate (p &lt; .05).\n\n@AcademicChatter #AcademicTwitter #phdlife #rstats", "Reminder that if you add `do not edit by hand` at the top of a file, RStudio will show this small message. \n\nThis won't prevent from actually editing the file, but it can be helpful as a visual reminder that users are not supposed to edit this file. \n\n#RStats https://t.co/ktGSLNReMa", "Clifford Attractors (drawing 10 million points with #ggplot2)\n\n#rstats #generativeart #maths \n\nTutorial w/code: https://t.co/nupXxAu4kI https://t.co/mUJj4Cpgr5", "oh, apparently yesterday was #LGBTQSTEMDay. well, I guess some of you are still trapped in November 19th so, thank you to the #rstats community for giving me a place that feels like home https://t.co/qsTJwZHpRP", "Fraud Detection using Deep Learning Dossier. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/gS19SEj5VB https://t.co/oFvin6OYQr", "#30DayMapChallenge Day 18.  Landuse\n\nDistribution of vine, fruits and olivar in Europe.\n\n#dataviz #rspatial #rstats https://t.co/s9yut8wDPo"],
-  "top10_tweets_retweet": ["Really looking forward to sharing my favorite daily R crashes in the inevitable RStudio Stories 🙃#rstats https://t.co/wtKKja9x6R", "Interested in using R Markdown for academic publications? Check out this slide deck I made for @ecodatasci walking through things like citations, cross-referencing, journal-specific formatting, and reproducible workflows https://t.co/Rsdq5dFpim #rmarkdown #rstats #bookdown", "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v", "I usually tweet about 🐟and #RStats , but for today's #LGBTQSTEMDay I am proud to say I'm #BiInSci!\n\n(Check out R package #fishualize to make your own colorful fish arrangement!) https://t.co/UXA0Pajtfn", "'Mature student' is just a fancy way for me to say that I am accumulating white hairs at an exponentially increasing rate (p &lt; .05).\n\n@AcademicChatter #AcademicTwitter #phdlife #rstats", "Reminder that if you add `do not edit by hand` at the top of a file, RStudio will show this small message. \n\nThis won't prevent from actually editing the file, but it can be helpful as a visual reminder that users are not supposed to edit this file. \n\n#RStats https://t.co/ktGSLNReMa", "Clifford Attractors (drawing 10 million points with #ggplot2)\n\n#rstats #generativeart #maths \n\nTutorial w/code: https://t.co/nupXxAu4kI https://t.co/mUJj4Cpgr5", "oh, apparently yesterday was #LGBTQSTEMDay. well, I guess some of you are still trapped in November 19th so, thank you to the #rstats community for giving me a place that feels like home https://t.co/qsTJwZHpRP", "Fraud Detection using Deep Learning Dossier. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/gS19SEj5VB https://t.co/oFvin6OYQr", "#30DayMapChallenge Day 18.  Landuse\n\nDistribution of vine, fruits and olivar in Europe.\n\n#dataviz #rspatial #rstats https://t.co/s9yut8wDPo"]
+  "top10_tweets_like": ["Interested in using R Markdown for academic publications? Check out this slide deck I made for @ecodatasci walking through things like citations, cross-referencing, journal-specific formatting, and reproducible workflows https://t.co/Rsdq5dFpim #rmarkdown #rstats #bookdown", "Really looking forward to sharing my favorite daily R crashes in the inevitable RStudio Stories 🙃#rstats https://t.co/wtKKja9x6R", "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v", "'Mature student' is just a fancy way for me to say that I am accumulating white hairs at an exponentially increasing rate (p &lt; .05).\n\n@AcademicChatter #AcademicTwitter #phdlife #rstats", "Reminder that if you add `do not edit by hand` at the top of a file, RStudio will show this small message. \n\nThis won't prevent from actually editing the file, but it can be helpful as a visual reminder that users are not supposed to edit this file. \n\n#RStats https://t.co/ktGSLNReMa", "Fraud Detection using Deep Learning Dossier. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/gS19SEj5VB https://t.co/oFvin6OYQr", "oh, apparently yesterday was #LGBTQSTEMDay. well, I guess some of you are still trapped in November 19th so, thank you to the #rstats community for giving me a place that feels like home https://t.co/qsTJwZHpRP", "I teach and encourage students to use R markdown in my undergrad class and lab. But folks, I hate using markdown myself. I'm annoyed with all the scrolling and I want output in the console/plot area. Is something wrong with me? Or is markdown actually not that great? #Rstats", "#30DayMapChallenge Day 18.  Landuse\n\nDistribution of vine, fruits and olivar in Europe.\n\n#dataviz #rspatial #rstats https://t.co/s9yut8wDPo", "Free eBook: Cloud Native #DevOps with Kubernetes. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/AYUTQtQ54l. https://t.co/pmQGJcZT7n"],
+  "top10_tweets_retweet": ["Interested in using R Markdown for academic publications? Check out this slide deck I made for @ecodatasci walking through things like citations, cross-referencing, journal-specific formatting, and reproducible workflows https://t.co/Rsdq5dFpim #rmarkdown #rstats #bookdown", "Really looking forward to sharing my favorite daily R crashes in the inevitable RStudio Stories 🙃#rstats https://t.co/wtKKja9x6R", "I am happy to announce that Geocomputation with R (https://t.co/kfUFn8m8ai) will be finally available in the paperback format.\n\nComing soon to an online store near you!\n\n(Free online version is always at https://t.co/955yhX7dOE.)\n\n#rspatial #rstats #geocompr https://t.co/TJEwuwgp5v", "'Mature student' is just a fancy way for me to say that I am accumulating white hairs at an exponentially increasing rate (p &lt; .05).\n\n@AcademicChatter #AcademicTwitter #phdlife #rstats", "Reminder that if you add `do not edit by hand` at the top of a file, RStudio will show this small message. \n\nThis won't prevent from actually editing the file, but it can be helpful as a visual reminder that users are not supposed to edit this file. \n\n#RStats https://t.co/ktGSLNReMa", "Fraud Detection using Deep Learning Dossier. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/gS19SEj5VB https://t.co/oFvin6OYQr", "oh, apparently yesterday was #LGBTQSTEMDay. well, I guess some of you are still trapped in November 19th so, thank you to the #rstats community for giving me a place that feels like home https://t.co/qsTJwZHpRP", "I teach and encourage students to use R markdown in my undergrad class and lab. But folks, I hate using markdown myself. I'm annoyed with all the scrolling and I want output in the console/plot area. Is something wrong with me? Or is markdown actually not that great? #Rstats", "#30DayMapChallenge Day 18.  Landuse\n\nDistribution of vine, fruits and olivar in Europe.\n\n#dataviz #rspatial #rstats https://t.co/s9yut8wDPo", "Free eBook: Cloud Native #DevOps with Kubernetes. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/AYUTQtQ54l. https://t.co/pmQGJcZT7n"]
 }
