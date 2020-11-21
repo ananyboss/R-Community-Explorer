@@ -1,10 +1,10 @@
 {
   "summary": [
     {
-      "total_tweets_today": 9443,
-      "average_tweets_per_hour": 393,
-      "tweeters_today": 1364,
-      "total_likes_today": 5587
+      "total_tweets_today": 9266,
+      "average_tweets_per_hour": 386,
+      "tweeters_today": 1361,
+      "total_likes_today": 5575
     }
   ],
   "top20_hashtags": [
@@ -14,27 +14,27 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 160
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 142
+      "Freq": 155
     },
     {
       "Var1": "MachineLearning BigData",
       "Freq": 139
     },
     {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 134
+    },
+    {
       "Var1": "DataScience MachineLearning",
       "Freq": 133
     },
     {
-      "Var1": "BigData Analytics DataScience",
-      "Freq": 115
-    },
-    {
       "Var1": "tidyverse rstats",
       "Freq": 111
+    },
+    {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 109
     },
     {
       "Var1": "DataScience",
@@ -46,11 +46,15 @@
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 94
+      "Freq": 95
     },
     {
       "Var1": "MachineLearning AI",
-      "Freq": 89
+      "Freq": 88
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 85
     },
     {
       "Var1": "DataScience MachineLearning Python AI 100DaysOfCode",
@@ -61,12 +65,12 @@
       "Freq": 83
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 81
+      "Var1": "DEVCommunity 100DaysOfCode",
+      "Freq": 78
     },
     {
-      "Var1": "DEVCommunity 100DaysOfCode",
-      "Freq": 79
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 75
     },
     {
       "Var1": "Python",
@@ -78,97 +82,93 @@
     },
     {
       "Var1": "DEVCommunity MachineLearning",
-      "Freq": 72
+      "Freq": 73
     },
     {
       "Var1": "AugmentedReality VirtualReality AR VR tech ML AI",
-      "Freq": 71
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 70
+      "Freq": 72
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "_100DaysOfCode_",
-      "Freq": 436
+      "Freq": 438
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 353
+      "Freq": 355
     },
     {
       "Var1": "30xcodes",
-      "Freq": 339
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 337
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 336
+      "Freq": 343
     },
     {
       "Var1": "nlognbot",
-      "Freq": 336
+      "Freq": 327
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 326
+    },
+    {
+      "Var1": "friday_Js_bot",
+      "Freq": 325
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 331
-    },
-    {
-      "Var1": "CodeGnuts",
-      "Freq": 297
+      "Freq": 324
     },
     {
       "Var1": "CodEdithCo",
       "Freq": 282
     },
     {
+      "Var1": "CodeGnuts",
+      "Freq": 266
+    },
+    {
       "Var1": "TheSecretJunio1",
-      "Freq": 257
+      "Freq": 250
     },
     {
       "Var1": "the404code",
-      "Freq": 233
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 207
+      "Freq": 243
     },
     {
       "Var1": "BotFemale",
-      "Freq": 206
+      "Freq": 210
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 209
     },
     {
       "Var1": "trendsinAI",
-      "Freq": 203
+      "Freq": 202
     },
     {
       "Var1": "chidambara09",
-      "Freq": 169
+      "Freq": 160
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 154
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 147
+      "Freq": 152
     },
     {
       "Var1": "hubofml",
       "Freq": 144
     },
     {
-      "Var1": "devvibesbot",
-      "Freq": 127
+      "Var1": "TheDeveloperBot",
+      "Freq": 144
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 126
+      "Freq": 125
+    },
+    {
+      "Var1": "devvibesbot",
+      "Freq": 120
     }
   ],
   "top10_tweets_like": ["Did you know that this map is made 100% with R? #Rstats #Rspatial https://t.co/U4ZrjVb1jY https://t.co/dNtJ705WvF", "New publication alert! I have a chapter in here on causal inference with DAGs and inverse probability weighting with #rstats (preprint draft here: https://t.co/60cPL5zT5L). This is a really cool practical book for intro polisci methods! https://t.co/33ytsKCbRd", "MIT’s New Algorithm That Can Decipher Ancient Languages. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/SfZVEYpPX8 https://t.co/WQPLnd4fdg", "New #rstats blog post! Applying PCA to fictional character personalities 📖🎬\n\nIn case you've ever wondered, \"Are Mr. Darcy and Mr. Collins *really* that different?\" (Hint: Yes. Yes they are 😉)\n\nhttps://t.co/8dCM6snfH7 https://t.co/YEhjeZkilV", "Fantastic news that this one is finally out. Congrats to @FranciscoUrdin, @arcruz0, and all the contributors. https://t.co/4I5EABZSVX #rstats #politicalscience #datascience @CRC_MathStats @andrewheiss https://t.co/Tpo8lrMzpW", "\"O que funciona está certo\" frase do  Norberto Odebrecht e epígrafe no novo livro da @malugaspar . Vou citar esse princípio  quando criticarem a bagunça dos meus códigos. #RStats", "The 8 Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/U7lfuyJOgz https://t.co/jg4IsfrvOG", "Augmented Reality will really change the way we study Math 🔥\n\n#AugmentedReality #VirtualReality #AR #VR #tech #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #technology https://t.co/IBsfvTgtwT", "📦🖥️  \"parallaxr • Generate a parallax scroll document in R with YAML and Markdown\"\n\n👤 Martin Chan @martin_rstats \n\nhttps://t.co/zFHDBxTAUS\n#rstats https://t.co/vkrxd8Vfxy", "🧙‍♀️ Started to rework the #RStats {bs4Dash} gallery. I am playing with the automatic plot theming from {thematic} by @cpsievert and {echarts4r} custom theming by @jdatap to provide a better dark theme support. 👁️ https://t.co/QJAU1LBhz1"],
