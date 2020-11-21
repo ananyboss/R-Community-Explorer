@@ -1,56 +1,52 @@
 {
   "summary": [
     {
-      "total_tweets_today": 9144,
-      "average_tweets_per_hour": 381,
-      "tweeters_today": 1316,
-      "total_likes_today": 4680
+      "total_tweets_today": 9062,
+      "average_tweets_per_hour": 378,
+      "tweeters_today": 1307,
+      "total_likes_today": 4819
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 143
+      "Freq": 142
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 118
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 111
+      "Freq": 121
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 108
+      "Freq": 107
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 103
     },
     {
       "Var1": "DataScience MachineLearning",
-      "Freq": 102
+      "Freq": 97
     },
     {
       "Var1": "AWS Analytics MachineLearning AI javascript RStats Reactjs IoT",
       "Freq": 90
     },
     {
-      "Var1": "Python",
-      "Freq": 84
-    },
-    {
       "Var1": "DataScientist selfdrivingcars BigData Analytics DataScience AI ML IIoT Python",
-      "Freq": 80
+      "Freq": 81
     },
     {
       "Var1": "DEVCommunity MachineLearning",
       "Freq": 79
     },
     {
-      "Var1": "tidyverse rstats",
-      "Freq": 79
+      "Var1": "Python",
+      "Freq": 76
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 78
+      "Freq": 75
     },
     {
       "Var1": "AugmentedReality autoencoders",
@@ -58,18 +54,14 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 72
-    },
-    {
-      "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 71
-    },
-    {
-      "Var1": "DataScience",
       "Freq": 70
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Var1": "udemycoupon MachineLearning BigData Analytics",
+      "Freq": 70
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 68
     },
     {
@@ -77,12 +69,20 @@
       "Freq": 67
     },
     {
-      "Var1": "udemycoupon MachineLearning BigData",
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning IoT",
+      "Freq": 67
+    },
+    {
+      "Var1": "tidyverse rstats",
+      "Freq": 67
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 66
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 64
+      "Var1": "udemycoupon MachineLearning BigData",
+      "Freq": 65
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI FinTech IoT",
@@ -91,12 +91,8 @@
   ],
   "top20_tweeters": [
     {
-      "Var1": "_100DaysOfCode_",
-      "Freq": 389
-    },
-    {
       "Var1": "friday_Js_bot",
-      "Freq": 368
+      "Freq": 366
     },
     {
       "Var1": "nlognbot",
@@ -104,73 +100,77 @@
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 361
+      "Freq": 363
     },
     {
       "Var1": "xaelbot",
-      "Freq": 350
+      "Freq": 349
+    },
+    {
+      "Var1": "_100DaysOfCode_",
+      "Freq": 343
     },
     {
       "Var1": "30xcodes",
-      "Freq": 335
-    },
-    {
-      "Var1": "CodeFlawCo",
-      "Freq": 306
+      "Freq": 321
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 296
+      "Freq": 299
     },
     {
-      "Var1": "trendsinAI",
-      "Freq": 280
+      "Var1": "CodeFlawCo",
+      "Freq": 293
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 277
+      "Freq": 282
+    },
+    {
+      "Var1": "trendsinAI",
+      "Freq": 270
     },
     {
       "Var1": "the404code",
-      "Freq": 264
+      "Freq": 259
     },
     {
       "Var1": "BotFemale",
-      "Freq": 223
+      "Freq": 224
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 175
-    },
-    {
-      "Var1": "chidambara09",
-      "Freq": 157
+      "Freq": 176
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 155
+      "Freq": 161
+    },
+    {
+      "Var1": "chidambara09",
+      "Freq": 158
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 153
+      "Freq": 157
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 147
+      "Freq": 151
     },
     {
       "Var1": "hubofml",
-      "Freq": 127
+      "Freq": 125
     },
     {
       "Var1": "devvibesbot",
-      "Freq": 117
+      "Freq": 123
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 115
+      "Freq": 117
     }
   ],
-  "top10_tweets_like": ["#30DayMapChallenge Day 21.  Water\n\nThe fishing activity reflects water, right? So, here is the total hours for 2016 in the Mediterranean Sea. \n\n#dataviz #rspatial #rstats https://t.co/wu8cdxqMvW", "There are so many ways to classify what is urban, suburban, and rural populations so I took one way and put it on a map for Virginia (which is an interestingly representative state for the U.S.)! #30DayMapChallenge #rstats #rspatial Code: https://t.co/p8NhWOpEkz https://t.co/3vLwGIufpn", "The Mathematics and Statistics of Infectious Disease Outbreaks  {https://t.co/7OoXvrIYw5} #rstats #DataScience", "✍️📊 \"New Version of Patchwork is Here: Inset a plot inside a plot - Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/QiZMpMnZ8N\n#rstats https://t.co/fdkiHANmuf", "#vscode can view #rstats help in native WebView pane now. Thanks for the nice work done by our new collaborator ManuelHentschel (the author of VSCode-R-Debugger)! https://t.co/pDcIU222Tg https://t.co/KeQsH8msB6", "Free eBook: Demystifying #MachineLearning for Financial Institutions. #BigData #Analytics #DataScience #AI #FinTech #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UBdWJNhcvE https://t.co/EbCmsPWQA9", "✍️📷 \"How to export high quality images in R :: Anicet Ebou — Biology &amp; Data\"\n\n👤 Anicet Ebou @anicetebou\n\nhttps://t.co/cwyfKRNKKR\n#rstats https://t.co/4dZTo6PaqB", "prython (R + Python) is a novel IDE that allows you to code in R #rstats or #Python (you can even use both within the same project) by connecting panels in a canvas.  https://t.co/OUgaoPBBgM https://t.co/0KpCnl0aAH", "We used to all show off with our laptop stickers, but now that everything happens on Zoom, I tried something else... \n\n#RStats https://t.co/w4bqpJLM51", "Day 20  - Population of the #30DayMapChallenge \nAs a funali if I have to pick one population to map, it has to be cattle. Africa cattle distribution in 2010\n#rstats #rspatial https://t.co/6tILBYY95V"],
-  "top10_tweets_retweet": ["#30DayMapChallenge Day 21.  Water\n\nThe fishing activity reflects water, right? So, here is the total hours for 2016 in the Mediterranean Sea. \n\n#dataviz #rspatial #rstats https://t.co/wu8cdxqMvW", "There are so many ways to classify what is urban, suburban, and rural populations so I took one way and put it on a map for Virginia (which is an interestingly representative state for the U.S.)! #30DayMapChallenge #rstats #rspatial Code: https://t.co/p8NhWOpEkz https://t.co/3vLwGIufpn", "The Mathematics and Statistics of Infectious Disease Outbreaks  {https://t.co/7OoXvrIYw5} #rstats #DataScience", "✍️📊 \"New Version of Patchwork is Here: Inset a plot inside a plot - Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/QiZMpMnZ8N\n#rstats https://t.co/fdkiHANmuf", "#vscode can view #rstats help in native WebView pane now. Thanks for the nice work done by our new collaborator ManuelHentschel (the author of VSCode-R-Debugger)! https://t.co/pDcIU222Tg https://t.co/KeQsH8msB6", "Free eBook: Demystifying #MachineLearning for Financial Institutions. #BigData #Analytics #DataScience #AI #FinTech #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UBdWJNhcvE https://t.co/EbCmsPWQA9", "✍️📷 \"How to export high quality images in R :: Anicet Ebou — Biology &amp; Data\"\n\n👤 Anicet Ebou @anicetebou\n\nhttps://t.co/cwyfKRNKKR\n#rstats https://t.co/4dZTo6PaqB", "prython (R + Python) is a novel IDE that allows you to code in R #rstats or #Python (you can even use both within the same project) by connecting panels in a canvas.  https://t.co/OUgaoPBBgM https://t.co/0KpCnl0aAH", "We used to all show off with our laptop stickers, but now that everything happens on Zoom, I tried something else... \n\n#RStats https://t.co/w4bqpJLM51", "Day 20  - Population of the #30DayMapChallenge \nAs a funali if I have to pick one population to map, it has to be cattle. Africa cattle distribution in 2010\n#rstats #rspatial https://t.co/6tILBYY95V"]
+  "top10_tweets_like": ["#30DayMapChallenge Day 21.  Water\n\nThe fishing activity reflects water, right? So, here is the total hours for 2016 in the Mediterranean Sea. \n\n#dataviz #rspatial #rstats https://t.co/wu8cdxqMvW", "There are so many ways to classify what is urban, suburban, and rural populations so I took one way and put it on a map for Virginia (which is an interestingly representative state for the U.S.)! #30DayMapChallenge #rstats #rspatial Code: https://t.co/p8NhWOpEkz https://t.co/3vLwGIufpn", "The Mathematics and Statistics of Infectious Disease Outbreaks  {https://t.co/7OoXvrIYw5} #rstats #DataScience", "✍️📊 \"New Version of Patchwork is Here: Inset a plot inside a plot - Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/QiZMpMnZ8N\n#rstats https://t.co/fdkiHANmuf", "#vscode can view #rstats help in native WebView pane now. Thanks for the nice work done by our new collaborator ManuelHentschel (the author of VSCode-R-Debugger)! https://t.co/pDcIU222Tg https://t.co/KeQsH8msB6", "prython (R + Python) is a novel IDE that allows you to code in R #rstats or #Python (you can even use both within the same project) by connecting panels in a canvas.  https://t.co/OUgaoPBBgM https://t.co/0KpCnl0aAH", "✍️📷 \"How to export high quality images in R :: Anicet Ebou — Biology &amp; Data\"\n\n👤 Anicet Ebou @anicetebou\n\nhttps://t.co/cwyfKRNKKR\n#rstats https://t.co/4dZTo6PaqB", "We used to all show off with our laptop stickers, but now that everything happens on Zoom, I tried something else... \n\n#RStats https://t.co/w4bqpJLM51", "Free eBook: Demystifying #MachineLearning for Financial Institutions. #BigData #Analytics #DataScience #AI #FinTech #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UBdWJNhcvE https://t.co/EbCmsPWQA9", "I previously wrote about using a controlled vocabulary to name variables in a dataset and how this can help encode metadata and create contracts. \n\nI now have a work-in-progress #rstats package to create and apply 'convo's: https://t.co/E0YxHo8Qp4\n\nSo what does it do?🧵 (1/n) https://t.co/GSayQu6C80 https://t.co/J3iWkJvTxR"],
+  "top10_tweets_retweet": ["#30DayMapChallenge Day 21.  Water\n\nThe fishing activity reflects water, right? So, here is the total hours for 2016 in the Mediterranean Sea. \n\n#dataviz #rspatial #rstats https://t.co/wu8cdxqMvW", "There are so many ways to classify what is urban, suburban, and rural populations so I took one way and put it on a map for Virginia (which is an interestingly representative state for the U.S.)! #30DayMapChallenge #rstats #rspatial Code: https://t.co/p8NhWOpEkz https://t.co/3vLwGIufpn", "The Mathematics and Statistics of Infectious Disease Outbreaks  {https://t.co/7OoXvrIYw5} #rstats #DataScience", "✍️📊 \"New Version of Patchwork is Here: Inset a plot inside a plot - Python and R Tips\"\n\n👤 cmdline_tips @cmdline_tips \n\nhttps://t.co/QiZMpMnZ8N\n#rstats https://t.co/fdkiHANmuf", "#vscode can view #rstats help in native WebView pane now. Thanks for the nice work done by our new collaborator ManuelHentschel (the author of VSCode-R-Debugger)! https://t.co/pDcIU222Tg https://t.co/KeQsH8msB6", "prython (R + Python) is a novel IDE that allows you to code in R #rstats or #Python (you can even use both within the same project) by connecting panels in a canvas.  https://t.co/OUgaoPBBgM https://t.co/0KpCnl0aAH", "✍️📷 \"How to export high quality images in R :: Anicet Ebou — Biology &amp; Data\"\n\n👤 Anicet Ebou @anicetebou\n\nhttps://t.co/cwyfKRNKKR\n#rstats https://t.co/4dZTo6PaqB", "We used to all show off with our laptop stickers, but now that everything happens on Zoom, I tried something else... \n\n#RStats https://t.co/w4bqpJLM51", "Free eBook: Demystifying #MachineLearning for Financial Institutions. #BigData #Analytics #DataScience #AI #FinTech #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UBdWJNhcvE https://t.co/EbCmsPWQA9", "I previously wrote about using a controlled vocabulary to name variables in a dataset and how this can help encode metadata and create contracts. \n\nI now have a work-in-progress #rstats package to create and apply 'convo's: https://t.co/E0YxHo8Qp4\n\nSo what does it do?🧵 (1/n) https://t.co/GSayQu6C80 https://t.co/J3iWkJvTxR"]
 }
