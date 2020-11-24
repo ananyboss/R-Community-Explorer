@@ -1,56 +1,60 @@
 {
   "summary": [
     {
-      "total_tweets_today": 10813,
+      "total_tweets_today": 10825,
       "average_tweets_per_hour": 451,
-      "tweeters_today": 1891,
-      "total_likes_today": 6538
+      "tweeters_today": 1849,
+      "total_likes_today": 6660
     }
   ],
   "top20_hashtags": [
     {
+      "Var1": "MachineLearning",
+      "Freq": 191
+    },
+    {
       "Var1": "tidyverse rstats",
-      "Freq": 193
+      "Freq": 190
     },
     {
       "Var1": "causalinference",
-      "Freq": 182
-    },
-    {
-      "Var1": "MachineLearning",
-      "Freq": 164
+      "Freq": 185
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 154
+      "Freq": 172
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 141
+      "Freq": 140
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 136
     },
     {
-      "Var1": "MachineLearning BigData",
-      "Freq": 131
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 134
     },
     {
-      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Var1": "udemycoupon MachineLearning BigData Analytics",
+      "Freq": 130
+    },
+    {
+      "Var1": "MachineLearning BigData",
       "Freq": 128
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 123
     },
     {
       "Var1": "MachineLearning Python programming 100DaysOfCode",
       "Freq": 121
     },
     {
-      "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 121
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 118
+      "Var1": "100DaysOfCode MachineLearning Python",
+      "Freq": 96
     },
     {
       "Var1": "Python",
@@ -58,10 +62,14 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 88
+      "Freq": 87
     },
     {
       "Var1": "MachineLearning DataScience Python AI",
+      "Freq": 80
+    },
+    {
+      "Var1": "RStats",
       "Freq": 80
     },
     {
@@ -69,15 +77,7 @@
       "Freq": 76
     },
     {
-      "Var1": "RStats",
-      "Freq": 72
-    },
-    {
-      "Var1": "100DaysOfCode MachineLearning Python",
-      "Freq": 68
-    },
-    {
-      "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
+      "Var1": "FibonacciDay BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
       "Freq": 68
     },
     {
@@ -85,78 +85,78 @@
       "Freq": 67
     },
     {
-      "Var1": "FibonacciDay BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 65
+      "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
+      "Freq": 67
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "BotFemale",
-      "Freq": 453
+      "Freq": 450
     },
     {
       "Var1": "_100DaysOfCode_",
-      "Freq": 413
-    },
-    {
-      "Var1": "Women_who_code",
-      "Freq": 390
+      "Freq": 409
     },
     {
       "Var1": "rstatstweet",
+      "Freq": 393
+    },
+    {
+      "Var1": "Women_who_code",
+      "Freq": 387
+    },
+    {
+      "Var1": "30xcodes",
       "Freq": 384
     },
     {
       "Var1": "nlognbot",
-      "Freq": 374
-    },
-    {
-      "Var1": "30xcodes",
-      "Freq": 366
+      "Freq": 377
     },
     {
       "Var1": "xaelbot",
-      "Freq": 364
+      "Freq": 369
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 329
+      "Freq": 338
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 325
+      "Freq": 328
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 303
+      "Freq": 307
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 284
+      "Freq": 279
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 237
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 195
+      "Freq": 238
     },
     {
       "Var1": "trendsinAI",
-      "Freq": 194
+      "Freq": 205
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 196
     },
     {
       "Var1": "chidambara09",
-      "Freq": 191
+      "Freq": 187
     },
     {
       "Var1": "the404code",
-      "Freq": 185
+      "Freq": 179
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 150
+      "Freq": 152
     },
     {
       "Var1": "altf4hashbot",
@@ -164,13 +164,13 @@
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 142
+      "Freq": 132
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 137
+      "Freq": 130
     }
   ],
-  "top10_tweets_like": ["Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "The \"Big Book of R\" is a curated list of 100+ FREE books on R programming: https://t.co/v25q7BwW9p\n\n#BigData #DataScience #DataScientists #Rstats #Statistics #MachineLearning #AI #Coding", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GY58zh https://t.co/7rFjrdUf1v", "#magrittr 2.0 is here with:\n\nimproved %&gt;%\n   speed() %&gt;%\n   bracktraces()  %&gt;%\n   laziness() \n  \n#rstats \n\nhttps://t.co/PrjdF8gtxt", "#30DayMapChallenge day 23 (boundaries) - Contiguous US borders by elevation\n-\nMade in #rayshader #rstats #rspatial https://t.co/aPCpVbUEnd", "Hey Elevation Data Junkies (ok, I made that up), version 0.3.1 of the #rstats elevatr📦is now up on CRAN.  Some bug fixes plus access to new global data sources from the @OpenTopography API #rspatial #rstats https://t.co/f8QwH0dEpu", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay"],
-  "top10_tweets_retweet": ["Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "The \"Big Book of R\" is a curated list of 100+ FREE books on R programming: https://t.co/v25q7BwW9p\n\n#BigData #DataScience #DataScientists #Rstats #Statistics #MachineLearning #AI #Coding", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GY58zh https://t.co/7rFjrdUf1v", "#magrittr 2.0 is here with:\n\nimproved %&gt;%\n   speed() %&gt;%\n   bracktraces()  %&gt;%\n   laziness() \n  \n#rstats \n\nhttps://t.co/PrjdF8gtxt", "#30DayMapChallenge day 23 (boundaries) - Contiguous US borders by elevation\n-\nMade in #rayshader #rstats #rspatial https://t.co/aPCpVbUEnd", "Hey Elevation Data Junkies (ok, I made that up), version 0.3.1 of the #rstats elevatr📦is now up on CRAN.  Some bug fixes plus access to new global data sources from the @OpenTopography API #rspatial #rstats https://t.co/f8QwH0dEpu", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay"]
+  "top10_tweets_like": ["Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "The \"Big Book of R\" is a curated list of 100+ FREE books on R programming: https://t.co/v25q7BwW9p\n\n#BigData #DataScience #DataScientists #Rstats #Statistics #MachineLearning #AI #Coding", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GY58zh https://t.co/7rFjrdUf1v", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "#30DayMapChallenge day 23 (boundaries) - Contiguous US borders by elevation\n-\nMade in #rayshader #rstats #rspatial https://t.co/aPCpVbUEnd", "Hey Elevation Data Junkies (ok, I made that up), version 0.3.1 of the #rstats elevatr📦is now up on CRAN.  Some bug fixes plus access to new global data sources from the @OpenTopography API #rspatial #rstats https://t.co/f8QwH0dEpu", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay", "🤖 usethis v2.0.0 is on the horizon 🌅\nIf you understand the rewards (and risks) of installing a dev version, please try it out and report any issues!\nEspecially if you use the Git/GitHub functions, use GitHub Enterprise, and/or use Windows. #RStats \nhttps://t.co/d49SnyDUx2"],
+  "top10_tweets_retweet": ["Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "The \"Big Book of R\" is a curated list of 100+ FREE books on R programming: https://t.co/v25q7BwW9p\n\n#BigData #DataScience #DataScientists #Rstats #Statistics #MachineLearning #AI #Coding", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GY58zh https://t.co/7rFjrdUf1v", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "#30DayMapChallenge day 23 (boundaries) - Contiguous US borders by elevation\n-\nMade in #rayshader #rstats #rspatial https://t.co/aPCpVbUEnd", "Hey Elevation Data Junkies (ok, I made that up), version 0.3.1 of the #rstats elevatr📦is now up on CRAN.  Some bug fixes plus access to new global data sources from the @OpenTopography API #rspatial #rstats https://t.co/f8QwH0dEpu", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay", "🤖 usethis v2.0.0 is on the horizon 🌅\nIf you understand the rewards (and risks) of installing a dev version, please try it out and report any issues!\nEspecially if you use the Git/GitHub functions, use GitHub Enterprise, and/or use Windows. #RStats \nhttps://t.co/d49SnyDUx2"]
 }
