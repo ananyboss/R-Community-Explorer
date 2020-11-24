@@ -1,28 +1,28 @@
 {
   "summary": [
     {
-      "total_tweets_today": 11330,
-      "average_tweets_per_hour": 472,
-      "tweeters_today": 1888,
-      "total_likes_today": 7254
+      "total_tweets_today": 11641,
+      "average_tweets_per_hour": 485,
+      "tweeters_today": 1904,
+      "total_likes_today": 7688
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 207
+      "Freq": 202
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 191
+      "Freq": 192
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 127
+      "Freq": 125
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 118
+      "Freq": 115
     },
     {
       "Var1": "MachineLearning BigData",
@@ -33,16 +33,24 @@
       "Freq": 105
     },
     {
-      "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 105
+      "Var1": "udemycoupon MachineLearning BigData Analytics",
+      "Freq": 101
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 103
+      "Freq": 100
     },
     {
-      "Var1": "udemycoupon MachineLearning BigData Analytics",
+      "Var1": "udemycoupon MachineLearning BigData",
       "Freq": 99
+    },
+    {
+      "Var1": "causalinference",
+      "Freq": 95
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 93
     },
     {
       "Var1": "MachineLearning BigData Analytics",
@@ -53,20 +61,16 @@
       "Freq": 89
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 88
-    },
-    {
-      "Var1": "causalinference",
-      "Freq": 82
+      "Var1": "RStats",
+      "Freq": 86
     },
     {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
       "Freq": 82
     },
     {
-      "Var1": "RStats",
-      "Freq": 82
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 78
     },
     {
       "Var1": "DataScience MachineLearning Python AI",
@@ -81,10 +85,6 @@
       "Freq": 73
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 72
-    },
-    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
       "Freq": 71
     }
@@ -92,85 +92,85 @@
   "top20_tweeters": [
     {
       "Var1": "_100DaysOfCode_",
-      "Freq": 533
+      "Freq": 546
     },
     {
       "Var1": "BotFemale",
-      "Freq": 417
+      "Freq": 453
     },
     {
       "Var1": "30xcodes",
-      "Freq": 408
+      "Freq": 418
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 401
+      "Freq": 417
     },
     {
       "Var1": "xaelbot",
-      "Freq": 397
+      "Freq": 413
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 387
+      "Freq": 405
     },
     {
       "Var1": "nlognbot",
-      "Freq": 382
+      "Freq": 392
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 365
+      "Freq": 352
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 324
+      "Freq": 344
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 317
+      "Freq": 323
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 307
+      "Freq": 319
     },
     {
       "Var1": "trendsinAI",
-      "Freq": 229
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 210
+      "Freq": 244
     },
     {
       "Var1": "chidambara09",
-      "Freq": 185
+      "Freq": 223
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 200
     },
     {
       "Var1": "the404code",
-      "Freq": 179
+      "Freq": 188
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 177
+      "Freq": 187
     },
     {
       "Var1": "datasciencebot_",
-      "Freq": 173
+      "Freq": 181
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 140
+      "Freq": 146
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 131
+      "Freq": 134
     },
     {
       "Var1": "femtech_",
-      "Freq": 121
+      "Freq": 123
     }
   ],
-  "top10_tweets_like": ["Just submitted the manuscript for our computational methods textbook! Will be fully open access with 459 pages and over 300 code examples in Python and R side-by-side. https://t.co/CqDfEEBVoK w/ @damian0604 &amp; @carlosarcila #computationalscience #RStats #Python https://t.co/PugwH6SqYE", "This one has been itching in my brain for a while 🛹👾\n\nLearn more about R Projects (https://t.co/1xuHNmzRe1) and the here📦(https://t.co/utGeith6wN) for data analysis workflows that shred. \n\nAlso this post from @malco_barrett: https://t.co/fgOcAkRJsV\n\n#rstats https://t.co/4StQuMQ2lB", "I'm happy to announce that magrittr 2.0 is on CRAN! It solves longstanding issues of overhead and now uses a lazy approach for increased compatibility with the future base pipe `|&gt;` of #RStats 4.1. Read about it at https://t.co/KcTgtomAS5", "Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "My first R models are in production. Many thanks to @skyetetra for the GitHub repo on using R &amp; Docker. Proud to say that all work was done in @rstudio using {tidyverse}, {tidymodels}, and more. #RStats", "Hey #rstats (and anyone else who writes code for data science). \nHow do you teach debugging to people who are more junior? I feel like it's such an important skill and yet we seem to have no structured framework for teaching it", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "Version 0.1.2 of {tune} is now on CRAN. Read all about it here: \n\nhttps://t.co/yxbV2T7qKW\n\nBit wait! There's more! \n\nWe'll have two more blog posts for {tune} this week (on sparse matrices and parallel processing)\n\n#rstats https://t.co/1gPnRA1r8L"],
-  "top10_tweets_retweet": ["Just submitted the manuscript for our computational methods textbook! Will be fully open access with 459 pages and over 300 code examples in Python and R side-by-side. https://t.co/CqDfEEBVoK w/ @damian0604 &amp; @carlosarcila #computationalscience #RStats #Python https://t.co/PugwH6SqYE", "This one has been itching in my brain for a while 🛹👾\n\nLearn more about R Projects (https://t.co/1xuHNmzRe1) and the here📦(https://t.co/utGeith6wN) for data analysis workflows that shred. \n\nAlso this post from @malco_barrett: https://t.co/fgOcAkRJsV\n\n#rstats https://t.co/4StQuMQ2lB", "I'm happy to announce that magrittr 2.0 is on CRAN! It solves longstanding issues of overhead and now uses a lazy approach for increased compatibility with the future base pipe `|&gt;` of #RStats 4.1. Read about it at https://t.co/KcTgtomAS5", "Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "My first R models are in production. Many thanks to @skyetetra for the GitHub repo on using R &amp; Docker. Proud to say that all work was done in @rstudio using {tidyverse}, {tidymodels}, and more. #RStats", "Hey #rstats (and anyone else who writes code for data science). \nHow do you teach debugging to people who are more junior? I feel like it's such an important skill and yet we seem to have no structured framework for teaching it", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "Version 0.1.2 of {tune} is now on CRAN. Read all about it here: \n\nhttps://t.co/yxbV2T7qKW\n\nBit wait! There's more! \n\nWe'll have two more blog posts for {tune} this week (on sparse matrices and parallel processing)\n\n#rstats https://t.co/1gPnRA1r8L"]
+  "top10_tweets_like": ["Just submitted the manuscript for our computational methods textbook! Will be fully open access with 459 pages and over 300 code examples in Python and R side-by-side. https://t.co/CqDfEEBVoK w/ @damian0604 &amp; @carlosarcila #computationalscience #RStats #Python https://t.co/PugwH6SqYE", "This one has been itching in my brain for a while 🛹👾\n\nLearn more about R Projects (https://t.co/1xuHNmzRe1) and the here📦(https://t.co/utGeith6wN) for data analysis workflows that shred. \n\nAlso this post from @malco_barrett: https://t.co/fgOcAkRJsV\n\n#rstats https://t.co/4StQuMQ2lB", "I'm happy to announce that magrittr 2.0 is on CRAN! It solves longstanding issues of overhead and now uses a lazy approach for increased compatibility with the future base pipe `|&gt;` of #RStats 4.1. Read about it at https://t.co/KcTgtomAS5", "Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "My first R models are in production. Many thanks to @skyetetra for the GitHub repo on using R &amp; Docker. Proud to say that all work was done in @rstudio using {tidyverse}, {tidymodels}, and more. #RStats", "Hey #rstats (and anyone else who writes code for data science). \nHow do you teach debugging to people who are more junior? I feel like it's such an important skill and yet we seem to have no structured framework for teaching it", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "Version 0.1.2 of {tune} is now on CRAN. Read all about it here: \n\nhttps://t.co/yxbV2T7qKW\n\nBit wait! There's more! \n\nWe'll have two more blog posts for {tune} this week (on sparse matrices and parallel processing)\n\n#rstats https://t.co/1gPnRA1r8L"],
+  "top10_tweets_retweet": ["Just submitted the manuscript for our computational methods textbook! Will be fully open access with 459 pages and over 300 code examples in Python and R side-by-side. https://t.co/CqDfEEBVoK w/ @damian0604 &amp; @carlosarcila #computationalscience #RStats #Python https://t.co/PugwH6SqYE", "This one has been itching in my brain for a while 🛹👾\n\nLearn more about R Projects (https://t.co/1xuHNmzRe1) and the here📦(https://t.co/utGeith6wN) for data analysis workflows that shred. \n\nAlso this post from @malco_barrett: https://t.co/fgOcAkRJsV\n\n#rstats https://t.co/4StQuMQ2lB", "I'm happy to announce that magrittr 2.0 is on CRAN! It solves longstanding issues of overhead and now uses a lazy approach for increased compatibility with the future base pipe `|&gt;` of #RStats 4.1. Read about it at https://t.co/KcTgtomAS5", "Interested in #causalinference?\n\nEnjoy these free materials:\n\nBOOK - Causal Inference: What If \nhttps://t.co/bRPFYazK2D\n\nCOURSE - Causal Diagrams: Draw your assumptions before your conclusions\nhttps://t.co/MoJe06IVtx\n\nSOFTWARE in #Rstats and @SASsoftware:\nhttps://t.co/vk4cWnVWmZ https://t.co/waRGHX7UTF", "🚨New 📦 Release🚨 We’re very glad (with @favstats) to release {tiktokr}, an #rstats package to get data from TikTok. If you’re into #TikTok and #datascience and want to stick with R for your TikTok analyses, this is for you! \n \nhttps://t.co/zPM0pSgr57 https://t.co/lCCEJNjF9S", "My first R models are in production. Many thanks to @skyetetra for the GitHub repo on using R &amp; Docker. Proud to say that all work was done in @rstudio using {tidyverse}, {tidymodels}, and more. #RStats", "Hey #rstats (and anyone else who writes code for data science). \nHow do you teach debugging to people who are more junior? I feel like it's such an important skill and yet we seem to have no structured framework for teaching it", "自然は芸術の機械を変えます！🍂\nNature turns machines in art! 📷\n#photography #PhotographyIsArt #Pictureoftheday #picoftheday #colours #Sony #SonyAlpha #MachineLearning #nature #Fleets #autumn2020 #autumn #RStats https://t.co/CWLLxiJFnR", "anscombiser: creates datasets with identical summary statistics (means, variances, correlation, regression coefficients), but look wildly different.  https://t.co/7q9HOLTkWh #rstats https://t.co/nQQuza5hTO", "Version 0.1.2 of {tune} is now on CRAN. Read all about it here: \n\nhttps://t.co/yxbV2T7qKW\n\nBit wait! There's more! \n\nWe'll have two more blog posts for {tune} this week (on sparse matrices and parallel processing)\n\n#rstats https://t.co/1gPnRA1r8L"]
 }
