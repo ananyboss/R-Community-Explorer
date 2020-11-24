@@ -1,52 +1,52 @@
 {
   "summary": [
     {
-      "total_tweets_today": 10157,
-      "average_tweets_per_hour": 423,
-      "tweeters_today": 1699,
-      "total_likes_today": 5872
+      "total_tweets_today": 10079,
+      "average_tweets_per_hour": 420,
+      "tweeters_today": 1648,
+      "total_likes_today": 5836
     }
   ],
   "top20_hashtags": [
-    {
-      "Var1": "causalinference",
-      "Freq": 198
-    },
     {
       "Var1": "MachineLearning",
       "Freq": 184
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 182
+      "Freq": 178
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 162
+      "Freq": 176
+    },
+    {
+      "Var1": "causalinference",
+      "Freq": 159
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 127
+      "Freq": 132
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 127
+      "Freq": 126
     },
     {
       "Var1": "RStats",
-      "Freq": 119
+      "Freq": 116
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 118
+      "Freq": 113
     },
     {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 108
+      "Freq": 103
     },
     {
       "Var1": "MachineLearning Python programming 100DaysOfCode",
-      "Freq": 103
+      "Freq": 102
     },
     {
       "Var1": "MachineLearning BigData",
@@ -54,7 +54,7 @@
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 100
+      "Freq": 97
     },
     {
       "Var1": "100DaysOfCode MachineLearning Python",
@@ -66,85 +66,85 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 83
+    },
+    {
+      "Var1": "rstats DataScience",
       "Freq": 81
     },
     {
-      "Var1": "BigData DataScience",
-      "Freq": 77
+      "Var1": "Programming Books DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python",
+      "Freq": 75
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python",
-      "Freq": 74
-    },
-    {
-      "Var1": "Programming Books DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python",
-      "Freq": 70
+      "Freq": 73
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 69
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 67
+      "Var1": "Analytics javascript Python Java AI DataScience IoT IIoT BigData Linux DEVCommunity",
+      "Freq": 68
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "BotFemale",
-      "Freq": 439
+      "Freq": 433
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 431
+      "Freq": 413
     },
     {
       "Var1": "nlognbot",
-      "Freq": 360
+      "Freq": 363
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 359
+      "Freq": 362
     },
     {
       "Var1": "xaelbot",
-      "Freq": 350
+      "Freq": 355
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 328
-    },
-    {
-      "Var1": "CodeFlawCo",
-      "Freq": 325
+      "Freq": 330
     },
     {
       "Var1": "30xcodes",
+      "Freq": 324
+    },
+    {
+      "Var1": "CodeFlawCo",
       "Freq": 316
     },
     {
-      "Var1": "friday_Js_bot",
-      "Freq": 281
+      "Var1": "TheSecretJunio1",
+      "Freq": 282
     },
     {
-      "Var1": "TheSecretJunio1",
-      "Freq": 281
+      "Var1": "friday_Js_bot",
+      "Freq": 270
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 278
+      "Freq": 268
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 243
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 213
+      "Freq": 253
     },
     {
       "Var1": "trendsinAI",
-      "Freq": 202
+      "Freq": 214
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 208
     },
     {
       "Var1": "chidambara09",
@@ -152,25 +152,25 @@
     },
     {
       "Var1": "_100DaysOfCode_",
-      "Freq": 176
+      "Freq": 175
     },
     {
       "Var1": "altf4hashbot",
-      "Freq": 146
+      "Freq": 145
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 144
+      "Freq": 145
     },
     {
       "Var1": "the404code",
-      "Freq": 139
+      "Freq": 140
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 131
+      "Freq": 127
     }
   ],
-  "top10_tweets_like": ["New blog post: \"Least squares as springs\" https://t.co/oMNgOP4OHY\n\nRegression, principal components, machine learning... it's all just *springs pulling the model toward the data* 🤯\n\nWhy don't we learn it this way?!\n\n#StatsTwitter #rstats #ML #AI #MachineLearning #EconTwitter https://t.co/IrdGpGiSjf", "This has been the final hill to climb for my years long quest for modern font support in #rstats graphic https://t.co/BBM2woQoHF", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay", "#30DayMapChallenge day 23 (boundaries) - Contiguous US borders by elevation\n-\nMade in #rayshader #rstats #rspatial https://t.co/aPCpVbUEnd", "Thanks to @AntonyBarja1 for contributing a hex logo for the latest #rstats/@qgis 📦! Hoping to get back to development soon to add support for more R object types and implement new features added for QGIS 3.16! https://t.co/SApE7GUUdg https://t.co/Gmko8D9t53", "Your data is never \"missing at random\". It left you for a data scientist that is younger, more talented, more attractive and less emotionally distant due to better methodological choices that avoid the curse of dimensionality. #rstats #pydata #datascience", "🤖 usethis v2.0.0 is on the horizon 🌅\nIf you understand the rewards (and risks) of installing a dev version, please try it out and report any issues!\nEspecially if you use the Git/GitHub functions, use GitHub Enterprise, and/or use Windows. #RStats \nhttps://t.co/d49SnyDUx2", "#rstats 📦 update! Now v0.6 of {pointblank} is in CRAN. There are so many more things that can be done in this release, like, creating a data dictionary! Also, the docs got some love this time around. I wrote all about that (and more) in this blog post: https://t.co/QfS24oj9Cy ✅ https://t.co/8dPv2lB4tA", "marine animal #biologging tracks crossing land gotcha down? it's early days in devel but the #rstats #rspatial {pathroutr} package might be just the fast, pragmatic solution you need. uses visibility graph &amp; mesh networks to route your animals thru water. https://t.co/v6irUJhfNF https://t.co/laodydOROa", "In stats class it would be difficult to decide who is the sus\n#RStats #DatatScience #Python https://t.co/DJIZUE7Oaz"],
-  "top10_tweets_retweet": ["New blog post: \"Least squares as springs\" https://t.co/oMNgOP4OHY\n\nRegression, principal components, machine learning... it's all just *springs pulling the model toward the data* 🤯\n\nWhy don't we learn it this way?!\n\n#StatsTwitter #rstats #ML #AI #MachineLearning #EconTwitter https://t.co/IrdGpGiSjf", "This has been the final hill to climb for my years long quest for modern font support in #rstats graphic https://t.co/BBM2woQoHF", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay", "#30DayMapChallenge day 23 (boundaries) - Contiguous US borders by elevation\n-\nMade in #rayshader #rstats #rspatial https://t.co/aPCpVbUEnd", "Thanks to @AntonyBarja1 for contributing a hex logo for the latest #rstats/@qgis 📦! Hoping to get back to development soon to add support for more R object types and implement new features added for QGIS 3.16! https://t.co/SApE7GUUdg https://t.co/Gmko8D9t53", "Your data is never \"missing at random\". It left you for a data scientist that is younger, more talented, more attractive and less emotionally distant due to better methodological choices that avoid the curse of dimensionality. #rstats #pydata #datascience", "🤖 usethis v2.0.0 is on the horizon 🌅\nIf you understand the rewards (and risks) of installing a dev version, please try it out and report any issues!\nEspecially if you use the Git/GitHub functions, use GitHub Enterprise, and/or use Windows. #RStats \nhttps://t.co/d49SnyDUx2", "#rstats 📦 update! Now v0.6 of {pointblank} is in CRAN. There are so many more things that can be done in this release, like, creating a data dictionary! Also, the docs got some love this time around. I wrote all about that (and more) in this blog post: https://t.co/QfS24oj9Cy ✅ https://t.co/8dPv2lB4tA", "marine animal #biologging tracks crossing land gotcha down? it's early days in devel but the #rstats #rspatial {pathroutr} package might be just the fast, pragmatic solution you need. uses visibility graph &amp; mesh networks to route your animals thru water. https://t.co/v6irUJhfNF https://t.co/laodydOROa", "In stats class it would be difficult to decide who is the sus\n#RStats #DatatScience #Python https://t.co/DJIZUE7Oaz"]
+  "top10_tweets_like": ["New blog post: \"Least squares as springs\" https://t.co/oMNgOP4OHY\n\nRegression, principal components, machine learning... it's all just *springs pulling the model toward the data* 🤯\n\nWhy don't we learn it this way?!\n\n#StatsTwitter #rstats #ML #AI #MachineLearning #EconTwitter https://t.co/IrdGpGiSjf", "This has been the final hill to climb for my years long quest for modern font support in #rstats graphic https://t.co/BBM2woQoHF", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay", "Thanks to @AntonyBarja1 for contributing a hex logo for the latest #rstats/@qgis 📦! Hoping to get back to development soon to add support for more R object types and implement new features added for QGIS 3.16! https://t.co/SApE7GUUdg https://t.co/Gmko8D9t53", "Your data is never \"missing at random\". It left you for a data scientist that is younger, more talented, more attractive and less emotionally distant due to better methodological choices that avoid the curse of dimensionality. #rstats #pydata #datascience", "🤖 usethis v2.0.0 is on the horizon 🌅\nIf you understand the rewards (and risks) of installing a dev version, please try it out and report any issues!\nEspecially if you use the Git/GitHub functions, use GitHub Enterprise, and/or use Windows. #RStats \nhttps://t.co/d49SnyDUx2", "#rstats 📦 update! Now v0.6 of {pointblank} is in CRAN. There are so many more things that can be done in this release, like, creating a data dictionary! Also, the docs got some love this time around. I wrote all about that (and more) in this blog post: https://t.co/QfS24oj9Cy ✅ https://t.co/8dPv2lB4tA", "marine animal #biologging tracks crossing land gotcha down? it's early days in devel but the #rstats #rspatial {pathroutr} package might be just the fast, pragmatic solution you need. uses visibility graph &amp; mesh networks to route your animals thru water. https://t.co/v6irUJhfNF https://t.co/laodydOROa", "In stats class it would be difficult to decide who is the sus\n#RStats #DatatScience #Python https://t.co/DJIZUE7Oaz", "Borders between U.S. states that are also/originally rivers #30DayMapChallenge #rstats #rspatial Code: https://t.co/KgOjd91iFW (Let me know if I missed any major ones-- there's a decent chance I did while trying to work quickly!) https://t.co/fODFqZ05u1"],
+  "top10_tweets_retweet": ["New blog post: \"Least squares as springs\" https://t.co/oMNgOP4OHY\n\nRegression, principal components, machine learning... it's all just *springs pulling the model toward the data* 🤯\n\nWhy don't we learn it this way?!\n\n#StatsTwitter #rstats #ML #AI #MachineLearning #EconTwitter https://t.co/IrdGpGiSjf", "This has been the final hill to climb for my years long quest for modern font support in #rstats graphic https://t.co/BBM2woQoHF", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/ycK0JVwxfT https://t.co/munlb5iVay", "Thanks to @AntonyBarja1 for contributing a hex logo for the latest #rstats/@qgis 📦! Hoping to get back to development soon to add support for more R object types and implement new features added for QGIS 3.16! https://t.co/SApE7GUUdg https://t.co/Gmko8D9t53", "Your data is never \"missing at random\". It left you for a data scientist that is younger, more talented, more attractive and less emotionally distant due to better methodological choices that avoid the curse of dimensionality. #rstats #pydata #datascience", "🤖 usethis v2.0.0 is on the horizon 🌅\nIf you understand the rewards (and risks) of installing a dev version, please try it out and report any issues!\nEspecially if you use the Git/GitHub functions, use GitHub Enterprise, and/or use Windows. #RStats \nhttps://t.co/d49SnyDUx2", "#rstats 📦 update! Now v0.6 of {pointblank} is in CRAN. There are so many more things that can be done in this release, like, creating a data dictionary! Also, the docs got some love this time around. I wrote all about that (and more) in this blog post: https://t.co/QfS24oj9Cy ✅ https://t.co/8dPv2lB4tA", "marine animal #biologging tracks crossing land gotcha down? it's early days in devel but the #rstats #rspatial {pathroutr} package might be just the fast, pragmatic solution you need. uses visibility graph &amp; mesh networks to route your animals thru water. https://t.co/v6irUJhfNF https://t.co/laodydOROa", "In stats class it would be difficult to decide who is the sus\n#RStats #DatatScience #Python https://t.co/DJIZUE7Oaz", "Borders between U.S. states that are also/originally rivers #30DayMapChallenge #rstats #rspatial Code: https://t.co/KgOjd91iFW (Let me know if I missed any major ones-- there's a decent chance I did while trying to work quickly!) https://t.co/fODFqZ05u1"]
 }
