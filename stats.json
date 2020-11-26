@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8762,
-      "average_tweets_per_hour": 365,
-      "tweeters_today": 1622,
-      "total_likes_today": 7830
+      "total_tweets_today": 8569,
+      "average_tweets_per_hour": 357,
+      "tweeters_today": 1606,
+      "total_likes_today": 7667
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "Python DEVCommunity 100DaysOfCode MachineLearning programming IoT",
-      "Freq": 494
+      "Freq": 453
     },
     {
       "Var1": "tidyverse rstats",
@@ -18,7 +18,7 @@
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 196
+      "Freq": 190
     },
     {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
@@ -26,15 +26,11 @@
     },
     {
       "Var1": "RStats",
-      "Freq": 174
+      "Freq": 173
     },
     {
       "Var1": "MachineLearning BigData",
       "Freq": 153
-    },
-    {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
-      "Freq": 114
     },
     {
       "Var1": "BigData Analytics DataScience DeepLearning",
@@ -49,12 +45,16 @@
       "Freq": 87
     },
     {
-      "Var1": "Books Mathematics BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
-      "Freq": 79
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python RStats TensorFlow",
+      "Freq": 85
     },
     {
       "Var1": "BigData Analytics DataScience AI",
       "Freq": 71
+    },
+    {
+      "Var1": "Books Mathematics BigData Analytics DataScience IoT IIoT Python RStats TensorFlow",
+      "Freq": 61
     },
     {
       "Var1": "MachineLearning",
@@ -69,11 +69,15 @@
       "Freq": 49
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 48
+      "Var1": "Books BigData Analytics DataScience IoT IIoT Python RStats",
+      "Freq": 45
     },
     {
       "Var1": "Python DEVCommunity 100DaysOfCode MachineLearning",
+      "Freq": 45
+    },
+    {
+      "Var1": "Rstats",
       "Freq": 45
     },
     {
@@ -81,96 +85,92 @@
       "Freq": 43
     },
     {
-      "Var1": "100DaysOfCode MachineLearning Python programming IoT",
-      "Freq": 41
-    },
-    {
-      "Var1": "Apollo12 bigdata AI IoT Tech Data USA",
-      "Freq": 41
+      "Var1": "MachineLearning Algorithms BigData Analytics",
+      "Freq": 42
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 513
+      "Freq": 520
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 407
+      "Freq": 394
     },
     {
       "Var1": "30xcodes",
-      "Freq": 360
+      "Freq": 350
     },
     {
       "Var1": "nlognbot",
-      "Freq": 344
+      "Freq": 340
     },
     {
       "Var1": "Women_who_code",
-      "Freq": 344
-    },
-    {
-      "Var1": "LlnuxBot",
-      "Freq": 334
+      "Freq": 340
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 331
+      "Freq": 330
+    },
+    {
+      "Var1": "LlnuxBot",
+      "Freq": 323
     },
     {
       "Var1": "BotFemale",
-      "Freq": 314
+      "Freq": 297
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 281
+      "Freq": 268
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 255
+      "Freq": 253
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 235
+      "Freq": 233
     },
     {
       "Var1": "chidambara09",
-      "Freq": 128
+      "Freq": 114
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 112
-    },
-    {
-      "Var1": "the404code",
-      "Freq": 110
+      "Freq": 107
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 96
+      "Freq": 97
     },
     {
-      "Var1": "fluttbot",
-      "Freq": 94
+      "Var1": "the404code",
+      "Freq": 97
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 94
     },
     {
-      "Var1": "_codenewbiebot",
+      "Var1": "fluttbot",
       "Freq": 93
     },
     {
+      "Var1": "_codenewbiebot",
+      "Freq": 90
+    },
+    {
       "Var1": "friday_Js_bot",
-      "Freq": 80
+      "Freq": 82
     },
     {
       "Var1": "femtech_",
-      "Freq": 78
+      "Freq": 79
     }
   ],
-  "top10_tweets_like": ["People using R for crazy modelling techniques, stunning maps, building aps, making video games and probably bringing unicorns back from extinction!  Then there's me Googling \"change axis labels in ggplot2\" for the millionth time this year! #phdchat #phdlife #RStats", "I am very happy to say that you can now create tables in PDF format (in addition to HTML, Word and PowerPoint) with the #rstats #flextable package. I am preparing a new version for CRAN, your feedbacks are welcome! https://t.co/zMJyRDNzM5 https://t.co/3ghE6gMPp9", "Introducing a work-in-progress #rstats package called postcards: a small collection of R Markdown templates to help you quickly create a personal website or landing page. I would really appreciate your feedback before I send this to cran! https://t.co/iui0KJ6c3y https://t.co/80bHRS1d2R", "Hi #TidyTuesday fam. My #DataVisualization on the #hiking dataset by @tidy_explained (Also submission for their amazing screencast!😊). It shows a summary on the hiking locations (tracks, length, elevation).\n\nDone in #Rstats #ggplot2 #tidyverse ofc.\n\ncode:https://t.co/9RVvOah6HG https://t.co/gJK5mTSy41", "How to Learn Math for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/hzV7npN9J6 https://t.co/UPjn2u6EI3", "✍️📜 \"Academic Publications with R Markdown\"\n\n👤 Dan Ovando @danovand0 \n\nhttps://t.co/8AysDiq0sL\n#rstats https://t.co/9ezQxVnoYv", "New system! (though it builds upon both genesis and storms)\n\nAs something new I'll keep the palette fixed for this system so I hope you're prepared for some spring feeling 🌈\n\nprism46 #generative #creativecoding #rstats https://t.co/4I6sFda5kR", "#RStats world, save the date! useR! 2021 will take place virtually from July 5-9, 2021. Catch a first glimpse of the conference on our website, learn about a few key dates, check our blog or say 'hi' to our mascot. https://t.co/mVztj1OQZ5 #useR2021.", "Free eBooks: Free Study #Books on #Mathematics. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats  #TensorFlow #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/9baakusPwL", "Had a great time yesterday with @RLadiesAlgiers talking about column-wise &amp; row-wise operations with #dplyr for more efficient data wrangling, summarizing &amp; modeling. Feel free to check out the slides for some tips on using R more \"wisely\" 🦉 #rstats\n\nhttps://t.co/6ZUKDzM2ko"],
-  "top10_tweets_retweet": ["People using R for crazy modelling techniques, stunning maps, building aps, making video games and probably bringing unicorns back from extinction!  Then there's me Googling \"change axis labels in ggplot2\" for the millionth time this year! #phdchat #phdlife #RStats", "I am very happy to say that you can now create tables in PDF format (in addition to HTML, Word and PowerPoint) with the #rstats #flextable package. I am preparing a new version for CRAN, your feedbacks are welcome! https://t.co/zMJyRDNzM5 https://t.co/3ghE6gMPp9", "Introducing a work-in-progress #rstats package called postcards: a small collection of R Markdown templates to help you quickly create a personal website or landing page. I would really appreciate your feedback before I send this to cran! https://t.co/iui0KJ6c3y https://t.co/80bHRS1d2R", "Hi #TidyTuesday fam. My #DataVisualization on the #hiking dataset by @tidy_explained (Also submission for their amazing screencast!😊). It shows a summary on the hiking locations (tracks, length, elevation).\n\nDone in #Rstats #ggplot2 #tidyverse ofc.\n\ncode:https://t.co/9RVvOah6HG https://t.co/gJK5mTSy41", "How to Learn Math for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Mathematics #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/hzV7npN9J6 https://t.co/UPjn2u6EI3", "✍️📜 \"Academic Publications with R Markdown\"\n\n👤 Dan Ovando @danovand0 \n\nhttps://t.co/8AysDiq0sL\n#rstats https://t.co/9ezQxVnoYv", "New system! (though it builds upon both genesis and storms)\n\nAs something new I'll keep the palette fixed for this system so I hope you're prepared for some spring feeling 🌈\n\nprism46 #generative #creativecoding #rstats https://t.co/4I6sFda5kR", "#RStats world, save the date! useR! 2021 will take place virtually from July 5-9, 2021. Catch a first glimpse of the conference on our website, learn about a few key dates, check our blog or say 'hi' to our mascot. https://t.co/mVztj1OQZ5 #useR2021.", "Free eBooks: Free Study #Books on #Mathematics. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats  #TensorFlow #CyberSecurity #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/Qh4MybNpoe https://t.co/9baakusPwL", "Had a great time yesterday with @RLadiesAlgiers talking about column-wise &amp; row-wise operations with #dplyr for more efficient data wrangling, summarizing &amp; modeling. Feel free to check out the slides for some tips on using R more \"wisely\" 🦉 #rstats\n\nhttps://t.co/6ZUKDzM2ko"]
+  "top10_tweets_like": ["People using R for crazy modelling techniques, stunning maps, building aps, making video games and probably bringing unicorns back from extinction!  Then there's me Googling \"change axis labels in ggplot2\" for the millionth time this year! #phdchat #phdlife #RStats", "I am very happy to say that you can now create tables in PDF format (in addition to HTML, Word and PowerPoint) with the #rstats #flextable package. I am preparing a new version for CRAN, your feedbacks are welcome! https://t.co/zMJyRDNzM5 https://t.co/3ghE6gMPp9", "Introducing a work-in-progress #rstats package called postcards: a small collection of R Markdown templates to help you quickly create a personal website or landing page. I would really appreciate your feedback before I send this to cran! https://t.co/iui0KJ6c3y https://t.co/80bHRS1d2R", "Hi #TidyTuesday fam. My #DataVisualization on the #hiking dataset by @tidy_explained (Also submission for their amazing screencast!😊). It shows a summary on the hiking locations (tracks, length, elevation).\n\nDone in #Rstats #ggplot2 #tidyverse ofc.\n\ncode:https://t.co/9RVvOah6HG https://t.co/gJK5mTSy41", "✍️📜 \"Academic Publications with R Markdown\"\n\n👤 Dan Ovando @danovand0 \n\nhttps://t.co/8AysDiq0sL\n#rstats https://t.co/9ezQxVnoYv", "New system! (though it builds upon both genesis and storms)\n\nAs something new I'll keep the palette fixed for this system so I hope you're prepared for some spring feeling 🌈\n\nprism46 #generative #creativecoding #rstats https://t.co/4I6sFda5kR", "#RStats world, save the date! useR! 2021 will take place virtually from July 5-9, 2021. Catch a first glimpse of the conference on our website, learn about a few key dates, check our blog or say 'hi' to our mascot. https://t.co/mVztj1OQZ5 #useR2021.", "Had a great time yesterday with @RLadiesAlgiers talking about column-wise &amp; row-wise operations with #dplyr for more efficient data wrangling, summarizing &amp; modeling. Feel free to check out the slides for some tips on using R more \"wisely\" 🦉 #rstats\n\nhttps://t.co/6ZUKDzM2ko", "Lately, I've been analysing some LiDAR data using the lidR package in #rstats.\nI am impressed by the quality of this package and its great documentation at https://t.co/NfqANXlIZs. \n\nAwesome work by Jean-Romain Roussel, @GoodbodyT, and @PiotrTompalski.\n\nThanks!\n\n#rspatial #lidar https://t.co/ogK1Bz1Sn7", "The 51 Best Python #Books to Consider Reading Right Now. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/pva588cckB"],
+  "top10_tweets_retweet": ["People using R for crazy modelling techniques, stunning maps, building aps, making video games and probably bringing unicorns back from extinction!  Then there's me Googling \"change axis labels in ggplot2\" for the millionth time this year! #phdchat #phdlife #RStats", "I am very happy to say that you can now create tables in PDF format (in addition to HTML, Word and PowerPoint) with the #rstats #flextable package. I am preparing a new version for CRAN, your feedbacks are welcome! https://t.co/zMJyRDNzM5 https://t.co/3ghE6gMPp9", "Introducing a work-in-progress #rstats package called postcards: a small collection of R Markdown templates to help you quickly create a personal website or landing page. I would really appreciate your feedback before I send this to cran! https://t.co/iui0KJ6c3y https://t.co/80bHRS1d2R", "Hi #TidyTuesday fam. My #DataVisualization on the #hiking dataset by @tidy_explained (Also submission for their amazing screencast!😊). It shows a summary on the hiking locations (tracks, length, elevation).\n\nDone in #Rstats #ggplot2 #tidyverse ofc.\n\ncode:https://t.co/9RVvOah6HG https://t.co/gJK5mTSy41", "✍️📜 \"Academic Publications with R Markdown\"\n\n👤 Dan Ovando @danovand0 \n\nhttps://t.co/8AysDiq0sL\n#rstats https://t.co/9ezQxVnoYv", "New system! (though it builds upon both genesis and storms)\n\nAs something new I'll keep the palette fixed for this system so I hope you're prepared for some spring feeling 🌈\n\nprism46 #generative #creativecoding #rstats https://t.co/4I6sFda5kR", "#RStats world, save the date! useR! 2021 will take place virtually from July 5-9, 2021. Catch a first glimpse of the conference on our website, learn about a few key dates, check our blog or say 'hi' to our mascot. https://t.co/mVztj1OQZ5 #useR2021.", "Had a great time yesterday with @RLadiesAlgiers talking about column-wise &amp; row-wise operations with #dplyr for more efficient data wrangling, summarizing &amp; modeling. Feel free to check out the slides for some tips on using R more \"wisely\" 🦉 #rstats\n\nhttps://t.co/6ZUKDzM2ko", "Lately, I've been analysing some LiDAR data using the lidR package in #rstats.\nI am impressed by the quality of this package and its great documentation at https://t.co/NfqANXlIZs. \n\nAwesome work by Jean-Romain Roussel, @GoodbodyT, and @PiotrTompalski.\n\nThanks!\n\n#rspatial #lidar https://t.co/ogK1Bz1Sn7", "The 51 Best Python #Books to Consider Reading Right Now. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/e8aHwNScYW https://t.co/pva588cckB"]
 }
