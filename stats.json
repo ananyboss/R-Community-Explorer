@@ -1,44 +1,40 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7181,
-      "average_tweets_per_hour": 299,
-      "tweeters_today": 1304,
-      "total_likes_today": 5650
+      "total_tweets_today": 7053,
+      "average_tweets_per_hour": 294,
+      "tweeters_today": 1308,
+      "total_likes_today": 4880
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 194
+      "Freq": 202
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 177
-    },
-    {
-      "Var1": "Analytics javascript Python Java AI DataScience IoT IIoT BigData Linux",
-      "Freq": 107
+      "Freq": 165
     },
     {
       "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 101
+      "Freq": 103
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 96
+      "Freq": 98
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 90
+      "Freq": 94
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 78
+      "Freq": 81
     },
     {
       "Var1": "RStats",
-      "Freq": 72
+      "Freq": 73
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
@@ -50,14 +46,18 @@
     },
     {
       "Var1": "BigData Analytics DataScience AI",
-      "Freq": 63
+      "Freq": 65
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
-      "Freq": 62
+      "Freq": 63
     },
     {
       "Var1": "rstats rstats",
+      "Freq": 62
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
       "Freq": 61
     },
     {
@@ -65,15 +65,11 @@
       "Freq": 60
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 59
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 58
-    },
-    {
       "Var1": "ArtificialIntelligence AI MachineLearning javascript Python",
+      "Freq": 57
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
       "Freq": 57
     },
     {
@@ -81,74 +77,78 @@
       "Freq": 57
     },
     {
-      "Var1": "Apollo12 bigdata AI IoT Tech Data USA",
-      "Freq": 54
+      "Var1": "Rstats",
+      "Freq": 57
     },
     {
-      "Var1": "Rstats",
-      "Freq": 53
+      "Var1": "DataScience Python BigData Analytics IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 55
+    },
+    {
+      "Var1": "Apollo12 bigdata AI IoT Tech Data USA",
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "rstatstweet",
-      "Freq": 357
+      "Freq": 351
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 311
+      "Freq": 304
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 296
-    },
-    {
-      "Var1": "BotFemale",
-      "Freq": 292
+      "Freq": 275
     },
     {
       "Var1": "30xcodes",
-      "Freq": 289
-    },
-    {
-      "Var1": "Women_who_code",
-      "Freq": 278
+      "Freq": 273
     },
     {
       "Var1": "nlognbot",
       "Freq": 272
     },
     {
+      "Var1": "Women_who_code",
+      "Freq": 267
+    },
+    {
+      "Var1": "BotFemale",
+      "Freq": 265
+    },
+    {
       "Var1": "CodeFlawCo",
-      "Freq": 252
+      "Freq": 237
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 212
+      "Freq": 220
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 203
+      "Freq": 216
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 191
+      "Freq": 183
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 157
+      "Freq": 160
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 152
+      "Freq": 146
     },
     {
       "Var1": "the404code",
-      "Freq": 120
+      "Freq": 124
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 95
+      "Freq": 97
     },
     {
       "Var1": "chidambara09",
@@ -156,21 +156,21 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 89
+      "Freq": 82
     },
     {
       "Var1": "fluttbot",
-      "Freq": 85
-    },
-    {
-      "Var1": "_codenewbiebot",
-      "Freq": 72
+      "Freq": 78
     },
     {
       "Var1": "devvibesbot",
-      "Freq": 70
+      "Freq": 73
+    },
+    {
+      "Var1": "_codenewbiebot",
+      "Freq": 71
     }
   ],
-  "top10_tweets_like": ["Lots of free online #rstats books here, organized by categories like geospatial, machine learning, dataviz, and R Markdown reports. Collection by @OscarBaruffa \n\nhttps://t.co/r5dek0XwNo", "Revisiting a classic #rstats joke for Thanksgiving. Thankful for the #rstats community 🥰🦃 https://t.co/k8Bxn7TTta", "📦📊 \"ggstatsplot • ggplot2 Based Plots with Statistical Details\"\n\n👤 Indrajeet Patil @patilindrajeets \n\nhttps://t.co/oG1guCYKix\n#rstats https://t.co/NAI42gWWZt", "If you're looking for a TL;DR about \"Engineering Production Grade Shiny Apps\", I have written a \"Use case - Building an App, from Start to Finish\" chapter that tries to cover all the steps of creating a #Shiny app, from prototyping to deployment:\n\nhttps://t.co/NZGR1caIlw\n\n#RStats", "Happy Thanksgiving from the rayverse! \n\n#rstats #rayrender #rayshader https://t.co/U9byV4hKCr", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "prism848 — made with ❤️, #rstats, some 1500 polygons, and ~12mil vertices\n\n#generative #creativecoding \n\nhttps://t.co/FP1hFkE60x https://t.co/TxN581au90", "#RStats world, please welcome our latest addition to the team:  Margot, the Marmot! She is a cosmopolitan with roots around the globe. Learn how our team quickly adopted her as a key visual for the conference: https://t.co/PQaWQz6n1q\n#useR2021: #datascience #Statistics #dataviz https://t.co/aUjQthCgf9", "Linear Regression and Gradient Descent for Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tF9aM9XFW5 https://t.co/Z1xIa8Hkcd", "A {gt} table for Week 48 #TidyTuesday - which hiking trail should you visit in Washington? \n\nCode: https://t.co/ViudWVQmdO\n\nUsed @thomas_mock latest blog post on {gt} to add custom HTML elements😍 \n\nDefinitely check out his blog post: https://t.co/j53qwpvAwm\n\n#RStats https://t.co/ndSt5jVxzy"],
-  "top10_tweets_retweet": ["Lots of free online #rstats books here, organized by categories like geospatial, machine learning, dataviz, and R Markdown reports. Collection by @OscarBaruffa \n\nhttps://t.co/r5dek0XwNo", "Revisiting a classic #rstats joke for Thanksgiving. Thankful for the #rstats community 🥰🦃 https://t.co/k8Bxn7TTta", "📦📊 \"ggstatsplot • ggplot2 Based Plots with Statistical Details\"\n\n👤 Indrajeet Patil @patilindrajeets \n\nhttps://t.co/oG1guCYKix\n#rstats https://t.co/NAI42gWWZt", "If you're looking for a TL;DR about \"Engineering Production Grade Shiny Apps\", I have written a \"Use case - Building an App, from Start to Finish\" chapter that tries to cover all the steps of creating a #Shiny app, from prototyping to deployment:\n\nhttps://t.co/NZGR1caIlw\n\n#RStats", "Happy Thanksgiving from the rayverse! \n\n#rstats #rayrender #rayshader https://t.co/U9byV4hKCr", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "prism848 — made with ❤️, #rstats, some 1500 polygons, and ~12mil vertices\n\n#generative #creativecoding \n\nhttps://t.co/FP1hFkE60x https://t.co/TxN581au90", "#RStats world, please welcome our latest addition to the team:  Margot, the Marmot! She is a cosmopolitan with roots around the globe. Learn how our team quickly adopted her as a key visual for the conference: https://t.co/PQaWQz6n1q\n#useR2021: #datascience #Statistics #dataviz https://t.co/aUjQthCgf9", "Linear Regression and Gradient Descent for Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tF9aM9XFW5 https://t.co/Z1xIa8Hkcd", "A {gt} table for Week 48 #TidyTuesday - which hiking trail should you visit in Washington? \n\nCode: https://t.co/ViudWVQmdO\n\nUsed @thomas_mock latest blog post on {gt} to add custom HTML elements😍 \n\nDefinitely check out his blog post: https://t.co/j53qwpvAwm\n\n#RStats https://t.co/ndSt5jVxzy"]
+  "top10_tweets_like": ["Revisiting a classic #rstats joke for Thanksgiving. Thankful for the #rstats community 🥰🦃 https://t.co/k8Bxn7TTta", "📦📊 \"ggstatsplot • ggplot2 Based Plots with Statistical Details\"\n\n👤 Indrajeet Patil @patilindrajeets \n\nhttps://t.co/oG1guCYKix\n#rstats https://t.co/NAI42gWWZt", "If you're looking for a TL;DR about \"Engineering Production Grade Shiny Apps\", I have written a \"Use case - Building an App, from Start to Finish\" chapter that tries to cover all the steps of creating a #Shiny app, from prototyping to deployment:\n\nhttps://t.co/NZGR1caIlw\n\n#RStats", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "prism848 — made with ❤️, #rstats, some 1500 polygons, and ~12mil vertices\n\n#generative #creativecoding \n\nhttps://t.co/FP1hFkE60x https://t.co/TxN581au90", "#RStats world, please welcome our latest addition to the team:  Margot, the Marmot! She is a cosmopolitan with roots around the globe. Learn how our team quickly adopted her as a key visual for the conference: https://t.co/PQaWQz6n1q\n#useR2021: #datascience #Statistics #dataviz https://t.co/aUjQthCgf9", "Linear Regression and Gradient Descent for Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tF9aM9XFW5 https://t.co/Z1xIa8Hkcd", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vkyBwha8R0 https://t.co/UndwXLlloj", "Most Recommended Books in AI, Machine Learning, #Programming, and #Mathematics. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/TskeFHbUNR https://t.co/BPqglc5Rxt", "Exploring sprint profiles using radar in team sport athletes using #shorts package from @Physical_Prep to compare/contrast athlete variables #rstats (*a few outlier data) https://t.co/VUrkIHU1Ke"],
+  "top10_tweets_retweet": ["Revisiting a classic #rstats joke for Thanksgiving. Thankful for the #rstats community 🥰🦃 https://t.co/k8Bxn7TTta", "📦📊 \"ggstatsplot • ggplot2 Based Plots with Statistical Details\"\n\n👤 Indrajeet Patil @patilindrajeets \n\nhttps://t.co/oG1guCYKix\n#rstats https://t.co/NAI42gWWZt", "If you're looking for a TL;DR about \"Engineering Production Grade Shiny Apps\", I have written a \"Use case - Building an App, from Start to Finish\" chapter that tries to cover all the steps of creating a #Shiny app, from prototyping to deployment:\n\nhttps://t.co/NZGR1caIlw\n\n#RStats", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "prism848 — made with ❤️, #rstats, some 1500 polygons, and ~12mil vertices\n\n#generative #creativecoding \n\nhttps://t.co/FP1hFkE60x https://t.co/TxN581au90", "#RStats world, please welcome our latest addition to the team:  Margot, the Marmot! She is a cosmopolitan with roots around the globe. Learn how our team quickly adopted her as a key visual for the conference: https://t.co/PQaWQz6n1q\n#useR2021: #datascience #Statistics #dataviz https://t.co/aUjQthCgf9", "Linear Regression and Gradient Descent for Absolute Beginners. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/tF9aM9XFW5 https://t.co/Z1xIa8Hkcd", "Huge List of Free #DataScience &amp; #Python eBooks. #BigData #Analytics #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/vkyBwha8R0 https://t.co/UndwXLlloj", "Most Recommended Books in AI, Machine Learning, #Programming, and #Mathematics. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/TskeFHbUNR https://t.co/BPqglc5Rxt", "Exploring sprint profiles using radar in team sport athletes using #shorts package from @Physical_Prep to compare/contrast athlete variables #rstats (*a few outlier data) https://t.co/VUrkIHU1Ke"]
 }
