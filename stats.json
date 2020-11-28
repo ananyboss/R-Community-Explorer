@@ -1,32 +1,36 @@
 {
   "summary": [
     {
-      "total_tweets_today": 7936,
-      "average_tweets_per_hour": 331,
-      "tweeters_today": 1239,
-      "total_likes_today": 4628
+      "total_tweets_today": 8149,
+      "average_tweets_per_hour": 340,
+      "tweeters_today": 1259,
+      "total_likes_today": 4768
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 377
+      "Freq": 381
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 188
-    },
-    {
-      "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 165
+      "Freq": 187
     },
     {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 161
+      "Freq": 176
+    },
+    {
+      "Var1": "udemycoupon MachineLearning BigData",
+      "Freq": 168
     },
     {
       "Var1": "MachineLearning",
-      "Freq": 135
+      "Freq": 136
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 124
     },
     {
       "Var1": "MachineLearning DataScience Python AI",
@@ -37,36 +41,36 @@
       "Freq": 118
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 116
-    },
-    {
       "Var1": "Analytics AI Rstats Reactjs IoT IIoT",
-      "Freq": 112
+      "Freq": 113
     },
     {
       "Var1": "Rstats",
-      "Freq": 93
-    },
-    {
-      "Var1": "Analytics AI Rstats Reactjs IoT IIoT DataScience BigData Linux Serverless",
-      "Freq": 92
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
-      "Freq": 82
+      "Freq": 95
     },
     {
       "Var1": "100DaysOfCode MachineLearning Python programming IoT",
       "Freq": 80
     },
     {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats TensorFlow Java",
+      "Freq": 78
+    },
+    {
       "Var1": "Analytics AR VR MR UX AI Rstats reactjs IoT IIoT Linux",
-      "Freq": 72
+      "Freq": 75
+    },
+    {
+      "Var1": "VR Analytics MR AR UX AI Rstats Reactjs IoT IIoT Linux Serverless",
+      "Freq": 68
+    },
+    {
+      "Var1": "Analytics AI Rstats Reactjs IoT IIoT DataScience BigData Linux Serverless",
+      "Freq": 67
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 71
+      "Freq": 65
     },
     {
       "Var1": "MachineLearning DataScience",
@@ -81,42 +85,38 @@
       "Freq": 51
     },
     {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 47
-    },
-    {
-      "Var1": "VR Analytics MR AR UX AI Rstats Reactjs IoT IIoT Linux Serverless",
-      "Freq": 47
+      "Var1": "Python DEVCommunity 100DaysOfCode",
+      "Freq": 50
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 428
+      "Freq": 444
     },
     {
       "Var1": "30xcodes",
-      "Freq": 371
+      "Freq": 382
     },
     {
       "Var1": "nlognbot",
-      "Freq": 368
+      "Freq": 380
     },
     {
       "Var1": "BotFemale",
-      "Freq": 348
+      "Freq": 362
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 334
+      "Freq": 331
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 290
+      "Freq": 280
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 270
+      "Freq": 271
     },
     {
       "Var1": "CodeGnuts",
@@ -124,53 +124,53 @@
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 257
+      "Freq": 265
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 229
+      "Freq": 264
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 179
+      "Freq": 175
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 158
+      "Freq": 155
     },
     {
       "Var1": "chidambara09",
-      "Freq": 124
-    },
-    {
-      "Var1": "the404code",
-      "Freq": 110
+      "Freq": 141
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 98
+      "Freq": 113
     },
     {
-      "Var1": "Women_who_code",
-      "Freq": 98
+      "Var1": "the404code",
+      "Freq": 111
     },
     {
       "Var1": "fluttbot",
-      "Freq": 92
+      "Freq": 93
     },
     {
       "Var1": "_codenewbiebot",
+      "Freq": 91
+    },
+    {
+      "Var1": "Women_who_code",
       "Freq": 89
     },
     {
       "Var1": "TheCuriousLuke",
-      "Freq": 78
+      "Freq": 83
     },
     {
-      "Var1": "NEXT_robotics",
-      "Freq": 77
+      "Var1": "devvibesbot",
+      "Freq": 82
     }
   ],
-  "top10_tweets_like": ["Our final blog post for the new version of {{tune}} is at: \n\nhttps://t.co/7JmXZl9CCT\n\nThis one focuses on expanded options for parallel processing! \n\nWhen should you use all available cores? What kind of speed-ups should you expect? \n\n#rstats https://t.co/leGc4xJTNa", "#Calculus Cheat Sheets. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/bklfuAfFlA https://t.co/ipj8HH2p9y", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "Hi #Rstats 🗣️. Today RinteRface is 2 years old! 🎂🎂🎂. I am delighted to release {bs4Dash} 2.0.0 on github. The live demo is available here: https://t.co/yEleq21HTb. Moving from {shinydashboard} to {bs4Dash}: library(bs4Dash), nothing more. Feedback welcome 🙏 https://t.co/Gqmg2t987d", "3 Types of Regression in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/sgJwjwvUOk https://t.co/0xmUzrTPsD", "OT design Via HoloLens adding niche to Healthcare▶️\n#Analytics #AR #VR #MR #UX #AI #Rstats #reactjs #IoT #IIoT #Linux #Serverless #flutter #DEVCommunity #Coding #DataScience #BigData #SmartCity #HealthCare #HealthIT #mhealth #DigitalHealth #100DaysOfCode \nhttps://t.co/XK8yFA6FIS", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GXNxaH https://t.co/ONVfVQQOaN", "Hey folks, \n\nReminder that if you need an SQL database for teaching, I have a docker container just for that :) \n\nhttps://t.co/TIgF5rhpcW\n\n#RStats #SQL #Docker", "Shot trajectory via this #VR pool table▶️\n#Analytics #MR #AR #UX #AI #Rstats #Reactjs #IoT #IIoT #Linux #Serverless #CodeNewbie #WomenWhoCode #Coding #DataScience #BigData #Cloud #SmartCity #EmergingTech #futureofwork #100DaysOfCode \nhttps://t.co/ZyWSDI9MTt", "Hours of daylight across the world as the year progresses #dataviz #rstats #gis #maps https://t.co/oFKUKCXBwc"],
-  "top10_tweets_retweet": ["Our final blog post for the new version of {{tune}} is at: \n\nhttps://t.co/7JmXZl9CCT\n\nThis one focuses on expanded options for parallel processing! \n\nWhen should you use all available cores? What kind of speed-ups should you expect? \n\n#rstats https://t.co/leGc4xJTNa", "#Calculus Cheat Sheets. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/bklfuAfFlA https://t.co/ipj8HH2p9y", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "Hi #Rstats 🗣️. Today RinteRface is 2 years old! 🎂🎂🎂. I am delighted to release {bs4Dash} 2.0.0 on github. The live demo is available here: https://t.co/yEleq21HTb. Moving from {shinydashboard} to {bs4Dash}: library(bs4Dash), nothing more. Feedback welcome 🙏 https://t.co/Gqmg2t987d", "3 Types of Regression in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/sgJwjwvUOk https://t.co/0xmUzrTPsD", "OT design Via HoloLens adding niche to Healthcare▶️\n#Analytics #AR #VR #MR #UX #AI #Rstats #reactjs #IoT #IIoT #Linux #Serverless #flutter #DEVCommunity #Coding #DataScience #BigData #SmartCity #HealthCare #HealthIT #mhealth #DigitalHealth #100DaysOfCode \nhttps://t.co/XK8yFA6FIS", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GXNxaH https://t.co/ONVfVQQOaN", "Hey folks, \n\nReminder that if you need an SQL database for teaching, I have a docker container just for that :) \n\nhttps://t.co/TIgF5rhpcW\n\n#RStats #SQL #Docker", "Shot trajectory via this #VR pool table▶️\n#Analytics #MR #AR #UX #AI #Rstats #Reactjs #IoT #IIoT #Linux #Serverless #CodeNewbie #WomenWhoCode #Coding #DataScience #BigData #Cloud #SmartCity #EmergingTech #futureofwork #100DaysOfCode \nhttps://t.co/ZyWSDI9MTt", "Hours of daylight across the world as the year progresses #dataviz #rstats #gis #maps https://t.co/oFKUKCXBwc"]
+  "top10_tweets_like": ["Our final blog post for the new version of {{tune}} is at: \n\nhttps://t.co/7JmXZl9CCT\n\nThis one focuses on expanded options for parallel processing! \n\nWhen should you use all available cores? What kind of speed-ups should you expect? \n\n#rstats https://t.co/leGc4xJTNa", "#Calculus Cheat Sheets. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/bklfuAfFlA https://t.co/ipj8HH2p9y", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "3 Types of Regression in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/sgJwjwvUOk https://t.co/0xmUzrTPsD", "Hi #Rstats 🗣️. Today RinteRface is 2 years old! 🎂🎂🎂. I am delighted to release {bs4Dash} 2.0.0 on github. The live demo is available here: https://t.co/yEleq21HTb. Moving from {shinydashboard} to {bs4Dash}: library(bs4Dash), nothing more. Feedback welcome 🙏 https://t.co/Gqmg2t987d", "Shot trajectory via this #VR pool table▶️\n#Analytics #MR #AR #UX #AI #Rstats #Reactjs #IoT #IIoT #Linux #Serverless #CodeNewbie #WomenWhoCode #Coding #DataScience #BigData #Cloud #SmartCity #EmergingTech #futureofwork #100DaysOfCode \nhttps://t.co/ZyWSDI9MTt", "OT design Via HoloLens adding niche to Healthcare▶️\n#Analytics #AR #VR #MR #UX #AI #Rstats #reactjs #IoT #IIoT #Linux #Serverless #flutter #DEVCommunity #Coding #DataScience #BigData #SmartCity #HealthCare #HealthIT #mhealth #DigitalHealth #100DaysOfCode \nhttps://t.co/XK8yFA6FIS", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GXNxaH https://t.co/ONVfVQQOaN", "Hey folks, \n\nReminder that if you need an SQL database for teaching, I have a docker container just for that :) \n\nhttps://t.co/TIgF5rhpcW\n\n#RStats #SQL #Docker", "Hours of daylight across the world as the year progresses #dataviz #rstats #gis #maps https://t.co/oFKUKCXBwc"],
+  "top10_tweets_retweet": ["Our final blog post for the new version of {{tune}} is at: \n\nhttps://t.co/7JmXZl9CCT\n\nThis one focuses on expanded options for parallel processing! \n\nWhen should you use all available cores? What kind of speed-ups should you expect? \n\n#rstats https://t.co/leGc4xJTNa", "#Calculus Cheat Sheets. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Mathematics #Programming #Coding #100DaysofCode \nhttps://t.co/bklfuAfFlA https://t.co/ipj8HH2p9y", "I mapped population change between 2014 &amp; 2019\n \n🥺Top DECLINING:\n🇦🇱 Gjirokastër -14%\n🇭🇷 Vukovarsko-srijemska -12.6\n🇦🇱 Dibër -11.4\n🇦🇱 Berat -11.3\n🇭🇷 Požeško-slavonska -11.1\n\n😊Top GROWING:\n🇹🇷 Yalova +19%\n🇹🇷 Tekirdag +17.7\n🇷🇴 Ilfov +16.1\n🇲🇹 Malta +15.6\n\n#maps #dataviz #rstats #gis https://t.co/oZqysolO4J", "3 Types of Regression in One Picture. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode \nhttps://t.co/sgJwjwvUOk https://t.co/0xmUzrTPsD", "Hi #Rstats 🗣️. Today RinteRface is 2 years old! 🎂🎂🎂. I am delighted to release {bs4Dash} 2.0.0 on github. The live demo is available here: https://t.co/yEleq21HTb. Moving from {shinydashboard} to {bs4Dash}: library(bs4Dash), nothing more. Feedback welcome 🙏 https://t.co/Gqmg2t987d", "Shot trajectory via this #VR pool table▶️\n#Analytics #MR #AR #UX #AI #Rstats #Reactjs #IoT #IIoT #Linux #Serverless #CodeNewbie #WomenWhoCode #Coding #DataScience #BigData #Cloud #SmartCity #EmergingTech #futureofwork #100DaysOfCode \nhttps://t.co/ZyWSDI9MTt", "OT design Via HoloLens adding niche to Healthcare▶️\n#Analytics #AR #VR #MR #UX #AI #Rstats #reactjs #IoT #IIoT #Linux #Serverless #flutter #DEVCommunity #Coding #DataScience #BigData #SmartCity #HealthCare #HealthIT #mhealth #DigitalHealth #100DaysOfCode \nhttps://t.co/XK8yFA6FIS", "Best Machine Learning Books. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Programming #Coding #100DaysofCode \nhttps://t.co/UpQ9GXNxaH https://t.co/ONVfVQQOaN", "Hey folks, \n\nReminder that if you need an SQL database for teaching, I have a docker container just for that :) \n\nhttps://t.co/TIgF5rhpcW\n\n#RStats #SQL #Docker", "Hours of daylight across the world as the year progresses #dataviz #rstats #gis #maps https://t.co/oFKUKCXBwc"]
 }
