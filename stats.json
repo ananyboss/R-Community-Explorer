@@ -1,60 +1,56 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8828,
-      "average_tweets_per_hour": 368,
-      "tweeters_today": 1472,
-      "total_likes_today": 4817
+      "total_tweets_today": 8590,
+      "average_tweets_per_hour": 358,
+      "tweeters_today": 1439,
+      "total_likes_today": 4790
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 202
-    },
-    {
-      "Var1": "MachineLearning BigData",
-      "Freq": 187
+      "Freq": 208
     },
     {
       "Var1": "Python",
       "Freq": 174
     },
     {
+      "Var1": "MachineLearning BigData",
+      "Freq": 165
+    },
+    {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 151
+      "Freq": 154
     },
     {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 147
+      "Freq": 154
     },
     {
       "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
-      "Freq": 136
-    },
-    {
-      "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 120
+      "Freq": 122
     },
     {
       "Var1": "Analytics AugmentedReality VR MR AI Rstats Reactjs IoT IIoT Linux Serverless DEVCommunity flutter",
       "Freq": 115
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
-      "Freq": 91
+      "Var1": "udemycoupon MachineLearning BigData",
+      "Freq": 107
     },
     {
-      "Var1": "MachineLearning",
-      "Freq": 86
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT PyTorch Python RStats",
+      "Freq": 88
     },
     {
       "Var1": "Analytics AI Rstats reactjs",
-      "Freq": 77
+      "Freq": 78
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 70
+      "Var1": "MachineLearning",
+      "Freq": 69
     },
     {
       "Var1": "DataScience MachineLearning Python AI",
@@ -69,66 +65,70 @@
       "Freq": 66
     },
     {
-      "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
-      "Freq": 65
-    },
-    {
       "Var1": "AugmentedReality",
-      "Freq": 58
+      "Freq": 61
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 58
+      "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
+      "Freq": 61
     },
     {
-      "Var1": "100DaysOfCode MachineLearning Python programming IoT flutter",
-      "Freq": 57
+      "Var1": "rstats DataScience",
+      "Freq": 61
     },
     {
       "Var1": "Programming Books DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python",
+      "Freq": 58
+    },
+    {
+      "Var1": "Python DEVCommunity 100DaysOfCode",
       "Freq": 56
+    },
+    {
+      "Var1": "rstats datascience",
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "BotFemale",
-      "Freq": 551
+      "Freq": 541
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 410
+      "Freq": 394
     },
     {
       "Var1": "nlognbot",
-      "Freq": 400
+      "Freq": 389
     },
     {
       "Var1": "30xcodes",
-      "Freq": 399
+      "Freq": 379
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 392
+      "Freq": 376
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 354
+      "Freq": 361
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 346
+      "Freq": 338
     },
     {
       "Var1": "friday_Js_bot",
-      "Freq": 308
-    },
-    {
-      "Var1": "CodeFlawCo",
-      "Freq": 303
+      "Freq": 302
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 288
+      "Freq": 287
+    },
+    {
+      "Var1": "CodeFlawCo",
+      "Freq": 281
     },
     {
       "Var1": "chidambara09",
@@ -136,41 +136,41 @@
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 174
+      "Freq": 177
     },
     {
       "Var1": "femtech_",
-      "Freq": 131
+      "Freq": 129
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 122
+      "Freq": 120
     },
     {
       "Var1": "fluttbot",
-      "Freq": 110
-    },
-    {
-      "Var1": "devvibesbot",
-      "Freq": 108
-    },
-    {
-      "Var1": "coder_487",
-      "Freq": 107
+      "Freq": 106
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 105
+      "Freq": 103
+    },
+    {
+      "Var1": "coder_487",
+      "Freq": 100
+    },
+    {
+      "Var1": "devvibesbot",
+      "Freq": 97
     },
     {
       "Var1": "Discovertech3",
-      "Freq": 98
+      "Freq": 94
     },
     {
       "Var1": "IoTinternet",
       "Freq": 92
     }
   ],
-  "top10_tweets_like": ["The results of lockdown loneliness is that I'm joining the #bookdown bandwagon and hope to release my open source book on regression applications in #peopleanalytics soon.  It helped that @hadleywickham pointed the way to bs4_book().  #rstats #r4ds #datascience #python #analytics https://t.co/LSZS5kz4N5", "The Best Books for Monte Carlo Methods and Simulations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/FYOmNElG1C https://t.co/Fh4hNQnaGR", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "I'm explaining reckless things I used to do with principal component analysis in my youth to students 😆, so I'm reposting a PCA of Mozart's Symphony 40 (from note values, duration, &amp; Tonnetz position) #ggplot2 #Rstats\n\nCode: https://t.co/XkT4glwyq6\nVideo: https://t.co/lHNyZd1Flv https://t.co/XX7UaNamjU", "Reproducible code to create a world map using orthographic projection in #RStats #30DayMapChallenge Day 29: Globe\n👉https://t.co/xdXL4qmjLX https://t.co/sqkwpbV6zo", "📦📊🧹 \"tidybayes • Tidy Data and Geoms for Bayesian Models\"\n\n👤 Matthew Kay @mjskay \n\nhttps://t.co/SG6MeyFlBF\n#rstats https://t.co/zVUI8DNE1G", "✍️ \"Improve your workflow for reproducible science\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/wrvCpwP27w\n#rstats https://t.co/bmRLFzTSlT"],
-  "top10_tweets_retweet": ["The results of lockdown loneliness is that I'm joining the #bookdown bandwagon and hope to release my open source book on regression applications in #peopleanalytics soon.  It helped that @hadleywickham pointed the way to bs4_book().  #rstats #r4ds #datascience #python #analytics https://t.co/LSZS5kz4N5", "The Best Books for Monte Carlo Methods and Simulations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/FYOmNElG1C https://t.co/Fh4hNQnaGR", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "I'm explaining reckless things I used to do with principal component analysis in my youth to students 😆, so I'm reposting a PCA of Mozart's Symphony 40 (from note values, duration, &amp; Tonnetz position) #ggplot2 #Rstats\n\nCode: https://t.co/XkT4glwyq6\nVideo: https://t.co/lHNyZd1Flv https://t.co/XX7UaNamjU", "Reproducible code to create a world map using orthographic projection in #RStats #30DayMapChallenge Day 29: Globe\n👉https://t.co/xdXL4qmjLX https://t.co/sqkwpbV6zo", "📦📊🧹 \"tidybayes • Tidy Data and Geoms for Bayesian Models\"\n\n👤 Matthew Kay @mjskay \n\nhttps://t.co/SG6MeyFlBF\n#rstats https://t.co/zVUI8DNE1G", "✍️ \"Improve your workflow for reproducible science\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/wrvCpwP27w\n#rstats https://t.co/bmRLFzTSlT"]
+  "top10_tweets_like": ["The results of lockdown loneliness is that I'm joining the #bookdown bandwagon and hope to release my open source book on regression applications in #peopleanalytics soon.  It helped that @hadleywickham pointed the way to bs4_book().  #rstats #r4ds #datascience #python #analytics https://t.co/LSZS5kz4N5", "The Best Books for Monte Carlo Methods and Simulations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/FYOmNElG1C https://t.co/Fh4hNQnaGR", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "I'm explaining reckless things I used to do with principal component analysis in my youth to students 😆, so I'm reposting a PCA of Mozart's Symphony 40 (from note values, duration, &amp; Tonnetz position) #ggplot2 #Rstats\n\nCode: https://t.co/XkT4glwyq6\nVideo: https://t.co/lHNyZd1Flv https://t.co/XX7UaNamjU", "Reproducible code to create a world map using orthographic projection in #RStats #30DayMapChallenge Day 29: Globe\n👉https://t.co/xdXL4qmjLX https://t.co/sqkwpbV6zo", "✍️ \"Improve your workflow for reproducible science\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/wrvCpwP27w\n#rstats https://t.co/bmRLFzTSlT", "📦📊🧹 \"tidybayes • Tidy Data and Geoms for Bayesian Models\"\n\n👤 Matthew Kay @mjskay \n\nhttps://t.co/SG6MeyFlBF\n#rstats https://t.co/zVUI8DNE1G"],
+  "top10_tweets_retweet": ["The results of lockdown loneliness is that I'm joining the #bookdown bandwagon and hope to release my open source book on regression applications in #peopleanalytics soon.  It helped that @hadleywickham pointed the way to bs4_book().  #rstats #r4ds #datascience #python #analytics https://t.co/LSZS5kz4N5", "The Best Books for Monte Carlo Methods and Simulations. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Statistics #Programming #Coding #100DaysofCode\nhttps://t.co/FYOmNElG1C https://t.co/Fh4hNQnaGR", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "I'm explaining reckless things I used to do with principal component analysis in my youth to students 😆, so I'm reposting a PCA of Mozart's Symphony 40 (from note values, duration, &amp; Tonnetz position) #ggplot2 #Rstats\n\nCode: https://t.co/XkT4glwyq6\nVideo: https://t.co/lHNyZd1Flv https://t.co/XX7UaNamjU", "Reproducible code to create a world map using orthographic projection in #RStats #30DayMapChallenge Day 29: Globe\n👉https://t.co/xdXL4qmjLX https://t.co/sqkwpbV6zo", "✍️ \"Improve your workflow for reproducible science\"\n\n👤 Mine Çetinkaya-Rundel @minebocek \n\nhttps://t.co/wrvCpwP27w\n#rstats https://t.co/bmRLFzTSlT", "📦📊🧹 \"tidybayes • Tidy Data and Geoms for Bayesian Models\"\n\n👤 Matthew Kay @mjskay \n\nhttps://t.co/SG6MeyFlBF\n#rstats https://t.co/zVUI8DNE1G"]
 }
