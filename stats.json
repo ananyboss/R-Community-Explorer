@@ -1,16 +1,20 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8397,
-      "average_tweets_per_hour": 350,
-      "tweeters_today": 1646,
-      "total_likes_today": 7739
+      "total_tweets_today": 8342,
+      "average_tweets_per_hour": 348,
+      "tweeters_today": 1640,
+      "total_likes_today": 7147
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 233
+      "Freq": 238
+    },
+    {
+      "Var1": "DataScientist selfdrivingcars BigData Analytics DataScience AI ML IIoT Python",
+      "Freq": 119
     },
     {
       "Var1": "MachineLearning BigData",
@@ -18,59 +22,43 @@
     },
     {
       "Var1": "Analytics MachineLearning AI Rstats Reactjs IoT IIoT Linux",
-      "Freq": 113
-    },
-    {
-      "Var1": "DataScientist selfdrivingcars BigData Analytics DataScience AI ML IIoT Python",
-      "Freq": 109
+      "Freq": 115
     },
     {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 109
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
       "Freq": 106
     },
     {
-      "Var1": "Rstats",
-      "Freq": 102
-    },
-    {
       "Var1": "AugmentedReality Mathematics ML AI MachineLearning DataScience rstats",
-      "Freq": 100
+      "Freq": 101
     },
     {
       "Var1": "MachineLearning DataScience Python AI",
-      "Freq": 99
+      "Freq": 97
     },
     {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
-      "Freq": 90
+      "Freq": 91
     },
     {
-      "Var1": "MachineLearning Algorithms Python BigData Analytics DataScience AI IoT",
-      "Freq": 74
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
+      "Freq": 88
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 72
+      "Var1": "Rstats",
+      "Freq": 86
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
       "Freq": 71
     },
     {
-      "Var1": "Python",
-      "Freq": 68
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 65
+      "Var1": "rstats DataScience",
+      "Freq": 70
     },
     {
       "Var1": "30DayMapChallenge",
-      "Freq": 62
+      "Freq": 67
     },
     {
       "Var1": "MachineLearning",
@@ -85,92 +73,104 @@
       "Freq": 57
     },
     {
-      "Var1": "rstats datascience",
+      "Var1": "Python DEVCommunity",
       "Freq": 55
+    },
+    {
+      "Var1": "rstats datascience",
+      "Freq": 52
+    },
+    {
+      "Var1": "rstats tidyverse",
+      "Freq": 49
+    },
+    {
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
+      "Freq": 48
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "BotFemale",
-      "Freq": 490
+      "Freq": 502
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 440
+      "Freq": 441
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 371
+      "Freq": 353
     },
     {
       "Var1": "nlognbot",
-      "Freq": 331
-    },
-    {
-      "Var1": "30xcodes",
-      "Freq": 301
-    },
-    {
-      "Var1": "TheSecretJunio1",
-      "Freq": 273
+      "Freq": 323
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 260
+      "Freq": 284
+    },
+    {
+      "Var1": "30xcodes",
+      "Freq": 281
+    },
+    {
+      "Var1": "TheSecretJunio1",
+      "Freq": 272
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 259
+      "Freq": 246
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 235
-    },
-    {
-      "Var1": "CodEdithCo",
-      "Freq": 216
+      "Freq": 234
     },
     {
       "Var1": "xaelbot",
-      "Freq": 214
+      "Freq": 230
+    },
+    {
+      "Var1": "CodEdithCo",
+      "Freq": 210
     },
     {
       "Var1": "chidambara09",
-      "Freq": 164
-    },
-    {
-      "Var1": "ServerlessFan",
-      "Freq": 123
+      "Freq": 163
     },
     {
       "Var1": "femtech_",
+      "Freq": 131
+    },
+    {
+      "Var1": "ServerlessFan",
       "Freq": 122
     },
     {
-      "Var1": "fluttbot",
-      "Freq": 109
-    },
-    {
-      "Var1": "rstats4ds",
+      "Var1": "_codenewbiebot",
       "Freq": 101
     },
     {
-      "Var1": "_codenewbiebot",
-      "Freq": 97
+      "Var1": "fluttbot",
+      "Freq": 101
+    },
+    {
+      "Var1": "rstats4ds",
+      "Freq": 98
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 93
+      "Freq": 96
     },
     {
       "Var1": "TheDeveloperBot",
-      "Freq": 86
+      "Freq": 92
     },
     {
-      "Var1": "devvibesbot",
-      "Freq": 74
+      "Var1": "coder_487",
+      "Freq": 75
     }
   ],
-  "top10_tweets_like": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "😱 #AugmentedReality will change the way we study Math\n\n#Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning @TheInsaneApp\n\n https://t.co/cGx7YX15Dd", "I've just reviewed the most open-sciency Comm &amp; #ica21 paper ever:\n\n- Data shared\n- Power-analysis based on SESOI\n- Preregistered\n- Shared #rstats &amp; #rmarkdown code\n\nPlus: \n- Separation of within &amp; between effects\n- Multi-level modeling\n- Assumptions tested\n\nWow. Truly impressed.", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "Hey #rstats I've uploaded all code for my maps/spatial projects this month. Covers shp/raster, ggplot &amp; text layout, mapdeck, leaflet etc + tips/hacks #rspatial  \n\n+ any #30DayMapChallenge peeps wanting to learn mapping in R, I got you ⬇️\n\nhttps://t.co/Su8Y89AbUY https://t.co/Rtxy1Cp6gL"],
-  "top10_tweets_retweet": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "😱 #AugmentedReality will change the way we study Math\n\n#Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning @TheInsaneApp\n\n https://t.co/cGx7YX15Dd", "I've just reviewed the most open-sciency Comm &amp; #ica21 paper ever:\n\n- Data shared\n- Power-analysis based on SESOI\n- Preregistered\n- Shared #rstats &amp; #rmarkdown code\n\nPlus: \n- Separation of within &amp; between effects\n- Multi-level modeling\n- Assumptions tested\n\nWow. Truly impressed.", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "Hey #rstats I've uploaded all code for my maps/spatial projects this month. Covers shp/raster, ggplot &amp; text layout, mapdeck, leaflet etc + tips/hacks #rspatial  \n\n+ any #30DayMapChallenge peeps wanting to learn mapping in R, I got you ⬇️\n\nhttps://t.co/Su8Y89AbUY https://t.co/Rtxy1Cp6gL"]
+  "top10_tweets_like": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "My favourite use of ggplot2 this week 🤣 #rstats https://t.co/9CLUhGQOmv", "😱 #AugmentedReality will change the way we study Math\n\n#Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning @TheInsaneApp\n\n https://t.co/cGx7YX15Dd", "I've just reviewed the most open-sciency Comm &amp; #ica21 paper ever:\n\n- Data shared\n- Power-analysis based on SESOI\n- Preregistered\n- Shared #rstats &amp; #rmarkdown code\n\nPlus: \n- Separation of within &amp; between effects\n- Multi-level modeling\n- Assumptions tested\n\nWow. Truly impressed.", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "Hey #rstats I've uploaded all code for my maps/spatial projects this month. Covers shp/raster, ggplot &amp; text layout, mapdeck, leaflet etc + tips/hacks #rspatial  \n\n+ any #30DayMapChallenge peeps wanting to learn mapping in R, I got you ⬇️\n\nhttps://t.co/Su8Y89AbUY https://t.co/Rtxy1Cp6gL", "Most Recommended Books in AI, Machine Learning, #Programming, and #Mathematics. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/TskeFHtvFp https://t.co/oha0QQIJGk"],
+  "top10_tweets_retweet": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "My favourite use of ggplot2 this week 🤣 #rstats https://t.co/9CLUhGQOmv", "😱 #AugmentedReality will change the way we study Math\n\n#Mathematics #ML #AI #MachineLearning #DataScience #rstats #100DaysOfMLCode #javascript #reactjs #serverless #WomenWhoCode #Linux #100DaysOfCode #python #programming #deeplearning @TheInsaneApp\n\n https://t.co/cGx7YX15Dd", "I've just reviewed the most open-sciency Comm &amp; #ica21 paper ever:\n\n- Data shared\n- Power-analysis based on SESOI\n- Preregistered\n- Shared #rstats &amp; #rmarkdown code\n\nPlus: \n- Separation of within &amp; between effects\n- Multi-level modeling\n- Assumptions tested\n\nWow. Truly impressed.", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "Hey #rstats I've uploaded all code for my maps/spatial projects this month. Covers shp/raster, ggplot &amp; text layout, mapdeck, leaflet etc + tips/hacks #rspatial  \n\n+ any #30DayMapChallenge peeps wanting to learn mapping in R, I got you ⬇️\n\nhttps://t.co/Su8Y89AbUY https://t.co/Rtxy1Cp6gL", "Most Recommended Books in AI, Machine Learning, #Programming, and #Mathematics. #BigData #Analytics #DataScience #IoT #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/TskeFHtvFp https://t.co/oha0QQIJGk"]
 }
