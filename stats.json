@@ -1,44 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 8133,
-      "average_tweets_per_hour": 339,
-      "tweeters_today": 1549,
-      "total_likes_today": 6207
+      "total_tweets_today": 7939,
+      "average_tweets_per_hour": 331,
+      "tweeters_today": 1547,
+      "total_likes_today": 6411
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 192
-    },
-    {
-      "Var1": "MachineLearning BigData",
-      "Freq": 166
+      "Freq": 197
     },
     {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 164
+      "Freq": 168
+    },
+    {
+      "Var1": "MachineLearning BigData",
+      "Freq": 163
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 123
-    },
-    {
-      "Var1": "Python",
-      "Freq": 109
+      "Freq": 119
     },
     {
       "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 97
+      "Freq": 93
     },
     {
       "Var1": "Rstats",
+      "Freq": 89
+    },
+    {
+      "Var1": "Python",
       "Freq": 88
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 83
+      "Freq": 82
     },
     {
       "Var1": "Programming Books DataScientists BigData Analytics DataScience IoT IIoT PyTorch Python",
@@ -49,11 +49,11 @@
       "Freq": 64
     },
     {
-      "Var1": "DataScientist selfdrivingcars BigData Analytics DataScience AI ML IIoT Python",
-      "Freq": 62
+      "Var1": "rstats DataScience",
+      "Freq": 63
     },
     {
-      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Var1": "DataScientist selfdrivingcars BigData Analytics DataScience AI ML IIoT Python",
       "Freq": 62
     },
     {
@@ -65,15 +65,19 @@
       "Freq": 58
     },
     {
-      "Var1": "rstats DataScience",
-      "Freq": 58
+      "Var1": "MachineLearning BigData Analytics DataScience AI IoT IIoT Python",
+      "Freq": 55
     },
     {
-      "Var1": "MachineLearning Python ArtificialIntelligence",
-      "Freq": 53
+      "Var1": "rstats datascience",
+      "Freq": 54
     },
     {
       "Var1": "30DayMapChallenge",
+      "Freq": 52
+    },
+    {
+      "Var1": "MachineLearning Python ArtificialIntelligence",
       "Freq": 52
     },
     {
@@ -81,70 +85,66 @@
       "Freq": 50
     },
     {
-      "Var1": "DEVCommunity MachineLearning",
-      "Freq": 48
-    },
-    {
-      "Var1": "rstats datascience",
-      "Freq": 48
+      "Var1": "theinsaneapp ML AI MachineLearning",
+      "Freq": 47
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "BotFemale",
-      "Freq": 488
+      "Freq": 476
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 409
+      "Freq": 418
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 402
+      "Freq": 397
     },
     {
       "Var1": "nlognbot",
-      "Freq": 378
+      "Freq": 367
     },
     {
       "Var1": "30xcodes",
       "Freq": 340
     },
     {
-      "Var1": "CodeGnuts",
-      "Freq": 274
+      "Var1": "CodeFlawCo",
+      "Freq": 271
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 270
+      "Freq": 251
     },
     {
-      "Var1": "CodeFlawCo",
-      "Freq": 268
+      "Var1": "CodeGnuts",
+      "Freq": 232
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 249
+      "Freq": 227
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 205
-    },
-    {
-      "Var1": "friday_Js_bot",
-      "Freq": 199
+      "Freq": 211
     },
     {
       "Var1": "chidambara09",
-      "Freq": 180
+      "Freq": 184
     },
     {
-      "Var1": "ServerlessFan",
-      "Freq": 107
+      "Var1": "friday_Js_bot",
+      "Freq": 153
     },
     {
       "Var1": "femtech_",
-      "Freq": 105
+      "Freq": 104
+    },
+    {
+      "Var1": "ServerlessFan",
+      "Freq": 103
     },
     {
       "Var1": "_codenewbiebot",
@@ -155,22 +155,22 @@
       "Freq": 94
     },
     {
-      "Var1": "coder_487",
-      "Freq": 88
-    },
-    {
       "Var1": "tidyversetweets",
-      "Freq": 88
+      "Freq": 90
     },
     {
-      "Var1": "devvibesbot",
-      "Freq": 81
+      "Var1": "coder_487",
+      "Freq": 84
     },
     {
       "Var1": "rstats4ds",
-      "Freq": 81
+      "Freq": 84
+    },
+    {
+      "Var1": "devvibesbot",
+      "Freq": 80
     }
   ],
-  "top10_tweets_like": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "Apply for this year's @rstudio diversity scholarship program, and get your #rmarkdown #blogdown personal website started on the right foot with me 🌺🌸🌼\n\n+ learn best practices for sharing your #rstats knowledge at a meetup, webinar, or workshop from @minebocek ✨ https://t.co/HxbtQh0Ws4"],
-  "top10_tweets_retweet": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "Apply for this year's @rstudio diversity scholarship program, and get your #rmarkdown #blogdown personal website started on the right foot with me 🌺🌸🌼\n\n+ learn best practices for sharing your #rstats knowledge at a meetup, webinar, or workshop from @minebocek ✨ https://t.co/HxbtQh0Ws4"]
+  "top10_tweets_like": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "{lightgbm}, the #Rstats package for LightGBM, is now available on CRAN! 🎉🎉🎉\n\nhttps://t.co/cAdYM49Lab"],
+  "top10_tweets_retweet": ["Today’s my first day working my dream job @rstudio! Can’t wait to help more people create beautiful and professional web applications with #rstats. https://t.co/xg4ujVC31V", "Very excited that applications for rstudio::global() diversity scholarships are now open: https://t.co/zaafvqWiwa. We're sad that we won't be able to meet our diversity scholars in person, but excited to make them available to the whole world 🌍🌎🌏 #rstats", "Yall! {stacks} is now on CRAN!🎉 \n\n{stacks} is an #rstats package for tidymodels-aligned model stacking. Read more: https://t.co/h3PPAPLkC4", "7 Free #Programming #Books for #DataScientists in 2020. #BigData #Analytics #DataScience #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Books #Coding #100DaysofCode \nhttps://t.co/KPsZzYT8t5 https://t.co/GGu86mVAyn", "Day 30 - A map of the #30DayMapChallenge \nI wanted to finish the challenge in a colorful note with a map of fabric used in Africa using {ggpattern}. I want to thank @tjukanov, the #rstats community and particularly @jakub_nowosad\nfor centralizing all #rspatial submissions. https://t.co/AMxpvw9rsV", "Hi Everyone. I'm teaching an #rstats course next quarter. \n\nOne assignment is to have each student write about a #tidyverse function. What it's for and an example.\n\nWhat are some less known #tidyverse functions that do a job you find useful?", "‼️New version of #rayshader released with 3D polygon support! Add 3D extruded polygons with the `render_polygons()` function simply by passing in an {sf} object. Map a variable to height or use a constant value.\n\nEx: An exaggerated view of Seattle's skyline.\n\n#rstats #rayrender https://t.co/sPyTuDoDVT", "Learn more about the #tidymodels {stacks} package.\nModel stacking is an ensembling technique that combines the outputs of many models to generate a new model—referred to as an ensemble in this package—that generates predictions informed by each of its members\n#datascience #rstats https://t.co/bgdh3m1NNC https://t.co/lDeF197lM1", "Vídeo sobre quantis.\n\nAgradeço se puderem divulgar.\n\nhttps://t.co/hl6RalD7LK\n\n#Rstats  #estatistica #statistics #datascience #dataanalysis #cienciadedados #analisededados", "{lightgbm}, the #Rstats package for LightGBM, is now available on CRAN! 🎉🎉🎉\n\nhttps://t.co/cAdYM49Lab"]
 }
