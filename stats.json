@@ -1,40 +1,44 @@
 {
   "summary": [
     {
-      "total_tweets_today": 9697,
-      "average_tweets_per_hour": 404,
-      "tweeters_today": 1550,
-      "total_likes_today": 6315
+      "total_tweets_today": 9840,
+      "average_tweets_per_hour": 410,
+      "tweeters_today": 1537,
+      "total_likes_today": 6339
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "tidyverse rstats",
-      "Freq": 261
+      "Freq": 244
     },
     {
       "Var1": "MachineLearning DataScience Python AI",
-      "Freq": 168
-    },
-    {
-      "Var1": "Rstats",
-      "Freq": 106
+      "Freq": 215
     },
     {
       "Var1": "Python DEVCommunity",
-      "Freq": 98
+      "Freq": 105
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 93
+      "Freq": 101
+    },
+    {
+      "Var1": "Rstats",
+      "Freq": 101
+    },
+    {
+      "Var1": "MachineLearning BigData",
+      "Freq": 99
     },
     {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
-      "Freq": 93
+      "Freq": 89
     },
     {
       "Var1": "rstats DataScience",
-      "Freq": 88
+      "Freq": 89
     },
     {
       "Var1": "DEVCommunity",
@@ -42,39 +46,23 @@
     },
     {
       "Var1": "Analytics MachineLearning AI Rstats Reactjs IoT IIoT Linux",
-      "Freq": 85
-    },
-    {
-      "Var1": "MachineLearning BigData",
-      "Freq": 82
+      "Freq": 81
     },
     {
       "Var1": "Analytics AI AR VR MR Rstats Reactjs IoT IIoT Linux Serverless",
       "Freq": 76
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT",
-      "Freq": 76
-    },
-    {
       "Var1": "Analytics AI Rstats reactjs AR VR MR UX IoT IIoT Linux",
-      "Freq": 72
-    },
-    {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 69
-    },
-    {
-      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
-      "Freq": 69
+      "Freq": 73
     },
     {
       "Var1": "MachineLearning",
       "Freq": 69
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT",
-      "Freq": 61
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 68
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats TensorFlow",
@@ -85,34 +73,46 @@
       "Freq": 60
     },
     {
+      "Var1": "BigData Analytics DataScience",
+      "Freq": 59
+    },
+    {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode DEVCommunity IoT",
       "Freq": 58
+    },
+    {
+      "Var1": "BigData Analytics DataScience IoT IIoT PyTorch Python RStats",
+      "Freq": 56
+    },
+    {
+      "Var1": "Python BigData Analytics DataScience AI MachineLearning",
+      "Freq": 54
     }
   ],
   "top20_tweeters": [
     {
       "Var1": "BotFemale",
-      "Freq": 541
+      "Freq": 564
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 482
+      "Freq": 472
     },
     {
       "Var1": "LlnuxBot",
-      "Freq": 413
+      "Freq": 431
     },
     {
       "Var1": "30xcodes",
-      "Freq": 385
-    },
-    {
-      "Var1": "xaelbot",
-      "Freq": 378
+      "Freq": 418
     },
     {
       "Var1": "nlognbot",
-      "Freq": 375
+      "Freq": 390
+    },
+    {
+      "Var1": "xaelbot",
+      "Freq": 389
     },
     {
       "Var1": "TheSecretJunio1",
@@ -120,57 +120,57 @@
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 329
+      "Freq": 315
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 295
-    },
-    {
-      "Var1": "rstats_tweets",
-      "Freq": 258
+      "Freq": 307
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 254
+      "Freq": 268
+    },
+    {
+      "Var1": "rstats_tweets",
+      "Freq": 260
     },
     {
       "Var1": "chidambara09",
-      "Freq": 212
+      "Freq": 221
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 178
-    },
-    {
-      "Var1": "TheDeveloperBot",
-      "Freq": 153
+      "Freq": 185
     },
     {
       "Var1": "femtech_",
-      "Freq": 146
+      "Freq": 152
+    },
+    {
+      "Var1": "TheDeveloperBot",
+      "Freq": 148
     },
     {
       "Var1": "fluttbot",
-      "Freq": 141
+      "Freq": 146
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 124
+      "Freq": 128
     },
     {
       "Var1": "tidyversetweets",
       "Freq": 111
     },
     {
-      "Var1": "rstats4ds",
+      "Var1": "devvibesbot",
       "Freq": 89
     },
     {
-      "Var1": "coder_487",
+      "Var1": "rstats4ds",
       "Freq": 88
     }
   ],
-  "top10_tweets_like": ["My favourite use of ggplot2 this week 🤣 #rstats https://t.co/9CLUhGQOmv", "#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Full-screen @rstudio recording tip for teaching Shiny / dataviz / anything involving recreating something in #rstats w/o switching windows:\n\n- take a screenshot of thing to recreate\n- embed screenshot in Rmd with chunk output inline\n- code in a different tab and flip back &amp; forth https://t.co/wdE4fm58dl", "Immersive Playground is future▶️\nvia @immersivegaze\n#Analytics #AI #Rstats #reactjs #AR #VR #MR #UX #IoT  #IIoT #Linux #Serverless #DEVCommunity #flutter #Coding #SmartCity #DataScience #MachineLearning #BigData #EmergingTech #FinTech #100DaysOfCode \nhttps://t.co/CeyKT0STkW", "Do you \n... develop an #rstats package interfacing web resources? \n... wish you could improve its unit tests with state-of-the-art HTTP testing tools?\n\nTo get started, read the new section of the \"HTTP testing in R\" book featuring ✨ demos ✨! \n\nhttps://t.co/twbqidDMG0\n\n@sckottie", "📦🔤 \"RVerbalExpressions • Create Regular Expressions Easily\"\n\n👤 Tyler Littlefield @tylurp \n\nhttps://t.co/aTLTCwedAa\n#rstats https://t.co/xYUIM4WxqO", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "Giovani Lo Celso's goal vs. Manchester City. The ball from @HKane was good, but the run to create space by @StevenBergwijn was even better. \n\n#rstats #THFC #coys https://t.co/Om1WXP0byw", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "On the occasion of the 102nd anniversary of the foundation of Yugoslavia I present you some of my highly detailed maps of the country\n\nMore cool info is available in my interactive map: https://t.co/7bXz7vq0eB\n\n#history #datascience #dataviz #maps #rstats #javascript #developer https://t.co/1tiOrz2iun"],
-  "top10_tweets_retweet": ["My favourite use of ggplot2 this week 🤣 #rstats https://t.co/9CLUhGQOmv", "#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Full-screen @rstudio recording tip for teaching Shiny / dataviz / anything involving recreating something in #rstats w/o switching windows:\n\n- take a screenshot of thing to recreate\n- embed screenshot in Rmd with chunk output inline\n- code in a different tab and flip back &amp; forth https://t.co/wdE4fm58dl", "Immersive Playground is future▶️\nvia @immersivegaze\n#Analytics #AI #Rstats #reactjs #AR #VR #MR #UX #IoT  #IIoT #Linux #Serverless #DEVCommunity #flutter #Coding #SmartCity #DataScience #MachineLearning #BigData #EmergingTech #FinTech #100DaysOfCode \nhttps://t.co/CeyKT0STkW", "Do you \n... develop an #rstats package interfacing web resources? \n... wish you could improve its unit tests with state-of-the-art HTTP testing tools?\n\nTo get started, read the new section of the \"HTTP testing in R\" book featuring ✨ demos ✨! \n\nhttps://t.co/twbqidDMG0\n\n@sckottie", "📦🔤 \"RVerbalExpressions • Create Regular Expressions Easily\"\n\n👤 Tyler Littlefield @tylurp \n\nhttps://t.co/aTLTCwedAa\n#rstats https://t.co/xYUIM4WxqO", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "Giovani Lo Celso's goal vs. Manchester City. The ball from @HKane was good, but the run to create space by @StevenBergwijn was even better. \n\n#rstats #THFC #coys https://t.co/Om1WXP0byw", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "On the occasion of the 102nd anniversary of the foundation of Yugoslavia I present you some of my highly detailed maps of the country\n\nMore cool info is available in my interactive map: https://t.co/7bXz7vq0eB\n\n#history #datascience #dataviz #maps #rstats #javascript #developer https://t.co/1tiOrz2iun"]
+  "top10_tweets_like": ["My favourite use of ggplot2 this week 🤣 #rstats https://t.co/9CLUhGQOmv", "#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Full-screen @rstudio recording tip for teaching Shiny / dataviz / anything involving recreating something in #rstats w/o switching windows:\n\n- take a screenshot of thing to recreate\n- embed screenshot in Rmd with chunk output inline\n- code in a different tab and flip back &amp; forth https://t.co/wdE4fm58dl", "Immersive Playground is future▶️\nvia @immersivegaze\n#Analytics #AI #Rstats #reactjs #AR #VR #MR #UX #IoT  #IIoT #Linux #Serverless #DEVCommunity #flutter #Coding #SmartCity #DataScience #MachineLearning #BigData #EmergingTech #FinTech #100DaysOfCode \nhttps://t.co/CeyKT0STkW", "Do you \n... develop an #rstats package interfacing web resources? \n... wish you could improve its unit tests with state-of-the-art HTTP testing tools?\n\nTo get started, read the new section of the \"HTTP testing in R\" book featuring ✨ demos ✨! \n\nhttps://t.co/twbqidDMG0\n\n@sckottie", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "📦🔤 \"RVerbalExpressions • Create Regular Expressions Easily\"\n\n👤 Tyler Littlefield @tylurp \n\nhttps://t.co/aTLTCwedAa\n#rstats https://t.co/xYUIM4WxqO", "Giovani Lo Celso's goal vs. Manchester City. The ball from @HKane was good, but the run to create space by @StevenBergwijn was even better. \n\n#rstats #THFC #coys https://t.co/Om1WXP0byw", "On the occasion of the 102nd anniversary of the foundation of Yugoslavia I present you some of my highly detailed maps of the country\n\nMore cool info is available in my interactive map: https://t.co/7bXz7vq0eB\n\n#history #datascience #dataviz #maps #rstats #javascript #developer https://t.co/1tiOrz2iun"],
+  "top10_tweets_retweet": ["My favourite use of ggplot2 this week 🤣 #rstats https://t.co/9CLUhGQOmv", "#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Full-screen @rstudio recording tip for teaching Shiny / dataviz / anything involving recreating something in #rstats w/o switching windows:\n\n- take a screenshot of thing to recreate\n- embed screenshot in Rmd with chunk output inline\n- code in a different tab and flip back &amp; forth https://t.co/wdE4fm58dl", "Immersive Playground is future▶️\nvia @immersivegaze\n#Analytics #AI #Rstats #reactjs #AR #VR #MR #UX #IoT  #IIoT #Linux #Serverless #DEVCommunity #flutter #Coding #SmartCity #DataScience #MachineLearning #BigData #EmergingTech #FinTech #100DaysOfCode \nhttps://t.co/CeyKT0STkW", "Do you \n... develop an #rstats package interfacing web resources? \n... wish you could improve its unit tests with state-of-the-art HTTP testing tools?\n\nTo get started, read the new section of the \"HTTP testing in R\" book featuring ✨ demos ✨! \n\nhttps://t.co/twbqidDMG0\n\n@sckottie", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "📦🔤 \"RVerbalExpressions • Create Regular Expressions Easily\"\n\n👤 Tyler Littlefield @tylurp \n\nhttps://t.co/aTLTCwedAa\n#rstats https://t.co/xYUIM4WxqO", "Giovani Lo Celso's goal vs. Manchester City. The ball from @HKane was good, but the run to create space by @StevenBergwijn was even better. \n\n#rstats #THFC #coys https://t.co/Om1WXP0byw", "On the occasion of the 102nd anniversary of the foundation of Yugoslavia I present you some of my highly detailed maps of the country\n\nMore cool info is available in my interactive map: https://t.co/7bXz7vq0eB\n\n#history #datascience #dataviz #maps #rstats #javascript #developer https://t.co/1tiOrz2iun"]
 }
