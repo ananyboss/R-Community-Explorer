@@ -1,16 +1,16 @@
 {
   "summary": [
     {
-      "total_tweets_today": 10844,
-      "average_tweets_per_hour": 452,
-      "tweeters_today": 1689,
-      "total_likes_today": 7411
+      "total_tweets_today": 10965,
+      "average_tweets_per_hour": 457,
+      "tweeters_today": 1707,
+      "total_likes_today": 7336
     }
   ],
   "top20_hashtags": [
     {
       "Var1": "MachineLearning BigData",
-      "Freq": 236
+      "Freq": 251
     },
     {
       "Var1": "MachineLearning DataScience Python AI",
@@ -18,58 +18,62 @@
     },
     {
       "Var1": "tidyverse rstats",
-      "Freq": 218
+      "Freq": 212
     },
     {
       "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python RStats",
-      "Freq": 172
+      "Freq": 169
     },
     {
       "Var1": "MachineLearning DataScience Python AI 100DaysOfCode",
-      "Freq": 150
+      "Freq": 149
+    },
+    {
+      "Var1": "RStats",
+      "Freq": 123
     },
     {
       "Var1": "Bitcoin DataScience Python 100DaysOfCode MachineLearning",
       "Freq": 108
     },
     {
-      "Var1": "RStats",
-      "Freq": 100
+      "Var1": "Analytics AI AR VR MR Rstats Reactjs IoT IIoT Linux Serverless",
+      "Freq": 101
     },
     {
-      "Var1": "Analytics AI AR VR MR Rstats Reactjs IoT IIoT Linux Serverless",
-      "Freq": 98
+      "Var1": "BigData Analytics DataScience DeepLearning",
+      "Freq": 99
+    },
+    {
+      "Var1": "udemycoupon MachineLearning BigData",
+      "Freq": 95
     },
     {
       "Var1": "MachineLearning",
       "Freq": 94
     },
     {
-      "Var1": "udemycoupon MachineLearning BigData",
-      "Freq": 93
-    },
-    {
-      "Var1": "BigData Analytics DataScience DeepLearning",
-      "Freq": 91
-    },
-    {
       "Var1": "udemycoupon MachineLearning BigData Analytics",
-      "Freq": 86
+      "Freq": 90
     },
     {
       "Var1": "Python",
       "Freq": 82
     },
     {
-      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
-      "Freq": 78
+      "Var1": "ggplot",
+      "Freq": 79
     },
     {
       "Var1": "MachineLearning Python programming",
       "Freq": 78
     },
     {
-      "Var1": "Rstats",
+      "Var1": "BigData Analytics DataScience AI MachineLearning IoT IIoT Python",
+      "Freq": 76
+    },
+    {
+      "Var1": "AI Analytics MachineLearning AI Rstats Reactjs IoT IIoT Linux Serverless",
       "Freq": 67
     },
     {
@@ -81,10 +85,6 @@
       "Freq": 65
     },
     {
-      "Var1": "AI Analytics MachineLearning AI Rstats Reactjs IoT IIoT Linux Serverless",
-      "Freq": 64
-    },
-    {
       "Var1": "MachineLearning DataScience",
       "Freq": 64
     }
@@ -92,51 +92,51 @@
   "top20_tweeters": [
     {
       "Var1": "LlnuxBot",
-      "Freq": 522
+      "Freq": 527
     },
     {
       "Var1": "rstatstweet",
-      "Freq": 518
+      "Freq": 512
     },
     {
       "Var1": "BotFemale",
-      "Freq": 491
+      "Freq": 494
     },
     {
       "Var1": "nlognbot",
-      "Freq": 458
+      "Freq": 461
     },
     {
       "Var1": "xaelbot",
-      "Freq": 434
+      "Freq": 444
     },
     {
       "Var1": "30xcodes",
-      "Freq": 407
+      "Freq": 404
     },
     {
       "Var1": "CodeGnuts",
-      "Freq": 376
+      "Freq": 387
     },
     {
       "Var1": "TheSecretJunio1",
-      "Freq": 371
+      "Freq": 374
     },
     {
       "Var1": "CodeFlawCo",
-      "Freq": 355
+      "Freq": 360
     },
     {
       "Var1": "CodEdithCo",
-      "Freq": 327
+      "Freq": 328
     },
     {
       "Var1": "rstats_tweets",
-      "Freq": 267
+      "Freq": 265
     },
     {
       "Var1": "ServerlessFan",
-      "Freq": 183
+      "Freq": 182
     },
     {
       "Var1": "TheDeveloperBot",
@@ -148,19 +148,19 @@
     },
     {
       "Var1": "femtech_",
-      "Freq": 157
+      "Freq": 164
     },
     {
       "Var1": "_codenewbiebot",
-      "Freq": 114
+      "Freq": 112
     },
     {
       "Var1": "fluttbot",
-      "Freq": 106
+      "Freq": 110
     },
     {
       "Var1": "cybersec_feeds",
-      "Freq": 102
+      "Freq": 105
     },
     {
       "Var1": "ML_DS_Tweet_Bot",
@@ -168,9 +168,9 @@
     },
     {
       "Var1": "tidyversetweets",
-      "Freq": 100
+      "Freq": 98
     }
   ],
-  "top10_tweets_like": ["#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Probably a good application of edge bundling are geographic networks such as flight routes #rstats https://t.co/o2PJPHAQeI", "Announcing {ggrgl} - a 3d extension to #ggplot with a new 'z' aesthetic\n\nA lockdown project to overcome the 2d limitation in #RStats gfx devices\n\nCrazy feature creep has delayed release until now.\n\nhttps://t.co/mBjH2t3gM1 https://t.co/JHgtC0ldLk\n\n1/n https://t.co/DIl656EJTB", "Are you thinking of running an open science workshop?\n\nHere are the resources from a 1.5 day workshop I've previously run, including slides, data, and #Rstats scripts https://t.co/JUkszVIdCF https://t.co/TXAdIxRYsP", "90+ Free eBooks: Compiled by O’Reilly. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/W3DEfogB8X https://t.co/TWfABTNbWy", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "No need to rub it in, google #RStats https://t.co/XsYrPOFCfr", "📦📊 \"gglm • Grammar of Graphics for Linear Model Diagnostic Plots\"\n\n👤 Grayson White @graysonwwhite \n\nhttps://t.co/USDzWlt7xb\n#rstats https://t.co/kLidYlGpzo", "I took that lost chunk of code and expanded it and upgraded it to a full-blown blog post so now I'll never lose it again. Here's how to generate inverse probability weights for both binary and continuous treatments with #rstats!  https://t.co/BxG8YGVZE8 https://t.co/95Te1GshGa"],
-  "top10_tweets_retweet": ["#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Probably a good application of edge bundling are geographic networks such as flight routes #rstats https://t.co/o2PJPHAQeI", "Announcing {ggrgl} - a 3d extension to #ggplot with a new 'z' aesthetic\n\nA lockdown project to overcome the 2d limitation in #RStats gfx devices\n\nCrazy feature creep has delayed release until now.\n\nhttps://t.co/mBjH2t3gM1 https://t.co/JHgtC0ldLk\n\n1/n https://t.co/DIl656EJTB", "Are you thinking of running an open science workshop?\n\nHere are the resources from a 1.5 day workshop I've previously run, including slides, data, and #Rstats scripts https://t.co/JUkszVIdCF https://t.co/TXAdIxRYsP", "90+ Free eBooks: Compiled by O’Reilly. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/W3DEfogB8X https://t.co/TWfABTNbWy", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "No need to rub it in, google #RStats https://t.co/XsYrPOFCfr", "📦📊 \"gglm • Grammar of Graphics for Linear Model Diagnostic Plots\"\n\n👤 Grayson White @graysonwwhite \n\nhttps://t.co/USDzWlt7xb\n#rstats https://t.co/kLidYlGpzo", "I took that lost chunk of code and expanded it and upgraded it to a full-blown blog post so now I'll never lose it again. Here's how to generate inverse probability weights for both binary and continuous treatments with #rstats!  https://t.co/BxG8YGVZE8 https://t.co/95Te1GshGa"]
+  "top10_tweets_like": ["#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Announcing {ggrgl} - a 3d extension to #ggplot with a new 'z' aesthetic\n\nA lockdown project to overcome the 2d limitation in #RStats gfx devices\n\nCrazy feature creep has delayed release until now.\n\nhttps://t.co/mBjH2t3gM1 https://t.co/JHgtC0ldLk\n\n1/n https://t.co/DIl656EJTB", "Are you thinking of running an open science workshop?\n\nHere are the resources from a 1.5 day workshop I've previously run, including slides, data, and #Rstats scripts https://t.co/JUkszVIdCF https://t.co/TXAdIxRYsP", "No need to rub it in, google #RStats https://t.co/XsYrPOFCfr", "90+ Free eBooks: Compiled by O’Reilly. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/W3DEfogB8X https://t.co/TWfABTNbWy", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "One more new tidymodels package this week! \n\n{finetune} lets you tune models using racing methods (fewer model fits) or via simulated annealing.\n\nhttps://t.co/jIul1iJ4Fp\n\n#rstats https://t.co/wsme5du34b", "📦📊 \"gglm • Grammar of Graphics for Linear Model Diagnostic Plots\"\n\n👤 Grayson White @graysonwwhite \n\nhttps://t.co/USDzWlt7xb\n#rstats https://t.co/kLidYlGpzo", "Roadmap to Becoming an AI Expert in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/Kj3j77TWrm https://t.co/Zn4KlKcTV3"],
+  "top10_tweets_retweet": ["#rstats friends: what are your favorite “lesser known” tips &amp; tricks for using R Markdown? e.g. any feature(s) (big or small) you’ve picked up at some point along your #rmarkdown journey that you now use on a regular basis and wish you knew earlier? 👀👂", "Announcing {ggrgl} - a 3d extension to #ggplot with a new 'z' aesthetic\n\nA lockdown project to overcome the 2d limitation in #RStats gfx devices\n\nCrazy feature creep has delayed release until now.\n\nhttps://t.co/mBjH2t3gM1 https://t.co/JHgtC0ldLk\n\n1/n https://t.co/DIl656EJTB", "Are you thinking of running an open science workshop?\n\nHere are the resources from a 1.5 day workshop I've previously run, including slides, data, and #Rstats scripts https://t.co/JUkszVIdCF https://t.co/TXAdIxRYsP", "No need to rub it in, google #RStats https://t.co/XsYrPOFCfr", "90+ Free eBooks: Compiled by O’Reilly. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #JavaScript #ReactJS #CloudComputing #Serverless #Linux #Programming #Coding #100DaysofCode \nhttps://t.co/W3DEfogB8X https://t.co/TWfABTNbWy", "It was a huge pleasure be part of #rstats 👩‍🔬 for the past 5 years ♥️. Wish I didn't have an itch to do new things, but it's that time for me starting on Jan 1st. Obviously, packages I support will still be supported by @RStudio -- Thanks for having me around, keep in touch 🙂🙏!", "#rstats pro-tip:\n\n.Last.value is a life saver when you run a slow / computationally intensive script and forget to assign the results to a global", "One more new tidymodels package this week! \n\n{finetune} lets you tune models using racing methods (fewer model fits) or via simulated annealing.\n\nhttps://t.co/jIul1iJ4Fp\n\n#rstats https://t.co/wsme5du34b", "📦📊 \"gglm • Grammar of Graphics for Linear Model Diagnostic Plots\"\n\n👤 Grayson White @graysonwwhite \n\nhttps://t.co/USDzWlt7xb\n#rstats https://t.co/kLidYlGpzo", "Roadmap to Becoming an AI Expert in 2020. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #PyTorch #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode\nhttps://t.co/Kj3j77TWrm https://t.co/Zn4KlKcTV3"]
 }
