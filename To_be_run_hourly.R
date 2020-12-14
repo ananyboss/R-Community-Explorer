@@ -1,8 +1,8 @@
 
 install.packages("data.table")
 library(data.table)
-if (!requireNamespace("devtools", quietly = TRUE)) {
-  install.packages("devtools")
+if (!requireNamespace("remotes", quietly = TRUE)) {
+  install.packages("remotes")
 }
 
 devtools::install_github("mkearney/rtweet")
