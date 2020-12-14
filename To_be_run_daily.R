@@ -1,6 +1,6 @@
 ## install devtools package if it's not already
-if (!requireNamespace("devtools", quietly = TRUE)) {
-  install.packages("devtools")
+if (!requireNamespace("remotes", quietly = TRUE)) {
+  install.packages("remotes")
 }
 
 ## install dev version of rtweet from github
